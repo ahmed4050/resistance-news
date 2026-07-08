@@ -181,9 +181,18 @@ def translate_english_items(items):
     return items
 
 
+def load_existing():
+    try:
+        with open(OUTPUT_FILE, encoding="utf-8") as f:
+            return json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError):
+        return []
+
+
 def main():
     all_news = []
     seen = set()
+    fetched_channels = set()
 
     for ch in CHANNELS:
         print(f"Fetching @{ch}...")
@@ -191,14 +200,32 @@ def main():
             resp = requests.get(f"https://t.me/s/{ch}", headers=HEADERS, timeout=30)
             resp.raise_for_status()
             items = parse_page(resp.text, ch)
+            if not items:
+                print(f"  No items returned")
+                continue
             for item in items:
                 key = f"{ch}:{item['text'][:80]}"
                 if key not in seen:
                     seen.add(key)
                     all_news.append(item)
+            fetched_channels.add(ch)
             print(f"  Got {len(items)} items")
         except Exception as e:
             print(f"  Error: {e}")
+
+    if not fetched_channels:
+        print("All channels failed to fetch. Keeping existing news.json.")
+        return
+
+    existing = load_existing()
+    for item in existing:
+        ch = item.get("channel", "")
+        if ch not in fetched_channels:
+            key = f"{ch}:{item.get('text', '')[:80]}"
+            if key not in seen:
+                seen.add(key)
+                all_news.append(item)
+                print(f"  Kept {len(existing)} existing items from {ch}")
 
     all_news = assign_dates(all_news)
     all_news.sort(key=lambda x: x.get("sort_key", ""), reverse=True)
