@@ -2,191 +2,140 @@
 """Fetch news from Telegram channels and save as news.json"""
 
 import json
-import os
 import re
-import time
 from datetime import datetime, timezone, timedelta
-from html import unescape
 from collections import OrderedDict
 
 import requests
+from bs4 import BeautifulSoup
 
 CHANNELS = [
     "hezbulla",
     "PalestineResist",
-    "manarnews1",
+    "libanon_news",
 ]
 
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-}
+HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
 ARABIC_TZ = timezone(timedelta(hours=3))
-
 OUTPUT_FILE = "news.json"
-MAX_ITEMS = 200
+MAX_ITEMS = 150
 
 
-def clean_text(text):
-    text = re.sub(r"\s+", " ", text).strip()
-    text = unescape(text)
-    return text
+def parse_message(el):
+    texts = []
+    for part in el.find_all(["b", "i", "u", "s", "a", "code", "pre", "span", "br", "strong", "em"]):
+        part.unwrap()
+    txt = el.get_text(separator=" ", strip=True)
+    txt = re.sub(r"\s+", " ", txt).strip()
+    if len(txt) < 10:
+        return None
+    if txt.startswith("Forwarded from") and len(txt) < 50:
+        return None
+    if "window.matchMedia" in txt or "protoUrl" in txt or "TWallpaper" in txt:
+        return None
+    if txt.startswith("Telegram:") and ("Download" in txt or "View" in txt or "Contact" in txt):
+        return None
+    return txt
 
 
-def parse_telegram_page(html, channel):
-    items = []
+def parse_time_views(el):
+    date_el = el.find("time", datetime=True)
+    if date_el:
+        return date_el.get("datetime", "")
+    return ""
 
-    # Split into post blocks
-    blocks = re.split(r'<div class="tgme_widget_message_wrap[^"]*"[^>]*>', html)
 
-    for block in blocks:
-        if not block.strip():
-            continue
-
-        text = ""
-        views = 0
-        time_str = ""
-        date_str = ""
-        reactions = {}
-
-        post = block
-
-        # Extract text
-        text_matches = re.findall(
-            r'<div class="tgme_widget_message_text[^"]*"[^>]*>(.*?)</div>\s*</div>',
-            post,
-            re.DOTALL,
-        )
-        if text_matches:
-            raw = text_matches[0]
-            raw = re.sub(r"<[^>]+>", " ", raw)
-            text = clean_text(raw)
-        else:
-            # Fallback: look for #hashtags and bold text
-            fallback = re.sub(r"<[^>]+>", " ", post)
-            fallback = clean_text(fallback)
-            if len(fallback) > 20:
-                text = fallback
-
-        if not text or len(text) < 5:
-            continue
-
-        # Skip forwarded-from banners
-        if text.startswith("Forwarded from") and len(text) < 40:
-            continue
-
-        # Extract views
-        vm = re.search(r'class="tgme_widget_message_views[^"]*"[^>]*>([^<]+)', post)
-        if vm:
+def parse_views(el):
+    vm = el.select_one(".tgme_widget_message_views")
+    if vm:
+        v = vm.get_text(strip=True).replace(",", "").replace(".", "")
+        try:
+            return int(v)
+        except:
+            pass
+    reactions = el.select(".tgme_widget_message_reaction span")
+    if reactions:
+        total = 0
+        for r in reactions:
             try:
-                views = int(vm.group(1).replace(",", "").replace("K", "000"))
-            except:
-                views = 0
-
-        # Extract time (HH:MM)
-        tm = re.search(r'class="tgme_widget_message_date[^"]*"[^>]*>([^<]+)', post)
-        if tm:
-            raw_time = clean_text(tm.group(1))
-            tm2 = re.search(r"(\d{2}:\d{2})", raw_time)
-            if tm2:
-                time_str = tm2.group(1)
-
-        # Extract reactions
-        rms = re.findall(
-            r'class="tgme_widget_message_reaction[^"]*"[^>]*>.*?<span[^>]*>(\d+)</span>',
-            post,
-        )
-        if rms:
-            total = sum(int(r) for r in rms)
-            views = max(views, total)
-
-        # Determine date based on time
-        # If time is between 00:00-05:59, it's likely current day (early morning)
-        # Otherwise, assume previous day for older posts
-        if time_str:
-            try:
-                h, m = time_str.split(":")
-                h = int(h)
-                now = datetime.now(ARABIC_TZ)
-                post_dt = now.replace(hour=h, minute=int(m), second=0, microsecond=0)
-                if post_dt > now:
-                    post_dt -= timedelta(days=1)
-                # Group by date
-                if h < 6:
-                    date_str = post_dt.strftime("%A %d %B %Y")
-                # For the page, we'll use relative dates
+                total += int(r.get_text(strip=True))
             except:
                 pass
+        return total
+    return 0
 
-        items.append(
-            OrderedDict(
-                [
-                    ("channel", channel),
-                    ("text", text[:1500]),
-                    ("time", time_str),
-                    ("views", views),
-                    ("reactions", reactions),
-                ]
-            )
-        )
+
+def parse_page(html, channel):
+    soup = BeautifulSoup(html, "html.parser")
+    messages = soup.select(".tgme_widget_message_wrap")
+    items = []
+
+    for msg in messages:
+        text_el = msg.select_one(".tgme_widget_message_text, .js-message_text")
+        if not text_el:
+            continue
+
+        text = parse_message(text_el)
+        if not text:
+            continue
+
+        views = parse_views(msg)
+
+        time_el = msg.select_one("time[datetime]")
+        time_str = ""
+        if time_el:
+            dt = time_el.get("datetime", "")
+            if len(dt) >= 16:
+                time_str = dt[11:16]
+
+        items.append(OrderedDict([
+            ("channel", channel),
+            ("text", text[:1200]),
+            ("time", time_str),
+            ("views", views),
+        ]))
 
     return items
 
 
-def fetch_channel(channel):
-    url = f"https://t.me/s/{channel}"
-    try:
-        resp = requests.get(url, headers=HEADERS, timeout=30)
-        resp.raise_for_status()
-        return parse_telegram_page(resp.text, channel)
-    except Exception as e:
-        print(f"  Error fetching {channel}: {e}")
-        return []
-
-
 def assign_dates(items):
-    """Assign dates to items based on position and time"""
     now = datetime.now(ARABIC_TZ)
-    today = now.date()
+    current_date = now.date()
+    last_hour = 99
+    seen_hours = set()
+    day_change_count = 0
 
-    # We'll work backwards: most recent items (first in list) are newest
-    current_date = today
-    last_time_hour = 99
-    items_with_dates = []
+    day_names = ["الإثنين", "الثلاثاء", "الأربعاء", "الخميس", "الجمعة", "السبت", "الأحد"]
+    month_names = [
+        "", "يناير", "فبراير", "مارس", "أبريل", "مايو", "يونيو",
+        "يوليو", "أغسطس", "سبتمبر", "أكتوبر", "نوفمبر", "ديسمبر"
+    ]
 
     for item in items:
         t = item.get("time", "")
         if t:
             try:
-                h = int(t.split(":")[0])
+                h = int(t[:2])
             except:
                 h = 12
         else:
             h = 12
 
-        # If time jumps from low (early AM) to high, or we see a time reset,
-        # it might be a new day. But since Telegram shows newest first,
-        # items are in reverse chronological order within the same day.
-        # We can't perfectly detect day boundaries without dates.
-        # Use a simple heuristic: if the time is much earlier, it's likely
-        # an earlier day.
-        if h > last_time_hour and last_time_hour < 99:
+        if last_hour < 99 and h > 12 and last_hour < 6:
+            day_change_count += 1
             current_date -= timedelta(days=1)
-        last_time_hour = h
+        elif last_hour < 99 and h < 6 and last_hour >= 12:
+            pass  # same day, early morning
+        elif last_hour < 99 and h > last_hour + 4:
+            # big jump forward suggests new day
+            current_date -= timedelta(days=1)
 
-        # Arabic day names
-        day_names = {
-            0: "الإثنين", 1: "الثلاثاء", 2: "الأربعاء",
-            3: "الخميس", 4: "الجمعة", 5: "السبت", 6: "الأحد",
-        }
-        month_names = {
-            1: "يناير", 2: "فبراير", 3: "مارس", 4: "أبريل",
-            5: "مايو", 6: "يونيو", 7: "يوليو", 8: "أغسطس",
-            9: "سبتمبر", 10: "أكتوبر", 11: "نوفمبر", 12: "ديسمبر",
-        }
-        item["date"] = f"{day_names[current_date.weekday()]} {current_date.day} {month_names[current_date.month]} {current_date.year}"
-        items_with_dates.append(item)
+        last_hour = h
 
-    return items_with_dates
+        d = current_date
+        item["date"] = f"{day_names[d.weekday()]} {d.day} {month_names[d.month]} {d.year}"
+
+    return items
 
 
 def main():
@@ -196,24 +145,21 @@ def main():
     for ch in CHANNELS:
         print(f"Fetching @{ch}...")
         try:
-            items = fetch_channel(ch)
+            resp = requests.get(f"https://t.me/s/{ch}", headers=HEADERS, timeout=30)
+            resp.raise_for_status()
+            items = parse_page(resp.text, ch)
             for item in items:
-                # Deduplicate
-                key = f"{ch}:{item['text'][:100]}"
+                key = f"{ch}:{item['text'][:80]}"
                 if key not in seen:
                     seen.add(key)
                     all_news.append(item)
             print(f"  Got {len(items)} items")
         except Exception as e:
-            print(f"  Failed: {e}")
+            print(f"  Error: {e}")
 
-    # Sort: newest first (Telegram returns newest first)
     all_news = assign_dates(all_news)
-
-    # Keep max items
     all_news = all_news[:MAX_ITEMS]
 
-    # Write JSON
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(all_news, f, ensure_ascii=False, indent=2)
 
