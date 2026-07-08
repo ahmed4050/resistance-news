@@ -101,9 +101,8 @@ def parse_page(html, channel):
 def assign_dates(items):
     now = datetime.now(ARABIC_TZ)
     current_date = now.date()
-    last_hour = 99
-    seen_hours = set()
-    day_change_count = 0
+    last_hour = {}
+    per_channel_dates = {}
 
     day_names = ["الإثنين", "الثلاثاء", "الأربعاء", "الخميس", "الجمعة", "السبت", "الأحد"]
     month_names = [
@@ -112,28 +111,32 @@ def assign_dates(items):
     ]
 
     for item in items:
+        ch = item["channel"]
+        if ch not in last_hour:
+            last_hour[ch] = 99
+            per_channel_dates[ch] = now.date()
+
         t = item.get("time", "")
+        h = 12
         if t:
             try:
                 h = int(t[:2])
             except:
                 h = 12
-        else:
-            h = 12
 
-        if last_hour < 99 and h > 12 and last_hour < 6:
-            day_change_count += 1
-            current_date -= timedelta(days=1)
-        elif last_hour < 99 and h < 6 and last_hour >= 12:
-            pass  # same day, early morning
-        elif last_hour < 99 and h > last_hour + 4:
-            # big jump forward suggests new day
-            current_date -= timedelta(days=1)
+        cd = per_channel_dates[ch]
+        lh = last_hour[ch]
+        if lh < 99 and h > 12 and lh < 6:
+            cd -= timedelta(days=1)
+        elif lh < 99 and h > lh + 4:
+            cd -= timedelta(days=1)
 
-        last_hour = h
+        last_hour[ch] = h
+        per_channel_dates[ch] = cd
 
-        d = current_date
+        d = cd
         item["date"] = f"{day_names[d.weekday()]} {d.day} {month_names[d.month]} {d.year}"
+        item["sort_key"] = d.isoformat() + f"T{t if t else '12:00'}"
 
     return items
 
@@ -158,7 +161,11 @@ def main():
             print(f"  Error: {e}")
 
     all_news = assign_dates(all_news)
+    all_news.sort(key=lambda x: x.get("sort_key", ""), reverse=True)
     all_news = all_news[:MAX_ITEMS]
+
+    for item in all_news:
+        item.pop("sort_key", None)
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(all_news, f, ensure_ascii=False, indent=2)
