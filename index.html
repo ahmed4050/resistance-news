@@ -157,34 +157,24 @@ function renderNews(data) {
     return;
   }
 
-  const groups = {};
+  let lastDate = '';
+  let html = '';
   for (const item of data) {
     const date = item.date || 'غير محدد';
-    if (!groups[date]) groups[date] = [];
-    groups[date].push(item);
-  }
-
-  const sortedDates = Object.keys(groups).sort((a, b) => {
-    if (a === 'غير محدد') return 1;
-    if (b === 'غير محدد') return -1;
-    return b.localeCompare(a);
-  });
-
-  let html = '';
-  for (const date of sortedDates) {
-    html += `<div class="date-header">${date}</div>`;
-    for (const item of groups[date]) {
-      const ch = CHANNEL_LABELS[item.channel] || { name: item.channel, cls: '' };
-      const translatedBadge = item.translated ? ' <span class="badge">مترجم</span>' : '';
-      html += `<div class="card">
-        <div class="card-meta">
-          <span class="source-tag ${ch.cls}">${ch.name}</span>
-          <span class="card-time">${escapeHtml(item.time || '')}${translatedBadge}</span>
-        </div>
-        <div class="card-content">${escapeHtml(item.text || '')}</div>
-        <div class="card-views">👁 ${item.views || 0}</div>
-      </div>`;
+    if (date !== lastDate) {
+      html += `<div class="date-header">${date}</div>`;
+      lastDate = date;
     }
+    const ch = CHANNEL_LABELS[item.channel] || { name: item.channel, cls: '' };
+    const translatedBadge = item.translated ? ' <span class="badge">مترجم</span>' : '';
+    html += `<div class="card">
+      <div class="card-meta">
+        <span class="source-tag ${ch.cls}">${ch.name}</span>
+        <span class="card-time">${escapeHtml(item.time || '')}${translatedBadge}</span>
+      </div>
+      <div class="card-content">${escapeHtml(item.text || '')}</div>
+      <div class="card-views">👁 ${item.views || 0}</div>
+    </div>`;
   }
   container.innerHTML = html;
 }
