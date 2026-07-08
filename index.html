@@ -130,17 +130,17 @@
   <div id="news-container"><div class="loading"><div class="spinner"></div>جاري تحميل الأخبار...</div></div>
   <div class="footer">
     المصادر: <span class="tag-hezbulla source-tag">حزب الله</span>
-    <span class="tag-rnn source-tag">RNN</span>
-    <span class="tag-manar source-tag">المنار</span>
+    <span class="tag-rnn source-tag">RNN Palestine</span>
+    <span class="tag-manar source-tag">لبنان نيوز</span>
     &nbsp;|&nbsp; يستضيف على <a href="https://github.com" style="color:var(--accent)">GitHub Pages</a>
   </div>
 </div>
 <script>
-const CHANNEL_LABELS = {
-  'hezbulla': { name: 'حزب الله', cls: 'tag-hezbulla' },
-  'PalestineResist': { name: 'RNN', cls: 'tag-rnn' },
-  'manarnews1': { name: 'المنار', cls: 'tag-manar' }
-};
+  const CHANNEL_LABELS = {
+    'hezbulla': { name: 'حزب الله', cls: 'tag-hezbulla' },
+    'PalestineResist': { name: 'RNN', cls: 'tag-rnn' },
+    'libanon_news': { name: 'لبنان نيوز', cls: 'tag-manar' }
+  };
 
 function escapeHtml(text) {
   const d = document.createElement('div');
@@ -175,10 +175,11 @@ function renderNews(data) {
     html += `<div class="date-header">${date}</div>`;
     for (const item of groups[date]) {
       const ch = CHANNEL_LABELS[item.channel] || { name: item.channel, cls: '' };
+      const translatedBadge = item.translated ? ' <span class="badge">مترجم</span>' : '';
       html += `<div class="card">
         <div class="card-meta">
           <span class="source-tag ${ch.cls}">${ch.name}</span>
-          <span class="card-time">${escapeHtml(item.time || '')}</span>
+          <span class="card-time">${escapeHtml(item.time || '')}${translatedBadge}</span>
         </div>
         <div class="card-content">${escapeHtml(item.text || '')}</div>
         <div class="card-views">👁 ${item.views || 0}</div>

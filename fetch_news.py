@@ -3,11 +3,13 @@
 
 import json
 import re
+import time
 from datetime import datetime, timezone, timedelta
 from collections import OrderedDict
 
 import requests
 from bs4 import BeautifulSoup
+from deep_translator import GoogleTranslator
 
 CHANNELS = [
     "hezbulla",
@@ -141,6 +143,44 @@ def assign_dates(items):
     return items
 
 
+_ARABIC_RE = re.compile(r"[\u0600-\u06FF]")
+_translator = GoogleTranslator(source="en", target="ar")
+_translation_cache = {}
+
+
+def is_arabic(text):
+    return bool(_ARABIC_RE.search(text))
+
+
+def translate_to_arabic(text):
+    if text in _translation_cache:
+        return _translation_cache[text]
+    try:
+        result = _translator.translate(text)
+        _translation_cache[text] = result
+        time.sleep(0.3)
+        return result
+    except Exception as e:
+        print(f"  Translation error: {e}")
+        _translation_cache[text] = text
+        return text
+
+
+def translate_english_items(items):
+    count = 0
+    for item in items:
+        txt = item["text"]
+        if not is_arabic(txt):
+            ar = translate_to_arabic(txt)
+            if ar and ar != txt:
+                item["text"] = ar
+                item["translated"] = True
+                count += 1
+    if count:
+        print(f"  Translated {count} English items to Arabic")
+    return items
+
+
 def main():
     all_news = []
     seen = set()
@@ -166,6 +206,8 @@ def main():
 
     for item in all_news:
         item.pop("sort_key", None)
+
+    all_news = translate_english_items(all_news)
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(all_news, f, ensure_ascii=False, indent=2)
