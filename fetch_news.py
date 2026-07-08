@@ -13,7 +13,7 @@ from deep_translator import GoogleTranslator
 
 CHANNELS = [
     "hezbulla",
-    "PalestineResist",
+    "PressTV",
     "libanon_news",
 ]
 
@@ -220,12 +220,12 @@ def main():
     existing = load_existing()
     for item in existing:
         ch = item.get("channel", "")
-        if ch not in fetched_channels:
+        if ch in CHANNELS and ch not in fetched_channels:
             key = f"{ch}:{item.get('text', '')[:80]}"
             if key not in seen:
                 seen.add(key)
                 all_news.append(item)
-                print(f"  Kept {len(existing)} existing items from {ch}")
+                print(f"  Kept existing items from {ch} (fetch failed)")
 
     all_news = assign_dates(all_news)
     all_news.sort(key=lambda x: x.get("sort_key", ""), reverse=True)
