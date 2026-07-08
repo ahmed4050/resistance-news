@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="refresh" content="300">
+<title>أخبار المقاومة | Resistance News</title>
+<style>
+  :root {
+    --bg: #0d1117;
+    --card: #161b22;
+    --border: #30363d;
+    --text: #e6edf3;
+    --muted: #8b949e;
+    --accent: #58a6ff;
+    --green: #3fb950;
+    --red: #f85149;
+    --gold: #d29922;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans Arabic', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.6;
+    padding: 20px;
+  }
+  .container { max-width: 800px; margin: 0 auto; }
+  header {
+    text-align: center;
+    padding: 20px 0;
+    border-bottom: 1px solid var(--border);
+    margin-bottom: 24px;
+  }
+  header h1 { font-size: 1.8em; color: var(--accent); }
+  header p { color: var(--muted); font-size: 0.85em; margin-top: 4px; }
+  .source-tag {
+    display: inline-block;
+    font-size: 0.7em;
+    padding: 2px 8px;
+    border-radius: 12px;
+    font-weight: 600;
+  }
+  .tag-hezbulla { background: #1a3a2a; color: var(--green); }
+  .tag-rnn { background: #3a1a1a; color: var(--red); }
+  .tag-manar { background: #2a1a3a; color: #c9a0ff; }
+  .date-header {
+    font-size: 1.1em;
+    font-weight: 700;
+    color: var(--gold);
+    margin: 24px 0 12px;
+    padding-bottom: 6px;
+    border-bottom: 1px solid var(--border);
+  }
+  .card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 14px 16px;
+    margin-bottom: 10px;
+    transition: border-color 0.2s;
+  }
+  .card:hover { border-color: var(--accent); }
+  .card-meta {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 0.8em;
+    color: var(--muted);
+    margin-bottom: 8px;
+  }
+  .card-time { color: var(--muted); }
+  .card-content {
+    font-size: 0.95em;
+    word-wrap: break-word;
+    white-space: pre-wrap;
+  }
+  .card-content a { color: var(--accent); text-decoration: none; }
+  .card-content a:hover { text-decoration: underline; }
+  .card-views {
+    display: inline-block;
+    font-size: 0.75em;
+    color: var(--muted);
+    margin-top: 8px;
+  }
+  .card-views span { margin-left: 12px; }
+  .loading {
+    text-align: center;
+    padding: 60px 20px;
+    color: var(--muted);
+  }
+  .loading .spinner {
+    width: 40px; height: 40px;
+    border: 3px solid var(--border);
+    border-top-color: var(--accent);
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+    margin: 0 auto 16px;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+  .footer {
+    text-align: center;
+    color: var(--muted);
+    font-size: 0.75em;
+    padding: 24px 0;
+    border-top: 1px solid var(--border);
+    margin-top: 24px;
+  }
+  .badge {
+    display: inline-block;
+    background: var(--border);
+    color: var(--text);
+    font-size: 0.7em;
+    padding: 1px 8px;
+    border-radius: 10px;
+  }
+  @media (max-width: 600px) {
+    body { padding: 12px; }
+    header h1 { font-size: 1.4em; }
+    .card { padding: 10px 12px; }
+  }
+</style>
+</head>
+<body>
+<div class="container">
+  <header>
+    <h1>أخبار محور المقاومة</h1>
+    <p>تحديث تلقائي كل 5 دقائق — آخر تحديث: <span id="update-time">...</span></p>
+  </header>
+  <div id="news-container"><div class="loading"><div class="spinner"></div>جاري تحميل الأخبار...</div></div>
+  <div class="footer">
+    المصادر: <span class="tag-hezbulla source-tag">حزب الله</span>
+    <span class="tag-rnn source-tag">RNN</span>
+    <span class="tag-manar source-tag">المنار</span>
+    &nbsp;|&nbsp; يستضيف على <a href="https://github.com" style="color:var(--accent)">GitHub Pages</a>
+  </div>
+</div>
+<script>
+const CHANNEL_LABELS = {
+  'hezbulla': { name: 'حزب الله', cls: 'tag-hezbulla' },
+  'PalestineResist': { name: 'RNN', cls: 'tag-rnn' },
+  'manarnews1': { name: 'المنار', cls: 'tag-manar' }
+};
+
+function escapeHtml(text) {
+  const d = document.createElement('div');
+  d.textContent = text;
+  return d.innerHTML;
+}
+
+function renderNews(data) {
+  const container = document.getElementById('news-container');
+  document.getElementById('update-time').textContent = new Date().toLocaleString('ar-SA');
+
+  if (!data || data.length === 0) {
+    container.innerHTML = '<div class="loading" style="text-align:center;padding:40px"><p>لا توجد أخبار حالياً</p></div>';
+    return;
+  }
+
+  const groups = {};
+  for (const item of data) {
+    const date = item.date || 'غير محدد';
+    if (!groups[date]) groups[date] = [];
+    groups[date].push(item);
+  }
+
+  const sortedDates = Object.keys(groups).sort((a, b) => {
+    if (a === 'غير محدد') return 1;
+    if (b === 'غير محدد') return -1;
+    return b.localeCompare(a);
+  });
+
+  let html = '';
+  for (const date of sortedDates) {
+    html += `<div class="date-header">${date}</div>`;
+    for (const item of groups[date]) {
+      const ch = CHANNEL_LABELS[item.channel] || { name: item.channel, cls: '' };
+      html += `<div class="card">
+        <div class="card-meta">
+          <span class="source-tag ${ch.cls}">${ch.name}</span>
+          <span class="card-time">${escapeHtml(item.time || '')}</span>
+        </div>
+        <div class="card-content">${escapeHtml(item.text || '')}</div>
+        <div class="card-views">👁 ${item.views || 0}</div>
+      </div>`;
+    }
+  }
+  container.innerHTML = html;
+}
+
+async function fetchNews() {
+  try {
+    const res = await fetch('news.json?t=' + Date.now());
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    const data = await res.json();
+    renderNews(data);
+  } catch (e) {
+    document.getElementById('news-container').innerHTML =
+      `<div class="loading"><p>⚠️ فشل تحميل الأخبار: ${e.message}</p></div>`;
+  }
+}
+
+fetchNews();
+setInterval(fetchNews, 300000);
+</script>
+</body>
+</html>
