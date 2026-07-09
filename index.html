@@ -162,7 +162,7 @@ function renderNews(data) {
 
   let lastDate = '';
   let html = '';
-  for (const item of data.slice().reverse()) {
+  for (const item of data) {
     const date = item.date || 'غير محدد';
     if (date !== lastDate) {
       html += `<div class="date-header">${date}</div>`;
