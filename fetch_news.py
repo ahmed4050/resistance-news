@@ -24,7 +24,7 @@ HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/
 ARABIC_TZ = timezone(timedelta(hours=3))
 OUTPUT_FILE = "news.json"
 MAX_ITEMS = 150
-HOURS_WINDOW = 24
+HOURS_WINDOW = 72
 
 _ARABIC_RE = re.compile(r"[\u0600-\u06FF]")
 _translator = GoogleTranslator(source="en", target="ar")
