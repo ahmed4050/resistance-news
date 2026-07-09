@@ -12,9 +12,7 @@ from bs4 import BeautifulSoup
 from deep_translator import GoogleTranslator
 
 CHANNELS = [
-    "hezbulla",
     "PressTV",
-    "libanon_news",
 ]
 
 HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
