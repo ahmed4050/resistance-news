@@ -14,6 +14,7 @@ from deep_translator import GoogleTranslator
 
 TELEGRAM_CHANNELS = [
     "PressTV",
+    "suppressednews",
 ]
 
 RSS_FEEDS = [
