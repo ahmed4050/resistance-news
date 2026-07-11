@@ -42,6 +42,7 @@
     font-weight: 600;
   }
   .tag-hezbulla { background: #1a3a2a; color: var(--green); }
+  .tag-youtube { background: #1a2a3a; color: var(--accent); }
   .tag-rnn { background: #3a1a1a; color: var(--red); }
   .tag-manar { background: #2a1a3a; color: #c9a0ff; }
   .date-header {
@@ -84,6 +85,19 @@
     margin-top: 8px;
   }
   .card-views span { margin-left: 12px; }
+  .watch-link {
+    display: inline-block;
+    margin-top: 10px;
+    font-size: 0.8em;
+    font-weight: 600;
+    color: #fff;
+    background: var(--red);
+    padding: 5px 12px;
+    border-radius: 6px;
+    text-decoration: none;
+    transition: opacity 0.2s;
+  }
+  .watch-link:hover { opacity: 0.85; text-decoration: none; }
   .loading {
     text-align: center;
     padding: 60px 20px;
@@ -144,7 +158,8 @@
   const CHANNEL_LABELS = {
     'PressTV': { name: 'Press TV', cls: 'tag-rnn' },
     'MiddleEastMonitor': { name: 'Middle East Monitor', cls: 'tag-manar' },
-    'suppressednews': { name: 'Suppressed News', cls: 'tag-hezbulla' }
+    'suppressednews': { name: 'Suppressed News', cls: 'tag-hezbulla' },
+    'YouTube-AlAouni': { name: 'عبد الحميد العوني', cls: 'tag-youtube' }
   };
 
 function escapeHtml(text) {
@@ -178,6 +193,7 @@ function renderNews(data) {
         <span class="card-time">${escapeHtml(item.time || '')}${translatedBadge}</span>
       </div>
       <div class="card-content">${escapeHtml(item.text || '')}</div>
+      ${item.link ? `<a class="watch-link" href="${escapeHtml(item.link)}" target="_blank" rel="noopener">&#9654; شاهد الفيديو</a>` : ''}
       <div class="card-views">👁 ${item.views || 0}</div>
     </div>`;
   }

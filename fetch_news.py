@@ -12,6 +12,8 @@ import requests
 from bs4 import BeautifulSoup
 from deep_translator import GoogleTranslator
 
+import fetch_youtube
+
 TELEGRAM_CHANNELS = [
     "PressTV",
     "suppressednews",
@@ -160,6 +162,9 @@ def assign_dates(items):
             item.pop("pubDate", None)
             continue
 
+        if item.get("source") == "youtube":
+            continue
+
         ch = item["channel"]
         if ch not in last_hour:
             last_hour[ch] = 99
@@ -301,6 +306,17 @@ def main():
                 if key not in seen:
                     seen.add(key)
                     all_news.append(item)
+
+    try:
+        yt_items = fetch_youtube.build_youtube_items()
+        for item in yt_items:
+            key = f"{item['channel']}:{item['link']}"
+            if key not in seen:
+                seen.add(key)
+                all_news.append(item)
+                fetched_sources.add(fetch_youtube.OUTPUT_CHANNEL)
+    except Exception as e:
+        print(f"  YouTube integration error: {e}")
 
     if not fetched_sources:
         print("All sources failed to fetch. Keeping existing news.json.")
