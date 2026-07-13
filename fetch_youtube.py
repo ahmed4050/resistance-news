@@ -133,6 +133,10 @@ def build_youtube_items():
 
     save_cache(cache)
 
+    cache = {vid: data for vid, data in cache.items()
+             if (_date_from_upload(data.get("upload_date", "")) or now) >= now - timedelta(days=60)}
+    save_cache(cache)
+
     items = []
     for vid, data in cache.items():
         d = _date_from_upload(data.get("upload_date", "")) or now

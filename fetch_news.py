@@ -28,6 +28,7 @@ ARABIC_TZ = timezone(timedelta(hours=3))
 OUTPUT_FILE = "news.json"
 MAX_ITEMS = 150
 HOURS_WINDOW = 72
+YT_WINDOW = 24  # مدة ظهور فيديوهات يوتيوب في أعلى الصفحة (بالساعات) ثم تختفي
 
 _ARABIC_RE = re.compile(r"[\u0600-\u06FF]")
 _translator = GoogleTranslator(source="en", target="ar")
@@ -336,10 +337,14 @@ def main():
 
     now = datetime.now(ARABIC_TZ)
     cutoff = now - timedelta(hours=HOURS_WINDOW)
+    yt_cutoff = now - timedelta(hours=YT_WINDOW)
     filtered = []
+    youtube_top = []
     for item in all_news:
         if item.get("source") == "youtube":
-            filtered.append(item)
+            dt = parse_sort_key(item.get("sort_key", ""))
+            if dt is not None and dt >= yt_cutoff:
+                youtube_top.append(item)
             continue
         sk = item.get("sort_key", "")
         dt = parse_sort_key(sk)
@@ -348,9 +353,11 @@ def main():
         if dt >= cutoff:
             filtered.append(item)
     print(f"  Filtered to last {HOURS_WINDOW}h: {len(filtered)} of {len(all_news)} items")
+    print(f"  YouTube (top, <{YT_WINDOW}h): {len(youtube_top)}")
 
-    all_news = filtered
-    all_news.sort(key=lambda x: x.get("sort_key", ""), reverse=True)
+    youtube_top.sort(key=lambda x: x.get("sort_key", ""), reverse=True)
+    filtered.sort(key=lambda x: x.get("sort_key", ""), reverse=True)
+    all_news = youtube_top + filtered
     all_news = all_news[:MAX_ITEMS]
 
     for item in all_news:
