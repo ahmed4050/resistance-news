@@ -338,6 +338,9 @@ def main():
     cutoff = now - timedelta(hours=HOURS_WINDOW)
     filtered = []
     for item in all_news:
+        if item.get("source") == "youtube":
+            filtered.append(item)
+            continue
         sk = item.get("sort_key", "")
         dt = parse_sort_key(sk)
         if dt is None:
