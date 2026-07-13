@@ -1,5 +1,4 @@
 requests
 beautifulsoup4
 deep-translator
-yt-dlp
 youtube-transcript-api
