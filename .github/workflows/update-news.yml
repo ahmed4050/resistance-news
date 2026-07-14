@@ -22,6 +22,10 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Fetch news from Telegram
+        env:
+          LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_MODEL: ${{ secrets.LLM_MODEL }}
         run: python fetch_news.py
 
       - name: Commit & push if changed

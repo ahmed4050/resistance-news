@@ -97,14 +97,24 @@ RSS_FEEDS = [
 
 ---
 
-## 🤖 ترقية تلخيص يوتيوب بالذكاء الاصطناعي (اختياري)
+## 🤖 تلخيص فيديوهات يوتيوب بالذكاء الاصطناعي (اختياري)
 
 حالياً تظهر بطاقة الفيديو **عنوان الفيديو + رابطه** (بلا مفتاح API).
 
-للحصول على ملخص نصي قصير (3-4 أسطر) من محتوى الفيديو:
-1. أضف مفتاح LLM (مثل OpenAI) في **أسرار GitHub (Secrets)**.
-2. استدعِ نموذج التلخيص داخل `fetch_youtube.py` على ترجمة الفيديو المجلوبة،
-   واستبدل `text` بملخص بدل العنوان.
+لإضافة ملخص عربي قصير (2-4 جمل) من محتوى الفيديو، فعّل التلخيص عبر أي نقطة
+نهاية متوافقة مع واجهة OpenAI (مثل **GitHub Models** أو **Gemini** المجانية):
+
+1. في **إعدادات المستودع → Secrets and variables → Actions** أضف:
+   - `LLM_BASE_URL` — مثلاً `https://models.inference.ai.azure.com` (GitHub Models)
+     أو `https://generativelanguage.googleapis.com/v1beta/openai` (Gemini).
+   - `LLM_API_KEY` — رمز الوصول/المفتاح.
+   - `LLM_MODEL` — اختياري، افتراضياً `gpt-4o-mini` (GitHub Models) أو `gemini-2.5-flash` (Gemini).
+
+2. السكربت `fetch_youtube.py` سيُلخّص فقط الفيديوهات **الجديدة** عند اكتشافها
+   (ويخزّن الملخص في `youtube_cache.json`)، ثم يستخدمه كنص البطاقة؛
+   وإذا لم تُضبط الأسرار يكتفي بعنوان الفيديو تلقائياً.
+
+> للتشغيل محلياً: اضبط هذه المتغيرات في بيئتك قبل تشغيل `python fetch_news.py`.
 
 ---
 
@@ -113,7 +123,7 @@ RSS_FEEDS = [
 - Python 3.11+
 - الحزم في `requirements.txt`:
   - `requests`, `beautifulsoup4`, `deep-translator`
-  - `yt-dlp`, `youtube-transcript-api`
+  - `youtube-transcript-api`
 
 ---
 

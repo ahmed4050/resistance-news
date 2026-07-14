@@ -7,6 +7,7 @@ datacenter IPs such as GitHub Actions runners.
 """
 
 import json
+import os
 import re
 from datetime import datetime, timezone, timedelta
 import xml.etree.ElementTree as ET
@@ -20,6 +21,15 @@ OUTPUT_CHANNEL = "YouTube-AlAouni"
 CACHE_FILE = "youtube_cache.json"
 MAX_VIDEOS = 15
 ARABIC_TZ = timezone(timedelta(hours=3))
+
+# LLM summarization (OpenAI-compatible). Enable by setting these env vars:
+#   LLM_BASE_URL  e.g. https://models.inference.ai.azure.com   (GitHub Models)
+#                 or   https://generativelanguage.googleapis.com/v1beta/openai  (Gemini)
+#   LLM_API_KEY   the API key / token
+#   LLM_MODEL     e.g. gpt-4o-mini (GitHub Models) or gemini-2.5-flash (Gemini)
+LLM_BASE_URL = os.environ.get("LLM_BASE_URL", "").strip()
+LLM_API_KEY = os.environ.get("LLM_API_KEY", "").strip()
+LLM_MODEL = os.environ.get("LLM_MODEL", "gpt-4o-mini").strip()
 
 HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
 _NS = {
@@ -80,6 +90,41 @@ def get_transcript(video_id):
         return None
 
 
+def summarize_video(title, transcript):
+    """Summarize an Arabic transcript into a short Arabic summary via an
+    OpenAI-compatible endpoint. Returns None if not configured or on error."""
+    if not LLM_BASE_URL or not LLM_API_KEY:
+        return None
+    if not transcript:
+        return None
+    text = transcript[:6000]
+    system = (
+        "أنت محرر أخبار. لخّص النص التالي (ترجمة تلقائية قد تخلو من علامات الترقيم) "
+        "في ٢ إلى ٤ جمل عربية واضحة وموضوعية تلخّص محتوى الفيديو دون إضافة أي معلومة "
+        "غير مذكورة. ابدأ بجملة عنوان قصيرة إن أمكن."
+    )
+    user = f"عنوان الفيديو: {title}\n\nنص الفيديو:\n{text}"
+    try:
+        r = requests.post(
+            LLM_BASE_URL.rstrip("/") + "/chat/completions",
+            headers={"Authorization": f"Bearer {LLM_API_KEY}",
+                     "Content-Type": "application/json"},
+            json={"model": LLM_MODEL, "temperature": 0.2,
+                  "messages": [
+                      {"role": "system", "content": system},
+                      {"role": "user", "content": user},
+                  ]},
+            timeout=60,
+        )
+        r.raise_for_status()
+        data = r.json()
+        summary = data["choices"][0]["message"]["content"].strip()
+        return summary or None
+    except Exception as e:
+        print(f"  Summarization error ({title[:40]}): {e}")
+        return None
+
+
 def _date_from_upload(upload_date):
     if upload_date and len(upload_date) == 8:
         try:
@@ -122,14 +167,16 @@ def build_youtube_items():
             continue
         url = v.get("link") or f"https://www.youtube.com/watch?v={vid}"
         transcript = get_transcript(vid)
+        summary = summarize_video(v["title"], transcript) if transcript else None
         cache[vid] = {
             "title": v["title"],
             "url": url,
             "views": v.get("view_count", 0),
             "upload_date": v.get("upload_date", ""),
             "has_transcript": bool(transcript),
+            "summary": summary,
         }
-        print(f"  New video cached: {vid}")
+        print(f"  New video cached: {vid}" + (" (summarized)" if summary else ""))
 
     save_cache(cache)
 
@@ -137,13 +184,19 @@ def build_youtube_items():
              if (_date_from_upload(data.get("upload_date", "")) or now) >= now - timedelta(days=60)}
     save_cache(cache)
 
+    llm_ready = bool(LLM_BASE_URL and LLM_API_KEY)
     items = []
     for vid, data in cache.items():
+        if llm_ready and not data.get("summary") and data.get("has_transcript"):
+            transcript = get_transcript(vid)
+            if transcript:
+                data["summary"] = summarize_video(data.get("title", ""), transcript)
+                save_cache(cache)
         d = _date_from_upload(data.get("upload_date", "")) or now
         date_str = f"{DAY_NAMES[d.weekday()]} {d.day} {MONTH_NAMES[d.month]} {d.year}"
         items.append({
             "channel": OUTPUT_CHANNEL,
-            "text": data.get("title", ""),
+            "text": data.get("summary") or data.get("title", ""),
             "link": data.get("url", ""),
             "views": data.get("views", 0),
             "time": "",
