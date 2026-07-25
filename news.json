@@ -176,10 +176,26 @@
     "translated": true
   },
   {
+    "channel": "PressTV",
+    "text": "لماذا يتابع العالم باب المندب؟ 🔍 👉 يعد هذا الممر الذي يبلغ عرضه 18 كيلومترًا أحد أهم شرايين التجارة العالمية. ولهذا السبب فإن التطورات هناك مهمة للاقتصادات في جميع أنحاء العالم. @برس تي في",
+    "time": "15:19",
+    "views": 289,
+    "date": "السبت 25 يوليو 2026",
+    "translated": true
+  },
+  {
     "channel": "MiddleEastMonitor",
     "text": "وتسعى إسرائيل للحصول على الضوء الأخضر الأمريكي لضرب إيران",
     "time": "15:15",
     "views": 0,
+    "date": "السبت 25 يوليو 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "اليمن يضرب منشآت نفط أرامكو السعودية ردا على الغارات الجوية في الحديدة قالت القوات المسلحة اليمنية إنها نفذت ضربتين انتقاميتين ناجحتين ضد منشآت أرامكو النفطية السعودية بعد أن شنت الرياض غارات جوية على محافظة الحديدة الاستراتيجية في البلاد. @برس تي في",
+    "time": "15:01",
+    "views": 782,
     "date": "السبت 25 يوليو 2026",
     "translated": true
   },
@@ -203,7 +219,7 @@
     "channel": "PressTV",
     "text": "📸 \"السفارة الألمانية في طهران تبقى مفتوحة\" سفارة ألمانيا تغلق شائعات سحب طاقمها الدبلوماسي من إيران. @برس تي في",
     "time": "14:40",
-    "views": 423,
+    "views": 0,
     "date": "السبت 25 يوليو 2026",
     "translated": true
   },
@@ -217,9 +233,9 @@
   },
   {
     "channel": "PressTV",
-    "text": "📸 ذكرت صحيفة فايننشال تايمز أن شركات تأمين السفن تقيد تغطية الحرب للسفن المرتبطة بالسعودية في البحر الأحمر بعد الهجمات اليمنية، مما يزيد من المخاطر على صادرات المملكة النفطية. @برس تي في",
+    "text": "📸 ذكرت صحيفة فايننشال تايمز أن شركات تأمين السفن تقيد تغطية الحرب للسفن المرتبطة بالسعودية في البحر الأحمر بعد الهجمات اليمنية، مما يزيد من المخاطر التي تهدد صادرات المملكة النفطية. @برس تي في",
     "time": "14:25",
-    "views": 831,
+    "views": 0,
     "date": "السبت 25 يوليو 2026",
     "translated": true
   },
@@ -235,7 +251,7 @@
     "channel": "PressTV",
     "text": "◀️ أمين المجلس الأعلى للأمن القومي محمد باقر ذو القدر يقول إن الضربات الانتقامية على الأصول الأمريكية في المنطقة ستستمر حتى استسلام العدو الكامل. @برس تي في",
     "time": "14:15",
-    "views": 986,
+    "views": 0,
     "date": "السبت 25 يوليو 2026",
     "translated": true
   },
@@ -249,10 +265,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "Strikes will continue until enemy’s ‘total surrender’: Iran’s security chief Secretary of Iran’s Supreme National Security Council Mohammad-Bagher Zolghadr says ongoing strikes against US targets will continue until the “enemy’s total surrender” and in retaliation for the massacre of children in Minab and Lamerd. @PressTV",
+    "text": "ستستمر الضربات حتى \"الاستسلام التام\" للعدو: قال أمين عام المجلس الأعلى للأمن القومي الإيراني محمد باقر ذو القدر، إن الضربات المستمرة ضد الأهداف الأمريكية ستستمر حتى \"الاستسلام الكامل للعدو\" وانتقاما لمذبحة الأطفال في ميناب ولامرد. @برس تي في",
     "time": "14:00",
     "views": 0,
-    "date": "السبت 25 يوليو 2026"
+    "date": "السبت 25 يوليو 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -304,10 +321,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "▶️ “The US must be warned over continued aggression” Reza Vedadi says the United States bears full responsibility for killing Iranian citizens and the current escalation in West Asia. @PressTV",
+    "text": "◀️ \"يجب تحذير الولايات المتحدة من العدوان المستمر\" يقول رضا فيدادي إن الولايات المتحدة تتحمل المسؤولية الكاملة عن قتل المواطنين الإيرانيين والتصعيد الحالي في غرب آسيا. @برس تي في",
     "time": "13:18",
     "views": 0,
-    "date": "السبت 25 يوليو 2026"
+    "date": "السبت 25 يوليو 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
@@ -359,23 +377,8 @@
   },
   {
     "channel": "PressTV",
-    "text": "🔴 Yemeni Army spokesman: Air defenses engaged, repelled fleet of enemy aircraft 🔺 Yemeni Army says Aramco-affiliated facilities in Saudi Jizan, Yanbu provinces targeted with missiles, drones 🔺 Army spokesman: Yemen will counter Saudi siege, aggression with 'unwavering resolve, strength' 🔺 Yemen vows to expand operations based on 'blockade for blockade, escalation for escalation' @PressTV",
+    "text": "🔴 المتحدث باسم الجيش اليمني: الدفاعات الجوية اشتبكت مع أسطول من طائرات العدو 🔺 الجيش اليمني يقول إن المنشآت التابعة لأرامكو في محافظتي جيزان وينبع السعوديتين استهدفت بالصواريخ والطائرات المسيرة 🔺 المتحدث باسم الجيش: اليمن سيواجه الحصار والعدوان السعودي \"بعزم وقوة لا تتزعزع\" 🔺 اليمن يتعهد بتوسيع العمليات على أساس \"الحصار للحصار والتصعيد للتصعيد\" @PressTV",
     "time": "12:06",
-    "views": 0,
-    "date": "السبت 25 يوليو 2026"
-  },
-  {
-    "channel": "PressTV",
-    "text": "أنصار الله اليمنية: السعودية تشبه إسرائيل في الكذب والعدوان تقول حركة مقاومة أنصار الله في اليمن إن السعودية انتهجت سياسات وممارسات مشابهة لسياسات النظام الإسرائيلي، خاصة فيما يتعلق بالكذب والعدوان. @برس تي في",
-    "time": "12:00",
-    "views": 0,
-    "date": "السبت 25 يوليو 2026",
-    "translated": true
-  },
-  {
-    "channel": "PressTV",
-    "text": "📸 صور الأقمار الصناعية تلتقط آثار الضربات الانتقامية الإيرانية التي استهدفت خوادم ومركز بيانات أمازون في غرب البحرين. @برس تي في",
-    "time": "11:45",
     "views": 0,
     "date": "السبت 25 يوليو 2026",
     "translated": true
@@ -405,7 +408,7 @@
   },
   {
     "channel": "suppressednews",
-    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-take-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"هناك كانت هستيريا جنونية، مع اتخاذ قرارات دون أي معلومات تم التحقق منها: أمر جيش الدفاع الإسرائيلي بتوجيه هانيبال في 7 أكتوبر بمنع حماس من أسر الجنود",
+    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-take-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"هناك \"كانت هستيريا جنونية، مع اتخاذ قرارات دون أي معلومات تم التحقق منها\": أمر جيش الدفاع الإسرائيلي بتوجيه هانيبال في 7 أكتوبر بمنع حماس من أسر الجنود",
     "time": "21:46",
     "views": 225,
     "date": "الجمعة 24 يوليو 2026",
@@ -597,7 +600,7 @@
   },
   {
     "channel": "suppressednews",
-    "text": "وكالعادة يقتل عدد كبير عند وقوع الكارثة، ويتوفى عدد آخر تدريجياً متأثراً بجراحه بعد وقوعها. توفي عمر الجعبري، 13 عاماً، متأثراً بجراحه في مستشفى كمال عدوان. وكان من بين ضحايا مجزرة مدرسة التابعين قبل يومين. وأصيب عمر بحروق شديدة نتيجة الصواريخ الأمريكية التي تنتج درجات حرارة عالية للغاية، ولم يصب بشكل مباشر، وإلا لكان قد تحول إلى أشلاء وذاب جسده. 💔 💔 💔",
+    "text": "وكالعادة يقتل عدد كبير عند وقوع الكارثة، ويتوفى عدد آخر تدريجياً متأثراً بجراحه بعد وقوعها. توفي عمر الجعبري، 13 عاماً، متأثراً بجراحه في مستشفى كمال عدوان. وكان من بين ضحايا مجزرة مدرسة التابعين قبل يومين. وأصيب عمر بحروق شديدة نتيجة الصواريخ الأمريكية التي تنتج درجات حرارة عالية جدا، ولم يصب بشكل مباشر، وإلا لكان قد تحول إلى أشلاء وذاب جسده. 💔 💔 💔",
     "time": "04:38",
     "views": 168,
     "date": "الخميس 23 يوليو 2026",
@@ -605,9 +608,10 @@
   },
   {
     "channel": "suppressednews",
-    "text": "Imagine for a moment in time that this is your child? How would you feel about the Zionists?",
+    "text": "تخيل للحظة من الزمن أن هذا هو طفلك؟ كيف سيكون شعورك تجاه الصهاينة؟",
     "time": "20:57",
     "views": 215,
-    "date": "الأربعاء 22 يوليو 2026"
+    "date": "الأربعاء 22 يوليو 2026",
+    "translated": true
   }
 ]
