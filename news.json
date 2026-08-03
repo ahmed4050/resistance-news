@@ -1,42 +1,10 @@
 [
   {
-    "channel": "YouTube-AlAouni",
-    "text": "التلغراف البريطانية: النهاية.. أوكرانيا اعترضت صاروخا واحدا من 27 صاروخا روسيا؟",
-    "link": "https://www.youtube.com/watch?v=eDuBuDcVWRA",
-    "views": 0,
-    "time": "",
-    "date": "الأحد 3 أغسطس 2026"
-  },
-  {
-    "channel": "YouTube-AlAouni",
-    "text": "كيف يقرأ الحرس الثوري تراجع ترامب..والرئيس الأمريكي: تأجيل هجوم مثيل للحرب العالمية الثانية",
-    "link": "https://www.youtube.com/watch?v=N-NZd8Pl48E",
-    "views": 0,
-    "time": "",
-    "date": "الأحد 3 أغسطس 2026"
-  },
-  {
-    "channel": "YouTube-AlAouni",
-    "text": "خطير/ الجزائر في مشروع طائرة \"قآن\"..أخطر عملية نقل للمحرك الروسي AL 51 F-1..على الجزائر إلى تركيا",
-    "link": "https://www.youtube.com/watch?v=18Ipwdyl8pI",
-    "views": 0,
-    "time": "",
-    "date": "الأحد 3 أغسطس 2026"
-  },
-  {
-    "channel": "YouTube-AlAouni",
-    "text": "عاجل- إطلاق النار على وزير الدفاع كاتس في أخطر أزمة تعرفها اسرائيل بين الجنرالات  والوزير..",
-    "link": "https://www.youtube.com/watch?v=UhuckFkwjgk",
-    "views": 0,
-    "time": "",
-    "date": "الأحد 3 أغسطس 2026"
-  },
-  {
     "channel": "MiddleEastMonitor",
     "text": "وفي حديثه مع الرئيس الإيراني، حث رئيس الوزراء الباكستاني الولايات المتحدة وإيران على الالتزام باتفاق السلام",
     "time": "22:23",
     "views": 0,
-    "date": "الإثنين 3 أغسطس 2026",
+    "date": "الثلاثاء 4 أغسطس 2026",
     "translated": true
   },
   {
@@ -44,7 +12,7 @@
     "text": "المحكمة الوطنية الإسبانية تفتح تحقيقا مع مسؤولين عسكريين إسرائيليين بشأن اعتراض أسطول الحرية في غزة",
     "time": "22:11",
     "views": 0,
-    "date": "الإثنين 3 أغسطس 2026",
+    "date": "الثلاثاء 4 أغسطس 2026",
     "translated": true
   },
   {
@@ -52,7 +20,7 @@
     "text": "غارة جوية إسرائيلية بدون طيار تصيب 3 من العاملين في مستشفى شمال غزة رغم وقف إطلاق النار",
     "time": "21:59",
     "views": 0,
-    "date": "الإثنين 3 أغسطس 2026",
+    "date": "الثلاثاء 4 أغسطس 2026",
     "translated": true
   },
   {
@@ -60,7 +28,7 @@
     "text": "مجلس المستشارين الألماني يقدم مشروع قانون لتجريم ’إنكار حق إسرائيل في الوجود’",
     "time": "21:43",
     "views": 0,
-    "date": "الإثنين 3 أغسطس 2026",
+    "date": "الثلاثاء 4 أغسطس 2026",
     "translated": true
   },
   {
@@ -68,7 +36,15 @@
     "text": "حملة الأشرطة الحمراء تطالب الصليب الأحمر باستئناف زياراته للفلسطينيين في السجون الإسرائيلية",
     "time": "21:19",
     "views": 0,
-    "date": "الإثنين 3 أغسطس 2026",
+    "date": "الثلاثاء 4 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "🔴 بيان قطر ومصر وتركيا: 🔺 نطالب المجتمع الدولي بالضغط على إسرائيل للالتزام باتفاق وقف إطلاق النار. 🔺الانتهاكات الإسرائيلية تهدد جهود خفض التصعيد وتفاقم معاناة المدنيين في قطاع غزة. @برس تي في",
+    "time": "21:05",
+    "views": 565,
+    "date": "الثلاثاء 4 أغسطس 2026",
     "translated": true
   },
   {
@@ -76,7 +52,15 @@
     "text": "إسرائيل تعتقل مفتي القدس وتمنعه ​​من دخول المسجد الأقصى لمدة أسبوع",
     "time": "21:00",
     "views": 0,
-    "date": "الإثنين 3 أغسطس 2026",
+    "date": "الثلاثاء 4 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "🔴 كبير مستشاري قائد الثورة الإسلامية محسن رضائي: إذا استمر الحصار فإن السفن والقوات الأمريكية ستواجه مخاطر وخسائر جسيمة. ويتعين على الولايات المتحدة أن تغير سلوكها ــ وإلا فلن نتسامح مع هذا. لن نسمح أبدا بفتح ممر ثان في مضيق هرمز. @برس تي في",
+    "time": "20:57",
+    "views": 761,
+    "date": "الثلاثاء 4 أغسطس 2026",
     "translated": true
   },
   {
@@ -84,29 +68,31 @@
     "text": "الجيش الإسرائيلي يبدأ تخفيضًا كبيرًا في جنود الاحتياط وسط ضغوط الميزانية",
     "time": "20:50",
     "views": 0,
-    "date": "الإثنين 3 أغسطس 2026",
+    "date": "الثلاثاء 4 أغسطس 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "\"Trump’s problem is a shortage of wisdom and prudence\" Senior advisor to the Leader of the Islamic Revolution, Mohsen Rezaei, says US decision-making has declined, criticizing Trump's leadership and calling recent military planning against Iran imprudent…",
+    "text": "\"مشكلة ترامب هي الافتقار إلى الحكمة والتعقل\" قال كبير مستشاري قائد الثورة الإسلامية محسن رضائي إن عملية صنع القرار في الولايات المتحدة تراجعت، منتقدا قيادة ترامب ووصف التخطيط العسكري الأخير ضد إيران بأنه غير حكيم.",
     "time": "20:44",
-    "views": 173,
-    "date": "الإثنين 3 أغسطس 2026"
+    "views": 870,
+    "date": "الثلاثاء 4 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "Foreign Minister Araghchi: Arbaeen is grand display of Iran-Iraq national unity Iranian Foreign Minister Seyed Abbas Araghchi has described the Arbaeen pilgrimage as a massive demonstration of the unbreakable unity between the peoples of Iran and Iraq, underscoring the profound religious and fraternal bonds that continue to deepen bilateral ties. @PressTV",
+    "text": "وزير الخارجية عراقجي: الأربعين عرض كبير للوحدة الوطنية الإيرانية العراقية وصف وزير الخارجية الإيراني سيد عباس عراقجي زيارة الأربعين بأنها دليل هائل على الوحدة غير القابلة للكسر بين شعبي إيران والعراق، مما يؤكد الروابط الدينية والأخوية العميقة التي تواصل تعميق العلاقات الثنائية. @برس تي في",
     "time": "20:39",
-    "views": 295,
-    "date": "الإثنين 3 أغسطس 2026"
+    "views": 919,
+    "date": "الثلاثاء 4 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
     "text": "العراق يحكم على 12 موظف ضرائب في قضية فساد “سرقة القرن”.",
     "time": "20:33",
     "views": 0,
-    "date": "الإثنين 3 أغسطس 2026",
+    "date": "الثلاثاء 4 أغسطس 2026",
     "translated": true
   },
   {
@@ -114,15 +100,15 @@
     "text": "القوات الألمانية تغادر قاعدة أربيل في شمال العراق وسط توترات إقليمية",
     "time": "20:21",
     "views": 0,
-    "date": "الإثنين 3 أغسطس 2026",
+    "date": "الثلاثاء 4 أغسطس 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
     "text": "📸 صور قائد الثورة الإسلامية الشهيد أثناء حضوره مراسيم الأربعين 2024 في حسينية الإمام الخميني بطهران. @برس تي في",
     "time": "20:14",
-    "views": 768,
-    "date": "الإثنين 3 أغسطس 2026",
+    "views": 0,
+    "date": "الثلاثاء 4 أغسطس 2026",
     "translated": true
   },
   {
@@ -130,51 +116,55 @@
     "text": "رئيس الأمن الإيراني يحذر إسرائيل ’لن تكون في مأمن من الرد’",
     "time": "20:06",
     "views": 0,
-    "date": "الإثنين 3 أغسطس 2026",
+    "date": "الثلاثاء 4 أغسطس 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "🔺 We have not attacked any American citizens, but the US has attacked our nation. 🔺 The vast majority of the world's nations would regard the United States as the aggressor. 🔺 In the final days of the conflict, Iran stepped up its increasingly precise drone…",
+    "text": "🔺 لم نهاجم أي مواطن أمريكي، لكن الولايات المتحدة هاجمت أمتنا. 🔺 الغالبية العظمى من دول العالم ستعتبر الولايات المتحدة هي المعتدي. 🔺 في الأيام الأخيرة من الصراع، عززت إيران طائراتها بدون طيار ذات الدقة المتزايدة ...",
     "time": "20:04",
-    "views": 868,
-    "date": "الإثنين 3 أغسطس 2026"
+    "views": 0,
+    "date": "الثلاثاء 4 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "🔴 IRGC Ground Forces Commander General Karami: With intelligence superiority, operational readiness, and the use of faith, technology and modern sciences, we are prepared to deliver a decisive response to any threat posed by foreign adversaries and terrorist…",
+    "text": "🔴 قائد القوات البرية للحرس الثوري الإيراني الجنرال كرامي: بالتفوق الاستخباراتي والاستعداد العملياتي واستخدام الإيمان والتكنولوجيا والعلوم الحديثة، نحن مستعدون لتقديم رد حاسم على أي تهديد يشكله الخصوم الأجانب والإرهابيون...",
     "time": "19:42",
     "views": 0,
-    "date": "الإثنين 3 أغسطس 2026"
+    "date": "الثلاثاء 4 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "Data shows immigration from Israeli-occupied lands hit record levels in 2025 A new report says an unprecedented wave of immigration from the Israeli-occupied territories, fueled by ongoing political instability, economic woes and protracted military confrontations across West Asia, has persisted without interruption throughout 2025. @PressTV",
+    "text": "تظهر البيانات أن الهجرة من الأراضي التي تحتلها إسرائيل وصلت إلى مستويات قياسية في عام 2025. ويقول تقرير جديد إن موجة غير مسبوقة من الهجرة من الأراضي التي تحتلها إسرائيل، تغذيها عدم الاستقرار السياسي المستمر والمشاكل الاقتصادية والمواجهات العسكرية الطويلة في جميع أنحاء غرب آسيا، استمرت دون انقطاع طوال عام 2025. @PressTV",
     "time": "19:39",
     "views": 0,
-    "date": "الإثنين 3 أغسطس 2026"
+    "date": "الثلاثاء 4 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
     "text": "ترامب يزعم أن إيران طلبت من الولايات المتحدة مواصلة “المحادثات” ويعلن أن وقف إطلاق النار “انتهى”",
     "time": "19:33",
     "views": 0,
-    "date": "الإثنين 3 أغسطس 2026",
+    "date": "الثلاثاء 4 أغسطس 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "❤️ Would you dedicate the reward of your steps to my father? 🎥 My father had always wished to come here, walk the pilgrimage route, and visit #ImamHussain (pbuh) and Hazrat Abolfaz (pbuh). But he was martyred in an American airstrike. Would you walk a few steps in his memory? #Arbaeen2026 #Arbaeen #MartyrKhamenei 📲 KHAMENEI.IR | 𝕏 (Official) | 𝕏 (Website) 🖥 @Khamenei_en ‌",
+    "text": "❤️ هل تهدي ثواب خطواتك لأبي؟ 🎥 كان والدي يرغب دائمًا في المجيء إلى هنا والسير في طريق الحج وزيارة #الإمام_الحسين (ع) وحضرة أبو الفضل (ع). لكنه استشهد في غارة جوية أمريكية. هل ستمشي بضع خطوات في ذكراه؟ #الأربعين2026 #الأربعين #الشهيد_خامنئي 📲 KHAMENEI.IR | 𝕏 (رسمي) | 𝕏 (الموقع الإلكتروني) 🖥 @Khamenei_en‌",
     "time": "19:24",
     "views": 0,
-    "date": "الإثنين 3 أغسطس 2026"
+    "date": "الثلاثاء 4 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
     "text": "\"الموت للمسيحيين\": تقرير يوثق تصاعد الهجمات ضد المسيحيين من قبل الإسرائيليين في القدس المحتلة",
     "time": "19:16",
     "views": 0,
-    "date": "الإثنين 3 أغسطس 2026",
+    "date": "الثلاثاء 4 أغسطس 2026",
     "translated": true
   },
   {
@@ -182,7 +172,7 @@
     "text": "🔴 محسن رضائي كبير مستشاري قائد الثورة الإسلامية: 🔺 الولايات المتحدة قبلت ترتيبات إيران بشأن مضيق هرمز بموجب مذكرة التفاهم [إسلام آباد]، لكنها انتهكت الاتفاق لاحقا. 🔺 الولايات المتحدة لم تنتهك مذكرة التفاهم فحسب، بل أطلقت أيضًا…",
     "time": "19:15",
     "views": 0,
-    "date": "الإثنين 3 أغسطس 2026",
+    "date": "الثلاثاء 4 أغسطس 2026",
     "translated": true
   },
   {
@@ -190,7 +180,7 @@
     "text": "بري: سوريا لا تنوي التدخل في لبنان",
     "time": "19:14",
     "views": 0,
-    "date": "الإثنين 3 أغسطس 2026",
+    "date": "الثلاثاء 4 أغسطس 2026",
     "translated": true
   },
   {
@@ -198,50 +188,39 @@
     "text": "تقرير فرنسي: الإمارات تجهز أول موطئ قدم عسكري إسرائيلي قرب باب المندب",
     "time": "19:13",
     "views": 0,
-    "date": "الإثنين 3 أغسطس 2026",
+    "date": "الثلاثاء 4 أغسطس 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "🔴 Mohsen Rezaei, a senior advisor to the Leader of the Islamic Revolution : 🔺 The US had accepted Iran's arrangements for the Strait of Hormuz under the [Islamabad] MoU, but later violated the agreement. 🔺 The US not only breached the MoU but also launched attacks without first referring the dispute to the designated dispute resolution panel. 🔺 In the 17 days of fighting after the MoU was breached, we dealt severe blows to the US. 🔺 We made it clear to the US that we have both missiles and the capability to defend ourselves. 🔺 Even if the US sends warships through an unauthorized route into the Strait of Hormuz, we will target them. 🔺 We will not allow any route other than Iran's designated route to be established in the Strait of Hormuz. 🔺 We were set to strike three sites in Ukraine, but canceled the attack following Ukraine's apology. 🔺 We do not seek war, but Iran's armed forces are fully prepared and will defend the country to the last drop of their blood. @PressTV",
+    "text": "🔴 محسن رضائي كبير مستشاري قائد الثورة الإسلامية : 🔺 قبلت الولايات المتحدة بترتيبات إيران بشأن مضيق هرمز بموجب مذكرة التفاهم [إسلام آباد]، لكنها انتهكت الاتفاق لاحقا. 🔺 لم تنتهك الولايات المتحدة مذكرة التفاهم فحسب، بل شنت أيضًا هجمات دون إحالة النزاع أولاً إلى لجنة حل النزاعات المعينة. 🔺 خلال 17 يومًا من القتال بعد خرق مذكرة التفاهم، وجهنا ضربات قاسية للولايات المتحدة. 🔺 لقد أوضحنا للولايات المتحدة أن لدينا الصواريخ والقدرة على الدفاع عن أنفسنا. 🔺 حتى لو أرسلت الولايات المتحدة سفنا حربية عبر طريق غير مصرح به إلى مضيق هرمز، فسوف نستهدفها. 🔺 لن ​​نسمح بإنشاء أي طريق غير المسار المخصص لإيران في مضيق هرمز. 🔺كنا نستعد لضرب ثلاثة مواقع في أوكرانيا، لكننا ألغينا الهجوم بعد اعتذار أوكرانيا. 🔺 لا نسعى للحرب، لكن القوات المسلحة الإيرانية على أتم الاستعداد وستدافع عن البلاد حتى آخر قطرة من دمها. @برس تي في",
     "time": "19:03",
     "views": 0,
-    "date": "الإثنين 3 أغسطس 2026"
+    "date": "الثلاثاء 4 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "In Minab, Iranian schoolchildren died—not only from their wounds, but also from the sheer terror that followed a US attack, which sent their young hearts into fatal overdrive. @PressTV",
+    "text": "وفي ميناب، مات أطفال المدارس الإيرانيون ــ ليس فقط متأثرين بجراحهم، بل وأيضاً بسبب الرعب المطلق الذي أعقب الهجوم الأميركي، والذي دفع قلوبهم الصغيرة إلى حالة من الجنون القاتل. @برس تي في",
     "time": "18:55",
     "views": 0,
-    "date": "الإثنين 3 أغسطس 2026"
+    "date": "الثلاثاء 4 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "The exchange of fire continues between Russia and Ukraine, with reports of casualties and significant destruction on both sides. @PressTV",
+    "text": "ويتواصل تبادل إطلاق النار بين روسيا وأوكرانيا، مع أنباء عن سقوط ضحايا ودمار كبير في الجانبين. @برس تي في",
     "time": "18:45",
     "views": 0,
-    "date": "الإثنين 3 أغسطس 2026"
-  },
-  {
-    "channel": "PressTV",
-    "text": "Iran Army official: True military strength lies in serving Arbaeen pilgrims An Iranian Army official says true military strength of the armed forces is demonstrated not only on the battlefield but also through serving the millions of pilgrims participating in the annual Arbaeen pilgrimage. @PressTV",
-    "time": "18:35",
-    "views": 0,
-    "date": "الإثنين 3 أغسطس 2026"
-  },
-  {
-    "channel": "PressTV",
-    "text": "Russia-led CSTO says it could use nuclear weapons to defend its allies The Russia-led Collective Security Treaty Organization (CSTO) could employ nuclear weapons to protect its member states if they come under attack, a senior official has confirmed, citing the bloc’s strategic documents and Russia’s military doctrine. @PressTV",
-    "time": "18:25",
-    "views": 0,
-    "date": "الإثنين 3 أغسطس 2026"
+    "date": "الثلاثاء 4 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
     "text": "لم شمل عائلة من غزة مع ابنها الذي يعتقد أنه مات بعد عام من الاعتقال الإسرائيلي",
     "time": "16:21",
     "views": 0,
-    "date": "الإثنين 3 أغسطس 2026",
+    "date": "الثلاثاء 4 أغسطس 2026",
     "translated": true
   },
   {
@@ -249,7 +228,7 @@
     "text": "دعوات واسعة النطاق للحشد في المسجد الأقصى لمواجهة المخططات الإسرائيلية",
     "time": "16:15",
     "views": 0,
-    "date": "الإثنين 3 أغسطس 2026",
+    "date": "الثلاثاء 4 أغسطس 2026",
     "translated": true
   },
   {
@@ -257,7 +236,7 @@
     "text": "مسعد بولس: مثل رجل يؤذن الليبيين للصلاة من مالطا",
     "time": "16:11",
     "views": 0,
-    "date": "الإثنين 3 أغسطس 2026",
+    "date": "الثلاثاء 4 أغسطس 2026",
     "translated": true
   },
   {
@@ -265,7 +244,7 @@
     "text": "يعترف بورنهام بأن حزب العمال \"أخطأ\" فيما يتعلق بغزة مع تزايد الضغوط من أجل الانفصال الكامل عن إسرائيل",
     "time": "15:59",
     "views": 0,
-    "date": "الإثنين 3 أغسطس 2026",
+    "date": "الثلاثاء 4 أغسطس 2026",
     "translated": true
   },
   {
@@ -273,7 +252,7 @@
     "text": "استطلاع: 40% من اليهود الأمريكيين غير المتدينين يتهمون إسرائيل بارتكاب جرائم إبادة جماعية في غزة",
     "time": "15:41",
     "views": 0,
-    "date": "الإثنين 3 أغسطس 2026",
+    "date": "الثلاثاء 4 أغسطس 2026",
     "translated": true
   },
   {
@@ -281,7 +260,7 @@
     "text": "المنتدى الفلسطيني في بريطانيا يرحب بتصريحات آندي بورنهام بشأن غزة وفلسطين",
     "time": "15:29",
     "views": 0,
-    "date": "الإثنين 3 أغسطس 2026",
+    "date": "الثلاثاء 4 أغسطس 2026",
     "translated": true
   },
   {
@@ -289,7 +268,7 @@
     "text": "وتسعى إسرائيل للحصول على الضوء الأخضر الأمريكي لضرب إيران",
     "time": "15:15",
     "views": 0,
-    "date": "الإثنين 3 أغسطس 2026",
+    "date": "الثلاثاء 4 أغسطس 2026",
     "translated": true
   },
   {
@@ -297,7 +276,7 @@
     "text": "بودكاست جاسم العزاوي مع راي ماكغفرن: من يسيطر على وكالة المخابرات المركزية؟",
     "time": "15:01",
     "views": 0,
-    "date": "الإثنين 3 أغسطس 2026",
+    "date": "الثلاثاء 4 أغسطس 2026",
     "translated": true
   },
   {
@@ -305,7 +284,7 @@
     "text": "أردوغان يقول إن قمة الناتو سلطت الضوء على الدور المركزي لتركيا في الأمن العالمي",
     "time": "14:45",
     "views": 0,
-    "date": "الإثنين 3 أغسطس 2026",
+    "date": "الثلاثاء 4 أغسطس 2026",
     "translated": true
   },
   {
@@ -313,7 +292,7 @@
     "text": "صفقة الدفاع المخططة لشركة فولكس فاجن مع إسرائيل تم حظرها من قبل المستثمرين القطريين",
     "time": "14:36",
     "views": 0,
-    "date": "الإثنين 3 أغسطس 2026",
+    "date": "الثلاثاء 4 أغسطس 2026",
     "translated": true
   },
   {
@@ -321,7 +300,7 @@
     "text": "نجاة المتحدث باسم حماس من محاولة اغتيال إسرائيلية",
     "time": "14:19",
     "views": 0,
-    "date": "الإثنين 3 أغسطس 2026",
+    "date": "الثلاثاء 4 أغسطس 2026",
     "translated": true
   },
   {
@@ -329,7 +308,7 @@
     "text": "وفد عسكري إسرائيلي يجري محادثات مع مسؤولين مصريين في القاهرة",
     "time": "14:11",
     "views": 0,
-    "date": "الإثنين 3 أغسطس 2026",
+    "date": "الثلاثاء 4 أغسطس 2026",
     "translated": true
   },
   {
@@ -337,7 +316,7 @@
     "text": "تراجع الشحن عبر مضيق هرمز مع استئناف الأعمال العدائية بين الولايات المتحدة وإيران",
     "time": "14:00",
     "views": 0,
-    "date": "الإثنين 3 أغسطس 2026",
+    "date": "الثلاثاء 4 أغسطس 2026",
     "translated": true
   },
   {
@@ -345,7 +324,7 @@
     "text": "هدم مدرسة يانون يثير المخاوف بشأن مستقبل القرية الفلسطينية القريبة من نابلس",
     "time": "13:55",
     "views": 0,
-    "date": "الإثنين 3 أغسطس 2026",
+    "date": "الثلاثاء 4 أغسطس 2026",
     "translated": true
   },
   {
@@ -353,14 +332,14 @@
     "text": "#شاهد .. استهداف مجاهدي كتائب القسام لجنود العدو وآلياته في محاور القتال بمدينة رفح جنوب القطاع #طوفان_الأقصى",
     "time": "03:26",
     "views": 130,
-    "date": "الإثنين 3 أغسطس 2026"
+    "date": "الثلاثاء 4 أغسطس 2026"
   },
   {
     "channel": "MiddleEastMonitor",
     "text": "سوريا تقول إنها ألقت القبض على خلية مسؤولة عن \"تفجيرات إرهابية\" في دمشق",
     "time": "22:20",
     "views": 0,
-    "date": "الأحد 2 أغسطس 2026",
+    "date": "الإثنين 3 أغسطس 2026",
     "translated": true
   },
   {
@@ -368,7 +347,7 @@
     "text": "رئيس الوزراء الإسرائيلي: الحرب مع إيران لم تنته بعد",
     "time": "21:49",
     "views": 0,
-    "date": "الأحد 2 أغسطس 2026",
+    "date": "الإثنين 3 أغسطس 2026",
     "translated": true
   },
   {
@@ -376,7 +355,7 @@
     "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-take-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"هناك \"كانت هستيريا جنونية، مع اتخاذ قرارات دون أي معلومات تم التحقق منها\": أمر جيش الدفاع الإسرائيلي بتوجيه هانيبال في 7 أكتوبر بمنع حماس من أسر الجنود",
     "time": "21:46",
     "views": 225,
-    "date": "الأحد 2 أغسطس 2026",
+    "date": "الإثنين 3 أغسطس 2026",
     "translated": true
   },
   {
@@ -384,7 +363,7 @@
     "text": "ميرز الألماني يقول لنتنياهو إن الاتفاق الأمريكي الإيراني هو “أفضل فرصة” للاستقرار",
     "time": "21:32",
     "views": 0,
-    "date": "الأحد 2 أغسطس 2026",
+    "date": "الإثنين 3 أغسطس 2026",
     "translated": true
   },
   {
@@ -392,7 +371,7 @@
     "text": "استشهاد 12 فلسطينيا وإصابة 20 آخرين في غارات إسرائيلية على غزة وسط انتهاكات لوقف إطلاق النار",
     "time": "18:59",
     "views": 0,
-    "date": "الأحد 2 أغسطس 2026",
+    "date": "الإثنين 3 أغسطس 2026",
     "translated": true
   },
   {
@@ -400,7 +379,7 @@
     "text": "تقول بعثة حفظ السلام التابعة للأمم المتحدة إن الوضع الأمني ​​في جنوب لبنان لا يزال هشاً",
     "time": "18:53",
     "views": 0,
-    "date": "الأحد 2 أغسطس 2026",
+    "date": "الإثنين 3 أغسطس 2026",
     "translated": true
   },
   {
@@ -408,7 +387,7 @@
     "text": "تقرير يكشف شبكة مؤيدة لإسرائيل تدفع ألمانيا إلى وقف تمويل الأونروا",
     "time": "18:17",
     "views": 0,
-    "date": "الأحد 2 أغسطس 2026",
+    "date": "الإثنين 3 أغسطس 2026",
     "translated": true
   },
   {
@@ -416,7 +395,7 @@
     "text": "بيان الهيئة الوطنية للعمل الشعبي الفلسطيني حول الانتخابات المقبلة",
     "time": "18:06",
     "views": 0,
-    "date": "الأحد 2 أغسطس 2026",
+    "date": "الإثنين 3 أغسطس 2026",
     "translated": true
   },
   {
@@ -424,7 +403,7 @@
     "text": "نماذج التمويل الفاشلة للفلسطينيين في غزة",
     "time": "17:54",
     "views": 0,
-    "date": "الأحد 2 أغسطس 2026",
+    "date": "الإثنين 3 أغسطس 2026",
     "translated": true
   },
   {
@@ -432,7 +411,7 @@
     "text": "حسام أبو صفية؛ عندما يدق الرهينة ناقوس الخطر نيابة عن آلاف المعتقلين",
     "time": "17:53",
     "views": 0,
-    "date": "الأحد 2 أغسطس 2026",
+    "date": "الإثنين 3 أغسطس 2026",
     "translated": true
   },
   {
@@ -440,7 +419,7 @@
     "text": "غزة: على الأرض مع معتصم دلول | الأسبوع 08 يوليو",
     "time": "17:34",
     "views": 0,
-    "date": "الأحد 2 أغسطس 2026",
+    "date": "الإثنين 3 أغسطس 2026",
     "translated": true
   },
   {
@@ -448,7 +427,7 @@
     "text": "الحرس الثوري الإيراني يقول إنه ضرب مركز القيادة الأمريكي والقاعدة الجوية الأردنية بعشرة صواريخ باليستية",
     "time": "17:30",
     "views": 0,
-    "date": "الأحد 2 أغسطس 2026",
+    "date": "الإثنين 3 أغسطس 2026",
     "translated": true
   },
   {
@@ -456,7 +435,7 @@
     "text": "عباس يحدد 28 تشرين الثاني/نوفمبر لإجراء أول انتخابات تشريعية فلسطينية منذ أكثر من 20 عاما",
     "time": "17:23",
     "views": 0,
-    "date": "الأحد 2 أغسطس 2026",
+    "date": "الإثنين 3 أغسطس 2026",
     "translated": true
   },
   {
@@ -464,7 +443,7 @@
     "text": "الرابع من يوليو: جنازة طهران وعيد ميلاد ترامب",
     "time": "17:13",
     "views": 0,
-    "date": "الأحد 2 أغسطس 2026",
+    "date": "الإثنين 3 أغسطس 2026",
     "translated": true
   },
   {
@@ -472,7 +451,7 @@
     "text": "مرآة الهند الإسرائيلية",
     "time": "16:57",
     "views": 0,
-    "date": "الأحد 2 أغسطس 2026",
+    "date": "الإثنين 3 أغسطس 2026",
     "translated": true
   },
   {
@@ -480,7 +459,7 @@
     "text": "الولايات المتحدة تضرب جسراً استراتيجياً للسكك الحديدية يربط إيران بالصين وروسيا",
     "time": "16:57",
     "views": 0,
-    "date": "الأحد 2 أغسطس 2026",
+    "date": "الإثنين 3 أغسطس 2026",
     "translated": true
   },
   {
@@ -488,7 +467,7 @@
     "text": "يقود الحاخام الأكبر دعوات لمنع مناقشة كنيسة إنجلترا لتقرير الإبادة الجماعية للمسيحيين الفلسطينيين",
     "time": "16:29",
     "views": 0,
-    "date": "الأحد 2 أغسطس 2026",
+    "date": "الإثنين 3 أغسطس 2026",
     "translated": true
   },
   {
@@ -496,7 +475,7 @@
     "text": "تقول القيادة المركزية الأمريكية إنها أكملت جولة أخرى من الضربات على إيران",
     "time": "16:03",
     "views": 0,
-    "date": "الأحد 2 أغسطس 2026",
+    "date": "الإثنين 3 أغسطس 2026",
     "translated": true
   },
   {
@@ -504,7 +483,7 @@
     "text": "كيف تقوم إسرائيل والصهاينة الأمريكيون بإلغاء التعديل الأول",
     "time": "15:28",
     "views": 0,
-    "date": "الأحد 2 أغسطس 2026",
+    "date": "الإثنين 3 أغسطس 2026",
     "translated": true
   },
   {
@@ -512,7 +491,7 @@
     "text": "منظمة العفو الدولية تدعو إلى التحقيق في الغارات الجوية الإسرائيلية على لبنان باعتبارها \"جرائم حرب\"",
     "time": "15:12",
     "views": 0,
-    "date": "الأحد 2 أغسطس 2026",
+    "date": "الإثنين 3 أغسطس 2026",
     "translated": true
   },
   {
@@ -520,7 +499,7 @@
     "text": "وزيرا خارجية قطر وإيران يناقشان التوترات الإقليمية ومضيق هرمز",
     "time": "14:57",
     "views": 0,
-    "date": "الأحد 2 أغسطس 2026",
+    "date": "الإثنين 3 أغسطس 2026",
     "translated": true
   },
   {
@@ -528,7 +507,7 @@
     "text": "مسؤول سابق في سلاح الجو الباكستاني يقول إن إسرائيل لا تريد أن ينجح الاتفاق الأمريكي الإيراني",
     "time": "14:30",
     "views": 0,
-    "date": "الأحد 2 أغسطس 2026",
+    "date": "الإثنين 3 أغسطس 2026",
     "translated": true
   },
   {
@@ -536,35 +515,70 @@
     "text": "أسعار النفط ترتفع بعد الضربات الأمريكية الجديدة على إيران",
     "time": "14:23",
     "views": 0,
+    "date": "الإثنين 3 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "suppressednews",
+    "text": "عاجل: التقارير الأولية عن استشهاد ما لا يقل عن 100 شهيد في قصف إسرائيلي استهدف مدرسة \"التابعين\" في حي الدرج وسط مدينة غزة.",
+    "time": "02:56",
+    "views": 152,
+    "date": "الإثنين 3 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "suppressednews",
+    "text": "سرقوا فرحته وتوجه للحصول على شهادة ميلاد للتوأم آسر وأيسل – بعد 4 أيام. فرجع فاستشهدوا مع أمهم. ما الألم الذي يسببه حمل شهادة ميلاد ووفاة أطفالك في نفس اليوم؟ حسبنا الله ونعم الوكيل 💔 💔 💔 💔",
+    "time": "18:26",
+    "views": 175,
     "date": "الأحد 2 أغسطس 2026",
     "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "BREAKING: Initial reports of at-least 100 Martyrs in an Israeli strike that targeted \"Al-Tabi'in\" school in Al-Daraj neighborhood in central Gaza City.",
-    "time": "02:56",
-    "views": 152,
-    "date": "الأحد 2 أغسطس 2026"
-  },
-  {
-    "channel": "suppressednews",
-    "text": "They stole his joy. He went to obtain a birth certificate for the twins Aser and Aysel - 4 days later. He returned and they were martyred along with their mother. What pain does it have to hold the birth certificate and death certificate of your children on the same day? God is sufficient for us, and He is the best disposer of affairs 💔 💔 💔 💔",
-    "time": "18:26",
-    "views": 175,
-    "date": "السبت 1 أغسطس 2026"
-  },
-  {
-    "channel": "suppressednews",
-    "text": "For forty days and nights, the Western media lamented the lie of Israeli children with their heads cut off, with which the occupation deceived the world, and they did not see a single picture confirming its claims... while every day the headless children of Gaza appear to us in painful pictures, without their weeping, and the media biased towards the occupation and complicit in the crime does not dare. 💔 💔 💔 💔 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭",
+    "text": "أربعون يوماً وليلة، رثى الإعلام الغربي كذبة أطفال إسرائيليين مقطوعة الرأس، التي خدع بها الاحتلال العالم، ولم يروا صورة واحدة تؤكد ادعاءاته... بينما أطفال غزة مقطوعي الرأس يظهرون لنا كل يوم بصور مؤلمة، دون بكاء، ولا يجرؤ الإعلام المنحاز للاحتلال والمتواطئ في الجريمة. 💔 💔 💔 💔 ؟؟؟؟؟؟؟",
     "time": "04:39",
     "views": 184,
-    "date": "السبت 1 أغسطس 2026"
+    "date": "الأحد 2 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "وكالعادة يقتل عدد كبير عند وقوع الكارثة، ويتوفى عدد آخر تدريجياً متأثراً بجراحه بعد وقوعها. توفي عمر الجعبري، 13 عاماً، متأثراً بجراحه في مستشفى كمال عدوان. وكان من بين ضحايا مجزرة مدرسة التابعين قبل يومين. وأصيب عمر بحروق شديدة نتيجة الصواريخ الأمريكية التي تنتج درجات حرارة عالية جدا، ولم يصب بشكل مباشر، وإلا لكان قد تحول إلى أشلاء وذاب جسده. 💔 💔 💔",
+    "text": "وكالعادة يقتل عدد كبير عند وقوع الكارثة، ويتوفى عدد آخر تدريجياً متأثراً بجراحه بعد وقوعها. توفي عمر الجعبري، 13 عاماً، متأثراً بجراحه في مستشفى كمال عدوان. وكان من بين ضحايا مجزرة مدرسة التابعين قبل يومين. وأصيب عمر بحروق شديدة نتيجة الصواريخ الأمريكية التي تنتج درجات حرارة عالية للغاية، ولم يصب بشكل مباشر، وإلا لكان قد تحول إلى أشلاء وذاب جسده. 💔 💔 💔",
     "time": "04:38",
     "views": 168,
+    "date": "الأحد 2 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "suppressednews",
+    "text": "تخيل للحظة أن هذا هو طفلك؟ كيف سيكون شعورك تجاه الصهاينة؟",
+    "time": "20:57",
+    "views": 216,
+    "date": "السبت 1 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "suppressednews",
+    "text": "يا جمال عيونك هذا رأس الطفل الملاك أسامة أبو الندى الذي قطعته إسرائيل أمس. استشهد أسامة مع والده طه أبو الندى ووالدته هدى وإخوته نور ودانا وغني وجنا.",
+    "time": "17:25",
+    "views": 381,
+    "date": "السبت 1 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "suppressednews",
+    "text": "بالأمس قطعت إسرائيل رأس طفل فلسطيني في غزة 🔞 🔞 🔞 🔞",
+    "time": "17:24",
+    "views": 358,
+    "date": "السبت 1 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "suppressednews",
+    "text": "هكذا كان الطفل الجميل تيم قبل أن يقسمه إسرائيل إلى نصفين. ومع حجم بشاعة تلك المجازر فإنني أكره.",
+    "time": "17:22",
+    "views": 283,
     "date": "السبت 1 أغسطس 2026",
     "translated": true
   }
