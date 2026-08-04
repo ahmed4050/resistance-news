@@ -112,10 +112,26 @@
     "translated": true
   },
   {
+    "channel": "PressTV",
+    "text": "◀️ إسبانيا تقيم حاجزًا بحريًا عائمًا في محاولة لمنع المهاجرين من شق طريقهم إلى جيب سبتة الإسباني. @برس تي في",
+    "time": "19:22",
+    "views": 56,
+    "date": "الثلاثاء 4 أغسطس 2026",
+    "translated": true
+  },
+  {
     "channel": "MiddleEastMonitor",
     "text": "\"الموت للمسيحيين\": تقرير يوثق تصاعد الهجمات ضد المسيحيين من قبل الإسرائيليين في القدس المحتلة",
     "time": "19:16",
     "views": 0,
+    "date": "الثلاثاء 4 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "◀️قال وزير التجارة الباكستاني جام كمال خان إن طهران وإسلام آباد اتفقتا على خارطة طريق لزيادة التجارة الثنائية إلى 10 مليارات دولار من خلال إزالة الحواجز التجارية والتقدم نحو اتفاقية التجارة الحرة. @برس تي في",
+    "time": "19:15",
+    "views": 229,
     "date": "الثلاثاء 4 أغسطس 2026",
     "translated": true
   },
@@ -137,26 +153,50 @@
   },
   {
     "channel": "PressTV",
-    "text": "◀️ قوات الاحتلال الإسرائيلي تقطع طريق سيارة إسعاف فلسطينية تقل مريضاً في حالة حرجة إلى أحد مستشفيات الضفة الغربية المحتلة. @برس تي في",
-    "time": "18:36",
-    "views": 281,
+    "text": "◀️ المزيد من لقطات مراسم تشييع أكثر من 110 فلسطينيين استشهدوا في الغارات الإسرائيلية على غزة @PressTV",
+    "time": "19:05",
+    "views": 415,
     "date": "الثلاثاء 4 أغسطس 2026",
     "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "◀️تعرض سفينة شحن هندية للقصف والغرق بالقرب من ميناء الحديدة اليمني على البحر الأحمر. @برس تي في",
+    "time": "18:50",
+    "views": 796,
+    "date": "الثلاثاء 4 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "▶️ Israeli forces blocked the way of a Palestinian ambulance carrying a critical patient to a hospital in the occupied West Bank. @PressTV",
+    "time": "18:36",
+    "views": 895,
+    "date": "الثلاثاء 4 أغسطس 2026"
   },
   {
     "channel": "PressTV",
     "text": "الجيش الأمريكي يستنزف مخزونه من الصواريخ بعيدة المدى في الحرب العدوانية ضد إيران: تقرير 🔹 أفادت التقارير أن الجيش الأمريكي استنفد الكثير من مخزونه من الصواريخ بعيدة المدى الدقيقة خلال حربه التي استمرت خمسة أشهر على إيران، مما أضعف قدرة واشنطن على الحفاظ على سياسات الدعوة إلى الحرب. @برس تي في",
     "time": "18:15",
-    "views": 673,
+    "views": 0,
     "date": "الثلاثاء 4 أغسطس 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "Iranian boy who lost his family in US strikes on Qeshm Island: \"I will continue on your path. I will make sure that all people will be proud of you.\" @PressTV",
+    "text": "الصبي الإيراني الذي فقد عائلته في الغارات الأمريكية على جزيرة قشم: \"سأستمر في طريقك. وسأتأكد من أن كل الناس سيكونون فخورين بك\". @برس تي في",
     "time": "17:55",
-    "views": 873,
-    "date": "الثلاثاء 4 أغسطس 2026"
+    "views": 0,
+    "date": "الثلاثاء 4 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "🔴 مسؤول إيراني رفيع لـ Press TV: المحادثات الإيرانية العمانية بشأن ممر هرمز تدخل مرحلة جديدة رغم العرقلة الأمريكية 🔴 “استمرار محادثات هرمز الإيرانية العمانية يظهر التزام إيران الدبلوماسي وتصميمها على حماية حقوقها” 🔴 “طهران تنفذ التزامها بنشاط …",
+    "time": "17:36",
+    "views": 0,
+    "date": "الثلاثاء 4 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
@@ -168,37 +208,8 @@
   },
   {
     "channel": "PressTV",
-    "text": "📷 Over 22 million pilgrims flocked to Karbala for Arba'een mourning ceremonies: Karbala Governor Iraq's Karbala governor has announced that a staggering 22 million pilgrims took part in this year's Arbaeen commemoration, with 5 million of them arriving from outside Iraq—underscoring the event's massive global pull despite regional tensions. @PressTV",
+    "text": "📷 توافد أكثر من 22 مليون زائر إلى كربلاء لحضور مراسم عزاء الأربعين: محافظ كربلاء أعلن محافظ كربلاء العراقي أن 22 مليون زائر شاركوا في مراسم عزاء الأربعين هذا العام، منهم 5 ملايين قادمون من خارج العراق - مما يؤكد التأثير العالمي الهائل للحدث على الرغم من التوترات الإقليمية. @برس تي في",
     "time": "17:15",
-    "views": 0,
-    "date": "الثلاثاء 4 أغسطس 2026"
-  },
-  {
-    "channel": "PressTV",
-    "text": "🔴 Top Iran official to Press TV: Iran-Oman talks on Hormuz corridor enter new phase, despite US obstruction 🔴 ‘Continued Iran-Oman Hormuz talks show Iran diplomatic engagement, determination to safeguard its rights’ 🔴 ‘Tehran actively implemented commitment…",
-    "time": "17:08",
-    "views": 0,
-    "date": "الثلاثاء 4 أغسطس 2026"
-  },
-  {
-    "channel": "PressTV",
-    "text": "▶️ Anti-Trump protests sparked Flamingo Revolution in Albania Dieter Reinisch reports from Tirana. @PressTV",
-    "time": "16:50",
-    "views": 0,
-    "date": "الثلاثاء 4 أغسطس 2026"
-  },
-  {
-    "channel": "PressTV",
-    "text": "◀️ \"لا تستطيع الولايات المتحدة أن تعلمنا السيادة\" يرى مجيد شحادة أن الدول العربية والإسلامية يجب أن تسعى إلى الاستقلال والسيطرة على مواردها بدلاً من اتباع سياسات القوى الأجنبية. @برس تي في",
-    "time": "16:36",
-    "views": 0,
-    "date": "الثلاثاء 4 أغسطس 2026",
-    "translated": true
-  },
-  {
-    "channel": "PressTV",
-    "text": "◀️ قوات الاحتلال الإسرائيلي تشعل النار في منطقة وادي السلوقي جنوب لبنان. @برس تي في",
-    "time": "16:25",
     "views": 0,
     "date": "الثلاثاء 4 أغسطس 2026",
     "translated": true
@@ -516,10 +527,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "They stole his joy. He went to obtain a birth certificate for the twins Aser and Aysel - 4 days later. He returned and they were martyred along with their mother. What pain does it have to hold the birth certificate and death certificate of your children on the same day? God is sufficient for us, and He is the best disposer of affairs 💔 💔 💔 💔",
+    "text": "سرقوا فرحته وتوجه للحصول على شهادة ميلاد للتوأم آسر وأيسل – بعد 4 أيام. فرجع فاستشهدوا مع أمهم. ما الألم الذي يسببه حمل شهادة ميلاد ووفاة أطفالك في نفس اليوم؟ حسبنا الله ونعم الوكيل 💔 💔 💔 💔",
     "time": "18:26",
     "views": 175,
-    "date": "الأحد 2 أغسطس 2026"
+    "date": "الأحد 2 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
@@ -531,9 +543,10 @@
   },
   {
     "channel": "suppressednews",
-    "text": "As usual, a large number are killed when the disaster strikes, and another number gradually succumbs to their wounds after it occurs. Omar Al-Jaabari, 13 years old, died of his wounds at Kamal Adwan Hospital. He was among the victims of the massacre at Al-Tabaeen School two days ago. Omar suffered severe burns as a result of the American missiles that produce very high temperatures, and he was not directly injured, otherwise he would have been turned into pieces and his body would have melted. 💔 💔 💔",
+    "text": "وكالعادة يقتل عدد كبير عند وقوع الكارثة، ويتوفى عدد آخر تدريجياً متأثراً بجراحه بعد وقوعها. توفي عمر الجعبري، 13 عاماً، متأثراً بجراحه في مستشفى كمال عدوان. وكان من بين ضحايا مجزرة مدرسة التابعين قبل يومين. وأصيب عمر بحروق شديدة نتيجة الصواريخ الأمريكية التي تنتج درجات حرارة عالية للغاية، ولم يصب بشكل مباشر، وإلا لكان قد تحول إلى أشلاء وذاب جسده. 💔 💔 💔",
     "time": "04:38",
     "views": 168,
-    "date": "الأحد 2 أغسطس 2026"
+    "date": "الأحد 2 أغسطس 2026",
+    "translated": true
   }
 ]
