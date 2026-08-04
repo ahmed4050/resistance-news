@@ -24,6 +24,14 @@
     "date": "الإثنين 4 أغسطس 2026"
   },
   {
+    "channel": "YouTube-AlAouni",
+    "text": "انهيار آخر لترامب في اوكرانيا.. منظومة \"راسفيت\" جزء من السر لدى إيران و استيلاء روسيا على 650 كلم؟",
+    "link": "https://www.youtube.com/watch?v=icvq3KfRMLg",
+    "views": 0,
+    "time": "",
+    "date": "الإثنين 4 أغسطس 2026"
+  },
+  {
     "channel": "MiddleEastMonitor",
     "text": "وفي حديثه مع الرئيس الإيراني، حث رئيس الوزراء الباكستاني الولايات المتحدة وإيران على الالتزام باتفاق السلام",
     "time": "22:23",
@@ -96,6 +104,14 @@
     "translated": true
   },
   {
+    "channel": "PressTV",
+    "text": "كشفت الصين عن أول لقطات جوية لقاذفة القنابل H-6N المجهزة بالصاروخ الباليستي JL-1 الذي يطلق من الجو بقدرات نووية، وهي تحلق تحت حراسة طائرتين شبحيتين من طراز J-20. يُعتقد أن JL-1 هو صاروخ ALBM ذو قدرة نووية ويقدر مداه بحوالي 8000 كيلومتر، ويتميز بقدرات إعادة الدخول التي تفوق سرعتها سرعة الصوت وأدوار محتملة في كل من المهام المضادة للسفن والهجوم البري. @برس تي في",
+    "time": "20:20",
+    "views": 501,
+    "date": "الثلاثاء 4 أغسطس 2026",
+    "translated": true
+  },
+  {
     "channel": "MiddleEastMonitor",
     "text": "رئيس الأمن الإيراني يحذر إسرائيل ’لن تكون في مأمن من الرد’",
     "time": "20:06",
@@ -107,7 +123,7 @@
     "channel": "PressTV",
     "text": "ضرب سفينة هندية وغرقها بعد هجوم قبالة اليمن في البحر الأحمر: تقرير تعرضت سفينة يعتقد أنها تابعة للهند للضرب والغرق بالقرب من ميناء الحديدة اليمني في البحر الأحمر. @برس تي في",
     "time": "19:55",
-    "views": 248,
+    "views": 919,
     "date": "الثلاثاء 4 أغسطس 2026",
     "translated": true
   },
@@ -123,16 +139,17 @@
     "channel": "PressTV",
     "text": "◀️ دمرت الفيضانات والتدفقات الطينية الجسور وجرفت المنازل في خيبر بختونخوا، باكستان. @برس تي في",
     "time": "19:28",
-    "views": 731,
+    "views": 0,
     "date": "الثلاثاء 4 أغسطس 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "▶️ Spain installs a floating sea barrier in an attempt to block migrants from making their way into the Spanish enclave of Ceuta. @PressTV",
+    "text": "◀️ إسبانيا تقيم حاجزًا بحريًا عائمًا في محاولة لمنع المهاجرين من شق طريقهم إلى جيب سبتة الإسباني. @برس تي في",
     "time": "19:22",
-    "views": 825,
-    "date": "الثلاثاء 4 أغسطس 2026"
+    "views": 0,
+    "date": "الثلاثاء 4 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -144,11 +161,10 @@
   },
   {
     "channel": "PressTV",
-    "text": "◀️قال وزير التجارة الباكستاني جام كمال خان إن طهران وإسلام آباد اتفقتا على خارطة طريق لزيادة التجارة الثنائية إلى 10 مليارات دولار من خلال إزالة الحواجز التجارية والتقدم نحو اتفاقية التجارة الحرة. @برس تي في",
+    "text": "▶️ Pakistan's Commerce Minister Jam Kamal Khan says Tehran and Islamabad have agreed on a roadmap to increase bilateral trade to 10 billion dollars by removing trade barriers and advancing toward a free trade agreement. @PressTV",
     "time": "19:15",
-    "views": 850,
-    "date": "الثلاثاء 4 أغسطس 2026",
-    "translated": true
+    "views": 0,
+    "date": "الثلاثاء 4 أغسطس 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -170,7 +186,7 @@
     "channel": "PressTV",
     "text": "◀️ المزيد من لقطات مراسم تشييع أكثر من 110 فلسطينيين استشهدوا في الغارات الإسرائيلية على غزة @PressTV",
     "time": "19:05",
-    "views": 956,
+    "views": 0,
     "date": "الثلاثاء 4 أغسطس 2026",
     "translated": true
   },
@@ -224,10 +240,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "📷 Over 22 million pilgrims flocked to Karbala for Arba'een mourning ceremonies: Karbala Governor Iraq's Karbala governor has announced that a staggering 22 million pilgrims took part in this year's Arbaeen commemoration, with 5 million of them arriving from outside Iraq—underscoring the event's massive global pull despite regional tensions. @PressTV",
+    "text": "📷 توافد أكثر من 22 مليون زائر إلى كربلاء لحضور مراسم عزاء الأربعين: محافظ كربلاء أعلن محافظ كربلاء العراقي أن 22 مليون زائر شاركوا في مراسم عزاء الأربعين هذا العام، منهم 5 ملايين قادمون من خارج العراق - مما يؤكد التأثير العالمي الهائل للحدث على الرغم من التوترات الإقليمية. @برس تي في",
     "time": "17:15",
     "views": 0,
-    "date": "الثلاثاء 4 أغسطس 2026"
+    "date": "الثلاثاء 4 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -550,10 +567,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "For forty days and nights, the Western media lamented the lie of Israeli children with their heads cut off, with which the occupation deceived the world, and they did not see a single picture confirming its claims... while every day the headless children of Gaza appear to us in painful pictures, without their weeping, and the media biased towards the occupation and complicit in the crime does not dare. 💔 💔 💔 💔 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭",
+    "text": "أربعون يوماً وليلة، رثى الإعلام الغربي كذبة أطفال إسرائيليين مقطوعة الرأس، التي خدع بها الاحتلال العالم، ولم يروا صورة واحدة تؤكد ادعاءاته... بينما أطفال غزة مقطوعي الرأس يظهرون لنا كل يوم بصور مؤلمة، دون بكاء، ولا يجرؤ الإعلام المنحاز للاحتلال والمتواطئ في الجريمة. 💔 💔 💔 💔 ؟؟؟؟؟؟؟",
     "time": "04:39",
     "views": 184,
-    "date": "الأحد 2 أغسطس 2026"
+    "date": "الأحد 2 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
