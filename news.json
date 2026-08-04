@@ -104,6 +104,14 @@
     "translated": true
   },
   {
+    "channel": "PressTV",
+    "text": "ضرب سفينة هندية وغرقها بعد هجوم قبالة اليمن في البحر الأحمر: تقرير تعرضت سفينة يعتقد أنها تابعة للهند للضرب والغرق بالقرب من ميناء الحديدة اليمني في البحر الأحمر. @برس تي في",
+    "time": "19:55",
+    "views": 248,
+    "date": "الثلاثاء 4 أغسطس 2026",
+    "translated": true
+  },
+  {
     "channel": "MiddleEastMonitor",
     "text": "ترامب يزعم أن إيران طلبت من الولايات المتحدة مواصلة “المحادثات” ويعلن أن وقف إطلاق النار “انتهى”",
     "time": "19:33",
@@ -113,11 +121,18 @@
   },
   {
     "channel": "PressTV",
-    "text": "◀️ إسبانيا تقيم حاجزًا بحريًا عائمًا في محاولة لمنع المهاجرين من شق طريقهم إلى جيب سبتة الإسباني. @برس تي في",
-    "time": "19:22",
-    "views": 56,
+    "text": "◀️ دمرت الفيضانات والتدفقات الطينية الجسور وجرفت المنازل في خيبر بختونخوا، باكستان. @برس تي في",
+    "time": "19:28",
+    "views": 731,
     "date": "الثلاثاء 4 أغسطس 2026",
     "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "▶️ Spain installs a floating sea barrier in an attempt to block migrants from making their way into the Spanish enclave of Ceuta. @PressTV",
+    "time": "19:22",
+    "views": 825,
+    "date": "الثلاثاء 4 أغسطس 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -131,7 +146,7 @@
     "channel": "PressTV",
     "text": "◀️قال وزير التجارة الباكستاني جام كمال خان إن طهران وإسلام آباد اتفقتا على خارطة طريق لزيادة التجارة الثنائية إلى 10 مليارات دولار من خلال إزالة الحواجز التجارية والتقدم نحو اتفاقية التجارة الحرة. @برس تي في",
     "time": "19:15",
-    "views": 229,
+    "views": 850,
     "date": "الثلاثاء 4 أغسطس 2026",
     "translated": true
   },
@@ -155,7 +170,7 @@
     "channel": "PressTV",
     "text": "◀️ المزيد من لقطات مراسم تشييع أكثر من 110 فلسطينيين استشهدوا في الغارات الإسرائيلية على غزة @PressTV",
     "time": "19:05",
-    "views": 415,
+    "views": 956,
     "date": "الثلاثاء 4 أغسطس 2026",
     "translated": true
   },
@@ -163,16 +178,17 @@
     "channel": "PressTV",
     "text": "◀️تعرض سفينة شحن هندية للقصف والغرق بالقرب من ميناء الحديدة اليمني على البحر الأحمر. @برس تي في",
     "time": "18:50",
-    "views": 796,
+    "views": 0,
     "date": "الثلاثاء 4 أغسطس 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "▶️ Israeli forces blocked the way of a Palestinian ambulance carrying a critical patient to a hospital in the occupied West Bank. @PressTV",
+    "text": "◀️ قوات الاحتلال الإسرائيلي تقطع طريق سيارة إسعاف فلسطينية تقل مريضاً في حالة حرجة إلى أحد مستشفيات الضفة الغربية المحتلة. @برس تي في",
     "time": "18:36",
-    "views": 895,
-    "date": "الثلاثاء 4 أغسطس 2026"
+    "views": 0,
+    "date": "الثلاثاء 4 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
@@ -208,11 +224,10 @@
   },
   {
     "channel": "PressTV",
-    "text": "📷 توافد أكثر من 22 مليون زائر إلى كربلاء لحضور مراسم عزاء الأربعين: محافظ كربلاء أعلن محافظ كربلاء العراقي أن 22 مليون زائر شاركوا في مراسم عزاء الأربعين هذا العام، منهم 5 ملايين قادمون من خارج العراق - مما يؤكد التأثير العالمي الهائل للحدث على الرغم من التوترات الإقليمية. @برس تي في",
+    "text": "📷 Over 22 million pilgrims flocked to Karbala for Arba'een mourning ceremonies: Karbala Governor Iraq's Karbala governor has announced that a staggering 22 million pilgrims took part in this year's Arbaeen commemoration, with 5 million of them arriving from outside Iraq—underscoring the event's massive global pull despite regional tensions. @PressTV",
     "time": "17:15",
     "views": 0,
-    "date": "الثلاثاء 4 أغسطس 2026",
-    "translated": true
+    "date": "الثلاثاء 4 أغسطس 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -535,15 +550,14 @@
   },
   {
     "channel": "suppressednews",
-    "text": "أربعون يوماً وليلة، رثى الإعلام الغربي كذبة أطفال إسرائيليين مقطوعة الرأس، التي خدع بها الاحتلال العالم، ولم يروا صورة واحدة تؤكد ادعاءاته... بينما أطفال غزة مقطوعي الرأس يظهرون لنا كل يوم بصور مؤلمة، دون بكاء، ولا يجرؤ الإعلام المنحاز للاحتلال والمتواطئ في الجريمة. 💔 💔 💔 💔 ؟؟؟؟؟؟؟",
+    "text": "For forty days and nights, the Western media lamented the lie of Israeli children with their heads cut off, with which the occupation deceived the world, and they did not see a single picture confirming its claims... while every day the headless children of Gaza appear to us in painful pictures, without their weeping, and the media biased towards the occupation and complicit in the crime does not dare. 💔 💔 💔 💔 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭",
     "time": "04:39",
     "views": 184,
-    "date": "الأحد 2 أغسطس 2026",
-    "translated": true
+    "date": "الأحد 2 أغسطس 2026"
   },
   {
     "channel": "suppressednews",
-    "text": "وكالعادة يقتل عدد كبير عند وقوع الكارثة، ويتوفى عدد آخر تدريجياً متأثراً بجراحه بعد وقوعها. توفي عمر الجعبري، 13 عاماً، متأثراً بجراحه في مستشفى كمال عدوان. وكان من بين ضحايا مجزرة مدرسة التابعين قبل يومين. وأصيب عمر بحروق شديدة نتيجة الصواريخ الأمريكية التي تنتج درجات حرارة عالية للغاية، ولم يصب بشكل مباشر، وإلا لكان قد تحول إلى أشلاء وذاب جسده. 💔 💔 💔",
+    "text": "وكالعادة يقتل عدد كبير عند وقوع الكارثة، ويتوفى عدد آخر تدريجياً متأثراً بجراحه بعد وقوعها. توفي عمر الجعبري، 13 عاماً، متأثراً بجراحه في مستشفى كمال عدوان. وكان من بين ضحايا مجزرة مدرسة التابعين قبل يومين. وأصيب عمر بحروق شديدة نتيجة الصواريخ الأمريكية التي تنتج درجات حرارة عالية جدا، ولم يصب بشكل مباشر، وإلا لكان قد تحول إلى أشلاء وذاب جسده. 💔 💔 💔",
     "time": "04:38",
     "views": 168,
     "date": "الأحد 2 أغسطس 2026",
