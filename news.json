@@ -3,7 +3,7 @@
     "channel": "PressTV",
     "text": "أقيمت اليوم جنازة جماعية في مدينة غزة لـ 112 فلسطينيًا، من بينهم 40 طفلًا، تم انتشال رفاتهم من تحت الأنقاض بعد ما يقرب من ثلاث سنوات من مقتلهم في غارات جوية إسرائيلية على حي صبرا في نوفمبر/تشرين الثاني 2023. وقال مسؤولون فلسطينيون إن حوالي 308 من أفراد عائلتي الحسينة وأبو شريعة قتلوا في الهجمات، ولا يزال 157 شخصًا في عداد المفقودين. @برس تي في",
     "time": "23:54",
-    "views": 643,
+    "views": 933,
     "date": "الأربعاء 5 أغسطس 2026",
     "translated": true
   },
@@ -11,7 +11,7 @@
     "channel": "PressTV",
     "text": "مستشفيات غزة تكافح من أجل علاج ضحايا الحروق وسط الهجمات الإسرائيلية والقيود على المساعدات، تقرير مطيع أبو مصبح من دير البلح @PressTV",
     "time": "23:20",
-    "views": 905,
+    "views": 0,
     "date": "الأربعاء 5 أغسطس 2026",
     "translated": true
   },
@@ -19,16 +19,17 @@
     "channel": "PressTV",
     "text": "❗️ القبض على رجل مسلح في ملعب ترامب للغولف في كاليفورنيا قبل زيارة الرئيس ألقي القبض على رجل مسلح يبلغ من العمر 38 عامًا في ملعب ترامب للغولف في كاليفورنيا قبل زيارته المقررة إلى لوس أنجلوس. وقالت السلطات إنه لا يوجد ما يشير إلى أنه كان يخطط لشن هجوم، على الرغم من أن التحقيق لا يزال مستمرا. @برس تي في",
     "time": "23:18",
-    "views": 907,
+    "views": 0,
     "date": "الأربعاء 5 أغسطس 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "Huge explosions lit up the night sky over Kiev, following massive explosions in the Ukrainian capital. @PressTV",
+    "text": "أضاءت انفجارات ضخمة سماء الليل فوق كييف، عقب انفجارات ضخمة في العاصمة الأوكرانية. @برس تي في",
     "time": "22:53",
     "views": 0,
-    "date": "الأربعاء 5 أغسطس 2026"
+    "date": "الأربعاء 5 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
@@ -160,11 +161,10 @@
   },
   {
     "channel": "PressTV",
-    "text": "ضرب سفينة هندية وغرقها بعد هجوم قبالة اليمن في البحر الأحمر: تقرير تعرضت سفينة يعتقد أنها تابعة للهند للضرب والغرق بالقرب من ميناء الحديدة اليمني في البحر الأحمر. @برس تي في",
+    "text": "Indian ship hit and sunk after attack off Yemen in Red Sea: Report A vessel believed to belong to India has been hit and sunk near the Yemeni port of Hudaydah in the Red Sea. @PressTV",
     "time": "19:55",
     "views": 0,
-    "date": "الأربعاء 5 أغسطس 2026",
-    "translated": true
+    "date": "الأربعاء 5 أغسطس 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -327,10 +327,19 @@
   },
   {
     "channel": "PressTV",
-    "text": "US finds a new way to ‘undercount’ casualties from Iranian retaliation: Report The US Department of War has introduced a new system for “counting” American military casualties from Iran’s retaliation, separating the troops killed or wounded since July 7 from those recorded during the earlier months, a report shows. @PressTV",
+    "text": "غزة تدفن 112 فلسطينياً استشهدوا على يد إسرائيل، وانتشال الجثث بعد ما يقرب من ثلاث سنوات، تقرير ميناس الجبور من مدينة غزة @PressTV",
+    "time": "00:59",
+    "views": 202,
+    "date": "الأربعاء 5 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "الولايات المتحدة تجد طريقة جديدة لـ \"تقليل عدد\" الضحايا من الانتقام الإيراني: تقرير أظهر تقرير أن وزارة الحرب الأمريكية أدخلت نظامًا جديدًا \"لإحصاء\" الخسائر العسكرية الأمريكية من الانتقام الإيراني، وفصل القوات التي قُتلت أو جرحت منذ 7 يوليو عن تلك المسجلة خلال الأشهر السابقة. @برس تي في",
     "time": "00:20",
-    "views": 363,
-    "date": "الأربعاء 5 أغسطس 2026"
+    "views": 705,
+    "date": "الأربعاء 5 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -518,18 +527,18 @@
   },
   {
     "channel": "suppressednews",
-    "text": "عاجل: التقارير الأولية عن استشهاد ما لا يقل عن 100 شهيد في قصف إسرائيلي استهدف مدرسة \"التابعين\" في حي الدرج وسط مدينة غزة.",
+    "text": "BREAKING: Initial reports of at-least 100 Martyrs in an Israeli strike that targeted \"Al-Tabi'in\" school in Al-Daraj neighborhood in central Gaza City.",
     "time": "02:56",
     "views": 152,
-    "date": "الثلاثاء 4 أغسطس 2026",
-    "translated": true
+    "date": "الثلاثاء 4 أغسطس 2026"
   },
   {
     "channel": "suppressednews",
-    "text": "They stole his joy. He went to obtain a birth certificate for the twins Aser and Aysel - 4 days later. He returned and they were martyred along with their mother. What pain does it have to hold the birth certificate and death certificate of your children on the same day? God is sufficient for us, and He is the best disposer of affairs 💔 💔 💔 💔",
+    "text": "سرقوا فرحته وتوجه للحصول على شهادة ميلاد للتوأم آسر وأيسل – بعد 4 أيام. فرجع فاستشهدوا مع أمهم. ما الألم الذي يسببه حمل شهادة ميلاد ووفاة أطفالك في نفس اليوم؟ حسبنا الله ونعم الوكيل 💔 💔 💔 💔",
     "time": "18:26",
     "views": 175,
-    "date": "الإثنين 3 أغسطس 2026"
+    "date": "الإثنين 3 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
@@ -573,10 +582,9 @@
   },
   {
     "channel": "suppressednews",
-    "text": "هكذا كان الطفل الجميل تيم قبل أن يقسمه إسرائيل إلى نصفين. ومع حجم بشاعة تلك المجازر فإنني أكره.",
+    "text": "This is how the beautiful child Tim was before Israel divided him into two halves. With the scale of the ugliness of those massacres, I hate.",
     "time": "17:22",
     "views": 284,
-    "date": "الأحد 2 أغسطس 2026",
-    "translated": true
+    "date": "الأحد 2 أغسطس 2026"
   }
 ]
