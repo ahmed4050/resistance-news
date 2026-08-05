@@ -24,10 +24,25 @@
     "translated": true
   },
   {
+    "channel": "PressTV",
+    "text": "Israeli soldier Harel Birenshtok, 34, was killed in an explosion in southern Lebanon. @PressTV",
+    "time": "21:48",
+    "views": 40,
+    "date": "الخميس 6 أغسطس 2026"
+  },
+  {
     "channel": "MiddleEastMonitor",
     "text": "مجلس المستشارين الألماني يقدم مشروع قانون لتجريم ’إنكار حق إسرائيل في الوجود’",
     "time": "21:43",
     "views": 0,
+    "date": "الخميس 6 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "🔴 وفقًا لرويترز، حذر الحرس الثوري الإيراني دول الخليج الفارسي من أن أي هجوم أمريكي جديد على إيران سيؤدي إلى انتقام إيراني، بما في ذلك توجيه ضربات إلى البنية التحتية الحيوية للطاقة في جميع أنحاء المنطقة. @برس تي في",
+    "time": "21:24",
+    "views": 550,
     "date": "الخميس 6 أغسطس 2026",
     "translated": true
   },
@@ -41,16 +56,17 @@
   },
   {
     "channel": "PressTV",
-    "text": "For the first time, China has released aerial footage showing an H-6N bomber carrying a JL-1 air-launched ballistic missile capable of delivering a nuclear warhead, while being escorted by two J-20 stealth fighter jets. @PressTV",
+    "text": "ولأول مرة، نشرت الصين لقطات جوية تظهر قاذفة قنابل من طراز H-6N تحمل صاروخاً باليستياً يُطلق من الجو قادراً على حمل رأس حربي نووي، بينما ترافقها طائرتان مقاتلتان من طراز J-20. @برس تي في",
     "time": "21:14",
-    "views": 116,
-    "date": "الخميس 6 أغسطس 2026"
+    "views": 726,
+    "date": "الخميس 6 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
     "text": "Pro-Palestine Democrat wins US state primary, angering Trump, Israel lobby A pro-Palestine Democrat has won a Senate primary in the US state of Michigan, overcoming massive spending by AIPAC for his opponent and angering US President Donald Trump, who views him like other anti-Israeli figures as a “communist”. @PressTV",
     "time": "21:03",
-    "views": 385,
+    "views": 846,
     "date": "الخميس 6 أغسطس 2026"
   },
   {
@@ -73,7 +89,7 @@
     "channel": "PressTV",
     "text": "جنود الاحتلال يعتدون بالضرب على شاب فلسطيني ويعتقلونه بعنف خلال اقتحام مخيم قلنديا للاجئين شمال القدس المحتلة. @برس تي في",
     "time": "20:44",
-    "views": 702,
+    "views": 0,
     "date": "الخميس 6 أغسطس 2026",
     "translated": true
   },
@@ -81,7 +97,7 @@
     "channel": "PressTV",
     "text": "🔴 نائب وزير الخارجية الإيراني: طهران ومسقط على وشك الانتهاء من الاتفاق بشأن الترتيبات الجديدة بشأن هرمز 🔺 غريب آبادي: إيران تسعى إلى إنشاء ممرات ملاحية جديدة في هرمز لأن المسار الحالي يهدد الأمن القومي للبلاد 🔺 غريب آبادي: إيران وعمان توصلتا إلى اتفاق واسع النطاق ...",
     "time": "20:34",
-    "views": 879,
+    "views": 0,
     "date": "الخميس 6 أغسطس 2026",
     "translated": true
   },
@@ -238,22 +254,6 @@
     "translated": true
   },
   {
-    "channel": "PressTV",
-    "text": "إيران وعمان تقتربان من وضع اللمسات النهائية على اتفاق بشأن ممر الشحن التجاري الجديد عبر مضيق هرمز: قال المتحدث باسم وزارة الخارجية الإيرانية إسماعيل بقائي إن طهران ومسقط تقتربان من وضع اللمسات النهائية على اتفاق بشأن ممر شحن تجاري جديد عبر مضيق هرمز، مع...",
-    "time": "18:10",
-    "views": 0,
-    "date": "الخميس 6 أغسطس 2026",
-    "translated": true
-  },
-  {
-    "channel": "PressTV",
-    "text": "◀️ أكثر من 22 مليوناً انضموا إلى المسيرة رغم الحرب والتوترات: لماذا كانت الأربعينية هذا العام مختلفة عن السنوات السابقة @PressTV",
-    "time": "17:45",
-    "views": 0,
-    "date": "الخميس 6 أغسطس 2026",
-    "translated": true
-  },
-  {
     "channel": "MiddleEastMonitor",
     "text": "لم شمل عائلة من غزة مع ابنها الذي يعتقد أنه مات بعد عام من الاعتقال الإسرائيلي",
     "time": "16:21",
@@ -390,10 +390,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-taking-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"There was crazy hysteria, with decisions made without any verified information\": IDF ordered Hannibal directive on October 7 to prevent Hamas taking soldiers captive",
+    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-take-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"هناك \"كانت هستيريا جنونية، مع اتخاذ قرارات دون أي معلومات تم التحقق منها\": أمر جيش الدفاع الإسرائيلي بتوجيه هانيبال في 7 أكتوبر بمنع حماس من أسر الجنود",
     "time": "21:46",
     "views": 225,
-    "date": "الأربعاء 5 أغسطس 2026"
+    "date": "الأربعاء 5 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -581,17 +582,19 @@
   },
   {
     "channel": "suppressednews",
-    "text": "As usual, a large number are killed when the disaster strikes, and another number gradually succumbs to their wounds after it occurs. Omar Al-Jaabari, 13 years old, died of his wounds at Kamal Adwan Hospital. He was among the victims of the massacre at Al-Tabaeen School two days ago. Omar suffered severe burns as a result of the American missiles that produce very high temperatures, and he was not directly injured, otherwise he would have been turned into pieces and his body would have melted. 💔 💔 💔",
+    "text": "وكالعادة يقتل عدد كبير عند وقوع الكارثة، ويتوفى عدد آخر تدريجياً متأثراً بجراحه بعد وقوعها. توفي عمر الجعبري، 13 عاماً، متأثراً بجراحه في مستشفى كمال عدوان. وكان من بين ضحايا مجزرة مدرسة التابعين قبل يومين. وأصيب عمر بحروق شديدة نتيجة الصواريخ الأمريكية التي تنتج درجات حرارة عالية جدا، ولم يصب بشكل مباشر، وإلا لكان قد تحول إلى أشلاء وذاب جسده. 💔 💔 💔",
     "time": "04:38",
     "views": 168,
-    "date": "الثلاثاء 4 أغسطس 2026"
+    "date": "الثلاثاء 4 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "Imagine for a moment in time that this is your child? How would you feel about the Zionists?",
+    "text": "تخيل للحظة من الزمن أن هذا هو طفلك؟ كيف سيكون شعورك تجاه الصهاينة؟",
     "time": "20:57",
     "views": 217,
-    "date": "الإثنين 3 أغسطس 2026"
+    "date": "الإثنين 3 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
