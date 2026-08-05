@@ -25,10 +25,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "Israeli soldier Harel Birenshtok, 34, was killed in an explosion in southern Lebanon. @PressTV",
+    "text": "وقتل الجندي الإسرائيلي هاريل بيرنشتوك (34 عاما) في انفجار في جنوب لبنان. @برس تي في",
     "time": "21:48",
-    "views": 40,
-    "date": "الخميس 6 أغسطس 2026"
+    "views": 517,
+    "date": "الخميس 6 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -42,7 +43,7 @@
     "channel": "PressTV",
     "text": "🔴 وفقًا لرويترز، حذر الحرس الثوري الإيراني دول الخليج الفارسي من أن أي هجوم أمريكي جديد على إيران سيؤدي إلى انتقام إيراني، بما في ذلك توجيه ضربات إلى البنية التحتية الحيوية للطاقة في جميع أنحاء المنطقة. @برس تي في",
     "time": "21:24",
-    "views": 550,
+    "views": 943,
     "date": "الخميس 6 أغسطس 2026",
     "translated": true
   },
@@ -58,16 +59,17 @@
     "channel": "PressTV",
     "text": "ولأول مرة، نشرت الصين لقطات جوية تظهر قاذفة قنابل من طراز H-6N تحمل صاروخاً باليستياً يُطلق من الجو قادراً على حمل رأس حربي نووي، بينما ترافقها طائرتان مقاتلتان من طراز J-20. @برس تي في",
     "time": "21:14",
-    "views": 726,
+    "views": 0,
     "date": "الخميس 6 أغسطس 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "Pro-Palestine Democrat wins US state primary, angering Trump, Israel lobby A pro-Palestine Democrat has won a Senate primary in the US state of Michigan, overcoming massive spending by AIPAC for his opponent and angering US President Donald Trump, who views him like other anti-Israeli figures as a “communist”. @PressTV",
+    "text": "فاز ديمقراطي مؤيد لفلسطين بالانتخابات التمهيدية في الولايات المتحدة، مما أثار غضب ترامب واللوبي الإسرائيلي فاز ديمقراطي مؤيد لفلسطين بالانتخابات التمهيدية في مجلس الشيوخ في ولاية ميشيغان الأمريكية، متغلبًا على الإنفاق الضخم من قبل لجنة الشؤون العامة الأمريكية الإسرائيلية (إيباك) على منافسه، وأثار غضب الرئيس الأمريكي دونالد ترامب، الذي ينظر إليه مثل غيره من الشخصيات المناهضة لإسرائيل باعتباره \"شيوعيًا\". @برس تي في",
     "time": "21:03",
-    "views": 846,
-    "date": "الخميس 6 أغسطس 2026"
+    "views": 0,
+    "date": "الخميس 6 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -231,24 +233,15 @@
   },
   {
     "channel": "PressTV",
-    "text": "معلمون اسكتلنديون يتحدون الضغوط المؤيدة لإسرائيل، ويتعهدون بتدريس الإبادة الجماعية في غزة رفضت مجموعة من المعلمين الاسكتلنديين المدافعين عن السلام في الأراضي الفلسطينية المحتلة المزاعم التي قدمتها مجموعة ضغط مؤيدة لإسرائيل، مؤكدة تفانيها في التدريس حول فلسطين وحرب الإبادة الجماعية في غزة بناءً على الأدلة والاتفاقيات الدولية. @برس تي في",
+    "text": "Scottish educators defy pro-Israel pressure, vow to teach Gaza genocide A group of Scottish educators advocating for peace in the occupied Palestinian territories has dismissed allegations made by a pro-Israel lobby group, affirming its dedication to teaching about Palestine and the genocidal war in Gaza based on evidence and international conventions. @PressTV",
     "time": "18:30",
     "views": 0,
-    "date": "الخميس 6 أغسطس 2026",
-    "translated": true
+    "date": "الخميس 6 أغسطس 2026"
   },
   {
     "channel": "PressTV",
     "text": "🔴 الجيش اليمني يقول إن استهداف ناقلة النفط السعودية في خليج عدن بصاروخ باليستي أجبرها على التراجع 🔺 الجيش اليمني يقول إن المراقبة الدقيقة لجميع الناقلات السعودية ستمنعها من عبور البحر الأحمر @PressTV",
     "time": "18:28",
-    "views": 0,
-    "date": "الخميس 6 أغسطس 2026",
-    "translated": true
-  },
-  {
-    "channel": "PressTV",
-    "text": "📸 انتقد الوزير الإسرائيلي إيتمار بن جفير النظام القضائي الإسرائيلي بعد أن منعت إحدى المحاكم خطته \"التمساح\" ضد المعتقلين الفلسطينيين. @برس تي في",
-    "time": "18:20",
     "views": 0,
     "date": "الخميس 6 أغسطس 2026",
     "translated": true
@@ -566,11 +559,10 @@
   },
   {
     "channel": "suppressednews",
-    "text": "سرقوا فرحته وتوجه للحصول على شهادة ميلاد للتوأم آسر وأيسل – بعد 4 أيام. فرجع فاستشهدوا مع أمهم. ما الألم الذي يسببه حمل شهادة ميلاد ووفاة أطفالك في نفس اليوم؟ حسبنا الله ونعم الوكيل 💔 💔 💔 💔",
+    "text": "They stole his joy. He went to obtain a birth certificate for the twins Aser and Aysel - 4 days later. He returned and they were martyred along with their mother. What pain does it have to hold the birth certificate and death certificate of your children on the same day? God is sufficient for us, and He is the best disposer of affairs 💔 💔 💔 💔",
     "time": "18:26",
     "views": 175,
-    "date": "الثلاثاء 4 أغسطس 2026",
-    "translated": true
+    "date": "الثلاثاء 4 أغسطس 2026"
   },
   {
     "channel": "suppressednews",
@@ -590,11 +582,10 @@
   },
   {
     "channel": "suppressednews",
-    "text": "تخيل للحظة من الزمن أن هذا هو طفلك؟ كيف سيكون شعورك تجاه الصهاينة؟",
+    "text": "Imagine for a moment in time that this is your child? How would you feel about the Zionists?",
     "time": "20:57",
     "views": 217,
-    "date": "الإثنين 3 أغسطس 2026",
-    "translated": true
+    "date": "الإثنين 3 أغسطس 2026"
   },
   {
     "channel": "suppressednews",
