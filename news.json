@@ -11,7 +11,7 @@
     "channel": "PressTV",
     "text": "أدى حريق غابات سريع الانتشار في مقاطعة كالافيراس بولاية كاليفورنيا إلى عمليات إخلاء عاجلة حيث تهدد النيران المناطق السكنية القريبة. @برس تي في",
     "time": "23:59",
-    "views": 840,
+    "views": 0,
     "date": "الخميس 6 أغسطس 2026",
     "translated": true
   },
@@ -19,7 +19,7 @@
     "channel": "PressTV",
     "text": "لحظة تنفيذ الطيران الإسرائيلي غارة جوية استهدفت بلدة البرج الشمالي في جنوب لبنان. @برس تي في",
     "time": "23:39",
-    "views": 915,
+    "views": 0,
     "date": "الخميس 6 أغسطس 2026",
     "translated": true
   },
@@ -57,11 +57,10 @@
   },
   {
     "channel": "PressTV",
-    "text": "🔴 الجيش اليمني يقول إن استهداف ناقلة النفط السعودية في خليج عدن بصاروخ باليستي أجبرها على التراجع 🔺 الجيش اليمني يقول إن المراقبة الدقيقة لجميع الناقلات السعودية ستمنعها من عبور البحر الأحمر @PressTV",
+    "text": "🔴 Yemeni Army says targeted Saudi oil tanker in Gulf of Aden with ballistic missile, forced it back 🔺 Yemeni Army says closely monitoring all Saudi tankers, will prevent them from transiting Red Sea @PressTV",
     "time": "22:15",
     "views": 0,
-    "date": "الخميس 6 أغسطس 2026",
-    "translated": true
+    "date": "الخميس 6 أغسطس 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -145,19 +144,10 @@
   },
   {
     "channel": "PressTV",
-    "text": "جنود الاحتلال يعتدون بالضرب على شاب فلسطيني ويعتقلونه بعنف خلال اقتحام مخيم قلنديا للاجئين شمال القدس المحتلة. @برس تي في",
+    "text": "Israeli soldiers beat and violently detained a young Palestinian man during a raid on the Qalandiya refugee camp north of occupied al-Quds. @PressTV",
     "time": "20:44",
     "views": 0,
-    "date": "الخميس 6 أغسطس 2026",
-    "translated": true
-  },
-  {
-    "channel": "PressTV",
-    "text": "🔴 نائب وزير الخارجية الإيراني: طهران ومسقط على وشك الانتهاء من الاتفاق بشأن الترتيبات الجديدة بشأن هرمز 🔺 غريب آبادي: إيران تسعى إلى إنشاء ممرات ملاحية جديدة في هرمز لأن المسار الحالي يهدد الأمن القومي للبلاد 🔺 غريب آبادي: إيران وعمان توصلتا إلى اتفاق واسع النطاق ...",
-    "time": "20:34",
-    "views": 0,
-    "date": "الخميس 6 أغسطس 2026",
-    "translated": true
+    "date": "الخميس 6 أغسطس 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -176,25 +166,9 @@
     "translated": true
   },
   {
-    "channel": "PressTV",
-    "text": "الخروقات الإسرائيلية تعرقل تنفيذ وقف إطلاق النار في غزة: المتحدث باسم حماس جددت حركة المقاومة الفلسطينية حماس التأكيد على التزامها باتفاق وقف إطلاق النار في غزة وبخارطة الطريق لتنفيذه، في ظل استمرار إسرائيل في انتهاك الاتفاق وعرقلة تنفيذه، مما دفع الحركة إلى مطالبة الولايات المتحدة بالضغط على النظام للوفاء بالتزاماته. @برس تي في",
-    "time": "20:09",
-    "views": 0,
-    "date": "الخميس 6 أغسطس 2026",
-    "translated": true
-  },
-  {
     "channel": "MiddleEastMonitor",
     "text": "رئيس الأمن الإيراني يحذر إسرائيل ’لن تكون في مأمن من الرد’",
     "time": "20:06",
-    "views": 0,
-    "date": "الخميس 6 أغسطس 2026",
-    "translated": true
-  },
-  {
-    "channel": "PressTV",
-    "text": "🔴 قُتل ثلاثة أشخاص، بينهم المشتبه به، وأصيب شخص آخر في حادث إطلاق نار في بروسبكت هيل بولاية نورث كارولينا، بحسب وسائل إعلام أمريكية. @برس تي في",
-    "time": "19:52",
     "views": 0,
     "date": "الخميس 6 أغسطس 2026",
     "translated": true
@@ -352,9 +326,32 @@
   },
   {
     "channel": "PressTV",
+    "text": "According to CNN, the US military has used nearly 80% of its key missile interceptors, while monthly deliveries of Tomahawk and Patriot missiles remain too low to sustain a prolonged conflict. @PressTV",
+    "time": "02:15",
+    "views": 101,
+    "date": "الخميس 6 أغسطس 2026"
+  },
+  {
+    "channel": "PressTV",
+    "text": "السيناتور الأمريكي مارك كيلي: \"ترامب قال إن هدفه هو إعادة فتح مضيق هرمز الذي كان مفتوحا قبل الحرب. هدفه هو إصلاح الشيء الذي كسره\". @برس تي في",
+    "time": "02:01",
+    "views": 288,
+    "date": "الخميس 6 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "🎤 محادثة - باكستان ملتزمة بتعزيز السلام والأمن من خلال الحوار في غرب آسيا: المبعوث في مقابلة مع موقع Press TV، قال سفير باكستان لدى إيران، عمران أحمد صديقي، إن إسلام آباد تسعى إلى تعزيز السلام الإقليمي من خلال الدبلوماسية والحوار، وتوسيع التجارة الثنائية مع طهران. @برس تي في",
+    "time": "01:31",
+    "views": 621,
+    "date": "الخميس 6 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
     "text": "مستوطنون يشعلون النار في منازل المواطنين في قرية طوبا، جنوب الخليل، ما أدى إلى إصابة مواطنين، بينهم أطفال. @برس تي في",
     "time": "01:04",
-    "views": 258,
+    "views": 815,
     "date": "الخميس 6 أغسطس 2026",
     "translated": true
   },
@@ -362,7 +359,7 @@
     "channel": "PressTV",
     "text": "🔴 أعلنت منظمة UKMTO أنها تلقت بلاغاً عن حادثة على بعد 9 أميال بحرية جنوب شرق كومزار بسلطنة عمان. @برس تي في",
     "time": "00:34",
-    "views": 611,
+    "views": 0,
     "date": "الخميس 6 أغسطس 2026",
     "translated": true
   },
@@ -370,7 +367,7 @@
     "channel": "PressTV",
     "text": "تظهر لقطات جديدة حجم الدمار الذي سببه القصف الأمريكي الإسرائيلي على منطقة رسالت في طهران في 9 مارس 2026. @PressTV",
     "time": "00:18",
-    "views": 743,
+    "views": 0,
     "date": "الخميس 6 أغسطس 2026",
     "translated": true
   },
@@ -392,11 +389,10 @@
   },
   {
     "channel": "suppressednews",
-    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-take-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"هناك \"كانت هستيريا جنونية، مع اتخاذ قرارات دون أي معلومات تم التحقق منها\": أمر جيش الدفاع الإسرائيلي بتوجيه هانيبال في 7 أكتوبر بمنع حماس من أسر الجنود",
+    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-taking-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"There was crazy hysteria, with decisions made without any verified information\": IDF ordered Hannibal directive on October 7 to prevent Hamas taking soldiers captive",
     "time": "21:46",
     "views": 225,
-    "date": "الأربعاء 5 أغسطس 2026",
-    "translated": true
+    "date": "الأربعاء 5 أغسطس 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -576,11 +572,10 @@
   },
   {
     "channel": "suppressednews",
-    "text": "أربعون يوماً وليلة، رثى الإعلام الغربي كذبة أطفال إسرائيليين مقطوعة الرأس، التي خدع بها الاحتلال العالم، ولم يروا صورة واحدة تؤكد ادعاءاته... بينما أطفال غزة مقطوعي الرأس يظهرون لنا كل يوم بصور مؤلمة، دون بكاء، ولا يجرؤ الإعلام المنحاز للاحتلال والمتواطئ في الجريمة. 💔 💔 💔 💔 ؟؟؟؟؟؟؟",
+    "text": "For forty days and nights, the Western media lamented the lie of Israeli children with their heads cut off, with which the occupation deceived the world, and they did not see a single picture confirming its claims... while every day the headless children of Gaza appear to us in painful pictures, without their weeping, and the media biased towards the occupation and complicit in the crime does not dare. 💔 💔 💔 💔 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭",
     "time": "04:39",
     "views": 184,
-    "date": "الثلاثاء 4 أغسطس 2026",
-    "translated": true
+    "date": "الثلاثاء 4 أغسطس 2026"
   },
   {
     "channel": "suppressednews",
@@ -592,11 +587,10 @@
   },
   {
     "channel": "suppressednews",
-    "text": "تخيل للحظة من الزمن أن هذا هو طفلك؟ كيف سيكون شعورك تجاه الصهاينة؟",
+    "text": "Imagine for a moment in time that this is your child? How would you feel about the Zionists?",
     "time": "20:57",
     "views": 217,
-    "date": "الإثنين 3 أغسطس 2026",
-    "translated": true
+    "date": "الإثنين 3 أغسطس 2026"
   },
   {
     "channel": "suppressednews",
