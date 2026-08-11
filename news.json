@@ -1,9 +1,17 @@
 [
   {
     "channel": "PressTV",
+    "text": "📸 القوات الإسرائيلية تفجر منازل مدنيين لبنانيين في بلدة بيت ياحون جنوب لبنان. @برس تي في",
+    "time": "23:15",
+    "views": 155,
+    "date": "الأربعاء 12 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
     "text": "📸 تزعم كوريا الجنوبية أن كوريا الديمقراطية أجرت تجربة إطلاق صاروخ باليستي باتجاه البحر قبالة الساحل الشرقي لشبه الجزيرة الكورية. @برس تي في",
     "time": "23:00",
-    "views": 1,
+    "views": 319,
     "date": "الأربعاء 12 أغسطس 2026",
     "translated": true
   },
@@ -11,7 +19,7 @@
     "channel": "PressTV",
     "text": "◀️ ورد أن تسربًا نفطيًا أدى إلى تلويث الخط الساحلي في جزيرة قشم الإيرانية. @برس تي في",
     "time": "22:45",
-    "views": 656,
+    "views": 0,
     "date": "الأربعاء 12 أغسطس 2026",
     "translated": true
   },
@@ -27,7 +35,7 @@
     "channel": "PressTV",
     "text": "◀️إندلاع حريق هائل في أربيل بالعراق. @برس تي في",
     "time": "22:15",
-    "views": 565,
+    "views": 725,
     "date": "الأربعاء 12 أغسطس 2026",
     "translated": true
   },
@@ -43,7 +51,7 @@
     "channel": "PressTV",
     "text": "قال المتحدث باسم وزارة الخارجية إسماعيل بقائي إن إيران تدافع عن القيم الإنسانية وسط عودة \"الاستعمار\" إن إيران تقف ليس فقط للدفاع عن سيادتها وسلامة أراضيها ضد العدوان ولكن أيضًا لدعم القيم والمبادئ الإنسانية التي تشكلت عبر التاريخ. @برس تي في",
     "time": "22:00",
-    "views": 675,
+    "views": 834,
     "date": "الأربعاء 12 أغسطس 2026",
     "translated": true
   },
@@ -67,7 +75,7 @@
     "channel": "PressTV",
     "text": "📷 التقى الرئيس الإيراني مسعود بيزشكيان وأجرى محادثات مع وزير الداخلية الباكستاني سيد محسن نقفي. @برس تي في",
     "time": "21:40",
-    "views": 851,
+    "views": 963,
     "date": "الأربعاء 12 أغسطس 2026",
     "translated": true
   },
@@ -488,10 +496,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "BREAKING: Initial reports of at-least 100 Martyrs in an Israeli strike that targeted \"Al-Tabi'in\" school in Al-Daraj neighborhood in central Gaza City.",
+    "text": "عاجل: التقارير الأولية عن استشهاد ما لا يقل عن 100 شهيد في قصف إسرائيلي استهدف مدرسة \"التابعين\" في حي الدرج وسط مدينة غزة.",
     "time": "02:56",
     "views": 152,
-    "date": "الثلاثاء 11 أغسطس 2026"
+    "date": "الثلاثاء 11 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
@@ -511,11 +520,10 @@
   },
   {
     "channel": "suppressednews",
-    "text": "وكالعادة يقتل عدد كبير عند وقوع الكارثة، ويتوفى عدد آخر تدريجياً متأثراً بجراحه بعد وقوعها. توفي عمر الجعبري، 13 عاماً، متأثراً بجراحه في مستشفى كمال عدوان. وكان من بين ضحايا مجزرة مدرسة التابعين قبل يومين. وأصيب عمر بحروق شديدة نتيجة الصواريخ الأمريكية التي تنتج درجات حرارة عالية للغاية، ولم يصب بشكل مباشر، وإلا لكان قد تحول إلى أشلاء وذاب جسده. 💔 💔 💔",
+    "text": "As usual, a large number are killed when the disaster strikes, and another number gradually succumbs to their wounds after it occurs. Omar Al-Jaabari, 13 years old, died of his wounds at Kamal Adwan Hospital. He was among the victims of the massacre at Al-Tabaeen School two days ago. Omar suffered severe burns as a result of the American missiles that produce very high temperatures, and he was not directly injured, otherwise he would have been turned into pieces and his body would have melted. 💔 💔 💔",
     "time": "04:38",
     "views": 168,
-    "date": "الإثنين 10 أغسطس 2026",
-    "translated": true
+    "date": "الإثنين 10 أغسطس 2026"
   },
   {
     "channel": "suppressednews",
@@ -527,10 +535,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "Oh the beauty of your eyes, this is the head of the angel child Osama Abu Al-Nada, which Israel cut off yesterday. Osama was martyred with his father, Taha Abu Al-Nada, his mother, Hoda, and his brothers, Nour, Dana, Ghani, and Jana.",
+    "text": "يا جمال عيونك هذا رأس الطفل الملاك أسامة أبو الندى الذي قطعته إسرائيل أمس. استشهد أسامة مع والده طه أبو الندى ووالدته هدى وإخوته نور ودانا وغني وجنا.",
     "time": "17:25",
     "views": 382,
-    "date": "الأحد 9 أغسطس 2026"
+    "date": "الأحد 9 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
