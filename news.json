@@ -9,10 +9,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "Selfless Iranian nurse turned into a hero on his way to work, throwing himself in front of a falling teenage girl to break her fall in the northwestern city of Khoy. The brave act saved the girl's life but left the nurse injured and hospitalized. @PressTV",
+    "text": "تحول ممرض إيراني غير أناني إلى بطل وهو في طريقه إلى العمل، حيث ألقى بنفسه أمام فتاة مراهقة تسقط لتكسر سقوطها في مدينة خوي شمال غرب البلاد. وقد أنقذ هذا العمل الشجاع حياة الفتاة لكنه أدى إلى إصابة الممرضة ونقلها إلى المستشفى. @برس تي في",
     "time": "23:56",
-    "views": 891,
-    "date": "الثلاثاء 11 أغسطس 2026"
+    "views": 0,
+    "date": "الثلاثاء 11 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
@@ -80,23 +81,16 @@
   },
   {
     "channel": "PressTV",
-    "text": "📸 New images show the destruction of US military positions in the region following Iranian strikes. @PressTV",
-    "time": "21:59",
-    "views": 0,
-    "date": "الثلاثاء 11 أغسطس 2026"
-  },
-  {
-    "channel": "MiddleEastMonitor",
-    "text": "غارة جوية إسرائيلية بدون طيار تصيب 3 من العاملين في مستشفى شمال غزة رغم وقف إطلاق النار",
+    "text": "📸 صور جديدة تظهر تدمير المواقع العسكرية الأمريكية في المنطقة إثر الضربات الإيرانية. @برس تي في",
     "time": "21:59",
     "views": 0,
     "date": "الثلاثاء 11 أغسطس 2026",
     "translated": true
   },
   {
-    "channel": "PressTV",
-    "text": "فصائل المقاومة الفلسطينية تقول إن نتنياهو يطيل الحرب من أجل مكاسب سياسية. تقرير غادة إبراهيم من مدينة غزة. @برس تي في",
-    "time": "21:47",
+    "channel": "MiddleEastMonitor",
+    "text": "غارة جوية إسرائيلية بدون طيار تصيب 3 من العاملين في مستشفى شمال غزة رغم وقف إطلاق النار",
+    "time": "21:59",
     "views": 0,
     "date": "الثلاثاء 11 أغسطس 2026",
     "translated": true
@@ -310,24 +304,41 @@
   },
   {
     "channel": "PressTV",
-    "text": "خرج المئات من المتظاهرين المؤيدين لفلسطين إلى شوارع أثينا، مطالبين بالحرية لفلسطين وإنهاء الإبادة الجماعية التي ترتكبها إسرائيل في غزة. @برس تي في",
-    "time": "01:47",
-    "views": 2,
+    "text": "أصبح ترامب رسميًا هو جو بايدن الذي اعتاد السخرية منه، والآن أصبح يلتقط بعض علامات الياء خلال الاجتماعات الرسمية. @برس تي في",
+    "time": "02:33",
+    "views": 70,
     "date": "الثلاثاء 11 أغسطس 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "Colombian rescuers pull a months-old baby alive from the rubble after a powerful 7.4-magnitude earthquake. @PressTV",
+    "text": "وشوهد الرئيس الأمريكي ترامب وهو يلعب الجولف في نادي بيدمينستر الخاص به، مع وجود نظام دفاع جوي قصير المدى AN / TWQ-1 Avenger متمركز في مكان قريب. @برس تي في",
+    "time": "02:10",
+    "views": 417,
+    "date": "الثلاثاء 11 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "خرج المئات من المتظاهرين المؤيدين لفلسطين إلى شوارع أثينا، مطالبين بالحرية لفلسطين وإنهاء الإبادة الجماعية التي ترتكبها إسرائيل في غزة. @برس تي في",
+    "time": "01:47",
+    "views": 570,
+    "date": "الثلاثاء 11 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "رجال الإنقاذ الكولومبيون ينتشلون طفلا عمره أشهر حيا من تحت الأنقاض بعد زلزال قوي بلغت قوته 7.4 درجة. @برس تي في",
     "time": "01:08",
-    "views": 437,
-    "date": "الثلاثاء 11 أغسطس 2026"
+    "views": 842,
+    "date": "الثلاثاء 11 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
     "text": "مواجهة حاكم دبي في شوارع لندن بشأن دور الإمارات في حرب السودان وفظائع قوات الدعم السريع واجه رجل سوداني حاكم دبي ورئيس الوزراء الإماراتي محمد بن راشد آل مكتوم علناً في شوارع وسط لندن، متهماً الإمارات العربية المتحدة بقتل الشعب السوداني من خلال دعمها لقوات الدعم السريع شبه العسكرية. @برس تي في",
     "time": "00:48",
-    "views": 605,
+    "views": 961,
     "date": "الثلاثاء 11 أغسطس 2026",
     "translated": true
   },
@@ -335,7 +346,7 @@
     "channel": "PressTV",
     "text": "الملف الشخصي: من هم كبار المسؤولين العسكريين الجدد في إيران الذين عينهم القائد @PressTV",
     "time": "00:32",
-    "views": 702,
+    "views": 987,
     "date": "الثلاثاء 11 أغسطس 2026",
     "translated": true
   },
@@ -343,7 +354,7 @@
     "channel": "PressTV",
     "text": "\"لم تكن هناك أي حقيقة أو مصداقية في خطة السلام في غزة\" يقول ثيميس تزيماس إن خطة السلام المقترحة في غزة تفتقر إلى المصداقية، مجادلًا بأن الولايات المتحدة وإسرائيل غير مستعدتين لاتخاذ خطوات من شأنها أن تتعارض مع سياسة الإبادة الجماعية المشتركة تجاه غزة. @برس تي في",
     "time": "00:17",
-    "views": 797,
+    "views": 0,
     "date": "الثلاثاء 11 أغسطس 2026",
     "translated": true
   },
@@ -573,11 +584,10 @@
   },
   {
     "channel": "suppressednews",
-    "text": "يا جمال عيونك هذا رأس الطفل الملاك أسامة أبو الندى الذي قطعته إسرائيل أمس. استشهد أسامة مع والده طه أبو الندى ووالدته هدى وإخوته نور ودانا وغني وجنا.",
+    "text": "Oh the beauty of your eyes, this is the head of the angel child Osama Abu Al-Nada, which Israel cut off yesterday. Osama was martyred with his father, Taha Abu Al-Nada, his mother, Hoda, and his brothers, Nour, Dana, Ghani, and Jana.",
     "time": "17:25",
     "views": 382,
-    "date": "السبت 8 أغسطس 2026",
-    "translated": true
+    "date": "السبت 8 أغسطس 2026"
   },
   {
     "channel": "suppressednews",
@@ -589,9 +599,10 @@
   },
   {
     "channel": "suppressednews",
-    "text": "This is how the beautiful child Tim was before Israel divided him into two halves. With the scale of the ugliness of those massacres, I hate.",
+    "text": "هكذا كان الطفل الجميل تيم قبل أن يقسمه إسرائيل إلى نصفين. ومع حجم بشاعة تلك المجازر فإنني أكره.",
     "time": "17:22",
     "views": 284,
-    "date": "السبت 8 أغسطس 2026"
+    "date": "السبت 8 أغسطس 2026",
+    "translated": true
   }
 ]
