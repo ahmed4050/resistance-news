@@ -3,7 +3,7 @@
     "channel": "PressTV",
     "text": "قائد الجيش الإيراني يحث على تعزيز التنسيق في القوات المسلحة من أجل ردع أقوى هنأ قائد الجيش الإيراني اللواء أمير حاتمي كبار القادة العسكريين المعينين حديثا، معربا عن أمله في أن يؤدي التنسيق الوثيق بين الجيش وحرس الثورة الإسلامية إلى تعزيز قدرات إيران الدفاعية والردع والأمن على المدى الطويل. @برس تي في",
     "time": "23:30",
-    "views": 254,
+    "views": 452,
     "date": "الأربعاء 12 أغسطس 2026",
     "translated": true
   },
@@ -11,7 +11,7 @@
     "channel": "PressTV",
     "text": "📸 القوات الإسرائيلية تفجر منازل مدنيين لبنانيين في بلدة بيت ياحون جنوب لبنان. @برس تي في",
     "time": "23:15",
-    "views": 385,
+    "views": 550,
     "date": "الأربعاء 12 أغسطس 2026",
     "translated": true
   },
@@ -19,17 +19,16 @@
     "channel": "PressTV",
     "text": "📸 تزعم كوريا الجنوبية أن كوريا الديمقراطية أجرت تجربة إطلاق صاروخ باليستي باتجاه البحر قبالة الساحل الشرقي لشبه الجزيرة الكورية. @برس تي في",
     "time": "23:00",
-    "views": 505,
+    "views": 635,
     "date": "الأربعاء 12 أغسطس 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "◀️ ورد أن تسربًا نفطيًا أدى إلى تلويث الخط الساحلي في جزيرة قشم الإيرانية. @برس تي في",
+    "text": "▶️ An oil spill has reportedly polluted a coastline on Iran's Qeshm Island. @PressTV",
     "time": "22:45",
     "views": 0,
-    "date": "الأربعاء 12 أغسطس 2026",
-    "translated": true
+    "date": "الأربعاء 12 أغسطس 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -41,11 +40,10 @@
   },
   {
     "channel": "PressTV",
-    "text": "◀️إندلاع حريق هائل في أربيل بالعراق. @برس تي في",
+    "text": "▶️ Massive fire breaks out in Erbil, Iraq. @PressTV",
     "time": "22:15",
-    "views": 832,
-    "date": "الأربعاء 12 أغسطس 2026",
-    "translated": true
+    "views": 926,
+    "date": "الأربعاء 12 أغسطس 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -59,7 +57,7 @@
     "channel": "PressTV",
     "text": "قال المتحدث باسم وزارة الخارجية إسماعيل بقائي إن إيران تدافع عن القيم الإنسانية وسط عودة \"الاستعمار\" إن إيران تقف ليس فقط للدفاع عن سيادتها وسلامة أراضيها ضد العدوان ولكن أيضًا لدعم القيم والمبادئ الإنسانية التي تشكلت عبر التاريخ. @برس تي في",
     "time": "22:00",
-    "views": 938,
+    "views": 0,
     "date": "الأربعاء 12 أغسطس 2026",
     "translated": true
   },
@@ -153,11 +151,10 @@
   },
   {
     "channel": "PressTV",
-    "text": "🔴 القوات المسلحة اليمنية تنفذ عملية استهدفت سفينة معدات عسكرية سعودية في مضيق باب المندب @PressTV",
+    "text": "🔴 Yemeni Armed Forces carried out operation targeting Saudi military equipment ship in Bab el-Mandeb Strait @PressTV",
     "time": "20:15",
     "views": 0,
-    "date": "الأربعاء 12 أغسطس 2026",
-    "translated": true
+    "date": "الأربعاء 12 أغسطس 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -319,6 +316,14 @@
     "date": "الأربعاء 12 أغسطس 2026"
   },
   {
+    "channel": "PressTV",
+    "text": "📸 أفادت شبكة سي بي إس أن الهجمات الأمريكية على اليمن أدت إلى مقتل ما لا يقل عن 153 مدنيًا يمنيًا العام الماضي. @برس تي في",
+    "time": "00:03",
+    "views": 74,
+    "date": "الأربعاء 12 أغسطس 2026",
+    "translated": true
+  },
+  {
     "channel": "MiddleEastMonitor",
     "text": "سوريا تقول إنها ألقت القبض على خلية مسؤولة عن \"تفجيرات إرهابية\" في دمشق",
     "time": "22:20",
@@ -336,11 +341,10 @@
   },
   {
     "channel": "suppressednews",
-    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-take-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"هناك \"كانت هستيريا جنونية، مع اتخاذ قرارات دون أي معلومات تم التحقق منها\": أمر جيش الدفاع الإسرائيلي بتوجيه هانيبال في 7 أكتوبر بمنع حماس من أسر الجنود",
+    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-taking-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"There was crazy hysteria, with decisions made without any verified information\": IDF ordered Hannibal directive on October 7 to prevent Hamas taking soldiers captive",
     "time": "21:46",
     "views": 225,
-    "date": "الثلاثاء 11 أغسطس 2026",
-    "translated": true
+    "date": "الثلاثاء 11 أغسطس 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -504,10 +508,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "BREAKING: Initial reports of at-least 100 Martyrs in an Israeli strike that targeted \"Al-Tabi'in\" school in Al-Daraj neighborhood in central Gaza City.",
+    "text": "عاجل: التقارير الأولية عن استشهاد ما لا يقل عن 100 شهيد في قصف إسرائيلي استهدف مدرسة \"التابعين\" في حي الدرج وسط مدينة غزة.",
     "time": "02:56",
     "views": 152,
-    "date": "الثلاثاء 11 أغسطس 2026"
+    "date": "الثلاثاء 11 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
@@ -535,19 +540,17 @@
   },
   {
     "channel": "suppressednews",
-    "text": "تخيل للحظة من الزمن أن هذا هو طفلك؟ كيف سيكون شعورك تجاه الصهاينة؟",
+    "text": "Imagine for a moment in time that this is your child? How would you feel about the Zionists?",
     "time": "20:57",
     "views": 217,
-    "date": "الأحد 9 أغسطس 2026",
-    "translated": true
+    "date": "الأحد 9 أغسطس 2026"
   },
   {
     "channel": "suppressednews",
-    "text": "يا جمال عيونك هذا رأس الطفل الملاك أسامة أبو الندى الذي قطعته إسرائيل أمس. استشهد أسامة مع والده طه أبو الندى ووالدته هدى وإخوته نور ودانا وغني وجنا.",
+    "text": "Oh the beauty of your eyes, this is the head of the angel child Osama Abu Al-Nada, which Israel cut off yesterday. Osama was martyred with his father, Taha Abu Al-Nada, his mother, Hoda, and his brothers, Nour, Dana, Ghani, and Jana.",
     "time": "17:25",
     "views": 382,
-    "date": "الأحد 9 أغسطس 2026",
-    "translated": true
+    "date": "الأحد 9 أغسطس 2026"
   },
   {
     "channel": "suppressednews",
