@@ -1,10 +1,11 @@
 [
   {
     "channel": "PressTV",
-    "text": "Yemeni Armed Forces announce strikes on Saudi ship and military sites Abdullatif Al-washali reports from Sana'a. @PressTV",
+    "text": "القوات المسلحة اليمنية تعلن عن غارات على سفن سعودية ومواقع عسكرية تقرير عبد اللطيف الوشلي من صنعاء. @برس تي في",
     "time": "22:35",
-    "views": 36,
-    "date": "الخميس 13 أغسطس 2026"
+    "views": 335,
+    "date": "الخميس 13 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -34,7 +35,7 @@
     "channel": "PressTV",
     "text": "العراق يقول إنه لن يغير الموعد النهائي لطرد القوات الأجنبية أكد العراق مجددا أن القوات الأجنبية الموجودة في البلاد كجزء مما يسمى بالتحالف الدولي يجب أن تغادر بالتأكيد في أقل من شهرين، حيث قال رئيس الوزراء علي الزيدي إن الموعد النهائي بنهاية سبتمبر لإنهاء المهمة \"نهائي ولا رجعة فيه\". @برس تي في",
     "time": "21:43",
-    "views": 639,
+    "views": 808,
     "date": "الخميس 13 أغسطس 2026",
     "translated": true
   },
@@ -50,7 +51,7 @@
     "channel": "PressTV",
     "text": "كاريكاتير جديد للفنان اليمني كمال شرف حول هروب ترامب من شاحنة تموين المطار من تركيا. @برس تي في",
     "time": "21:24",
-    "views": 830,
+    "views": 978,
     "date": "الخميس 13 أغسطس 2026",
     "translated": true
   },
@@ -66,7 +67,7 @@
     "channel": "PressTV",
     "text": "أنصار الله: القوات اليمنية ستضرب حقول النفط والمطارات السعودية إذا اندلعت حرب شاملة قال عضو بارز في أنصار الله إن القوات المسلحة اليمنية ستستهدف حقول النفط ومحطات تحلية المياه والمطارات وخطوط نقل الكهرباء عبر المملكة العربية السعودية إذا قررت شن حرب شاملة ضد جارتها الجنوبية. @برس تي في",
     "time": "21:12",
-    "views": 887,
+    "views": 0,
     "date": "الخميس 13 أغسطس 2026",
     "translated": true
   },
@@ -96,11 +97,10 @@
   },
   {
     "channel": "PressTV",
-    "text": "✍️ وجهة نظر - من السلطة إلى الذعر: كيف أجبر الخوف من الصواريخ الإيرانية ترامب على الهروب من تركيا في عربة الطعام؟ يجب أن يتناقض إجلاء ترامب السري من تركيا وسط مخاوف من الصواريخ مع رفض آية الله خامنئي الاختباء على الرغم من التهديدات الموثوقة، مما يؤكد أن القيادة الحقيقية تتحدد بالشجاعة والتضحية والتضامن مع الشعب والالتزام الذي لا يتزعزع بقضية الفرد. بقلم البروفيسور عبد الله دانلادي @PressTV",
+    "text": "✍️ Viewpoint - From power to panic: How fear of Iranian missiles forced Trump to escape Turkey in catering cart Trump’s secret evacuation from Turkey amid missile fears must be contrasted with Ayatollah Khamenei’s refusal to hide despite credible threats, underscoring that true leadership is defined by courage, sacrifice, solidarity with the people, and unwavering commitment to one’s cause. By Prof. Abdullahi Danladi @PressTV",
     "time": "20:47",
-    "views": 993,
-    "date": "الخميس 13 أغسطس 2026",
-    "translated": true
+    "views": 0,
+    "date": "الخميس 13 أغسطس 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -168,11 +168,10 @@
   },
   {
     "channel": "PressTV",
-    "text": "يعتقد المسؤولون الأتراك أن إسرائيل اختلقت “مؤامرة إيرانية” لقتل ترامب: تقرير يظهر تقرير جديد أن المؤامرة الإيرانية المشتبه بها لاغتيال الرئيس الأمريكي دونالد ترامب خلال قمة الناتو الأخيرة في تركيا كانت افتراء من قبل وكالة المخابرات الإسرائيلية لعرقلة المحادثات الإيرانية الأمريكية التي تهدف إلى إنهاء العدوان الأمريكي الإسرائيلي ضد إيران بشكل دائم. @برس تي في",
+    "text": "Turkish officials believe Israel fabricated ‘Iranian plot’ to kill Trump: Report A new report shows that the suspected Iranian plot to assassinate US President Donald Trump during a recent NATO summit in Turkey was a fabrication by the Israeli intelligence agency to derail Iran-US talks aimed at permanently ending the US-Israeli aggression against Iran. @PressTV",
     "time": "19:20",
     "views": 0,
-    "date": "الخميس 13 أغسطس 2026",
-    "translated": true
+    "date": "الخميس 13 أغسطس 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -216,10 +215,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "📸 \"The Strait of Hormuz remains blocked and will not be reopened until Iran’s conditions are accepted\" Iran's Persian Gulf Strait Authority (PGSA) says that the claims and repeated posts by US officials that the Strait of Hormuz is no longer blocked does not change the reality. @PressTV",
+    "text": "📸 \"مضيق هرمز لا يزال مغلقا ولن يتم إعادة فتحه حتى قبول شروط إيران\" تقول هيئة مضيق الخليج العربي الإيرانية (PGSA) إن ادعاءات ومنشورات المسؤولين الأمريكيين المتكررة بأن مضيق هرمز لم يعد مسدودا لا تغير الواقع. @برس تي في",
     "time": "19:00",
     "views": 0,
-    "date": "الخميس 13 أغسطس 2026"
+    "date": "الخميس 13 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
@@ -247,11 +247,10 @@
   },
   {
     "channel": "PressTV",
-    "text": "◀️ يتحدث حسين عماد من قناة Press TV عن تكثيف الغارات الجوية الإسرائيلية وعمليات القصف وعمليات الهدم الخاضعة للرقابة في جميع أنحاء جنوب لبنان، مع استمرار التوترات على الرغم من وقف إطلاق النار. @برس تي في",
+    "text": "▶️ Press TV’s Hossein Emad reports on intensifying Israeli airstrikes, bombardments and controlled demolitions across southern Lebanon, as tensions persist despite the ceasefire. @PressTV",
     "time": "18:15",
     "views": 0,
-    "date": "الخميس 13 أغسطس 2026",
-    "translated": true
+    "date": "الخميس 13 أغسطس 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -390,11 +389,10 @@
   },
   {
     "channel": "suppressednews",
-    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-take-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"هناك \"كانت هستيريا جنونية، مع اتخاذ قرارات دون أي معلومات تم التحقق منها\": أمر جيش الدفاع الإسرائيلي بتوجيه هانيبال في 7 أكتوبر بمنع حماس من أسر الجنود",
+    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-taking-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"There was crazy hysteria, with decisions made without any verified information\": IDF ordered Hannibal directive on October 7 to prevent Hamas taking soldiers captive",
     "time": "21:46",
     "views": 225,
-    "date": "الأربعاء 12 أغسطس 2026",
-    "translated": true
+    "date": "الأربعاء 12 أغسطس 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -582,10 +580,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "As usual, a large number are killed when the disaster strikes, and another number gradually succumbs to their wounds after it occurs. Omar Al-Jaabari, 13 years old, died of his wounds at Kamal Adwan Hospital. He was among the victims of the massacre at Al-Tabaeen School two days ago. Omar suffered severe burns as a result of the American missiles that produce very high temperatures, and he was not directly injured, otherwise he would have been turned into pieces and his body would have melted. 💔 💔 💔",
+    "text": "وكالعادة يقتل عدد كبير عند وقوع الكارثة، ويتوفى عدد آخر تدريجياً متأثراً بجراحه بعد وقوعها. توفي عمر الجعبري، 13 عاماً، متأثراً بجراحه في مستشفى كمال عدوان. وكان من بين ضحايا مجزرة مدرسة التابعين قبل يومين. وأصيب عمر بحروق شديدة نتيجة الصواريخ الأمريكية التي تنتج درجات حرارة عالية للغاية، ولم يصب بشكل مباشر، وإلا لكان قد تحول إلى أشلاء وذاب جسده. 💔 💔 💔",
     "time": "04:38",
     "views": 168,
-    "date": "الثلاثاء 11 أغسطس 2026"
+    "date": "الثلاثاء 11 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
@@ -605,11 +604,10 @@
   },
   {
     "channel": "suppressednews",
-    "text": "بالأمس قطعت إسرائيل رأس طفل فلسطيني في غزة 🔞 🔞 🔞 🔞",
+    "text": "Yesterday, Israel beheaded a Palestinian child in gaza 🔞 🔞 🔞 🔞",
     "time": "17:24",
     "views": 359,
-    "date": "الإثنين 10 أغسطس 2026",
-    "translated": true
+    "date": "الإثنين 10 أغسطس 2026"
   },
   {
     "channel": "suppressednews",
