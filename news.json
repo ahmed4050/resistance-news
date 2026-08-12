@@ -3,7 +3,7 @@
     "channel": "PressTV",
     "text": "قائد الجيش الإيراني يحث على تعزيز التنسيق في القوات المسلحة من أجل ردع أقوى هنأ قائد الجيش الإيراني اللواء أمير حاتمي كبار القادة العسكريين المعينين حديثا، معربا عن أمله في أن يؤدي التنسيق الوثيق بين الجيش وحرس الثورة الإسلامية إلى تعزيز قدرات إيران الدفاعية والردع والأمن على المدى الطويل. @برس تي في",
     "time": "23:30",
-    "views": 452,
+    "views": 693,
     "date": "الأربعاء 12 أغسطس 2026",
     "translated": true
   },
@@ -11,7 +11,7 @@
     "channel": "PressTV",
     "text": "📸 القوات الإسرائيلية تفجر منازل مدنيين لبنانيين في بلدة بيت ياحون جنوب لبنان. @برس تي في",
     "time": "23:15",
-    "views": 550,
+    "views": 717,
     "date": "الأربعاء 12 أغسطس 2026",
     "translated": true
   },
@@ -19,16 +19,17 @@
     "channel": "PressTV",
     "text": "📸 تزعم كوريا الجنوبية أن كوريا الديمقراطية أجرت تجربة إطلاق صاروخ باليستي باتجاه البحر قبالة الساحل الشرقي لشبه الجزيرة الكورية. @برس تي في",
     "time": "23:00",
-    "views": 635,
+    "views": 810,
     "date": "الأربعاء 12 أغسطس 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "▶️ An oil spill has reportedly polluted a coastline on Iran's Qeshm Island. @PressTV",
+    "text": "◀️ ورد أن تسربًا نفطيًا أدى إلى تلويث الخط الساحلي في جزيرة قشم الإيرانية. @برس تي في",
     "time": "22:45",
     "views": 0,
-    "date": "الأربعاء 12 أغسطس 2026"
+    "date": "الأربعاء 12 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -40,10 +41,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "▶️ Massive fire breaks out in Erbil, Iraq. @PressTV",
+    "text": "◀️إندلاع حريق هائل في أربيل بالعراق. @برس تي في",
     "time": "22:15",
-    "views": 926,
-    "date": "الأربعاء 12 أغسطس 2026"
+    "views": 0,
+    "date": "الأربعاء 12 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -151,10 +153,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "🔴 Yemeni Armed Forces carried out operation targeting Saudi military equipment ship in Bab el-Mandeb Strait @PressTV",
+    "text": "🔴 القوات المسلحة اليمنية تنفذ عملية استهدفت سفينة معدات عسكرية سعودية في مضيق باب المندب @PressTV",
     "time": "20:15",
     "views": 0,
-    "date": "الأربعاء 12 أغسطس 2026"
+    "date": "الأربعاء 12 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -317,9 +320,25 @@
   },
   {
     "channel": "PressTV",
+    "text": "◀️ لقطات تظهر آثار استهداف سفينة سعودية من قبل القوات المسلحة اليمنية بينما كانت تحمل معدات عسكرية عبر مضيق باب المندب. @برس تي في",
+    "time": "00:31",
+    "views": 68,
+    "date": "الأربعاء 12 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "◀️ طائرات بدون طيار أوكرانية تحاول ضرب ميناء نوفوروسيسك الروسي على البحر الأسود. @برس تي في",
+    "time": "00:16",
+    "views": 266,
+    "date": "الأربعاء 12 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
     "text": "📸 أفادت شبكة سي بي إس أن الهجمات الأمريكية على اليمن أدت إلى مقتل ما لا يقل عن 153 مدنيًا يمنيًا العام الماضي. @برس تي في",
     "time": "00:03",
-    "views": 74,
+    "views": 382,
     "date": "الأربعاء 12 أغسطس 2026",
     "translated": true
   },
@@ -341,10 +360,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-taking-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"There was crazy hysteria, with decisions made without any verified information\": IDF ordered Hannibal directive on October 7 to prevent Hamas taking soldiers captive",
+    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-take-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"هناك \"كانت هستيريا جنونية، مع اتخاذ قرارات دون أي معلومات تم التحقق منها\": أمر جيش الدفاع الإسرائيلي بتوجيه هانيبال في 7 أكتوبر بمنع حماس من أسر الجنود",
     "time": "21:46",
     "views": 225,
-    "date": "الثلاثاء 11 أغسطس 2026"
+    "date": "الثلاثاء 11 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -532,7 +552,7 @@
   },
   {
     "channel": "suppressednews",
-    "text": "وكالعادة يقتل عدد كبير عند وقوع الكارثة، ويتوفى عدد آخر تدريجياً متأثراً بجراحه بعد وقوعها. توفي عمر الجعبري، 13 عاماً، متأثراً بجراحه في مستشفى كمال عدوان. وكان من بين ضحايا مجزرة مدرسة التابعين قبل يومين. وأصيب عمر بحروق شديدة نتيجة الصواريخ الأمريكية التي تنتج درجات حرارة عالية للغاية، ولم يصب بشكل مباشر، وإلا لكان قد تحول إلى أشلاء وذاب جسده. 💔 💔 💔",
+    "text": "وكالعادة يقتل عدد كبير عند وقوع الكارثة، ويتوفى عدد آخر تدريجياً متأثراً بجراحه بعد وقوعها. توفي عمر الجعبري، 13 عاماً، متأثراً بجراحه في مستشفى كمال عدوان. وكان من بين ضحايا مجزرة مدرسة التابعين قبل يومين. وأصيب عمر بحروق شديدة نتيجة الصواريخ الأمريكية التي تنتج درجات حرارة عالية جدا، ولم يصب بشكل مباشر، وإلا لكان قد تحول إلى أشلاء وذاب جسده. 💔 💔 💔",
     "time": "04:38",
     "views": 168,
     "date": "الإثنين 10 أغسطس 2026",
@@ -540,17 +560,19 @@
   },
   {
     "channel": "suppressednews",
-    "text": "Imagine for a moment in time that this is your child? How would you feel about the Zionists?",
+    "text": "تخيل للحظة من الزمن أن هذا هو طفلك؟ كيف سيكون شعورك تجاه الصهاينة؟",
     "time": "20:57",
     "views": 217,
-    "date": "الأحد 9 أغسطس 2026"
+    "date": "الأحد 9 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "Oh the beauty of your eyes, this is the head of the angel child Osama Abu Al-Nada, which Israel cut off yesterday. Osama was martyred with his father, Taha Abu Al-Nada, his mother, Hoda, and his brothers, Nour, Dana, Ghani, and Jana.",
+    "text": "يا جمال عيونك هذا رأس الطفل الملاك أسامة أبو الندى الذي قطعته إسرائيل أمس. استشهد أسامة مع والده طه أبو الندى ووالدته هدى وإخوته نور ودانا وغني وجنا.",
     "time": "17:25",
     "views": 382,
-    "date": "الأحد 9 أغسطس 2026"
+    "date": "الأحد 9 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
