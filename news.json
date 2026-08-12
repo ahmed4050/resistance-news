@@ -104,14 +104,6 @@
     "translated": true
   },
   {
-    "channel": "PressTV",
-    "text": "◀️شاهد لحظة هبوب رياح شديدة على سيارة في مدينة كولومبوس بولاية أوهايو. @برس تي في",
-    "time": "21:06",
-    "views": 0,
-    "date": "الأربعاء 12 أغسطس 2026",
-    "translated": true
-  },
-  {
     "channel": "MiddleEastMonitor",
     "text": "إسرائيل تعتقل مفتي القدس وتمنعه ​​من دخول المسجد الأقصى لمدة أسبوع",
     "time": "21:00",
@@ -304,9 +296,25 @@
   },
   {
     "channel": "PressTV",
+    "text": "📷 توفي ويليام شاكين، مواطن أمريكي يبلغ من العمر 25 عامًا خدم مع الجيش الإسرائيلي في غزة، منتحرًا. @برس تي في",
+    "time": "02:30",
+    "views": 350,
+    "date": "الأربعاء 12 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "اشتباك مميت على متن حاملة الطائرات الأمريكية أبراهام لنكولن يخلف سبعة قتلى والعديد من الجرحى: تقرير أفادت التقارير بمقتل سبعة من أفراد البحرية الأمريكية وإصابة عدد آخر في اشتباك عنيف على متن حاملة الطائرات يو إس إس أبراهام لينكولن، حيث كشفت الاضطرابات المتزايدة بين طاقم الحاملة عن ضغوط متزايدة داخل الجيش الأمريكي وسط انتشار طويل الأمد. @برس تي في",
+    "time": "02:00",
+    "views": 695,
+    "date": "الأربعاء 12 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
     "text": "📷 قال محسن رضائي، الأمين العام الجديد للمجلس الأعلى للأمن القومي الإيراني (SNSC)، إن رسالة إيران واضحة: لن يتم إعادة فتح مضيق هرمز حتى تنهي الولايات المتحدة الحرب والحصار، وتفرج عن الأصول الإيرانية المجمدة، وتوافق على وقف إطلاق النار على مستوى المنطقة.",
     "time": "01:30",
-    "views": 245,
+    "views": 825,
     "date": "الأربعاء 12 أغسطس 2026",
     "translated": true
   },
@@ -314,7 +322,7 @@
     "channel": "PressTV",
     "text": "◀️ أنباء عن هجوم جديد بطائرات بدون طيار يستهدف محطة كهرباء في مدينة الزاوية الليبية. @برس تي في",
     "time": "00:50",
-    "views": 569,
+    "views": 933,
     "date": "الأربعاء 12 أغسطس 2026",
     "translated": true
   },
@@ -322,7 +330,7 @@
     "channel": "PressTV",
     "text": "◀️ لقطات تظهر آثار استهداف سفينة سعودية من قبل القوات المسلحة اليمنية بينما كانت تحمل معدات عسكرية عبر مضيق باب المندب. @برس تي في",
     "time": "00:31",
-    "views": 686,
+    "views": 987,
     "date": "الأربعاء 12 أغسطس 2026",
     "translated": true
   },
@@ -330,17 +338,16 @@
     "channel": "PressTV",
     "text": "◀️ طائرات بدون طيار أوكرانية تحاول ضرب ميناء نوفوروسيسك الروسي على البحر الأسود. @برس تي في",
     "time": "00:16",
-    "views": 725,
+    "views": 0,
     "date": "الأربعاء 12 أغسطس 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "📸 أفادت شبكة سي بي إس أن الهجمات الأمريكية على اليمن أدت إلى مقتل ما لا يقل عن 153 مدنيًا يمنيًا العام الماضي. @برس تي في",
+    "text": "📸 CBS reports that US attacks on Yemen have killed at least 153 Yemeni civilians last year. @PressTV",
     "time": "00:03",
-    "views": 844,
-    "date": "الأربعاء 12 أغسطس 2026",
-    "translated": true
+    "views": 0,
+    "date": "الأربعاء 12 أغسطس 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -360,10 +367,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-taking-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"There was crazy hysteria, with decisions made without any verified information\": IDF ordered Hannibal directive on October 7 to prevent Hamas taking soldiers captive",
+    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-take-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"هناك \"كانت هستيريا جنونية، مع اتخاذ قرارات دون أي معلومات تم التحقق منها\": أمر جيش الدفاع الإسرائيلي بتوجيه هانيبال في 7 أكتوبر بمنع حماس من أسر الجنود",
     "time": "21:46",
     "views": 225,
-    "date": "الثلاثاء 11 أغسطس 2026"
+    "date": "الثلاثاء 11 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -567,11 +575,10 @@
   },
   {
     "channel": "suppressednews",
-    "text": "يا جمال عيونك هذا رأس الطفل الملاك أسامة أبو الندى الذي قطعته إسرائيل أمس. استشهد أسامة مع والده طه أبو الندى ووالدته هدى وإخوته نور ودانا وغني وجنا.",
+    "text": "Oh the beauty of your eyes, this is the head of the angel child Osama Abu Al-Nada, which Israel cut off yesterday. Osama was martyred with his father, Taha Abu Al-Nada, his mother, Hoda, and his brothers, Nour, Dana, Ghani, and Jana.",
     "time": "17:25",
     "views": 382,
-    "date": "الأحد 9 أغسطس 2026",
-    "translated": true
+    "date": "الأحد 9 أغسطس 2026"
   },
   {
     "channel": "suppressednews",
