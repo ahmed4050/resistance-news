@@ -3,7 +3,7 @@
     "channel": "PressTV",
     "text": "لا يزال صدى الهزيمة الإسرائيلية في حرب 33 يومًا عام 2026 يتردد صداه اليوم. تقارير مريم صالح من بيروت. @برس تي في",
     "time": "22:41",
-    "views": 294,
+    "views": 402,
     "date": "السبت 15 أغسطس 2026",
     "translated": true
   },
@@ -19,7 +19,7 @@
     "channel": "PressTV",
     "text": "زلزال بقوة 7.4 درجة يضرب إندونيسيا. @برس تي في",
     "time": "22:13",
-    "views": 597,
+    "views": 682,
     "date": "السبت 15 أغسطس 2026",
     "translated": true
   },
@@ -43,7 +43,7 @@
     "channel": "PressTV",
     "text": "Pro-Palestinian supporters in Paris painted a fountain red to symbolize Israel's genocide in Gaza. @PressTV",
     "time": "21:47",
-    "views": 801,
+    "views": 866,
     "date": "السبت 15 أغسطس 2026"
   },
   {
@@ -80,11 +80,10 @@
   },
   {
     "channel": "PressTV",
-    "text": "المدفعية الإسرائيلية تقصف بلدة كفر رمان جنوب لبنان. @برس تي في",
+    "text": "Israeli artillery shells the town of Kafr Rumman, in southern Lebanon. @PressTV",
     "time": "20:52",
     "views": 0,
-    "date": "السبت 15 أغسطس 2026",
-    "translated": true
+    "date": "السبت 15 أغسطس 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -240,7 +239,7 @@
   },
   {
     "channel": "PressTV",
-    "text": "◀️ أقر تايلر موهل البالغ من العمر 18 عامًا بأنه مذنب في ركل أسد البحر بعنف على أحد شواطئ كاليفورنيا، ويواجه الآن عقوبة السجن لمدة تصل إلى عام واحد. @برس تي في",
+    "text": "◀️ أقر تايلر موهل البالغ من العمر 18 عامًا بأنه مذنب في ركل أسد البحر بعنف على أحد شواطئ كاليفورنيا، ويواجه الآن عقوبة تصل إلى السجن لمدة عام واحد. @برس تي في",
     "time": "17:51",
     "views": 0,
     "date": "السبت 15 أغسطس 2026",
@@ -383,10 +382,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-taking-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"There was crazy hysteria, with decisions made without any verified information\": IDF ordered Hannibal directive on October 7 to prevent Hamas taking soldiers captive",
+    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-take-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"هناك \"كانت هستيريا جنونية، مع اتخاذ قرارات دون أي معلومات تم التحقق منها\": أمر جيش الدفاع الإسرائيلي بتوجيه هانيبال في 7 أكتوبر بمنع حماس من أسر الجنود",
     "time": "21:46",
     "views": 225,
-    "date": "الجمعة 14 أغسطس 2026"
+    "date": "الجمعة 14 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -582,7 +582,7 @@
   },
   {
     "channel": "suppressednews",
-    "text": "تخيل للحظة من الزمن أن هذا هو طفلك؟ كيف سيكون شعورك تجاه الصهاينة؟",
+    "text": "تخيل للحظة أن هذا هو طفلك؟ كيف سيكون شعورك تجاه الصهاينة؟",
     "time": "20:57",
     "views": 217,
     "date": "الأربعاء 12 أغسطس 2026",
@@ -598,10 +598,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "Yesterday, Israel beheaded a Palestinian child in gaza 🔞 🔞 🔞 🔞",
+    "text": "بالأمس قطعت إسرائيل رأس طفل فلسطيني في غزة 🔞 🔞 🔞 🔞",
     "time": "17:24",
     "views": 359,
-    "date": "الأربعاء 12 أغسطس 2026"
+    "date": "الأربعاء 12 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
