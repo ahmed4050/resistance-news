@@ -1,16 +1,17 @@
 [
   {
     "channel": "PressTV",
-    "text": "Footage shows damage in Ruteng, Indonesia, following the 7.7-magnitude earthquake. @PressTV",
+    "text": "تظهر اللقطات الأضرار التي لحقت بمدينة روتينج بإندونيسيا، عقب الزلزال الذي بلغت قوته 7.7 درجة. @برس تي في",
     "time": "23:29",
-    "views": 56,
-    "date": "السبت 15 أغسطس 2026"
+    "views": 276,
+    "date": "السبت 15 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
     "text": "إيران لا تخيفها التهديدات ولا تخيفها استعراضات القوة: نائب وزير الخارجية الإيراني رفض دبلوماسي إيراني كبير بشكل قاطع المزاعم الأمريكية بشأن الوضع المستقبلي لمضيق هرمز، مشددًا على أن الجمهورية الإسلامية لن تخيفها التهديدات أو استعراض القوة العسكرية لإعادة فتح الممر المائي. @برس تي في",
     "time": "23:21",
-    "views": 172,
+    "views": 351,
     "date": "السبت 15 أغسطس 2026",
     "translated": true
   },
@@ -18,7 +19,7 @@
     "channel": "PressTV",
     "text": "لا يزال صدى الهزيمة الإسرائيلية في حرب 33 يومًا عام 2026 يتردد صداه اليوم. تقارير مريم صالح من بيروت. @برس تي في",
     "time": "22:41",
-    "views": 558,
+    "views": 687,
     "date": "السبت 15 أغسطس 2026",
     "translated": true
   },
@@ -32,10 +33,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "A 7.4-magnitude earthquake hits Indonesia. @PressTV",
+    "text": "زلزال بقوة 7.4 درجة يضرب إندونيسيا. @برس تي في",
     "time": "22:13",
-    "views": 820,
-    "date": "السبت 15 أغسطس 2026"
+    "views": 927,
+    "date": "السبت 15 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -55,10 +57,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "Pro-Palestinian supporters in Paris painted a fountain red to symbolize Israel's genocide in Gaza. @PressTV",
+    "text": "قام المؤيدون للفلسطينيين في باريس برسم نافورة باللون الأحمر رمزًا للإبادة الجماعية التي ارتكبتها إسرائيل في غزة. @برس تي في",
     "time": "21:47",
-    "views": 985,
-    "date": "السبت 15 أغسطس 2026"
+    "views": 0,
+    "date": "السبت 15 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -142,10 +145,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "Iran’s rapid recovery stuns Israel as missile stockpile rebuilds faster than expected Israeli military officials and Mossad operatives have been shocked by how quickly key Iranian military capabilities are being restored, only months after the 2026 US-Israeli war of aggression. @PressTV",
+    "text": "التعافي السريع لإيران يذهل إسرائيل مع إعادة بناء مخزون الصواريخ بشكل أسرع من المتوقع. أصيب المسؤولون العسكريون الإسرائيليون وعملاء الموساد بالصدمة من مدى سرعة استعادة القدرات العسكرية الإيرانية الرئيسية، بعد أشهر فقط من الحرب العدوانية الأمريكية الإسرائيلية عام 2026. @برس تي في",
     "time": "20:04",
     "views": 0,
-    "date": "السبت 15 أغسطس 2026"
+    "date": "السبت 15 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
@@ -205,11 +209,10 @@
   },
   {
     "channel": "PressTV",
-    "text": "🔺إسرائيل تنفذ مشروع التوسيع والمحو والتقسيم في لبنان، تقول رانيا المصري، مضيفة أن الشعب اللبناني لن يستسلم رغم ذلك. @Unscripted_PTV",
+    "text": "🔺 Israel is implementing a project of EXPANSION, ERASURE, and DIVISION in Lebanon, says Rania Masri, adding that the Lebanese people WILL NOT SURRENDER, nevertheless. @Unscripted_PTV",
     "time": "19:09",
     "views": 0,
-    "date": "السبت 15 أغسطس 2026",
-    "translated": true
+    "date": "السبت 15 أغسطس 2026"
   },
   {
     "channel": "PressTV",
@@ -380,10 +383,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-taking-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"There was crazy hysteria, with decisions made without any verified information\": IDF ordered Hannibal directive on October 7 to prevent Hamas taking soldiers captive",
+    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-take-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"هناك \"كانت هستيريا جنونية، مع اتخاذ قرارات دون أي معلومات تم التحقق منها\": أمر جيش الدفاع الإسرائيلي بتوجيه هانيبال في 7 أكتوبر بمنع حماس من أسر الجنود",
     "time": "21:46",
     "views": 225,
-    "date": "الجمعة 14 أغسطس 2026"
+    "date": "الجمعة 14 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -587,10 +591,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "Oh the beauty of your eyes, this is the head of the angel child Osama Abu Al-Nada, which Israel cut off yesterday. Osama was martyred with his father, Taha Abu Al-Nada, his mother, Hoda, and his brothers, Nour, Dana, Ghani, and Jana.",
+    "text": "يا جمال عيونك هذا رأس الطفل الملاك أسامة أبو الندى الذي قطعته إسرائيل أمس. استشهد أسامة مع والده طه أبو الندى ووالدته هدى وإخوته نور ودانا وغني وجنا.",
     "time": "17:25",
     "views": 382,
-    "date": "الأربعاء 12 أغسطس 2026"
+    "date": "الأربعاء 12 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
@@ -602,9 +607,10 @@
   },
   {
     "channel": "suppressednews",
-    "text": "This is how the beautiful child Tim was before Israel divided him into two halves. With the scale of the ugliness of those massacres, I hate.",
+    "text": "هكذا كان الطفل الجميل تيم قبل أن يقسمه إسرائيل إلى نصفين. ومع حجم بشاعة تلك المجازر فإنني أكره.",
     "time": "17:22",
     "views": 284,
-    "date": "الأربعاء 12 أغسطس 2026"
+    "date": "الأربعاء 12 أغسطس 2026",
+    "translated": true
   }
 ]
