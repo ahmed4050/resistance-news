@@ -3,7 +3,7 @@
     "channel": "PressTV",
     "text": "◀️ ضربات تستهدف معسكرات التنظيم الإرهابي الانفصالي في أربيل العراقية. @برس تي في",
     "time": "23:50",
-    "views": 129,
+    "views": 494,
     "date": "الجمعة 14 أغسطس 2026",
     "translated": true
   },
@@ -11,7 +11,7 @@
     "channel": "PressTV",
     "text": "◀️ الأسر النازحة في غزة تكافح من أجل البقاء في خيام متهالكة، تقرير ميناس الجبور من مدينة غزة @PressTV",
     "time": "23:30",
-    "views": 303,
+    "views": 620,
     "date": "الجمعة 14 أغسطس 2026",
     "translated": true
   },
@@ -19,7 +19,7 @@
     "channel": "PressTV",
     "text": "◀️ القوات الإسرائيلية تقصف النبطية الفوقا بقذائف المدفعية جنوب لبنان. @برس تي في",
     "time": "22:50",
-    "views": 590,
+    "views": 800,
     "date": "الجمعة 14 أغسطس 2026",
     "translated": true
   },
@@ -27,7 +27,7 @@
     "channel": "PressTV",
     "text": "◀️ مسؤولون إيرانيون وأفغان يناقشون التجارة والمصارف والعبور تقارير عبد الله أميرزاده من كابول @PressTV",
     "time": "22:30",
-    "views": 725,
+    "views": 904,
     "date": "الجمعة 14 أغسطس 2026",
     "translated": true
   },
@@ -43,7 +43,7 @@
     "channel": "PressTV",
     "text": "◀️ تجري عمليات الإجلاء مع اندلاع حريق غابات هائل في سيفيري، اليونان. @برس تي في",
     "time": "22:22",
-    "views": 788,
+    "views": 962,
     "date": "الجمعة 14 أغسطس 2026",
     "translated": true
   },
@@ -200,14 +200,6 @@
     "translated": true
   },
   {
-    "channel": "PressTV",
-    "text": "📸 أفادت صحيفة واشنطن بوست أن الجيش الأمريكي فقد ما لا يقل عن 45 طائرة بدون طيار من طراز MQ-9 Reaper، أي حوالي 25% من أسطوله بالكامل، خلال الحرب المفروضة على إيران. @برس تي في",
-    "time": "19:16",
-    "views": 0,
-    "date": "الجمعة 14 أغسطس 2026",
-    "translated": true
-  },
-  {
     "channel": "MiddleEastMonitor",
     "text": "\"الموت للمسيحيين\": تقرير يوثق تصاعد الهجمات ضد المسيحيين من قبل الإسرائيليين في القدس المحتلة",
     "time": "19:16",
@@ -227,14 +219,6 @@
     "channel": "MiddleEastMonitor",
     "text": "تقرير فرنسي: الإمارات تجهز أول موطئ قدم عسكري إسرائيلي قرب باب المندب",
     "time": "19:13",
-    "views": 0,
-    "date": "الجمعة 14 أغسطس 2026",
-    "translated": true
-  },
-  {
-    "channel": "PressTV",
-    "text": "📸 إبراهيم عزيزي، رئيس لجنة الأمن القومي في البرلمان الإيراني، يحذر من أن أي عدم استقرار إقليمي ناتج عن الاعتماد على النفوذ الأجنبي سيؤدي حتما إلى رد حازم وحاسم من إيران. @برس تي في",
-    "time": "19:00",
     "views": 0,
     "date": "الجمعة 14 أغسطس 2026",
     "translated": true
@@ -359,6 +343,22 @@
     "date": "الجمعة 14 أغسطس 2026"
   },
   {
+    "channel": "PressTV",
+    "text": "الحوثي: تدنيس القرآن الكريم جزء من حرب صهيونية أمريكية أوسع على الإسلام أدان زعيم حركة أنصار الله اليمنية السيد عبد الملك الحوثي الإهانات المتكررة للقرآن الكريم ووصفها بأنها عمل “صهيوني أمريكي” وجزء من عداء أوسع تجاه الإسلام والمسلمين. @برس تي في",
+    "time": "00:30",
+    "views": 107,
+    "date": "الجمعة 14 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "📸 السيناتور الأمريكي تشاك شومر يدعو إلى إقالة وزير الحرب الأمريكي بيت هيجسيث فورا. @برس تي في",
+    "time": "00:13",
+    "views": 343,
+    "date": "الجمعة 14 أغسطس 2026",
+    "translated": true
+  },
+  {
     "channel": "MiddleEastMonitor",
     "text": "سوريا تقول إنها ألقت القبض على خلية مسؤولة عن \"تفجيرات إرهابية\" في دمشق",
     "time": "22:20",
@@ -376,11 +376,10 @@
   },
   {
     "channel": "suppressednews",
-    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-take-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"هناك \"كانت هستيريا جنونية، مع اتخاذ قرارات دون أي معلومات تم التحقق منها\": أمر جيش الدفاع الإسرائيلي بتوجيه هانيبال في 7 أكتوبر بمنع حماس من أسر الجنود",
+    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-taking-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"There was crazy hysteria, with decisions made without any verified information\": IDF ordered Hannibal directive on October 7 to prevent Hamas taking soldiers captive",
     "time": "21:46",
     "views": 225,
-    "date": "الخميس 13 أغسطس 2026",
-    "translated": true
+    "date": "الخميس 13 أغسطس 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -600,10 +599,9 @@
   },
   {
     "channel": "suppressednews",
-    "text": "هكذا كان الطفل الجميل تيم قبل أن يقسمه إسرائيل إلى نصفين. ومع حجم بشاعة تلك المجازر فإنني أكره.",
+    "text": "This is how the beautiful child Tim was before Israel divided him into two halves. With the scale of the ugliness of those massacres, I hate.",
     "time": "17:22",
     "views": 284,
-    "date": "الثلاثاء 11 أغسطس 2026",
-    "translated": true
+    "date": "الثلاثاء 11 أغسطس 2026"
   }
 ]
