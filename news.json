@@ -64,14 +64,6 @@
     "translated": true
   },
   {
-    "channel": "PressTV",
-    "text": "قام المؤيدون للفلسطينيين في باريس برسم نافورة باللون الأحمر رمزًا للإبادة الجماعية التي ارتكبتها إسرائيل في غزة. @برس تي في",
-    "time": "21:47",
-    "views": 0,
-    "date": "السبت 15 أغسطس 2026",
-    "translated": true
-  },
-  {
     "channel": "MiddleEastMonitor",
     "text": "مجلس المستشارين الألماني يقدم مشروع قانون لتجريم ’إنكار حق إسرائيل في الوجود’",
     "time": "21:43",
@@ -83,14 +75,6 @@
     "channel": "MiddleEastMonitor",
     "text": "حملة الأشرطة الحمراء تطالب الصليب الأحمر باستئناف زياراته للفلسطينيين في السجون الإسرائيلية",
     "time": "21:19",
-    "views": 0,
-    "date": "السبت 15 أغسطس 2026",
-    "translated": true
-  },
-  {
-    "channel": "PressTV",
-    "text": "العدوان الأمريكي الممتد على إيران يترك عائلات العسكريين تعاني من ضغوط عبر سفن متعددة، مع إطالة حرب العدوان الأمريكية ضد إيران من عمليات الانتشار في جميع أنحاء المنطقة، أبلغت عائلات العسكريين الأمريكيين وأعضاء الخدمة عن نقص في الإمدادات الأساسية، وسوء الصرف الصحي، والإرهاق، وانخفاض الروح المعنوية بين القوات في البحر وعلى الأرض. @برس تي في",
-    "time": "21:16",
     "views": 0,
     "date": "السبت 15 أغسطس 2026",
     "translated": true
@@ -281,9 +265,25 @@
   },
   {
     "channel": "PressTV",
+    "text": "◀️احتفال بالتخرج وسط الركام في غزة على الرغم من الحصار المستمر والقصف المتواصل من قبل جيش النظام الصهيوني القاتل للأطفال، تجمع عدد من الخريجين في غزة وسط الركام للاحتفال بإنجازاتهم الأكاديمية. @برس تي في",
+    "time": "04:09",
+    "views": 140,
+    "date": "السبت 15 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "🔺 \"ما كان يفعله ترامب هو إعادة تشغيل نفس الفيديو مرارا وتكرارا\". ويشرح إنريكي روميرو، محلل الشؤون الدولية، كيف فشل ترامب في إخضاع إيران على الرغم من تفاخره بأنه سيمحو الحضارة الإيرانية بأكملها. #Gringo @PresstvPrograms",
+    "time": "04:08",
+    "views": 128,
+    "date": "السبت 15 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
     "text": "ترامب \"مازح\" بشأن إعلان مضيق هرمز \"أراض أمريكية\": مسؤول كبير في البيت الأبيض قال مسؤول كبير في البيت الأبيض إن الرئيس الأمريكي دونالد ترامب كان \"يمزح\" عندما قال مؤخرا إنه يعتزم إعلان مضيق هرمز \"أراض أمريكية\"، حسبما قال مسؤول كبير في البيت الأبيض. @برس تي في",
     "time": "03:59",
-    "views": 72,
+    "views": 272,
     "date": "السبت 15 أغسطس 2026",
     "translated": true
   },
@@ -298,7 +298,7 @@
     "channel": "PressTV",
     "text": "أظهرت لقطات فيديو اللحظة المرعبة التي ضرب فيها زلزال بقوة 7.7 درجة إندونيسيا. @برس تي في",
     "time": "03:05",
-    "views": 595,
+    "views": 725,
     "date": "السبت 15 أغسطس 2026",
     "translated": true
   },
@@ -306,7 +306,7 @@
     "channel": "PressTV",
     "text": "اقتحمت قوات الاحتلال الإسرائيلي قاعة أفراح في بلدة العيزرية شرق القدس، واعتدت على المدعوين. @برس تي في",
     "time": "02:56",
-    "views": 668,
+    "views": 786,
     "date": "السبت 15 أغسطس 2026",
     "translated": true
   },
@@ -314,23 +314,25 @@
     "channel": "PressTV",
     "text": "قصفت إسرائيل منزلاً في مدينة النبطية جنوب لبنان. @برس تي في",
     "time": "02:29",
-    "views": 772,
+    "views": 854,
     "date": "السبت 15 أغسطس 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "Pakistan at 79: How independent is its decision-making? Maryam Nawaz reports from Islamabad. @PressTV",
+    "text": "باكستان في عامها التاسع والسبعين: ما مدى استقلالية عملية صنع القرار فيها؟ تقرير مريم نواز من إسلام أباد. @برس تي في",
     "time": "02:06",
-    "views": 901,
-    "date": "السبت 15 أغسطس 2026"
+    "views": 0,
+    "date": "السبت 15 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "Tsunami warning issued after magnitude 7.7 earthquake strikes Indonesia, EMSC says. @PressTV",
+    "text": "يقول EMSC إن تحذيرًا من تسونامي صدر بعد زلزال بقوة 7.7 درجة ضرب إندونيسيا. @برس تي في",
     "time": "01:29",
     "views": 0,
-    "date": "السبت 15 أغسطس 2026"
+    "date": "السبت 15 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
@@ -358,10 +360,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "🔺 Yemen's armed forces spokesperson Yahya Saree announced that they successfully targeted a gathering point and weapons depot belonging to Saudi-backed forces in the southern Yemeni region of Al-Mokha, striking both personnel and military equipment in the…",
+    "text": "🔺 أعلن المتحدث باسم القوات المسلحة اليمنية يحيى سريع، أنهم استهدفوا بنجاح نقطة تجمع ومخزن أسلحة تابعين للقوات المدعومة من السعودية في منطقة المخا جنوبي اليمن، ما أدى إلى إصابة أفراد ومعدات عسكرية في المنطقة.",
     "time": "00:22",
     "views": 0,
-    "date": "السبت 15 أغسطس 2026"
+    "date": "السبت 15 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -549,11 +552,10 @@
   },
   {
     "channel": "suppressednews",
-    "text": "عاجل: التقارير الأولية عن استشهاد ما لا يقل عن 100 شهيد في قصف إسرائيلي استهدف مدرسة \"التابعين\" في حي الدرج وسط مدينة غزة.",
+    "text": "BREAKING: Initial reports of at-least 100 Martyrs in an Israeli strike that targeted \"Al-Tabi'in\" school in Al-Daraj neighborhood in central Gaza City.",
     "time": "02:56",
     "views": 152,
-    "date": "الجمعة 14 أغسطس 2026",
-    "translated": true
+    "date": "الجمعة 14 أغسطس 2026"
   },
   {
     "channel": "suppressednews",
@@ -565,11 +567,10 @@
   },
   {
     "channel": "suppressednews",
-    "text": "أربعون يوماً وليلة، رثى الإعلام الغربي كذبة أطفال إسرائيليين مقطوعة الرأس، التي خدع بها الاحتلال العالم، ولم يروا صورة واحدة تؤكد ادعاءاته... بينما أطفال غزة مقطوعي الرأس يظهرون لنا كل يوم بصور مؤلمة، دون بكاء، ولا يجرؤ الإعلام المنحاز للاحتلال والمتواطئ في الجريمة. 💔 💔 💔 💔 ؟؟؟؟؟؟؟",
+    "text": "For forty days and nights, the Western media lamented the lie of Israeli children with their heads cut off, with which the occupation deceived the world, and they did not see a single picture confirming its claims... while every day the headless children of Gaza appear to us in painful pictures, without their weeping, and the media biased towards the occupation and complicit in the crime does not dare. 💔 💔 💔 💔 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭",
     "time": "04:39",
     "views": 184,
-    "date": "الخميس 13 أغسطس 2026",
-    "translated": true
+    "date": "الخميس 13 أغسطس 2026"
   },
   {
     "channel": "suppressednews",
@@ -589,11 +590,10 @@
   },
   {
     "channel": "suppressednews",
-    "text": "يا جمال عيونك هذا رأس الطفل الملاك أسامة أبو الندى الذي قطعته إسرائيل أمس. استشهد أسامة مع والده طه أبو الندى ووالدته هدى وإخوته نور ودانا وغني وجنا.",
+    "text": "Oh the beauty of your eyes, this is the head of the angel child Osama Abu Al-Nada, which Israel cut off yesterday. Osama was martyred with his father, Taha Abu Al-Nada, his mother, Hoda, and his brothers, Nour, Dana, Ghani, and Jana.",
     "time": "17:25",
     "views": 382,
-    "date": "الأربعاء 12 أغسطس 2026",
-    "translated": true
+    "date": "الأربعاء 12 أغسطس 2026"
   },
   {
     "channel": "suppressednews",
