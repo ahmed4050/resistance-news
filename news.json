@@ -25,10 +25,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "Israeli defeat in 33-day war in 2026 still resonates today Mariam Saleh reports from Beirut. @PressTV",
+    "text": "لا يزال صدى الهزيمة الإسرائيلية في حرب 33 يومًا عام 2026 يتردد صداه اليوم. تقارير مريم صالح من بيروت. @برس تي في",
     "time": "22:41",
     "views": 0,
-    "date": "السبت 15 أغسطس 2026"
+    "date": "السبت 15 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -88,10 +89,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "Stretched US aggression against Iran leaves military families reporting strain across multiple ships As the US war of aggression against Iran prolongs deployments across the region, American military families and service members report shortages of basic supplies, poor sanitation, exhaustion, and declining morale among troops at sea and on land. @PressTV",
+    "text": "العدوان الأمريكي الممتد على إيران يترك عائلات العسكريين تعاني من ضغوط عبر سفن متعددة، مع إطالة حرب العدوان الأمريكية ضد إيران من عمليات الانتشار في جميع أنحاء المنطقة، أبلغت عائلات العسكريين الأمريكيين وأعضاء الخدمة عن نقص في الإمدادات الأساسية، وسوء الصرف الصحي، والإرهاق، وانخفاض الروح المعنوية بين القوات في البحر وعلى الأرض. @برس تي في",
     "time": "21:16",
     "views": 0,
-    "date": "السبت 15 أغسطس 2026"
+    "date": "السبت 15 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -103,11 +105,10 @@
   },
   {
     "channel": "PressTV",
-    "text": "المدفعية الإسرائيلية تقصف بلدة كفر رمان جنوب لبنان. @برس تي في",
+    "text": "Israeli artillery shells the town of Kafr Rumman, in southern Lebanon. @PressTV",
     "time": "20:52",
     "views": 0,
-    "date": "السبت 15 أغسطس 2026",
-    "translated": true
+    "date": "السبت 15 أغسطس 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -166,14 +167,6 @@
     "translated": true
   },
   {
-    "channel": "PressTV",
-    "text": "◀️ اليمنيون يستعدون لمولد النبي محمد تقرير نورا منصور من صنعاء @PressTV",
-    "time": "19:34",
-    "views": 0,
-    "date": "السبت 15 أغسطس 2026",
-    "translated": true
-  },
-  {
     "channel": "MiddleEastMonitor",
     "text": "ترامب يزعم أن إيران طلبت من الولايات المتحدة مواصلة “المحادثات” ويعلن أن وقف إطلاق النار “انتهى”",
     "time": "19:33",
@@ -190,14 +183,6 @@
     "translated": true
   },
   {
-    "channel": "PressTV",
-    "text": "المفاوض النووي السابق يقول إن حرب ترامب على إيران تضع الولايات المتحدة في طريق مسدود أدان المفاوض النووي السابق للولايات المتحدة، إرنست مونيز، قرار الرئيس الأمريكي دونالد ترامب بشن حرب على إيران ووصفه بأنه \"خطأ كبير\". @برس تي في",
-    "time": "19:15",
-    "views": 0,
-    "date": "السبت 15 أغسطس 2026",
-    "translated": true
-  },
-  {
     "channel": "MiddleEastMonitor",
     "text": "بري: سوريا لا تنوي التدخل في لبنان",
     "time": "19:14",
@@ -209,14 +194,6 @@
     "channel": "MiddleEastMonitor",
     "text": "تقرير فرنسي: الإمارات تجهز أول موطئ قدم عسكري إسرائيلي قرب باب المندب",
     "time": "19:13",
-    "views": 0,
-    "date": "السبت 15 أغسطس 2026",
-    "translated": true
-  },
-  {
-    "channel": "PressTV",
-    "text": "🔺إسرائيل تنفذ مشروع التوسيع والمحو والتقسيم في لبنان، تقول رانيا المصري، مضيفة أن الشعب اللبناني لن يستسلم رغم ذلك. @Unscripted_PTV",
-    "time": "19:09",
     "views": 0,
     "date": "السبت 15 أغسطس 2026",
     "translated": true
@@ -342,25 +319,39 @@
   },
   {
     "channel": "PressTV",
-    "text": "يقول EMSC إن تحذيرًا من تسونامي صدر بعد زلزال بقوة 7.7 درجة ضرب إندونيسيا. @برس تي في",
-    "time": "01:29",
-    "views": 360,
+    "text": "قصفت إسرائيل منزلاً في مدينة النبطية جنوب لبنان. @برس تي في",
+    "time": "02:29",
+    "views": 86,
     "date": "السبت 15 أغسطس 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "إسرائيل تستهدف جنوب لبنان بقذائف الفسفور المحرمة دوليا @PressTV",
-    "time": "01:09",
-    "views": 491,
+    "text": "Pakistan at 79: How independent is its decision-making? Maryam Nawaz reports from Islamabad. @PressTV",
+    "time": "02:06",
+    "views": 344,
+    "date": "السبت 15 أغسطس 2026"
+  },
+  {
+    "channel": "PressTV",
+    "text": "يقول EMSC إن تحذيرًا من تسونامي صدر بعد زلزال بقوة 7.7 درجة ضرب إندونيسيا. @برس تي في",
+    "time": "01:29",
+    "views": 646,
     "date": "السبت 15 أغسطس 2026",
     "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "Israel targets southern Lebanon with internationally banned phosphorus shells @PressTV",
+    "time": "01:09",
+    "views": 716,
+    "date": "السبت 15 أغسطس 2026"
   },
   {
     "channel": "PressTV",
     "text": "ضرب زلزال بقوة 5.0 درجة جنوب إسبانيا، بينما تعرضت إندونيسيا لزلزال قوي بقوة 7.7 درجة. @برس تي في",
     "time": "00:52",
-    "views": 666,
+    "views": 855,
     "date": "السبت 15 أغسطس 2026",
     "translated": true
   },
@@ -368,7 +359,7 @@
     "channel": "PressTV",
     "text": "تُظهر اللقطات اللحظات التي ضرب فيها زلزال هائل بقوة 7.7 درجة إندونيسيا. @برس تي في",
     "time": "00:35",
-    "views": 755,
+    "views": 904,
     "date": "السبت 15 أغسطس 2026",
     "translated": true
   },
@@ -390,11 +381,10 @@
   },
   {
     "channel": "suppressednews",
-    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-take-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"هناك \"كانت هستيريا جنونية، مع اتخاذ قرارات دون أي معلومات تم التحقق منها\": أمر جيش الدفاع الإسرائيلي بتوجيه هانيبال في 7 أكتوبر بمنع حماس من أسر الجنود",
+    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-taking-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"There was crazy hysteria, with decisions made without any verified information\": IDF ordered Hannibal directive on October 7 to prevent Hamas taking soldiers captive",
     "time": "21:46",
     "views": 225,
-    "date": "الجمعة 14 أغسطس 2026",
-    "translated": true
+    "date": "الجمعة 14 أغسطس 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -574,11 +564,10 @@
   },
   {
     "channel": "suppressednews",
-    "text": "أربعون يوماً وليلة، رثى الإعلام الغربي كذبة أطفال إسرائيليين مقطوعة الرأس، التي خدع بها الاحتلال العالم، ولم يروا صورة واحدة تؤكد ادعاءاته... بينما أطفال غزة مقطوعي الرأس يظهرون لنا كل يوم بصور مؤلمة، دون بكاء، ولا يجرؤ الإعلام المنحاز للاحتلال والمتواطئ في الجريمة. 💔 💔 💔 💔 ؟؟؟؟؟؟؟",
+    "text": "For forty days and nights, the Western media lamented the lie of Israeli children with their heads cut off, with which the occupation deceived the world, and they did not see a single picture confirming its claims... while every day the headless children of Gaza appear to us in painful pictures, without their weeping, and the media biased towards the occupation and complicit in the crime does not dare. 💔 💔 💔 💔 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭",
     "time": "04:39",
     "views": 184,
-    "date": "الخميس 13 أغسطس 2026",
-    "translated": true
+    "date": "الخميس 13 أغسطس 2026"
   },
   {
     "channel": "suppressednews",
@@ -590,7 +579,7 @@
   },
   {
     "channel": "suppressednews",
-    "text": "تخيل للحظة من الزمن أن هذا هو طفلك؟ كيف سيكون شعورك تجاه الصهاينة؟",
+    "text": "تخيل للحظة أن هذا هو طفلك؟ كيف سيكون شعورك تجاه الصهاينة؟",
     "time": "20:57",
     "views": 217,
     "date": "الأربعاء 12 أغسطس 2026",
@@ -614,10 +603,9 @@
   },
   {
     "channel": "suppressednews",
-    "text": "هكذا كان الطفل الجميل تيم قبل أن يقسمه إسرائيل إلى نصفين. ومع حجم بشاعة تلك المجازر فإنني أكره.",
+    "text": "This is how the beautiful child Tim was before Israel divided him into two halves. With the scale of the ugliness of those massacres, I hate.",
     "time": "17:22",
     "views": 284,
-    "date": "الأربعاء 12 أغسطس 2026",
-    "translated": true
+    "date": "الأربعاء 12 أغسطس 2026"
   }
 ]
