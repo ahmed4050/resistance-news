@@ -11,7 +11,7 @@
     "channel": "PressTV",
     "text": "تظهر اللقطات الأضرار التي لحقت بمدينة روتينج بإندونيسيا، عقب الزلزال الذي بلغت قوته 7.7 درجة. @برس تي في",
     "time": "23:29",
-    "views": 967,
+    "views": 0,
     "date": "السبت 15 أغسطس 2026",
     "translated": true
   },
@@ -19,17 +19,16 @@
     "channel": "PressTV",
     "text": "إيران لا تخيفها التهديدات ولا تخيفها استعراضات القوة: نائب وزير الخارجية الإيراني رفض دبلوماسي إيراني كبير بشكل قاطع المزاعم الأمريكية بشأن الوضع المستقبلي لمضيق هرمز، مشددًا على أن الجمهورية الإسلامية لن تخيفها التهديدات أو استعراض القوة العسكرية لإعادة فتح الممر المائي. @برس تي في",
     "time": "23:21",
-    "views": 909,
+    "views": 0,
     "date": "السبت 15 أغسطس 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "لا يزال صدى الهزيمة الإسرائيلية في حرب 33 يومًا عام 2026 يتردد صداه اليوم. تقارير مريم صالح من بيروت. @برس تي في",
+    "text": "Israeli defeat in 33-day war in 2026 still resonates today Mariam Saleh reports from Beirut. @PressTV",
     "time": "22:41",
     "views": 0,
-    "date": "السبت 15 أغسطس 2026",
-    "translated": true
+    "date": "السبت 15 أغسطس 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -41,10 +40,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "A 7.4-magnitude earthquake hits Indonesia. @PressTV",
+    "text": "زلزال بقوة 7.4 درجة يضرب إندونيسيا. @برس تي في",
     "time": "22:13",
     "views": 0,
-    "date": "السبت 15 أغسطس 2026"
+    "date": "السبت 15 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -88,11 +88,10 @@
   },
   {
     "channel": "PressTV",
-    "text": "العدوان الأمريكي الممتد على إيران يترك عائلات العسكريين تعاني من ضغوط عبر سفن متعددة، مع إطالة حرب العدوان الأمريكية ضد إيران من عمليات الانتشار في جميع أنحاء المنطقة، أبلغت عائلات العسكريين الأمريكيين وأعضاء الخدمة عن نقص في الإمدادات الأساسية، وسوء الصرف الصحي، والإرهاق، وانخفاض الروح المعنوية بين القوات في البحر وعلى الأرض. @برس تي في",
+    "text": "Stretched US aggression against Iran leaves military families reporting strain across multiple ships As the US war of aggression against Iran prolongs deployments across the region, American military families and service members report shortages of basic supplies, poor sanitation, exhaustion, and declining morale among troops at sea and on land. @PressTV",
     "time": "21:16",
     "views": 0,
-    "date": "السبت 15 أغسطس 2026",
-    "translated": true
+    "date": "السبت 15 أغسطس 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -168,10 +167,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "▶️ Yemenis prepare for Prophet Muhammad’s birthday Noura Mansour reports from Sana'a @PressTV",
+    "text": "◀️ اليمنيون يستعدون لمولد النبي محمد تقرير نورا منصور من صنعاء @PressTV",
     "time": "19:34",
     "views": 0,
-    "date": "السبت 15 أغسطس 2026"
+    "date": "السبت 15 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -220,13 +220,6 @@
     "views": 0,
     "date": "السبت 15 أغسطس 2026",
     "translated": true
-  },
-  {
-    "channel": "PressTV",
-    "text": "Chinese defense ministry dismisses annual Han Kuang military drills as ‘wasteful charade’ China’s defense ministry has dismissed Chinese Taipei’s annual Han Kuang military drills as a “wasteful charade” deliberately designed to stoke war panic. @PressTV",
-    "time": "19:00",
-    "views": 0,
-    "date": "السبت 15 أغسطس 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -349,9 +342,17 @@
   },
   {
     "channel": "PressTV",
+    "text": "يقول EMSC إن تحذيرًا من تسونامي صدر بعد زلزال بقوة 7.7 درجة ضرب إندونيسيا. @برس تي في",
+    "time": "01:29",
+    "views": 360,
+    "date": "السبت 15 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
     "text": "إسرائيل تستهدف جنوب لبنان بقذائف الفسفور المحرمة دوليا @PressTV",
     "time": "01:09",
-    "views": 193,
+    "views": 491,
     "date": "السبت 15 أغسطس 2026",
     "translated": true
   },
@@ -359,7 +360,7 @@
     "channel": "PressTV",
     "text": "ضرب زلزال بقوة 5.0 درجة جنوب إسبانيا، بينما تعرضت إندونيسيا لزلزال قوي بقوة 7.7 درجة. @برس تي في",
     "time": "00:52",
-    "views": 412,
+    "views": 666,
     "date": "السبت 15 أغسطس 2026",
     "translated": true
   },
@@ -367,7 +368,7 @@
     "channel": "PressTV",
     "text": "تُظهر اللقطات اللحظات التي ضرب فيها زلزال هائل بقوة 7.7 درجة إندونيسيا. @برس تي في",
     "time": "00:35",
-    "views": 550,
+    "views": 755,
     "date": "السبت 15 أغسطس 2026",
     "translated": true
   },
@@ -389,10 +390,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-taking-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"There was crazy hysteria, with decisions made without any verified information\": IDF ordered Hannibal directive on October 7 to prevent Hamas taking soldiers captive",
+    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-take-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"هناك \"كانت هستيريا جنونية، مع اتخاذ قرارات دون أي معلومات تم التحقق منها\": أمر جيش الدفاع الإسرائيلي بتوجيه هانيبال في 7 أكتوبر بمنع حماس من أسر الجنود",
     "time": "21:46",
     "views": 225,
-    "date": "الجمعة 14 أغسطس 2026"
+    "date": "الجمعة 14 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -580,17 +582,19 @@
   },
   {
     "channel": "suppressednews",
-    "text": "As usual, a large number are killed when the disaster strikes, and another number gradually succumbs to their wounds after it occurs. Omar Al-Jaabari, 13 years old, died of his wounds at Kamal Adwan Hospital. He was among the victims of the massacre at Al-Tabaeen School two days ago. Omar suffered severe burns as a result of the American missiles that produce very high temperatures, and he was not directly injured, otherwise he would have been turned into pieces and his body would have melted. 💔 💔 💔",
+    "text": "وكالعادة يقتل عدد كبير عند وقوع الكارثة، ويتوفى عدد آخر تدريجياً متأثراً بجراحه بعد وقوعها. توفي عمر الجعبري، 13 عاماً، متأثراً بجراحه في مستشفى كمال عدوان. وكان من بين ضحايا مجزرة مدرسة التابعين قبل يومين. وأصيب عمر بحروق شديدة نتيجة الصواريخ الأمريكية التي تنتج درجات حرارة عالية جدا، ولم يصب بشكل مباشر، وإلا لكان قد تحول إلى أشلاء وذاب جسده. 💔 💔 💔",
     "time": "04:38",
     "views": 168,
-    "date": "الخميس 13 أغسطس 2026"
+    "date": "الخميس 13 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "Imagine for a moment in time that this is your child? How would you feel about the Zionists?",
+    "text": "تخيل للحظة من الزمن أن هذا هو طفلك؟ كيف سيكون شعورك تجاه الصهاينة؟",
     "time": "20:57",
     "views": 217,
-    "date": "الأربعاء 12 أغسطس 2026"
+    "date": "الأربعاء 12 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
