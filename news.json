@@ -11,7 +11,7 @@
     "channel": "PressTV",
     "text": "تظهر اللقطات الأضرار التي لحقت بمدينة روتينج بإندونيسيا، عقب الزلزال الذي بلغت قوته 7.7 درجة. @برس تي في",
     "time": "23:29",
-    "views": 755,
+    "views": 967,
     "date": "السبت 15 أغسطس 2026",
     "translated": true
   },
@@ -19,16 +19,17 @@
     "channel": "PressTV",
     "text": "إيران لا تخيفها التهديدات ولا تخيفها استعراضات القوة: نائب وزير الخارجية الإيراني رفض دبلوماسي إيراني كبير بشكل قاطع المزاعم الأمريكية بشأن الوضع المستقبلي لمضيق هرمز، مشددًا على أن الجمهورية الإسلامية لن تخيفها التهديدات أو استعراض القوة العسكرية لإعادة فتح الممر المائي. @برس تي في",
     "time": "23:21",
-    "views": 737,
+    "views": 909,
     "date": "السبت 15 أغسطس 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "Israeli defeat in 33-day war in 2026 still resonates today Mariam Saleh reports from Beirut. @PressTV",
+    "text": "لا يزال صدى الهزيمة الإسرائيلية في حرب 33 يومًا عام 2026 يتردد صداه اليوم. تقارير مريم صالح من بيروت. @برس تي في",
     "time": "22:41",
-    "views": 973,
-    "date": "السبت 15 أغسطس 2026"
+    "views": 0,
+    "date": "السبت 15 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -40,11 +41,10 @@
   },
   {
     "channel": "PressTV",
-    "text": "زلزال بقوة 7.4 درجة يضرب إندونيسيا. @برس تي في",
+    "text": "A 7.4-magnitude earthquake hits Indonesia. @PressTV",
     "time": "22:13",
     "views": 0,
-    "date": "السبت 15 أغسطس 2026",
-    "translated": true
+    "date": "السبت 15 أغسطس 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -152,10 +152,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "Iran’s rapid recovery stuns Israel as missile stockpile rebuilds faster than expected Israeli military officials and Mossad operatives have been shocked by how quickly key Iranian military capabilities are being restored, only months after the 2026 US-Israeli war of aggression. @PressTV",
+    "text": "التعافي السريع لإيران يذهل إسرائيل مع إعادة بناء مخزون الصواريخ بشكل أسرع من المتوقع. أصيب المسؤولون العسكريون الإسرائيليون وعملاء الموساد بالصدمة من مدى سرعة استعادة القدرات العسكرية الإيرانية الرئيسية، بعد أشهر فقط من الحرب العدوانية الأمريكية الإسرائيلية عام 2026. @برس تي في",
     "time": "20:04",
     "views": 0,
-    "date": "السبت 15 أغسطس 2026"
+    "date": "السبت 15 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
@@ -167,11 +168,10 @@
   },
   {
     "channel": "PressTV",
-    "text": "◀️ اليمنيون يستعدون لمولد النبي محمد تقرير نورا منصور من صنعاء @PressTV",
+    "text": "▶️ Yemenis prepare for Prophet Muhammad’s birthday Noura Mansour reports from Sana'a @PressTV",
     "time": "19:34",
     "views": 0,
-    "date": "السبت 15 أغسطس 2026",
-    "translated": true
+    "date": "السبت 15 أغسطس 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -191,10 +191,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "Ex-nuclear negotiator says Trump's war on Iran places US in cul-de-sac Ex-nuclear negotiator for the United States, Ernest Moniz, has condemned US President Donald Trump's decision to launch war on Iran as a \"big mistake.\" @PressTV",
+    "text": "المفاوض النووي السابق يقول إن حرب ترامب على إيران تضع الولايات المتحدة في طريق مسدود أدان المفاوض النووي السابق للولايات المتحدة، إرنست مونيز، قرار الرئيس الأمريكي دونالد ترامب بشن حرب على إيران ووصفه بأنه \"خطأ كبير\". @برس تي في",
     "time": "19:15",
     "views": 0,
-    "date": "السبت 15 أغسطس 2026"
+    "date": "السبت 15 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -222,34 +223,10 @@
   },
   {
     "channel": "PressTV",
-    "text": "رفضت وزارة الدفاع الصينية تدريبات هان كوانغ العسكرية السنوية ووصفتها بأنها \"تمثيلية مسرفة\" رفضت وزارة الدفاع الصينية تدريبات هان كوانغ العسكرية السنوية التي تجريها تايبيه الصينية ووصفتها بأنها \"تمثيلية مضيعة للوقت\" مصممة عمداً لإثارة الذعر من الحرب. @برس تي في",
+    "text": "Chinese defense ministry dismisses annual Han Kuang military drills as ‘wasteful charade’ China’s defense ministry has dismissed Chinese Taipei’s annual Han Kuang military drills as a “wasteful charade” deliberately designed to stoke war panic. @PressTV",
     "time": "19:00",
     "views": 0,
-    "date": "السبت 15 أغسطس 2026",
-    "translated": true
-  },
-  {
-    "channel": "PressTV",
-    "text": "◀️ الأمين العام لحزب الله الشيخ نعيم قاسم يدعو أنصاره إلى توجيه غضبهم نحو الدفاع عن المقاومة وسيادة لبنان، محذرا من أن من يعارضها سيواجه العواقب. @برس تي في",
-    "time": "18:45",
-    "views": 0,
-    "date": "السبت 15 أغسطس 2026",
-    "translated": true
-  },
-  {
-    "channel": "PressTV",
-    "text": "▶️ \"Diplomacy to them is holding a gun to Iran's head and saying that you have to abide by whatever we say\" Press TV’s Maryam Azarchehr underscores that decades of failed diplomacy convinced Iran that Western pressure is aimed at weakening the country rather than seeking genuine engagement. @PressTV",
-    "time": "18:31",
-    "views": 0,
     "date": "السبت 15 أغسطس 2026"
-  },
-  {
-    "channel": "PressTV",
-    "text": "◀️ القوات المسلحة اليمنية تقصف ميناء المخا، وتفيد التقارير بتدمير شحنة كبيرة من الأسلحة السعودية. @برس تي في",
-    "time": "18:15",
-    "views": 0,
-    "date": "السبت 15 أغسطس 2026",
-    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -372,9 +349,25 @@
   },
   {
     "channel": "PressTV",
+    "text": "إسرائيل تستهدف جنوب لبنان بقذائف الفسفور المحرمة دوليا @PressTV",
+    "time": "01:09",
+    "views": 193,
+    "date": "السبت 15 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "ضرب زلزال بقوة 5.0 درجة جنوب إسبانيا، بينما تعرضت إندونيسيا لزلزال قوي بقوة 7.7 درجة. @برس تي في",
+    "time": "00:52",
+    "views": 412,
+    "date": "السبت 15 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
     "text": "تُظهر اللقطات اللحظات التي ضرب فيها زلزال هائل بقوة 7.7 درجة إندونيسيا. @برس تي في",
     "time": "00:35",
-    "views": 226,
+    "views": 550,
     "date": "السبت 15 أغسطس 2026",
     "translated": true
   },
@@ -396,11 +389,10 @@
   },
   {
     "channel": "suppressednews",
-    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-take-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"هناك \"كانت هستيريا جنونية، مع اتخاذ قرارات دون أي معلومات تم التحقق منها\": أمر جيش الدفاع الإسرائيلي بتوجيه هانيبال في 7 أكتوبر بمنع حماس من أسر الجنود",
+    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-taking-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"There was crazy hysteria, with decisions made without any verified information\": IDF ordered Hannibal directive on October 7 to prevent Hamas taking soldiers captive",
     "time": "21:46",
     "views": 225,
-    "date": "الجمعة 14 أغسطس 2026",
-    "translated": true
+    "date": "الجمعة 14 أغسطس 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -588,26 +580,25 @@
   },
   {
     "channel": "suppressednews",
-    "text": "وكالعادة يقتل عدد كبير عند وقوع الكارثة، ويتوفى عدد آخر تدريجياً متأثراً بجراحه بعد وقوعها. توفي عمر الجعبري، 13 عاماً، متأثراً بجراحه في مستشفى كمال عدوان. وكان من بين ضحايا مجزرة مدرسة التابعين قبل يومين. وأصيب عمر بحروق شديدة نتيجة الصواريخ الأمريكية التي تنتج درجات حرارة عالية جدا، ولم يصب بشكل مباشر، وإلا لكان قد تحول إلى أشلاء وذاب جسده. 💔 💔 💔",
+    "text": "As usual, a large number are killed when the disaster strikes, and another number gradually succumbs to their wounds after it occurs. Omar Al-Jaabari, 13 years old, died of his wounds at Kamal Adwan Hospital. He was among the victims of the massacre at Al-Tabaeen School two days ago. Omar suffered severe burns as a result of the American missiles that produce very high temperatures, and he was not directly injured, otherwise he would have been turned into pieces and his body would have melted. 💔 💔 💔",
     "time": "04:38",
     "views": 168,
-    "date": "الخميس 13 أغسطس 2026",
-    "translated": true
+    "date": "الخميس 13 أغسطس 2026"
   },
   {
     "channel": "suppressednews",
-    "text": "تخيل للحظة من الزمن أن هذا هو طفلك؟ كيف سيكون شعورك تجاه الصهاينة؟",
+    "text": "Imagine for a moment in time that this is your child? How would you feel about the Zionists?",
     "time": "20:57",
     "views": 217,
-    "date": "الأربعاء 12 أغسطس 2026",
-    "translated": true
+    "date": "الأربعاء 12 أغسطس 2026"
   },
   {
     "channel": "suppressednews",
-    "text": "Oh the beauty of your eyes, this is the head of the angel child Osama Abu Al-Nada, which Israel cut off yesterday. Osama was martyred with his father, Taha Abu Al-Nada, his mother, Hoda, and his brothers, Nour, Dana, Ghani, and Jana.",
+    "text": "يا جمال عيونك هذا رأس الطفل الملاك أسامة أبو الندى الذي قطعته إسرائيل أمس. استشهد أسامة مع والده طه أبو الندى ووالدته هدى وإخوته نور ودانا وغني وجنا.",
     "time": "17:25",
     "views": 382,
-    "date": "الأربعاء 12 أغسطس 2026"
+    "date": "الأربعاء 12 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
@@ -619,9 +610,10 @@
   },
   {
     "channel": "suppressednews",
-    "text": "This is how the beautiful child Tim was before Israel divided him into two halves. With the scale of the ugliness of those massacres, I hate.",
+    "text": "هكذا كان الطفل الجميل تيم قبل أن يقسمه إسرائيل إلى نصفين. ومع حجم بشاعة تلك المجازر فإنني أكره.",
     "time": "17:22",
     "views": 284,
-    "date": "الأربعاء 12 أغسطس 2026"
+    "date": "الأربعاء 12 أغسطس 2026",
+    "translated": true
   }
 ]
