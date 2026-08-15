@@ -17,10 +17,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "Iran neither intimidated by threats nor cowed by displays of power: Deputy FM A senior Iranian diplomat has categorically rejected reported US claims about the future status of the Strait of Hormuz, stressing that the Islamic Republic will not be intimidated by threats or displays of military power into reopening the waterway. @PressTV",
+    "text": "إيران لا تخيفها التهديدات ولا تخيفها استعراضات القوة: نائب وزير الخارجية الإيراني رفض دبلوماسي إيراني كبير بشكل قاطع المزاعم الأمريكية بشأن الوضع المستقبلي لمضيق هرمز، مشددًا على أن الجمهورية الإسلامية لن تخيفها التهديدات أو استعراض القوة العسكرية لإعادة فتح الممر المائي. @برس تي في",
     "time": "23:21",
     "views": 0,
-    "date": "السبت 15 أغسطس 2026"
+    "date": "السبت 15 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
@@ -98,14 +99,6 @@
     "channel": "MiddleEastMonitor",
     "text": "إسرائيل تعتقل مفتي القدس وتمنعه ​​من دخول المسجد الأقصى لمدة أسبوع",
     "time": "21:00",
-    "views": 0,
-    "date": "السبت 15 أغسطس 2026",
-    "translated": true
-  },
-  {
-    "channel": "PressTV",
-    "text": "المدفعية الإسرائيلية تقصف بلدة كفر رمان جنوب لبنان. @برس تي في",
-    "time": "20:52",
     "views": 0,
     "date": "السبت 15 أغسطس 2026",
     "translated": true
@@ -287,6 +280,14 @@
     "translated": true
   },
   {
+    "channel": "PressTV",
+    "text": "ترامب \"مازح\" بشأن إعلان مضيق هرمز \"أراض أمريكية\": مسؤول كبير في البيت الأبيض قال مسؤول كبير في البيت الأبيض إن الرئيس الأمريكي دونالد ترامب كان \"يمزح\" عندما قال مؤخرا إنه يعتزم إعلان مضيق هرمز \"أراض أمريكية\"، حسبما قال مسؤول كبير في البيت الأبيض. @برس تي في",
+    "time": "03:59",
+    "views": 72,
+    "date": "السبت 15 أغسطس 2026",
+    "translated": true
+  },
+  {
     "channel": "suppressednews",
     "text": "#شاهد .. استهداف مجاهدي كتائب القسام لجنود العدو وآلياته في محاور القتال بمدينة رفح جنوب القطاع #طوفان_الأقصى",
     "time": "03:26",
@@ -297,7 +298,7 @@
     "channel": "PressTV",
     "text": "أظهرت لقطات فيديو اللحظة المرعبة التي ضرب فيها زلزال بقوة 7.7 درجة إندونيسيا. @برس تي في",
     "time": "03:05",
-    "views": 441,
+    "views": 595,
     "date": "السبت 15 أغسطس 2026",
     "translated": true
   },
@@ -305,7 +306,7 @@
     "channel": "PressTV",
     "text": "اقتحمت قوات الاحتلال الإسرائيلي قاعة أفراح في بلدة العيزرية شرق القدس، واعتدت على المدعوين. @برس تي في",
     "time": "02:56",
-    "views": 527,
+    "views": 668,
     "date": "السبت 15 أغسطس 2026",
     "translated": true
   },
@@ -313,32 +314,31 @@
     "channel": "PressTV",
     "text": "قصفت إسرائيل منزلاً في مدينة النبطية جنوب لبنان. @برس تي في",
     "time": "02:29",
-    "views": 662,
+    "views": 772,
     "date": "السبت 15 أغسطس 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "باكستان في عامها التاسع والسبعين: ما مدى استقلالية عملية صنع القرار فيها؟ تقرير مريم نواز من إسلام أباد. @برس تي في",
+    "text": "Pakistan at 79: How independent is its decision-making? Maryam Nawaz reports from Islamabad. @PressTV",
     "time": "02:06",
-    "views": 822,
-    "date": "السبت 15 أغسطس 2026",
-    "translated": true
+    "views": 901,
+    "date": "السبت 15 أغسطس 2026"
   },
   {
     "channel": "PressTV",
-    "text": "يقول EMSC إن تحذيرًا من تسونامي صدر بعد زلزال بقوة 7.7 درجة ضرب إندونيسيا. @برس تي في",
+    "text": "Tsunami warning issued after magnitude 7.7 earthquake strikes Indonesia, EMSC says. @PressTV",
     "time": "01:29",
     "views": 0,
-    "date": "السبت 15 أغسطس 2026",
-    "translated": true
+    "date": "السبت 15 أغسطس 2026"
   },
   {
     "channel": "PressTV",
-    "text": "Israel targets southern Lebanon with internationally banned phosphorus shells @PressTV",
+    "text": "إسرائيل تستهدف جنوب لبنان بقذائف الفسفور المحرمة دوليا @PressTV",
     "time": "01:09",
     "views": 0,
-    "date": "السبت 15 أغسطس 2026"
+    "date": "السبت 15 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
@@ -358,11 +358,10 @@
   },
   {
     "channel": "PressTV",
-    "text": "🔺 أعلن المتحدث باسم القوات المسلحة اليمنية يحيى سريع، أنهم استهدفوا بنجاح نقطة تجمع ومخزن أسلحة تابعين للقوات المدعومة من السعودية في منطقة المخا جنوبي اليمن، ما أدى إلى إصابة أفراد ومعدات عسكرية في المنطقة.",
+    "text": "🔺 Yemen's armed forces spokesperson Yahya Saree announced that they successfully targeted a gathering point and weapons depot belonging to Saudi-backed forces in the southern Yemeni region of Al-Mokha, striking both personnel and military equipment in the…",
     "time": "00:22",
     "views": 0,
-    "date": "السبت 15 أغسطس 2026",
-    "translated": true
+    "date": "السبت 15 أغسطس 2026"
   },
   {
     "channel": "MiddleEastMonitor",
