@@ -1,9 +1,17 @@
 [
   {
+    "channel": "YouTube-AlAouni",
+    "text": "ايران أسقطت65 طائرة..وطائرة أخرى اليوم من طراز إم.كيو9..مالم تنشره الواشنطن بوست",
+    "link": "https://www.youtube.com/watch?v=JhxuEe-6LGU",
+    "views": 0,
+    "time": "",
+    "date": "الجمعة 15 أغسطس 2026"
+  },
+  {
     "channel": "PressTV",
     "text": "تظهر اللقطات الأضرار التي لحقت بمدينة روتينج بإندونيسيا، عقب الزلزال الذي بلغت قوته 7.7 درجة. @برس تي في",
     "time": "23:29",
-    "views": 371,
+    "views": 532,
     "date": "السبت 15 أغسطس 2026",
     "translated": true
   },
@@ -11,7 +19,7 @@
     "channel": "PressTV",
     "text": "إيران لا تخيفها التهديدات ولا تخيفها استعراضات القوة: نائب وزير الخارجية الإيراني رفض دبلوماسي إيراني كبير بشكل قاطع المزاعم الأمريكية بشأن الوضع المستقبلي لمضيق هرمز، مشددًا على أن الجمهورية الإسلامية لن تخيفها التهديدات أو استعراض القوة العسكرية لإعادة فتح الممر المائي. @برس تي في",
     "time": "23:21",
-    "views": 430,
+    "views": 570,
     "date": "السبت 15 أغسطس 2026",
     "translated": true
   },
@@ -19,7 +27,7 @@
     "channel": "PressTV",
     "text": "لا يزال صدى الهزيمة الإسرائيلية في حرب 33 يومًا عام 2026 يتردد صداه اليوم. تقارير مريم صالح من بيروت. @برس تي في",
     "time": "22:41",
-    "views": 750,
+    "views": 832,
     "date": "السبت 15 أغسطس 2026",
     "translated": true
   },
@@ -33,11 +41,10 @@
   },
   {
     "channel": "PressTV",
-    "text": "زلزال بقوة 7.4 درجة يضرب إندونيسيا. @برس تي في",
+    "text": "A 7.4-magnitude earthquake hits Indonesia. @PressTV",
     "time": "22:13",
-    "views": 990,
-    "date": "السبت 15 أغسطس 2026",
-    "translated": true
+    "views": 0,
+    "date": "السبت 15 أغسطس 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -57,11 +64,10 @@
   },
   {
     "channel": "PressTV",
-    "text": "قام المؤيدون للفلسطينيين في باريس برسم نافورة باللون الأحمر رمزًا للإبادة الجماعية التي ارتكبتها إسرائيل في غزة. @برس تي في",
+    "text": "Pro-Palestinian supporters in Paris painted a fountain red to symbolize Israel's genocide in Gaza. @PressTV",
     "time": "21:47",
     "views": 0,
-    "date": "السبت 15 أغسطس 2026",
-    "translated": true
+    "date": "السبت 15 أغسطس 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -121,10 +127,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "Israeli far-right Minister Ben Gvir posts a video boasting about the detention of a Palestinian bride and groom in the Naqab and their transfer to an Israeli police station, claiming they had obstructed traffic during their wedding convoy. @PressTV",
+    "text": "ونشر الوزير الإسرائيلي اليميني المتطرف، بن جفير، مقطع فيديو يتباهى فيه باعتقال عروسين فلسطينيين في النقب ونقلهما إلى مركز شرطة إسرائيلي، بدعوى أنهما عرقلا حركة المرور خلال موكب زفافهما. @برس تي في",
     "time": "20:28",
     "views": 0,
-    "date": "السبت 15 أغسطس 2026"
+    "date": "السبت 15 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -152,11 +159,10 @@
   },
   {
     "channel": "PressTV",
-    "text": "🔺 أعلن المتحدث باسم القوات المسلحة اليمنية يحيى سريع أنهم استهدفوا بنجاح نقطة تجمع ومستودع أسلحة تابعين للقوات المدعومة من السعودية في منطقة المخا جنوبي اليمن، ما أدى إلى إصابة أفراد ومعدات عسكرية في العملية. @برس تي في",
+    "text": "🔺 Yemen's armed forces spokesperson Yahya Saree announced that they successfully targeted a gathering point and weapons depot belonging to Saudi-backed forces in the southern Yemeni region of Al-Mokha, striking both personnel and military equipment in the operation. @PressTV",
     "time": "19:54",
     "views": 0,
-    "date": "السبت 15 أغسطس 2026",
-    "translated": true
+    "date": "السبت 15 أغسطس 2026"
   },
   {
     "channel": "PressTV",
@@ -208,10 +214,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "🔺 Israel is implementing a project of EXPANSION, ERASURE, and DIVISION in Lebanon, says Rania Masri, adding that the Lebanese people WILL NOT SURRENDER, nevertheless. @Unscripted_PTV",
+    "text": "🔺إسرائيل تنفذ مشروع التوسيع والمحو والتقسيم في لبنان، تقول رانيا المصري، مضيفة أن الشعب اللبناني لن يستسلم رغم ذلك. @Unscripted_PTV",
     "time": "19:09",
     "views": 0,
-    "date": "السبت 15 أغسطس 2026"
+    "date": "السبت 15 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
@@ -550,10 +557,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "BREAKING: Initial reports of at-least 100 Martyrs in an Israeli strike that targeted \"Al-Tabi'in\" school in Al-Daraj neighborhood in central Gaza City.",
+    "text": "عاجل: التقارير الأولية عن استشهاد ما لا يقل عن 100 شهيد في قصف إسرائيلي استهدف مدرسة \"التابعين\" في حي الدرج وسط مدينة غزة.",
     "time": "02:56",
     "views": 152,
-    "date": "الجمعة 14 أغسطس 2026"
+    "date": "الجمعة 14 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
@@ -565,11 +573,10 @@
   },
   {
     "channel": "suppressednews",
-    "text": "أربعون يوماً وليلة، رثى الإعلام الغربي كذبة أطفال إسرائيليين مقطوعة الرأس، التي خدع بها الاحتلال العالم، ولم يروا صورة واحدة تؤكد ادعاءاته... بينما أطفال غزة مقطوعي الرأس يظهرون لنا كل يوم بصور مؤلمة، دون بكاء، ولا يجرؤ الإعلام المنحاز للاحتلال والمتواطئ في الجريمة. 💔 💔 💔 💔 ؟؟؟؟؟؟؟",
+    "text": "For forty days and nights, the Western media lamented the lie of Israeli children with their heads cut off, with which the occupation deceived the world, and they did not see a single picture confirming its claims... while every day the headless children of Gaza appear to us in painful pictures, without their weeping, and the media biased towards the occupation and complicit in the crime does not dare. 💔 💔 💔 💔 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭",
     "time": "04:39",
     "views": 184,
-    "date": "الخميس 13 أغسطس 2026",
-    "translated": true
+    "date": "الخميس 13 أغسطس 2026"
   },
   {
     "channel": "suppressednews",
@@ -580,7 +587,7 @@
   },
   {
     "channel": "suppressednews",
-    "text": "تخيل للحظة من الزمن أن هذا هو طفلك؟ كيف سيكون شعورك تجاه الصهاينة؟",
+    "text": "تخيل للحظة أن هذا هو طفلك؟ كيف سيكون شعورك تجاه الصهاينة؟",
     "time": "20:57",
     "views": 217,
     "date": "الأربعاء 12 أغسطس 2026",
@@ -588,11 +595,10 @@
   },
   {
     "channel": "suppressednews",
-    "text": "يا جمال عيونك هذا رأس الطفل الملاك أسامة أبو الندى الذي قطعته إسرائيل أمس. استشهد أسامة مع والده طه أبو الندى ووالدته هدى وإخوته نور ودانا وغني وجنا.",
+    "text": "Oh the beauty of your eyes, this is the head of the angel child Osama Abu Al-Nada, which Israel cut off yesterday. Osama was martyred with his father, Taha Abu Al-Nada, his mother, Hoda, and his brothers, Nour, Dana, Ghani, and Jana.",
     "time": "17:25",
     "views": 382,
-    "date": "الأربعاء 12 أغسطس 2026",
-    "translated": true
+    "date": "الأربعاء 12 أغسطس 2026"
   },
   {
     "channel": "suppressednews",
