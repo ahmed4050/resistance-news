@@ -41,11 +41,10 @@
   },
   {
     "channel": "PressTV",
-    "text": "زلزال بقوة 7.4 درجة يضرب إندونيسيا. @برس تي في",
+    "text": "A 7.4-magnitude earthquake hits Indonesia. @PressTV",
     "time": "22:13",
     "views": 0,
-    "date": "السبت 15 أغسطس 2026",
-    "translated": true
+    "date": "السبت 15 أغسطس 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -65,11 +64,10 @@
   },
   {
     "channel": "PressTV",
-    "text": "قام المؤيدون للفلسطينيين في باريس برسم نافورة باللون الأحمر رمزًا للإبادة الجماعية التي ارتكبتها إسرائيل في غزة. @برس تي في",
+    "text": "Pro-Palestinian supporters in Paris painted a fountain red to symbolize Israel's genocide in Gaza. @PressTV",
     "time": "21:47",
     "views": 0,
-    "date": "السبت 15 أغسطس 2026",
-    "translated": true
+    "date": "السبت 15 أغسطس 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -105,10 +103,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "Israeli artillery shells the town of Kafr Rumman, in southern Lebanon. @PressTV",
+    "text": "المدفعية الإسرائيلية تقصف بلدة كفر رمان جنوب لبنان. @برس تي في",
     "time": "20:52",
     "views": 0,
-    "date": "السبت 15 أغسطس 2026"
+    "date": "السبت 15 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -154,14 +153,6 @@
     "channel": "PressTV",
     "text": "التعافي السريع لإيران يذهل إسرائيل مع إعادة بناء مخزون الصواريخ بشكل أسرع من المتوقع. أصيب المسؤولون العسكريون الإسرائيليون وعملاء الموساد بالصدمة من مدى سرعة استعادة القدرات العسكرية الإيرانية الرئيسية، بعد أشهر فقط من الحرب العدوانية الأمريكية الإسرائيلية عام 2026. @برس تي في",
     "time": "20:04",
-    "views": 0,
-    "date": "السبت 15 أغسطس 2026",
-    "translated": true
-  },
-  {
-    "channel": "PressTV",
-    "text": "🔺 أعلن المتحدث باسم القوات المسلحة اليمنية يحيى سريع أنهم استهدفوا بنجاح نقطة تجمع ومستودع أسلحة تابعين للقوات المدعومة من السعودية في منطقة المخا جنوبي اليمن، ما أدى إلى إصابة أفراد ومعدات عسكرية في العملية. @برس تي في",
-    "time": "19:54",
     "views": 0,
     "date": "السبت 15 أغسطس 2026",
     "translated": true
@@ -319,47 +310,64 @@
   },
   {
     "channel": "PressTV",
-    "text": "قصفت إسرائيل منزلاً في مدينة النبطية جنوب لبنان. @برس تي في",
-    "time": "02:29",
-    "views": 86,
+    "text": "اقتحمت قوات الاحتلال الإسرائيلي قاعة أفراح في بلدة العيزرية شرق القدس، واعتدت على المدعوين. @برس تي في",
+    "time": "02:56",
+    "views": 58,
     "date": "السبت 15 أغسطس 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "Pakistan at 79: How independent is its decision-making? Maryam Nawaz reports from Islamabad. @PressTV",
-    "time": "02:06",
+    "text": "قصفت إسرائيل منزلاً في مدينة النبطية جنوب لبنان. @برس تي في",
+    "time": "02:29",
     "views": 344,
-    "date": "السبت 15 أغسطس 2026"
+    "date": "السبت 15 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "باكستان في عامها التاسع والسبعين: ما مدى استقلالية عملية صنع القرار فيها؟ تقرير مريم نواز من إسلام أباد. @برس تي في",
+    "time": "02:06",
+    "views": 554,
+    "date": "السبت 15 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
     "text": "يقول EMSC إن تحذيرًا من تسونامي صدر بعد زلزال بقوة 7.7 درجة ضرب إندونيسيا. @برس تي في",
     "time": "01:29",
-    "views": 646,
+    "views": 804,
     "date": "السبت 15 أغسطس 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "Israel targets southern Lebanon with internationally banned phosphorus shells @PressTV",
+    "text": "إسرائيل تستهدف جنوب لبنان بقذائف الفسفور المحرمة دوليا @PressTV",
     "time": "01:09",
-    "views": 716,
-    "date": "السبت 15 أغسطس 2026"
+    "views": 851,
+    "date": "السبت 15 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "ضرب زلزال بقوة 5.0 درجة جنوب إسبانيا، بينما تعرضت إندونيسيا لزلزال قوي بقوة 7.7 درجة. @برس تي في",
+    "text": "A magnitude 5.0 earthquake has struck southern Spain, while Indonesia was hit by a powerful 7.7 earthquake . @PressTV",
     "time": "00:52",
-    "views": 855,
-    "date": "السبت 15 أغسطس 2026",
-    "translated": true
+    "views": 976,
+    "date": "السبت 15 أغسطس 2026"
   },
   {
     "channel": "PressTV",
     "text": "تُظهر اللقطات اللحظات التي ضرب فيها زلزال هائل بقوة 7.7 درجة إندونيسيا. @برس تي في",
     "time": "00:35",
-    "views": 904,
+    "views": 0,
+    "date": "السبت 15 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "🔺 أعلن المتحدث باسم القوات المسلحة اليمنية يحيى سريع، أنهم استهدفوا بنجاح نقطة تجمع ومخزن أسلحة تابعين للقوات المدعومة من السعودية في منطقة المخا جنوبي اليمن، ما أدى إلى إصابة أفراد ومعدات عسكرية في المنطقة.",
+    "time": "00:22",
+    "views": 0,
     "date": "السبت 15 أغسطس 2026",
     "translated": true
   },
@@ -381,10 +389,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-taking-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"There was crazy hysteria, with decisions made without any verified information\": IDF ordered Hannibal directive on October 7 to prevent Hamas taking soldiers captive",
+    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-take-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"هناك \"كانت هستيريا جنونية، مع اتخاذ قرارات دون أي معلومات تم التحقق منها\": أمر جيش الدفاع الإسرائيلي بتوجيه هانيبال في 7 أكتوبر بمنع حماس من أسر الجنود",
     "time": "21:46",
     "views": 225,
-    "date": "الجمعة 14 أغسطس 2026"
+    "date": "الجمعة 14 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -564,10 +573,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "For forty days and nights, the Western media lamented the lie of Israeli children with their heads cut off, with which the occupation deceived the world, and they did not see a single picture confirming its claims... while every day the headless children of Gaza appear to us in painful pictures, without their weeping, and the media biased towards the occupation and complicit in the crime does not dare. 💔 💔 💔 💔 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭",
+    "text": "أربعون يوماً وليلة، رثى الإعلام الغربي كذبة أطفال إسرائيليين مقطوعة الرأس، التي خدع بها الاحتلال العالم، ولم يروا صورة واحدة تؤكد ادعاءاته... بينما أطفال غزة مقطوعي الرأس يظهرون لنا كل يوم بصور مؤلمة، دون بكاء، ولا يجرؤ الإعلام المنحاز للاحتلال والمتواطئ في الجريمة. 💔 💔 💔 💔 ؟؟؟؟؟؟؟",
     "time": "04:39",
     "views": 184,
-    "date": "الخميس 13 أغسطس 2026"
+    "date": "الخميس 13 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
@@ -579,11 +589,10 @@
   },
   {
     "channel": "suppressednews",
-    "text": "تخيل للحظة أن هذا هو طفلك؟ كيف سيكون شعورك تجاه الصهاينة؟",
+    "text": "Imagine for a moment in time that this is your child? How would you feel about the Zionists?",
     "time": "20:57",
     "views": 217,
-    "date": "الأربعاء 12 أغسطس 2026",
-    "translated": true
+    "date": "الأربعاء 12 أغسطس 2026"
   },
   {
     "channel": "suppressednews",
@@ -595,17 +604,17 @@
   },
   {
     "channel": "suppressednews",
-    "text": "بالأمس قطعت إسرائيل رأس طفل فلسطيني في غزة 🔞 🔞 🔞 🔞",
+    "text": "Yesterday, Israel beheaded a Palestinian child in gaza 🔞 🔞 🔞 🔞",
     "time": "17:24",
     "views": 359,
-    "date": "الأربعاء 12 أغسطس 2026",
-    "translated": true
+    "date": "الأربعاء 12 أغسطس 2026"
   },
   {
     "channel": "suppressednews",
-    "text": "This is how the beautiful child Tim was before Israel divided him into two halves. With the scale of the ugliness of those massacres, I hate.",
+    "text": "هكذا كان الطفل الجميل تيم قبل أن يقسمه إسرائيل إلى نصفين. ومع حجم بشاعة تلك المجازر فإنني أكره.",
     "time": "17:22",
     "views": 284,
-    "date": "الأربعاء 12 أغسطس 2026"
+    "date": "الأربعاء 12 أغسطس 2026",
+    "translated": true
   }
 ]
