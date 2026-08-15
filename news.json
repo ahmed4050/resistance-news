@@ -129,9 +129,17 @@
   },
   {
     "channel": "PressTV",
+    "text": "📸 الطائرات الحربية الإسرائيلية تقصف عدة مناطق في خانيونس جنوب قطاع غزة. @برس تي في",
+    "time": "17:46",
+    "views": 147,
+    "date": "السبت 15 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
     "text": "◀️ يقدم حسين عماد من Press TV آخر التحديثات حول عدوان النظام الإسرائيلي الأخير على المدنيين اللبنانيين في جنوب لبنان. @برس تي في",
     "time": "17:30",
-    "views": 151,
+    "views": 383,
     "date": "السبت 15 أغسطس 2026",
     "translated": true
   },
@@ -139,7 +147,7 @@
     "channel": "PressTV",
     "text": "📸 سقوط عدة قتلى وجرحى في قصف للقوات المسلحة اليمنية لمرتزقة العدوان السعودي في مأرب. @برس تي في",
     "time": "17:20",
-    "views": 345,
+    "views": 529,
     "date": "السبت 15 أغسطس 2026",
     "translated": true
   },
@@ -147,32 +155,39 @@
     "channel": "PressTV",
     "text": "◀️ حريق في ميناء المخا إثر غارات للقوات المسلحة اليمنية. @برس تي في",
     "time": "17:15",
-    "views": 430,
+    "views": 588,
     "date": "السبت 15 أغسطس 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "📸 In a message, Iran's President Pezeshkian congratulates India's 80th Independence Day to Indian Prime Minister Modi, adding that Iran's resolve is to strengthen comprehensive relations with India. 🔹 President Pezeshkian says Iran is prepared, in light of…",
+    "text": "📸 في رسالة، هنأ الرئيس الإيراني بيزشكيان رئيس الوزراء الهندي مودي بمناسبة عيد استقلال الهند الثمانين، مضيفا أن عزم إيران هو تعزيز العلاقات الشاملة مع الهند. 🔹الرئيس بيزشكيان يقول إن إيران مستعدة في ضوء...",
     "time": "17:00",
-    "views": 553,
-    "date": "السبت 15 أغسطس 2026"
+    "views": 687,
+    "date": "السبت 15 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "🔺امرأة لبنانية تروي كيف استهدفت القوات الإسرائيلية عائلة بأكملها في بلدة سحمر بمنطقة البقاع غرب لبنان بعد وقف إطلاق النار. #ظالم @PresstvPrograms",
+    "text": "🔺 Lebanese woman recounts how Israeli forces targeted an entire family in the town of Sohmor in the Bekaa region of western Lebanon after the ceasefire. #Unjust @PresstvPrograms",
     "time": "16:54",
-    "views": 598,
-    "date": "السبت 15 أغسطس 2026",
-    "translated": true
+    "views": 726,
+    "date": "السبت 15 أغسطس 2026"
   },
   {
     "channel": "PressTV",
     "text": "◀️الهجمات الإسرائيلية مستمرة في جنوب لبنان، مما أدى إلى مقتل وجرح المزيد من المدنيين اللبنانيين. @برس تي في",
     "time": "16:45",
-    "views": 682,
+    "views": 771,
     "date": "السبت 15 أغسطس 2026",
     "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "▶️ Iran urges the International Red Cross to intervene and secure the release of three Iranian pilots who have been held captive by Qatari forces for the past six months after air defenses struck their Su-24 jets during a retaliatory mission. @PressTV",
+    "time": "16:30",
+    "views": 940,
+    "date": "السبت 15 أغسطس 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -186,7 +201,7 @@
     "channel": "PressTV",
     "text": "◀️ خروج احتجاجات في مدينة المسيب بمحافظة بابل العراقية تضامناً مع المقاومة ورفضاً لعودة إرهابيي داعش إلى المدينة. @برس تي في",
     "time": "16:20",
-    "views": 900,
+    "views": 953,
     "date": "السبت 15 أغسطس 2026",
     "translated": true
   },
@@ -210,16 +225,17 @@
     "channel": "PressTV",
     "text": "◀️ فيديو يظهر الحشود في مرقد المرشد الأعلى للثورة الإسلامية الشهيد آية الله السيد علي خامنئي في مرقد الإمام الرضا (ع) في مشهد. @برس تي في",
     "time": "16:10",
-    "views": 933,
+    "views": 0,
     "date": "السبت 15 أغسطس 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "✍️ Viewpoint - Trump’s ‘compensation’ delusion: A desperate and dying hegemon mimicking Iran’s strategic playbook Trump's demand of compensation is a reactive, theatrical gimmick that admits US military and strategic failure and Iran's upper hand in this war and in controlling the Strait of Hormuz. By Maryam Bashirpour @PressTV",
+    "text": "✍️ وجهة نظر - وهم \"التعويض\" لترامب: قوة مهيمنة يائسة ومحتضرة تحاكي كتاب اللعب الاستراتيجي الإيراني إن مطالبة ترامب بالتعويض هي وسيلة للتحايل المسرحي التفاعلي تعترف بالفشل العسكري والاستراتيجي للولايات المتحدة وباليد العليا لإيران في هذه الحرب وفي السيطرة على مضيق هرمز. بقلم مريم بشيربور @PressTV",
     "time": "16:00",
-    "views": 960,
-    "date": "السبت 15 أغسطس 2026"
+    "views": 0,
+    "date": "السبت 15 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -233,16 +249,17 @@
     "channel": "PressTV",
     "text": "🔸168 ... ▫️ رقم أخذ معنى تحت الركام غارقاً في الدماء. ▫️يصادف اليوم مرور 168 يومًا على دخول هذا الرقم إلى التاريخ إلى الأبد. ▫️ تابع القصة المأساوية وراء هذا الرقم في هذا الفيديو. 🔸 في اليوم الأول من الهجوم، عندما استشهد الإمام الخامنئي وأفراد عائلته في هجوم إجرامي على مقر إقامته، ضرب المعتدون الأمريكيون الصهاينة أيضًا مدرسة ابتدائية في #ميناب، وذبحوا 168 شخصًا من العزل في عمل إرهابي متعمد. 🔸 أعيد نشره في اليوم الـ 168 على العدوان الأمريكي الصهيوني – نفس عدد الضحايا الأبرياء لجريمة الحرب على مدرسة #شجرة الطيبة في ميناب تحميل المقر 👇 https://en.khamenei.ir/film/149500 #HumanRights #MinabStudents 😀 KHAMENEI.IR | 𝕏 (رسمي) | 𝕏 (الموقع الإلكتروني) 💻 @Khamenei_en",
     "time": "15:53",
-    "views": 946,
+    "views": 994,
     "date": "السبت 15 أغسطس 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "Iran’s Intelligence Ministry urges France to hold its diplomats accountable for unlawful interference and warns of an appropriate response if such actions are repeated. @PressTV",
+    "text": "وزارة الاستخبارات الإيرانية تحث فرنسا على محاسبة دبلوماسييها على التدخل غير القانوني وتحذر من الرد المناسب في حالة تكرار مثل هذه التصرفات. @برس تي في",
     "time": "15:45",
-    "views": 958,
-    "date": "السبت 15 أغسطس 2026"
+    "views": 0,
+    "date": "السبت 15 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -272,14 +289,6 @@
     "channel": "MiddleEastMonitor",
     "text": "وتسعى إسرائيل للحصول على الضوء الأخضر الأمريكي لضرب إيران",
     "time": "15:15",
-    "views": 0,
-    "date": "السبت 15 أغسطس 2026",
-    "translated": true
-  },
-  {
-    "channel": "PressTV",
-    "text": "◀️ إيران تحث الصليب الأحمر الدولي على التدخل وتأمين إطلاق سراح الطيارين الإيرانيين الثلاثة الذين احتجزتهم القوات القطرية منذ ستة أشهر بعد أن ضربت الدفاعات الجوية طائراتهم من طراز Su-24 خلال مهمة انتقامية. @برس تي في",
-    "time": "15:10",
     "views": 0,
     "date": "السبت 15 أغسطس 2026",
     "translated": true
@@ -549,14 +558,15 @@
   },
   {
     "channel": "suppressednews",
-    "text": "For forty days and nights, the Western media lamented the lie of Israeli children with their heads cut off, with which the occupation deceived the world, and they did not see a single picture confirming its claims... while every day the headless children of Gaza appear to us in painful pictures, without their weeping, and the media biased towards the occupation and complicit in the crime does not dare. 💔 💔 💔 💔 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭",
+    "text": "أربعون يوماً وليلة، رثى الإعلام الغربي كذبة أطفال إسرائيليين مقطوعة الرأس، التي خدع بها الاحتلال العالم، ولم يروا صورة واحدة تؤكد ادعاءاته... بينما أطفال غزة مقطوعي الرأس يظهرون لنا كل يوم بصور مؤلمة، دون بكاء، ولا يجرؤ الإعلام المنحاز للاحتلال والمتواطئ في الجريمة. 💔 💔 💔 💔 ؟؟؟؟؟؟؟",
     "time": "04:39",
     "views": 184,
-    "date": "الخميس 13 أغسطس 2026"
+    "date": "الخميس 13 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "وكالعادة يقتل عدد كبير عند وقوع الكارثة، ويتوفى عدد آخر تدريجياً متأثراً بجراحه بعد وقوعها. توفي عمر الجعبري، 13 عاماً، متأثراً بجراحه في مستشفى كمال عدوان. وكان من بين ضحايا مجزرة مدرسة التابعين قبل يومين. وأصيب عمر بحروق شديدة نتيجة الصواريخ الأمريكية التي تنتج درجات حرارة عالية جدا، ولم يصب بشكل مباشر، وإلا لكان قد تحول إلى أشلاء وذاب جسده. 💔 💔 💔",
+    "text": "وكالعادة يقتل عدد كبير عند وقوع الكارثة، ويتوفى عدد آخر تدريجياً متأثراً بجراحه بعد وقوعها. توفي عمر الجعبري، 13 عاماً، متأثراً بجراحه في مستشفى كمال عدوان. وكان من بين ضحايا مجزرة مدرسة التابعين قبل يومين. وأصيب عمر بحروق شديدة نتيجة الصواريخ الأمريكية التي تنتج درجات حرارة عالية للغاية، ولم يصب بشكل مباشر، وإلا لكان قد تحول إلى أشلاء وذاب جسده. 💔 💔 💔",
     "time": "04:38",
     "views": 168,
     "date": "الخميس 13 أغسطس 2026",
@@ -564,7 +574,7 @@
   },
   {
     "channel": "suppressednews",
-    "text": "تخيل للحظة من الزمن أن هذا هو طفلك؟ كيف سيكون شعورك تجاه الصهاينة؟",
+    "text": "تخيل للحظة أن هذا هو طفلك؟ كيف سيكون شعورك تجاه الصهاينة؟",
     "time": "20:57",
     "views": 217,
     "date": "الأربعاء 12 أغسطس 2026",
