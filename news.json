@@ -41,10 +41,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "A 7.4-magnitude earthquake hits Indonesia. @PressTV",
+    "text": "زلزال بقوة 7.4 درجة يضرب إندونيسيا. @برس تي في",
     "time": "22:13",
     "views": 0,
-    "date": "السبت 15 أغسطس 2026"
+    "date": "السبت 15 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -64,10 +65,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "Pro-Palestinian supporters in Paris painted a fountain red to symbolize Israel's genocide in Gaza. @PressTV",
+    "text": "قام المؤيدون للفلسطينيين في باريس برسم نافورة باللون الأحمر رمزًا للإبادة الجماعية التي ارتكبتها إسرائيل في غزة. @برس تي في",
     "time": "21:47",
     "views": 0,
-    "date": "السبت 15 أغسطس 2026"
+    "date": "السبت 15 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -126,14 +128,6 @@
     "translated": true
   },
   {
-    "channel": "PressTV",
-    "text": "ونشر الوزير الإسرائيلي اليميني المتطرف، بن جفير، مقطع فيديو يتباهى فيه باعتقال عروسين فلسطينيين في النقب ونقلهما إلى مركز شرطة إسرائيلي، بدعوى أنهما عرقلا حركة المرور خلال موكب زفافهما. @برس تي في",
-    "time": "20:28",
-    "views": 0,
-    "date": "السبت 15 أغسطس 2026",
-    "translated": true
-  },
-  {
     "channel": "MiddleEastMonitor",
     "text": "القوات الألمانية تغادر قاعدة أربيل في شمال العراق وسط توترات إقليمية",
     "time": "20:21",
@@ -145,14 +139,6 @@
     "channel": "MiddleEastMonitor",
     "text": "رئيس الأمن الإيراني يحذر إسرائيل ’لن تكون في مأمن من الرد’",
     "time": "20:06",
-    "views": 0,
-    "date": "السبت 15 أغسطس 2026",
-    "translated": true
-  },
-  {
-    "channel": "PressTV",
-    "text": "التعافي السريع لإيران يذهل إسرائيل مع إعادة بناء مخزون الصواريخ بشكل أسرع من المتوقع. أصيب المسؤولون العسكريون الإسرائيليون وعملاء الموساد بالصدمة من مدى سرعة استعادة القدرات العسكرية الإيرانية الرئيسية، بعد أشهر فقط من الحرب العدوانية الأمريكية الإسرائيلية عام 2026. @برس تي في",
-    "time": "20:04",
     "views": 0,
     "date": "السبت 15 أغسطس 2026",
     "translated": true
@@ -310,9 +296,17 @@
   },
   {
     "channel": "PressTV",
+    "text": "أظهرت لقطات فيديو اللحظة المرعبة التي ضرب فيها زلزال بقوة 7.7 درجة إندونيسيا. @برس تي في",
+    "time": "03:05",
+    "views": 198,
+    "date": "السبت 15 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
     "text": "اقتحمت قوات الاحتلال الإسرائيلي قاعة أفراح في بلدة العيزرية شرق القدس، واعتدت على المدعوين. @برس تي في",
     "time": "02:56",
-    "views": 58,
+    "views": 296,
     "date": "السبت 15 أغسطس 2026",
     "translated": true
   },
@@ -320,23 +314,22 @@
     "channel": "PressTV",
     "text": "قصفت إسرائيل منزلاً في مدينة النبطية جنوب لبنان. @برس تي في",
     "time": "02:29",
-    "views": 344,
+    "views": 510,
     "date": "السبت 15 أغسطس 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "باكستان في عامها التاسع والسبعين: ما مدى استقلالية عملية صنع القرار فيها؟ تقرير مريم نواز من إسلام أباد. @برس تي في",
+    "text": "Pakistan at 79: How independent is its decision-making? Maryam Nawaz reports from Islamabad. @PressTV",
     "time": "02:06",
-    "views": 554,
-    "date": "السبت 15 أغسطس 2026",
-    "translated": true
+    "views": 690,
+    "date": "السبت 15 أغسطس 2026"
   },
   {
     "channel": "PressTV",
     "text": "يقول EMSC إن تحذيرًا من تسونامي صدر بعد زلزال بقوة 7.7 درجة ضرب إندونيسيا. @برس تي في",
     "time": "01:29",
-    "views": 804,
+    "views": 886,
     "date": "السبت 15 أغسطس 2026",
     "translated": true
   },
@@ -344,16 +337,17 @@
     "channel": "PressTV",
     "text": "إسرائيل تستهدف جنوب لبنان بقذائف الفسفور المحرمة دوليا @PressTV",
     "time": "01:09",
-    "views": 851,
+    "views": 926,
     "date": "السبت 15 أغسطس 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "A magnitude 5.0 earthquake has struck southern Spain, while Indonesia was hit by a powerful 7.7 earthquake . @PressTV",
+    "text": "ضرب زلزال بقوة 5.0 درجة جنوب إسبانيا، بينما تعرضت إندونيسيا لزلزال قوي بقوة 7.7 درجة. @برس تي في",
     "time": "00:52",
-    "views": 976,
-    "date": "السبت 15 أغسطس 2026"
+    "views": 0,
+    "date": "السبت 15 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
@@ -565,11 +559,10 @@
   },
   {
     "channel": "suppressednews",
-    "text": "سرقوا فرحته وتوجه للحصول على شهادة ميلاد للتوأم آسر وأيسل – بعد 4 أيام. فرجع فاستشهدوا مع أمهم. ما الألم الذي يسببه حمل شهادة ميلاد ووفاة أطفالك في نفس اليوم؟ حسبنا الله ونعم الوكيل 💔 💔 💔 💔",
+    "text": "They stole his joy. He went to obtain a birth certificate for the twins Aser and Aysel - 4 days later. He returned and they were martyred along with their mother. What pain does it have to hold the birth certificate and death certificate of your children on the same day? God is sufficient for us, and He is the best disposer of affairs 💔 💔 💔 💔",
     "time": "18:26",
     "views": 175,
-    "date": "الخميس 13 أغسطس 2026",
-    "translated": true
+    "date": "الخميس 13 أغسطس 2026"
   },
   {
     "channel": "suppressednews",
@@ -589,10 +582,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "Imagine for a moment in time that this is your child? How would you feel about the Zionists?",
+    "text": "تخيل للحظة أن هذا هو طفلك؟ كيف سيكون شعورك تجاه الصهاينة؟",
     "time": "20:57",
     "views": 217,
-    "date": "الأربعاء 12 أغسطس 2026"
+    "date": "الأربعاء 12 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
@@ -604,10 +598,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "Yesterday, Israel beheaded a Palestinian child in gaza 🔞 🔞 🔞 🔞",
+    "text": "بالأمس قطعت إسرائيل رأس طفل فلسطيني في غزة 🔞 🔞 🔞 🔞",
     "time": "17:24",
     "views": 359,
-    "date": "الأربعاء 12 أغسطس 2026"
+    "date": "الأربعاء 12 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
