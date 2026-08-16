@@ -1,17 +1,16 @@
 [
   {
     "channel": "PressTV",
-    "text": "أوقفت قوات الاحتلال الإسرائيلي، إعادة الخدمات في بلدة قصرة قرب نابلس، لليوم الثامن على التوالي. @برس تي في",
+    "text": "Israeli regime blocked the restoration of services in the town of Qusra, near Nablus, for the eighth consecutive day. @PressTV",
     "time": "23:05",
-    "views": 195,
-    "date": "الإثنين 17 أغسطس 2026",
-    "translated": true
+    "views": 338,
+    "date": "الإثنين 17 أغسطس 2026"
   },
   {
     "channel": "PressTV",
     "text": "إيران ستهزم العدو في \"الحرب الاقتصادية\" كما فعلت في ساحة المعركة: نائب الرئيس الإيراني حذر النائب الأول للرئيس الإيراني محمد رضا عارف من أن الأعداء يسعون للتعويض عن إخفاقاتهم العسكرية من خلال الضغط الاقتصادي، قائلاً إن إيران يمكن أن تلحق بهم هزيمة أخرى من خلال الوحدة الوطنية والتماسك. @برس تي في",
     "time": "22:52",
-    "views": 352,
+    "views": 472,
     "date": "الإثنين 17 أغسطس 2026",
     "translated": true
   },
@@ -19,7 +18,7 @@
     "channel": "PressTV",
     "text": "إسرائيل تشن غارات جوية على بلدة القنطرة في جنوب لبنان. @برس تي في",
     "time": "22:31",
-    "views": 566,
+    "views": 656,
     "date": "الإثنين 17 أغسطس 2026",
     "translated": true
   },
@@ -51,7 +50,7 @@
     "channel": "PressTV",
     "text": "يُظهر فشل يو إس إس لينكولن \"الافتقار الحقيقي للقيادة\" لإدارة ترامب: يقول السيناتور الأمريكي روبن جاليجو إن الظروف القاسية للبحارة ومشاة البحرية على متن السفينة يو إس إس أبراهام لينكولن تظهر \"الافتقار الحقيقي للقيادة\" في إدارة ترامب. @برس تي في",
     "time": "21:51",
-    "views": 955,
+    "views": 0,
     "date": "الإثنين 17 أغسطس 2026",
     "translated": true
   },
@@ -129,10 +128,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "Protests in the heart of the Ukrainian capital Kiev against the decision to dismiss Ukrainian Defense Minister Fedorov. @PressTV",
+    "text": "احتجاجات في قلب العاصمة الأوكرانية كييف ضد قرار إقالة وزير الدفاع الأوكراني فيدوروف. @برس تي في",
     "time": "20:26",
     "views": 0,
-    "date": "الإثنين 17 أغسطس 2026"
+    "date": "الإثنين 17 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -208,11 +208,10 @@
   },
   {
     "channel": "PressTV",
-    "text": "أدى أكبر حريق غابات مسجل في بلجيكا إلى حرق حوالي 3000 هكتار ويتقدم نحو الحدود الألمانية. @برس تي في",
+    "text": "Belgium’s largest wildfire on record has now burned around 3,000 hectares and is advancing toward the German border. @PressTV",
     "time": "19:05",
     "views": 0,
-    "date": "الإثنين 17 أغسطس 2026",
-    "translated": true
+    "date": "الإثنين 17 أغسطس 2026"
   },
   {
     "channel": "PressTV",
@@ -224,10 +223,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "Palestinians shot, beaten and forced from homes as Israeli raids sweep West Bank Israeli forces and extremist armed settlers have shot, beaten and detained Palestinians and forced families from their homes during a series of new attacks across the occupied West Bank. @PressTV",
+    "text": "إطلاق النار على الفلسطينيين وضربهم وإجبارهم على ترك منازلهم أثناء الغارات الإسرائيلية التي تجتاح الضفة الغربية أطلقت القوات الإسرائيلية والمستوطنون المسلحون المتطرفون النار على فلسطينيين وضربتهم واحتجزتهم وأجبرت عائلاتهم على ترك منازلهم خلال سلسلة من الهجمات الجديدة في جميع أنحاء الضفة الغربية المحتلة. @برس تي في",
     "time": "18:46",
     "views": 0,
-    "date": "الإثنين 17 أغسطس 2026"
+    "date": "الإثنين 17 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
@@ -606,10 +606,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "Yesterday, Israel beheaded a Palestinian child in gaza 🔞 🔞 🔞 🔞",
+    "text": "بالأمس قطعت إسرائيل رأس طفل فلسطيني في غزة 🔞 🔞 🔞 🔞",
     "time": "17:24",
     "views": 359,
-    "date": "الجمعة 14 أغسطس 2026"
+    "date": "الجمعة 14 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
