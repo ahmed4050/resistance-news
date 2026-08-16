@@ -113,9 +113,17 @@
   },
   {
     "channel": "PressTV",
+    "text": "أنقذ حارس أمن في مستشفى الإمام علي في مدينة كرج الإيرانية طفلاً يبلغ من العمر 4 أشهر من الاختناق عن طريق نقل الطفل بسرعة إلى غرفة الطوارئ في اندفاعة محمومة. @برس تي في",
+    "time": "17:04",
+    "views": 133,
+    "date": "الأحد 16 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
     "text": "تمت إضافة أربعة هياكل مائية تاريخية إيرانية إلى قائمة هياكل الري المدرجة ضمن التراث العالمي تمت إضافة أربعة هياكل إيرانية تاريخية تعرض خبرة البلاد الممتدة لقرون في إدارة المياه إلى قائمة هياكل الري للتراث العالمي (WHIS). @برس تي في",
     "time": "16:43",
-    "views": 306,
+    "views": 475,
     "date": "الأحد 16 أغسطس 2026",
     "translated": true
   },
@@ -123,7 +131,7 @@
     "channel": "PressTV",
     "text": "أسوأ من المراحيض العامة! 🤢 بحار أمريكي يكشف الظروف القذرة على متن سفينة يو إس إس أبراهام لنكولن. لا عجب أن القوات تريد القفز من على متن السفينة! @برس تي في",
     "time": "16:33",
-    "views": 460,
+    "views": 610,
     "date": "الأحد 16 أغسطس 2026",
     "translated": true
   },
@@ -139,7 +147,7 @@
     "channel": "PressTV",
     "text": "حماس: المحادثات المصرية تركز على وقف إطلاق النار وامتثال إسرائيل لخارطة الطريق في غزة تقول حركة المقاومة الفلسطينية حماس إن محادثات وفد رفيع المستوى مع المسؤولين المصريين في القاهرة تركز على تعزيز وقف إطلاق النار في غزة وضمان التزام إسرائيل بالتزاماتها بموجب ما يسمى “خطة السلام” المدعومة من الولايات المتحدة. @برس تي في",
     "time": "16:18",
-    "views": 610,
+    "views": 725,
     "date": "الأحد 16 أغسطس 2026",
     "translated": true
   },
@@ -171,7 +179,7 @@
     "channel": "PressTV",
     "text": "جدد البابا دعوته لإنهاء العنف ضد المجتمعات الفلسطينية في الضفة الغربية @PressTV",
     "time": "15:53",
-    "views": 875,
+    "views": 973,
     "date": "الأحد 16 أغسطس 2026",
     "translated": true
   },
@@ -179,7 +187,7 @@
     "channel": "PressTV",
     "text": "حققت إيران \"نصرًا حقيقيًا\" على الجبهتين العسكرية والسياسية في الحرب مع الولايات المتحدة وإسرائيل: قال رئيس البرلمان الإيراني محمد باقر قاليباف إن بلاده تمكنت من تحقيق \"نصر حقيقي\" على الجبهتين العسكرية والسياسية في حربها مع الولايات المتحدة وإسرائيل، مشددًا على أن الخصمين فشلا في تحقيق أي من أهدافهما. @برس تي في",
     "time": "15:50",
-    "views": 835,
+    "views": 922,
     "date": "الأحد 16 أغسطس 2026",
     "translated": true
   },
@@ -195,7 +203,7 @@
     "channel": "PressTV",
     "text": "أفادت تقارير أن قوات أنصار الله اليمنية شنت هجمات صاروخية وطائرات مسيرة على القوات المدعومة من السعودية في مأرب بميناء المخا. @برس تي في",
     "time": "15:33",
-    "views": 976,
+    "views": 0,
     "date": "الأحد 16 أغسطس 2026",
     "translated": true
   },
@@ -209,11 +217,10 @@
   },
   {
     "channel": "PressTV",
-    "text": "ازيح الستار عن كتاب آية الله السيد مجتبى خامنئي حول النظام العالمي الجديد في بغداد أزيح الستار عن النسخة العربية من كتاب فجر نظام عالمي جديد لقائد الثورة الإسلامية آية الله السيد مجتبى خامنئي في بغداد بحضور شخصيات ثقافية وسياسية عراقية وممثلين عن الجمهورية الإسلامية الإيرانية. @برس تي في",
+    "text": "Ayatollah Seyyed Mojtaba Khamenei's book on the new world order unveiled in Baghdad The Arabic edition of ‘The Dawn of a New World Order’, authored by Leader of the Islamic Revolution Ayatollah Seyyed Mojtaba Khamenei, was unveiled in Baghdad in the presence of Iraqi cultural and political figures and representatives of the Islamic Republic of Iran. @PressTV",
     "time": "15:21",
     "views": 0,
-    "date": "الأحد 16 أغسطس 2026",
-    "translated": true
+    "date": "الأحد 16 أغسطس 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -280,11 +287,10 @@
   },
   {
     "channel": "PressTV",
-    "text": "قائد الجيش الإيراني يعلن مكافأة قدرها 30 ألف دولار لمن يقتل أو يأسر جنديا أمريكيا أعلن القائد العام للجيش الإيراني، اللواء أمير حاتمي، عن مكافأة مالية لمن يقتل أو يأسر جنديا أمريكيا معتديا، معلنا أن عصر الوجود العسكري الأمريكي في الخليج الفارسي قد انتهى إلى الأبد. @برس تي في",
+    "text": "Iran Army chief announces $30,000 bounty for killing or capturing US troops Iran’s Army Commander-in-Chief, Major General Amir Hatami, has announced a financial reward for anyone who kills or captures an aggressor US soldier, declaring that the era of American military presence in the Persian Gulf is permanently over. @PressTV",
     "time": "14:19",
     "views": 0,
-    "date": "الأحد 16 أغسطس 2026",
-    "translated": true
+    "date": "الأحد 16 أغسطس 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -304,11 +310,10 @@
   },
   {
     "channel": "PressTV",
-    "text": "طهران وقم ومشهد تقيم مراسم عزاء بعد 40 يوما من دفن الشهيد قائد الثورة الإسلامية في إيران من المقرر أن تقيم العاصمة الإيرانية طهران ومدينتي قم ومشهد المقدستين مراسم عزاء على روح قائد الثورة الإسلامية الشهيد آية الله السيد علي خامنئي في اليوم الأربعين بعد تشييعه ودفنه. @برس تي في",
+    "text": "Tehran, Qom, and Mashhad to host mourning ceremonies 40 days after martyred Leader’s burial The Iranian capital of Tehran, as well as the holy cities of Qom and Mashhad, are set to observe mourning ceremonies in commemoration of the martyred Leader of the Islamic Revolution, Ayatollah Seyyed Ali Khamenei, on the 40th day after his funeral and burial. @PressTV",
     "time": "14:01",
     "views": 0,
-    "date": "الأحد 16 أغسطس 2026",
-    "translated": true
+    "date": "الأحد 16 أغسطس 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -328,10 +333,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "Camera traps captured a female Persian leopard and her cub at a wildlife sanctuary in Bahabad County, Iran. The sighting has given experts renewed hope about the security and quality of the region’s habitats. @PressTV",
+    "text": "التقطت مصائد الكاميرا أنثى نمر فارسي وشبلها في محمية للحياة البرية في مقاطعة بهاباد بإيران. وقد أعطت هذه الرؤية الخبراء أملاً متجدداً بشأن أمن ونوعية الموائل الطبيعية في المنطقة. @برس تي في",
     "time": "13:45",
     "views": 0,
-    "date": "الأحد 16 أغسطس 2026"
+    "date": "الأحد 16 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
@@ -353,14 +359,6 @@
     "channel": "PressTV",
     "text": "\"لقد صوبوا بنادقهم نحوي\" يتحدث خبير الشؤون الدولية يوسف عزيزي لقناة برس تي في عن محنته أثناء احتجازه لدى عملاء وكالة الهجرة والجمارك خلال فترة وجوده في الولايات المتحدة كطالب دكتوراه في جامعة فرجينيا للتكنولوجيا. @برس تي في",
     "time": "13:20",
-    "views": 0,
-    "date": "الأحد 16 أغسطس 2026",
-    "translated": true
-  },
-  {
-    "channel": "PressTV",
-    "text": "الصحافة التلفزيونية ثبت الفيديو",
-    "time": "13:11",
     "views": 0,
     "date": "الأحد 16 أغسطس 2026",
     "translated": true
@@ -390,11 +388,10 @@
   },
   {
     "channel": "suppressednews",
-    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-take-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"هناك \"كانت هستيريا جنونية، مع اتخاذ قرارات دون أي معلومات تم التحقق منها\": أمر جيش الدفاع الإسرائيلي بتوجيه هانيبال في 7 أكتوبر بمنع حماس من أسر الجنود",
+    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-taking-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"There was crazy hysteria, with decisions made without any verified information\": IDF ordered Hannibal directive on October 7 to prevent Hamas taking soldiers captive",
     "time": "21:46",
     "views": 225,
-    "date": "السبت 15 أغسطس 2026",
-    "translated": true
+    "date": "السبت 15 أغسطس 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -558,11 +555,10 @@
   },
   {
     "channel": "suppressednews",
-    "text": "عاجل: التقارير الأولية عن استشهاد ما لا يقل عن 100 شهيد في قصف إسرائيلي استهدف مدرسة \"التابعين\" في حي الدرج وسط مدينة غزة.",
+    "text": "BREAKING: Initial reports of at-least 100 Martyrs in an Israeli strike that targeted \"Al-Tabi'in\" school in Al-Daraj neighborhood in central Gaza City.",
     "time": "02:56",
     "views": 152,
-    "date": "السبت 15 أغسطس 2026",
-    "translated": true
+    "date": "السبت 15 أغسطس 2026"
   },
   {
     "channel": "suppressednews",
@@ -574,11 +570,10 @@
   },
   {
     "channel": "suppressednews",
-    "text": "أربعون يوماً وليلة، رثى الإعلام الغربي كذبة أطفال إسرائيليين مقطوعة الرأس، التي خدع بها الاحتلال العالم، ولم يروا صورة واحدة تؤكد ادعاءاته... بينما أطفال غزة مقطوعي الرأس يظهرون لنا كل يوم بصور مؤلمة، دون بكاء، ولا يجرؤ الإعلام المنحاز للاحتلال والمتواطئ في الجريمة. 💔 💔 💔 💔 ؟؟؟؟؟؟؟",
+    "text": "For forty days and nights, the Western media lamented the lie of Israeli children with their heads cut off, with which the occupation deceived the world, and they did not see a single picture confirming its claims... while every day the headless children of Gaza appear to us in painful pictures, without their weeping, and the media biased towards the occupation and complicit in the crime does not dare. 💔 💔 💔 💔 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭",
     "time": "04:39",
     "views": 184,
-    "date": "الجمعة 14 أغسطس 2026",
-    "translated": true
+    "date": "الجمعة 14 أغسطس 2026"
   },
   {
     "channel": "suppressednews",
