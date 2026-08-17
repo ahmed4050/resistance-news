@@ -1,10 +1,11 @@
 [
   {
     "channel": "PressTV",
-    "text": "Iran spokesman slams Canada's participation in war on Iran despite Trump's hostility Iran's Foreign Ministry spokesman has issued a critique of Canada's participation in the US-led war against Iran, highlighting the contradiction between Ottawa's military cooperation with Washington and the Trump administration's ongoing economic and diplomatic assault on Canadian sovereignty. @PressTV",
+    "text": "المتحدث باسم إيران ينتقد مشاركة كندا في الحرب على إيران على الرغم من عداء ترامب أصدر المتحدث باسم وزارة الخارجية الإيرانية انتقادًا لمشاركة كندا في الحرب التي تقودها الولايات المتحدة ضد إيران، مسلطًا الضوء على التناقض بين تعاون أوتاوا العسكري مع واشنطن والهجوم الاقتصادي والدبلوماسي المستمر لإدارة ترامب على السيادة الكندية. @برس تي في",
     "time": "23:54",
-    "views": 955,
-    "date": "الإثنين 17 أغسطس 2026"
+    "views": 0,
+    "date": "الإثنين 17 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
@@ -127,10 +128,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "According to US media reports, growing anger and frustration among US allies in the Persian Gulf over the Trump administration’s failure to handle the war it waged on Iran. @PressTV",
+    "text": "وفقًا لتقارير وسائل الإعلام الأمريكية، يتزايد الغضب والإحباط بين حلفاء الولايات المتحدة في الخليج العربي بسبب فشل إدارة ترامب في التعامل مع الحرب التي شنتها على إيران. @برس تي في",
     "time": "20:39",
     "views": 0,
-    "date": "الإثنين 17 أغسطس 2026"
+    "date": "الإثنين 17 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -173,25 +175,9 @@
     "translated": true
   },
   {
-    "channel": "PressTV",
-    "text": "قال رئيس البرلمان الإيراني محمد باقر قاليباف، إن بلاده حققت انتصارًا عسكريًا وسياسيًا كاملاً على الولايات المتحدة وإسرائيل. @برس تي في",
-    "time": "19:34",
-    "views": 0,
-    "date": "الإثنين 17 أغسطس 2026",
-    "translated": true
-  },
-  {
     "channel": "MiddleEastMonitor",
     "text": "ترامب يزعم أن إيران طلبت من الولايات المتحدة مواصلة “المحادثات” ويعلن أن وقف إطلاق النار “انتهى”",
     "time": "19:33",
-    "views": 0,
-    "date": "الإثنين 17 أغسطس 2026",
-    "translated": true
-  },
-  {
-    "channel": "PressTV",
-    "text": "روسيا تعترض أكثر من 800 طائرة بدون طيار بينما تشن أوكرانيا هجومًا واسع النطاق شنت أوكرانيا هجومًا واسع النطاق ومميتًا على روسيا، ونشرت مئات من الطائرات بدون طيار الهجومية في مناطق متعددة. @برس تي في",
-    "time": "19:24",
     "views": 0,
     "date": "الإثنين 17 أغسطس 2026",
     "translated": true
@@ -341,24 +327,41 @@
   },
   {
     "channel": "PressTV",
-    "text": "لأطفال غزة الشهداء، تذكار من اسطنبول. @برس تي في",
-    "time": "01:55",
-    "views": 129,
+    "text": "قتيل واحد، وجرفت المنازل بسبب إعصار لالا الذي جلب أمطارًا غزيرة إلى جزيرة هاواي الكبيرة. @برس تي في",
+    "time": "02:34",
+    "views": 28,
     "date": "الإثنين 17 أغسطس 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "5.9-magnitude quake hits Flores Region, Indonesia @PressTV",
+    "text": "حماس تدعو الوسطاء إلى إجبار إسرائيل على وقف انتهاكات وقف إطلاق النار وقبول خارطة الطريق دعت حركة المقاومة الإسلامية حماس الوسطاء الدوليين و\"مجلس السلام\" المدعوم من الولايات المتحدة إلى محاسبة الاحتلال الإسرائيلي، مطالبة باتخاذ إجراءات فورية لوقف انتهاكات وقف إطلاق النار المستمرة وإجبار إسرائيل على قبول خارطة الطريق للمرحلة الثانية من خطة السلام المقترحة في غزة. @برس تي في",
+    "time": "02:14",
+    "views": 285,
+    "date": "الإثنين 17 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "لأطفال غزة الشهداء، تذكار من اسطنبول. @برس تي في",
+    "time": "01:55",
+    "views": 453,
+    "date": "الإثنين 17 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "زلزال بقوة 5.9 درجة يضرب منطقة فلوريس بإندونيسيا @PressTV",
     "time": "01:30",
-    "views": 417,
-    "date": "الإثنين 17 أغسطس 2026"
+    "views": 677,
+    "date": "الإثنين 17 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
     "text": "حصرياً: الباحث الإيراني يوسف عزيزي يروي محنة الاحتجاز التعسفي في الولايات المتحدة في قضية كبرى تسلط الضوء على الخطوط غير الواضحة بشكل متزايد بين إنفاذ قوانين الهجرة والاضطهاد السياسي في الولايات المتحدة، تحدث الباحث والصحفي الإيراني ومرشح الدكتوراه في جامعة فرجينيا يوسف عزيزي عن احتجازه التعسفي والوحشي من قبل إدارة الهجرة والجمارك الأمريكية (ICE). @برس تي في",
     "time": "01:26",
-    "views": 447,
+    "views": 679,
     "date": "الإثنين 17 أغسطس 2026",
     "translated": true
   },
@@ -366,7 +369,7 @@
     "channel": "PressTV",
     "text": "تم تسجيل سحابة على شكل رف كتب، تشبه موجة ضخمة، في نيوجيرسي. @برس تي في",
     "time": "00:59",
-    "views": 654,
+    "views": 848,
     "date": "الإثنين 17 أغسطس 2026",
     "translated": true
   },
@@ -374,7 +377,7 @@
     "channel": "PressTV",
     "text": "ووصف القائد العام للجيش الإيراني، اللواء أمير حاتمي، مضيق هرمز بأنه رصيد جيوسياسي للأمة الإيرانية لن يعود أبدًا إلى وضعه السابق. @برس تي في",
     "time": "00:41",
-    "views": 737,
+    "views": 884,
     "date": "الإثنين 17 أغسطس 2026",
     "translated": true
   },
@@ -382,7 +385,7 @@
     "channel": "PressTV",
     "text": "\"على العدو أن يتوقع مفاجآت استراتيجية\": قائد الحرس الثوري الإيراني يحذر من التحول إلى الموقف الهجومي حذر قائد كبير في الحرس الثوري الإسلامي من أنه في حين ظلت الأعمال العسكرية الإيرانية دفاعية بشكل صارم منذ اندلاع الأعمال العدائية، فإن القوات المسلحة مستعدة تمامًا لتبني موقف هجومي إذا لزم الأمر، محذرًا الخصوم من توقع \"مفاجآت استراتيجية\". @برس تي في",
     "time": "00:16",
-    "views": 869,
+    "views": 0,
     "date": "الإثنين 17 أغسطس 2026",
     "translated": true
   },
@@ -588,10 +591,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "For forty days and nights, the Western media lamented the lie of Israeli children with their heads cut off, with which the occupation deceived the world, and they did not see a single picture confirming its claims... while every day the headless children of Gaza appear to us in painful pictures, without their weeping, and the media biased towards the occupation and complicit in the crime does not dare. 💔 💔 💔 💔 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭",
+    "text": "أربعون يوماً وليلة، رثى الإعلام الغربي كذبة أطفال إسرائيليين مقطوعة الرأس، التي خدع بها الاحتلال العالم، ولم يروا صورة واحدة تؤكد ادعاءاته... بينما أطفال غزة مقطوعي الرأس يظهرون لنا كل يوم بصور مؤلمة، دون بكاء، ولا يجرؤ الإعلام المنحاز للاحتلال والمتواطئ في الجريمة. 💔 💔 💔 💔 ؟؟؟؟؟؟؟",
     "time": "04:39",
     "views": 184,
-    "date": "السبت 15 أغسطس 2026"
+    "date": "السبت 15 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
