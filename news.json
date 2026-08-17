@@ -17,10 +17,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "Israeli regime blocked the restoration of services in the town of Qusra, near Nablus, for the eighth consecutive day. @PressTV",
+    "text": "أوقفت قوات الاحتلال الإسرائيلي، إعادة الخدمات في بلدة قصرة قرب نابلس، لليوم الثامن على التوالي. @برس تي في",
     "time": "23:05",
     "views": 0,
-    "date": "الإثنين 17 أغسطس 2026"
+    "date": "الإثنين 17 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
@@ -80,10 +81,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "The Divyastra Mk3 is India’s first indigenously designed and built jet powered loitering munition (kamikaze drone), developed by Kawa UAV. @PressTV",
+    "text": "Divyastra Mk3 هي أول ذخيرة تسكع تعمل بالطاقة النفاثة مصممة ومصنوعة محليًا في الهند (طائرة بدون طيار كاميكازي)، تم تطويرها بواسطة Kawa UAV. @برس تي في",
     "time": "21:38",
     "views": 0,
-    "date": "الإثنين 17 أغسطس 2026"
+    "date": "الإثنين 17 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
@@ -119,17 +121,19 @@
   },
   {
     "channel": "PressTV",
-    "text": "According to Israeli media, another Israeli soldier, identified as Uriel Guetoun, killed himself after returning from the genocidal war on Gaza. @PressTV",
+    "text": "ووفقا لوسائل الإعلام الإسرائيلية، قتل جندي إسرائيلي آخر، يُدعى أورييل غوتون، نفسه بعد عودته من حرب الإبادة الجماعية على غزة. @برس تي في",
     "time": "20:49",
     "views": 0,
-    "date": "الإثنين 17 أغسطس 2026"
+    "date": "الإثنين 17 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "According to US media reports, growing anger and frustration among US allies in the Persian Gulf over the Trump administration’s failure to handle the war it waged on Iran. @PressTV",
+    "text": "وفقًا لتقارير وسائل الإعلام الأمريكية، يتزايد الغضب والإحباط بين حلفاء الولايات المتحدة في الخليج العربي بسبب فشل إدارة ترامب في التعامل مع الحرب التي شنتها على إيران. @برس تي في",
     "time": "20:39",
     "views": 0,
-    "date": "الإثنين 17 أغسطس 2026"
+    "date": "الإثنين 17 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -138,13 +142,6 @@
     "views": 0,
     "date": "الإثنين 17 أغسطس 2026",
     "translated": true
-  },
-  {
-    "channel": "PressTV",
-    "text": "Protests in the heart of the Ukrainian capital Kiev against the decision to dismiss Ukrainian Defense Minister Fedorov. @PressTV",
-    "time": "20:26",
-    "views": 0,
-    "date": "الإثنين 17 أغسطس 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -307,6 +304,14 @@
     "translated": true
   },
   {
+    "channel": "PressTV",
+    "text": "يقول قائد كبير في الحرس الثوري الإيراني إن إيران اتبعت حتى الآن نهجا دفاعيا في مواجهة عدوان العدو، لكن نهجها قد يصبح هجوميا في المستقبل. @برس تي في",
+    "time": "04:16",
+    "views": 69,
+    "date": "الإثنين 17 أغسطس 2026",
+    "translated": true
+  },
+  {
     "channel": "suppressednews",
     "text": "#شاهد .. استهداف مجاهدي كتائب القسام لجنود العدو وآلياته في محاور القتال بمدينة رفح جنوب القطاع #طوفان_الأقصى",
     "time": "03:26",
@@ -315,31 +320,31 @@
   },
   {
     "channel": "PressTV",
-    "text": "ارتفاع حصيلة ضحايا غرق العبارة في زيمبابوي إلى 84 شخصًا",
+    "text": "Death toll rises to 84 from capsized ferry in Zimbabwe @PressTV",
     "time": "02:55",
-    "views": 586,
+    "views": 822,
+    "date": "الإثنين 17 أغسطس 2026"
+  },
+  {
+    "channel": "PressTV",
+    "text": "قتيل واحد، وجرفت المنازل بسبب إعصار لالا الذي جلب أمطارًا غزيرة إلى جزيرة هاواي الكبيرة. @برس تي في",
+    "time": "02:34",
+    "views": 0,
     "date": "الإثنين 17 أغسطس 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "1 dead, homes swept away as Hurricane Lala brings heavy rain to Hawaii’s Big Island. @PressTV",
-    "time": "02:34",
-    "views": 821,
-    "date": "الإثنين 17 أغسطس 2026"
-  },
-  {
-    "channel": "PressTV",
     "text": "Hamas calls on mediators to compel Israel to end ceasefire violations, accept peace roadmap The Islamic Resistance Movement Hamas has called upon international mediators and the US-backed \"Board of Peace\" to hold the Israeli occupation accountable, demanding immediate action to halt ongoing ceasefire violations and compel Israel to accept the roadmap for the second phase of the proposed Gaza peace plan. @PressTV",
     "time": "02:14",
-    "views": 886,
+    "views": 0,
     "date": "الإثنين 17 أغسطس 2026"
   },
   {
     "channel": "PressTV",
     "text": "لأطفال غزة الشهداء، تذكار من اسطنبول. @برس تي في",
     "time": "01:55",
-    "views": 945,
+    "views": 0,
     "date": "الإثنين 17 أغسطس 2026",
     "translated": true
   },
@@ -353,10 +358,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "Exclusive: Iranian researcher Yousef Azizi recounts ordeal of arbitrary US detention In a major case highlighting the increasingly blurred lines between immigration enforcement and political persecution in the United States, Iranian researcher, journalist, and Virginia Tech PhD candidate Yousef Azizi has spoken out about his arbitrary and brutal detention by US Immigration and Customs Enforcement (ICE). @PressTV",
+    "text": "حصرياً: الباحث الإيراني يوسف عزيزي يروي محنة الاحتجاز التعسفي في الولايات المتحدة في قضية كبرى تسلط الضوء على الخطوط غير الواضحة بشكل متزايد بين إنفاذ قوانين الهجرة والاضطهاد السياسي في الولايات المتحدة، تحدث الباحث والصحفي الإيراني ومرشح الدكتوراه في جامعة فرجينيا يوسف عزيزي عن احتجازه التعسفي والوحشي من قبل إدارة الهجرة والجمارك الأمريكية (ICE). @برس تي في",
     "time": "01:26",
     "views": 0,
-    "date": "الإثنين 17 أغسطس 2026"
+    "date": "الإثنين 17 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
@@ -598,10 +604,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "Imagine for a moment in time that this is your child? How would you feel about the Zionists?",
+    "text": "تخيل للحظة من الزمن أن هذا هو طفلك؟ كيف سيكون شعورك تجاه الصهاينة؟",
     "time": "20:57",
     "views": 217,
-    "date": "الجمعة 14 أغسطس 2026"
+    "date": "الجمعة 14 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
@@ -612,11 +619,10 @@
   },
   {
     "channel": "suppressednews",
-    "text": "بالأمس قطعت إسرائيل رأس طفل فلسطيني في غزة 🔞 🔞 🔞 🔞",
+    "text": "Yesterday, Israel beheaded a Palestinian child in gaza 🔞 🔞 🔞 🔞",
     "time": "17:24",
     "views": 359,
-    "date": "الجمعة 14 أغسطس 2026",
-    "translated": true
+    "date": "الجمعة 14 أغسطس 2026"
   },
   {
     "channel": "suppressednews",
