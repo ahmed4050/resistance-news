@@ -33,10 +33,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "Israel launches airstrikes on the town of Al-Qantara in southern Lebanon. @PressTV",
+    "text": "إسرائيل تشن غارات جوية على بلدة القنطرة في جنوب لبنان. @برس تي في",
     "time": "22:31",
     "views": 0,
-    "date": "الإثنين 17 أغسطس 2026"
+    "date": "الإثنين 17 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -63,27 +64,12 @@
     "translated": true
   },
   {
-    "channel": "PressTV",
-    "text": "يُظهر فشل يو إس إس لينكولن \"الافتقار الحقيقي للقيادة\" لإدارة ترامب: يقول السيناتور الأمريكي روبن جاليجو إن الظروف القاسية للبحارة ومشاة البحرية على متن السفينة يو إس إس أبراهام لينكولن تظهر \"الافتقار الحقيقي للقيادة\" في إدارة ترامب. @برس تي في",
-    "time": "21:51",
-    "views": 0,
-    "date": "الإثنين 17 أغسطس 2026",
-    "translated": true
-  },
-  {
     "channel": "MiddleEastMonitor",
     "text": "مجلس المستشارين الألماني يقدم مشروع قانون لتجريم ’إنكار حق إسرائيل في الوجود’",
     "time": "21:43",
     "views": 0,
     "date": "الإثنين 17 أغسطس 2026",
     "translated": true
-  },
-  {
-    "channel": "PressTV",
-    "text": "The Divyastra Mk3 is India’s first indigenously designed and built jet powered loitering munition (kamikaze drone), developed by Kawa UAV. @PressTV",
-    "time": "21:38",
-    "views": 0,
-    "date": "الإثنين 17 أغسطس 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -279,9 +265,25 @@
   },
   {
     "channel": "PressTV",
+    "text": "\"كان مستعدًا للموت من أجل الشعب\" ◀️ يقول جورج غالاوي إن إحجام قائد إيران الشهيد عن الذهاب إلى الملاجئ أظهر بطولة وعزز سمعة إيران. شاهد كاملاً على @MoscowReportt",
+    "time": "05:33",
+    "views": 110,
+    "date": "الإثنين 17 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "◀ الحرب الأمريكية الإسرائيلية تلحق خسائر فادحة بالبيئة الإيرانية، تقرير الخليج الفارسي جيسو ميشا أحمدي من طهران @PressTV",
+    "time": "05:23",
+    "views": 295,
+    "date": "الإثنين 17 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
     "text": "ويصف الوزير الإسرائيلي اليميني المتطرف إيتامار بن غفير الفلسطينيين علناً بأنهم \"ليسوا بشراً\"، مضيفاً أنهم \"لا يحتاجون إلى العيش\". @برس تي في",
     "time": "05:16",
-    "views": 90,
+    "views": 378,
     "date": "الإثنين 17 أغسطس 2026",
     "translated": true
   },
@@ -289,7 +291,7 @@
     "channel": "PressTV",
     "text": "🔺 استكشفت شبكة PBS الآثار الاقتصادية للصراع الأمريكي المتصاعد مع إيران في مقال. #Exposé @PresstvPrograms",
     "time": "05:05",
-    "views": 264,
+    "views": 494,
     "date": "الإثنين 17 أغسطس 2026",
     "translated": true
   },
@@ -297,7 +299,7 @@
     "channel": "PressTV",
     "text": "متظاهرو باريس يطالبون باتخاذ إجراءات غربية، وليس بالأقوال، بشأن غزة والضفة الغربية، تقرير بيتر هومي من قناة @PressTV في باريس",
     "time": "04:42",
-    "views": 563,
+    "views": 746,
     "date": "الإثنين 17 أغسطس 2026",
     "translated": true
   },
@@ -305,7 +307,7 @@
     "channel": "PressTV",
     "text": "يقول قائد كبير في الحرس الثوري الإيراني إن إيران اتبعت حتى الآن نهجا دفاعيا في مواجهة عدوان العدو، لكن نهجها قد يصبح هجوميا في المستقبل. @برس تي في",
     "time": "04:16",
-    "views": 788,
+    "views": 953,
     "date": "الإثنين 17 أغسطس 2026",
     "translated": true
   },
@@ -318,11 +320,10 @@
   },
   {
     "channel": "PressTV",
-    "text": "ارتفاع حصيلة ضحايا غرق العبارة في زيمبابوي إلى 84 شخصًا",
+    "text": "Death toll rises to 84 from capsized ferry in Zimbabwe @PressTV",
     "time": "02:55",
     "views": 0,
-    "date": "الإثنين 17 أغسطس 2026",
-    "translated": true
+    "date": "الإثنين 17 أغسطس 2026"
   },
   {
     "channel": "PressTV",
@@ -382,10 +383,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "‘Enemy should expect strategic surprises’: IRGC commander warns of shift to offensive posture A senior commander of the Islamic Revolution Guards Corps (IRGC) has warned that while Iran’s military actions have remained strictly defensive since the outbreak of hostilities, the armed forces are fully prepared to adopt an offensive posture if necessary, cautioning adversaries to expect \"strategic surprises.\" @PressTV",
+    "text": "\"على العدو أن يتوقع مفاجآت استراتيجية\": قائد الحرس الثوري الإيراني يحذر من التحول إلى الموقف الهجومي حذر قائد كبير في الحرس الثوري الإسلامي من أنه في حين ظلت الأعمال العسكرية الإيرانية دفاعية بشكل صارم منذ اندلاع الأعمال العدائية، فإن القوات المسلحة مستعدة تمامًا لتبني موقف هجومي إذا لزم الأمر، محذرًا الخصوم من توقع \"مفاجآت استراتيجية\". @برس تي في",
     "time": "00:16",
     "views": 0,
-    "date": "الإثنين 17 أغسطس 2026"
+    "date": "الإثنين 17 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -589,11 +591,10 @@
   },
   {
     "channel": "suppressednews",
-    "text": "أربعون يوماً وليلة، رثى الإعلام الغربي كذبة أطفال إسرائيليين مقطوعة الرأس، التي خدع بها الاحتلال العالم، ولم يروا صورة واحدة تؤكد ادعاءاته... بينما أطفال غزة مقطوعي الرأس يظهرون لنا كل يوم بصور مؤلمة، دون بكاء، ولا يجرؤ الإعلام المنحاز للاحتلال والمتواطئ في الجريمة. 💔 💔 💔 💔 ؟؟؟؟؟؟؟",
+    "text": "For forty days and nights, the Western media lamented the lie of Israeli children with their heads cut off, with which the occupation deceived the world, and they did not see a single picture confirming its claims... while every day the headless children of Gaza appear to us in painful pictures, without their weeping, and the media biased towards the occupation and complicit in the crime does not dare. 💔 💔 💔 💔 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭",
     "time": "04:39",
     "views": 184,
-    "date": "السبت 15 أغسطس 2026",
-    "translated": true
+    "date": "السبت 15 أغسطس 2026"
   },
   {
     "channel": "suppressednews",
@@ -621,11 +622,10 @@
   },
   {
     "channel": "suppressednews",
-    "text": "بالأمس قطعت إسرائيل رأس طفل فلسطيني في غزة 🔞 🔞 🔞 🔞",
+    "text": "Yesterday, Israel beheaded a Palestinian child in gaza 🔞 🔞 🔞 🔞",
     "time": "17:24",
     "views": 359,
-    "date": "الجمعة 14 أغسطس 2026",
-    "translated": true
+    "date": "الجمعة 14 أغسطس 2026"
   },
   {
     "channel": "suppressednews",
