@@ -1,17 +1,24 @@
 [
   {
     "channel": "PressTV",
-    "text": "اليمن يهدد بالرد بشدة على أي تصعيد سعودي للتوترات قالت وزارة الخارجية والمغتربين اليمنية إن القوات المسلحة للبلاد تراقب التطورات عن كثب، مؤكدة أنها سترد على أي تهديد ومؤامرة من قبل الأعداء بهجمات أكثر شدة وتدميرا. @برس تي في",
-    "time": "23:05",
-    "views": 447,
+    "text": "وبحسب أجامو بركة فإن الولايات المتحدة لا تلتزم باتفاقاتها، وانتهاء فترة الستين يوما يثير احتمال استمرار الحرب. @برس تي في",
+    "time": "23:46",
+    "views": 92,
     "date": "الثلاثاء 18 أغسطس 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
+    "text": "Yemen threatens to respond severely to any Saudi escalation of tensions The Yemeni Ministry of Foreign Affairs and Expatriates says the country’s armed forces are closely monitoring developments, stressing that they will respond to any threat and conspiracy by enemies with more severe and devastating attacks. @PressTV",
+    "time": "23:05",
+    "views": 568,
+    "date": "الثلاثاء 18 أغسطس 2026"
+  },
+  {
+    "channel": "PressTV",
     "text": "تحاصر القوات الإسرائيلية قصرة في الضفة الغربية المحتلة منذ تسعة أيام، معلنة إياها منطقة عسكرية مغلقة وتقييد الوصول إلى الغذاء والإمدادات الأساسية. @برس تي في",
     "time": "22:52",
-    "views": 542,
+    "views": 647,
     "date": "الثلاثاء 18 أغسطس 2026",
     "translated": true
   },
@@ -19,17 +26,16 @@
     "channel": "PressTV",
     "text": "التورط الإسرائيلي في حروب الإبادة الجماعية يؤدي إلى انخفاض حاد في عودة المستوطنين: تقرير انخفض عدد الإسرائيليين العائدين إلى الأراضي المحتلة بشكل كبير في السنوات الأخيرة حيث لا يزال كيان الاحتلال متورطا بعمق في الإبادة الجماعية في غزة وغيرها من حروب العدوان الطويلة الأمد، وفقا لتقرير رسمي للكنيست. @برس تي في",
     "time": "22:37",
-    "views": 643,
+    "views": 734,
     "date": "الثلاثاء 18 أغسطس 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "\"لو كان بوسع الولايات المتحدة أن تستخدم الأسلحة النووية ضد إيران بالفعل\"، تناقش مريم أزارشهر، من قناة Press TV، إمكانية وجود خيار نووي ضد إيران، كما ذكرت المشرعة الأمريكية السابقة مارجوري تايلور جرين. @برس تي في",
+    "text": "“The US would have used nuclear weapons against Iran already if it could” Press TV’s Maryam Azarchehr discusses the possibility of a nuclear option against Iran, as mentioned by former US lawmaker Marjorie Taylor Greene. @PressTV",
     "time": "22:25",
-    "views": 743,
-    "date": "الثلاثاء 18 أغسطس 2026",
-    "translated": true
+    "views": 818,
+    "date": "الثلاثاء 18 أغسطس 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -49,10 +55,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "Iraqi sources reported a major fire at a fuel storage tank in Sulaymaniyah, northern Iraq. @PressTV",
+    "text": "أفادت مصادر عراقية، باندلاع حريق كبير في صهريج لتخزين الوقود في السليمانية شمالي العراق. @برس تي في",
     "time": "21:59",
-    "views": 931,
-    "date": "الثلاثاء 18 أغسطس 2026"
+    "views": 997,
+    "date": "الثلاثاء 18 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -66,7 +73,7 @@
     "channel": "PressTV",
     "text": "ومرة أخرى، وبخ ترامب مراسلة شبكة \"سي إن إن\"، وطلب منها \"الهدوء\" واتهمها بنشر \"أخبار كاذبة\". @برس تي في",
     "time": "21:51",
-    "views": 955,
+    "views": 0,
     "date": "الثلاثاء 18 أغسطس 2026",
     "translated": true
   },
@@ -96,10 +103,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "Israeli forces carry out controlled detonations in Bani Hayyan, southern Lebanon. @PressTV",
+    "text": "قوات الاحتلال الإسرائيلي تنفذ تفجيرات مدروسة في بني حيان جنوب لبنان. @برس تي في",
     "time": "21:18",
     "views": 0,
-    "date": "الثلاثاء 18 أغسطس 2026"
+    "date": "الثلاثاء 18 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -159,19 +167,17 @@
   },
   {
     "channel": "PressTV",
-    "text": "إيران تتحول إلى الوضع \"الهجومي\" وسط تجاهل الولايات المتحدة للدبلوماسية: تقرير قال مسؤول إيراني كبير إن الجمهورية الإسلامية تتحول من النهج الدفاعي إلى النهج الهجومي لأنها تفقد الأمل في التزام الولايات المتحدة بمسار الدبلوماسية، وفقًا لتقرير. @برس تي في",
+    "text": "Iran switching to 'offensive' mode amid US disregard for diplomacy: Report A senior Iranian official says the Islamic Republic is switching from a defensive approach to an offensive one as it is losing hope in the United States’ commitment to the path of diplomacy, according to a report. @PressTV",
     "time": "19:46",
     "views": 0,
-    "date": "الثلاثاء 18 أغسطس 2026",
-    "translated": true
+    "date": "الثلاثاء 18 أغسطس 2026"
   },
   {
     "channel": "PressTV",
-    "text": "إيران تقول إن الهجوم بطائرة بدون طيار على مكتب رئيس وزراء إقليم كردستان العراق قد يكون \"علمًا زائفًا\" قال المتحدث باسم وزارة الخارجية الإيرانية إسماعيل بقائي إن الهجوم بطائرة بدون طيار على مكتب رئيس وزراء إقليم كردستان العراق كان \"تطورًا مريبًا للغاية\" وسط المواجهة الإقليمية المستمرة بين إيران والولايات المتحدة. @برس تي في",
+    "text": "Iran says drone attack on Kurdistan PM office could be ‘false flag’ Iranian Foreign Ministry spokesman Esmaeil Baqaei says a drone attack on the office of the Prime Minister of the Iraqi Kurdistan Region was a “highly suspicious development,” amid the ongoing regional confrontation between Iran and the United States. @PressTV",
     "time": "19:34",
     "views": 0,
-    "date": "الثلاثاء 18 أغسطس 2026",
-    "translated": true
+    "date": "الثلاثاء 18 أغسطس 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -233,14 +239,6 @@
     "channel": "PressTV",
     "text": "🔴 وزير الخارجية الإيراني عراقجي: 🔺 لا شيء يبرر الهجوم الطائش على مكتب الرئيس بارزاني. ويجب على الأصدقاء الأكراد أن يكونوا يقظين ضد الحيل الكاذبة لزرع الفتنة بين الجيران. @برس تي في",
     "time": "18:50",
-    "views": 0,
-    "date": "الثلاثاء 18 أغسطس 2026",
-    "translated": true
-  },
-  {
-    "channel": "PressTV",
-    "text": "دونالد ترامب: المضيق مفتوح، وأسعار النفط تنخفض، وسوف تستمر في الانخفاض. ويبدو أن الأبقار تطير الآن. 🐄 ✈️ @PressTV",
-    "time": "18:40",
     "views": 0,
     "date": "الثلاثاء 18 أغسطس 2026",
     "translated": true
@@ -558,11 +556,10 @@
   },
   {
     "channel": "suppressednews",
-    "text": "سرقوا فرحته وتوجه للحصول على شهادة ميلاد للتوأم آسر وأيسل – بعد 4 أيام. فرجع فاستشهدوا مع أمهم. ما الألم الذي يسببه حمل شهادة ميلاد ووفاة أطفالك في نفس اليوم؟ حسبنا الله ونعم الوكيل 💔 💔 💔 💔",
+    "text": "They stole his joy. He went to obtain a birth certificate for the twins Aser and Aysel - 4 days later. He returned and they were martyred along with their mother. What pain does it have to hold the birth certificate and death certificate of your children on the same day? God is sufficient for us, and He is the best disposer of affairs 💔 💔 💔 💔",
     "time": "18:26",
     "views": 175,
-    "date": "الأحد 16 أغسطس 2026",
-    "translated": true
+    "date": "الأحد 16 أغسطس 2026"
   },
   {
     "channel": "suppressednews",
@@ -574,11 +571,10 @@
   },
   {
     "channel": "suppressednews",
-    "text": "وكالعادة يقتل عدد كبير عند وقوع الكارثة، ويتوفى عدد آخر تدريجياً متأثراً بجراحه بعد وقوعها. توفي عمر الجعبري، 13 عاماً، متأثراً بجراحه في مستشفى كمال عدوان. وكان من بين ضحايا مجزرة مدرسة التابعين قبل يومين. وأصيب عمر بحروق شديدة نتيجة الصواريخ الأمريكية التي تنتج درجات حرارة عالية جدا، ولم يصب بشكل مباشر، وإلا لكان قد تحول إلى أشلاء وذاب جسده. 💔 💔 💔",
+    "text": "As usual, a large number are killed when the disaster strikes, and another number gradually succumbs to their wounds after it occurs. Omar Al-Jaabari, 13 years old, died of his wounds at Kamal Adwan Hospital. He was among the victims of the massacre at Al-Tabaeen School two days ago. Omar suffered severe burns as a result of the American missiles that produce very high temperatures, and he was not directly injured, otherwise he would have been turned into pieces and his body would have melted. 💔 💔 💔",
     "time": "04:38",
     "views": 168,
-    "date": "الأحد 16 أغسطس 2026",
-    "translated": true
+    "date": "الأحد 16 أغسطس 2026"
   },
   {
     "channel": "suppressednews",
@@ -597,18 +593,16 @@
   },
   {
     "channel": "suppressednews",
-    "text": "بالأمس قطعت إسرائيل رأس طفل فلسطيني في غزة 🔞 🔞 🔞 🔞",
+    "text": "Yesterday, Israel beheaded a Palestinian child in gaza 🔞 🔞 🔞 🔞",
     "time": "17:24",
     "views": 359,
-    "date": "السبت 15 أغسطس 2026",
-    "translated": true
+    "date": "السبت 15 أغسطس 2026"
   },
   {
     "channel": "suppressednews",
-    "text": "هكذا كان الطفل الجميل تيم قبل أن يقسمه إسرائيل إلى نصفين. ومع حجم بشاعة تلك المجازر فإنني أكره.",
+    "text": "This is how the beautiful child Tim was before Israel divided him into two halves. With the scale of the ugliness of those massacres, I hate.",
     "time": "17:22",
     "views": 284,
-    "date": "السبت 15 أغسطس 2026",
-    "translated": true
+    "date": "السبت 15 أغسطس 2026"
   }
 ]
