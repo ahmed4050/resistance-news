@@ -16,6 +16,14 @@
     "translated": true
   },
   {
+    "channel": "PressTV",
+    "text": "أفادت مصادر عراقية، باندلاع حريق كبير في صهريج لتخزين الوقود في السليمانية شمالي العراق. @برس تي في",
+    "time": "21:59",
+    "views": 173,
+    "date": "الثلاثاء 18 أغسطس 2026",
+    "translated": true
+  },
+  {
     "channel": "MiddleEastMonitor",
     "text": "غارة جوية إسرائيلية بدون طيار تصيب 3 من العاملين في مستشفى شمال غزة رغم وقف إطلاق النار",
     "time": "21:59",
@@ -27,7 +35,7 @@
     "channel": "PressTV",
     "text": "ومرة أخرى، وبخ ترامب مراسلة شبكة \"سي إن إن\"، وطلب منها \"الهدوء\" واتهمها بنشر \"أخبار كاذبة\". @برس تي في",
     "time": "21:51",
-    "views": 102,
+    "views": 304,
     "date": "الثلاثاء 18 أغسطس 2026",
     "translated": true
   },
@@ -43,7 +51,7 @@
     "channel": "PressTV",
     "text": "🔴 تم استهداف سفينة الشحن التي ترفع العلم الإندونيسي LCT Amir Khan 1468 على رصيف في جنوب اليمن بينما كانت تحمل معدات عسكرية سعودية. @برس تي في",
     "time": "21:38",
-    "views": 304,
+    "views": 441,
     "date": "الثلاثاء 18 أغسطس 2026",
     "translated": true
   },
@@ -59,7 +67,7 @@
     "channel": "PressTV",
     "text": "قوات الاحتلال الإسرائيلي تنفذ تفجيرات مدروسة في بني حيان جنوب لبنان. @برس تي في",
     "time": "21:18",
-    "views": 577,
+    "views": 669,
     "date": "الثلاثاء 18 أغسطس 2026",
     "translated": true
   },
@@ -121,10 +129,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "Iran switching to 'offensive' mode amid US disregard for diplomacy: Report A senior Iranian official says the Islamic Republic is switching from a defensive approach to an offensive one as it is losing hope in the United States’ commitment to the path of diplomacy, according to a report. @PressTV",
+    "text": "إيران تتحول إلى الوضع \"الهجومي\" وسط تجاهل الولايات المتحدة للدبلوماسية: تقرير قال مسؤول إيراني كبير إن الجمهورية الإسلامية تتحول من النهج الدفاعي إلى النهج الهجومي لأنها تفقد الأمل في التزام الولايات المتحدة بمسار الدبلوماسية، وفقًا لتقرير. @برس تي في",
     "time": "19:46",
     "views": 0,
-    "date": "الثلاثاء 18 أغسطس 2026"
+    "date": "الثلاثاء 18 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
@@ -234,14 +243,6 @@
     "channel": "PressTV",
     "text": "\"عملية إبستين فيوري\" خط صغير بخط يد جنود أمريكيين على أجنحة طائرة تعمل ضد إيران. @برس تي في",
     "time": "17:50",
-    "views": 0,
-    "date": "الثلاثاء 18 أغسطس 2026",
-    "translated": true
-  },
-  {
-    "channel": "PressTV",
-    "text": "🔴 الاحتياطي النفطي الاستراتيجي الأمريكي انخفض إلى نحو 293.4 مليون برميل الأسبوع الماضي، وهو أدنى مستوى له منذ عام 1982. @PressTV",
-    "time": "17:42",
     "views": 0,
     "date": "الثلاثاء 18 أغسطس 2026",
     "translated": true
@@ -574,10 +575,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "As usual, a large number are killed when the disaster strikes, and another number gradually succumbs to their wounds after it occurs. Omar Al-Jaabari, 13 years old, died of his wounds at Kamal Adwan Hospital. He was among the victims of the massacre at Al-Tabaeen School two days ago. Omar suffered severe burns as a result of the American missiles that produce very high temperatures, and he was not directly injured, otherwise he would have been turned into pieces and his body would have melted. 💔 💔 💔",
+    "text": "وكالعادة يقتل عدد كبير عند وقوع الكارثة، ويتوفى عدد آخر تدريجياً متأثراً بجراحه بعد وقوعها. توفي عمر الجعبري، 13 عاماً، متأثراً بجراحه في مستشفى كمال عدوان. وكان من بين ضحايا مجزرة مدرسة التابعين قبل يومين. وأصيب عمر بحروق شديدة نتيجة الصواريخ الأمريكية التي تنتج درجات حرارة عالية جدا، ولم يصب بشكل مباشر، وإلا لكان قد تحول إلى أشلاء وذاب جسده. 💔 💔 💔",
     "time": "04:38",
     "views": 168,
-    "date": "الأحد 16 أغسطس 2026"
+    "date": "الأحد 16 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
@@ -597,18 +599,16 @@
   },
   {
     "channel": "suppressednews",
-    "text": "بالأمس قطعت إسرائيل رأس طفل فلسطيني في غزة 🔞 🔞 🔞 🔞",
+    "text": "Yesterday, Israel beheaded a Palestinian child in gaza 🔞 🔞 🔞 🔞",
     "time": "17:24",
     "views": 359,
-    "date": "السبت 15 أغسطس 2026",
-    "translated": true
+    "date": "السبت 15 أغسطس 2026"
   },
   {
     "channel": "suppressednews",
-    "text": "هكذا كان الطفل الجميل تيم قبل أن يقسمه إسرائيل إلى نصفين. ومع حجم بشاعة تلك المجازر فإنني أكره.",
+    "text": "This is how the beautiful child Tim was before Israel divided him into two halves. With the scale of the ugliness of those massacres, I hate.",
     "time": "17:22",
     "views": 284,
-    "date": "السبت 15 أغسطس 2026",
-    "translated": true
+    "date": "السبت 15 أغسطس 2026"
   }
 ]
