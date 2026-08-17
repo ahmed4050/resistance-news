@@ -24,22 +24,6 @@
     "translated": true
   },
   {
-    "channel": "PressTV",
-    "text": "إيران ستهزم العدو في \"الحرب الاقتصادية\" كما فعلت في ساحة المعركة: نائب الرئيس الإيراني حذر النائب الأول للرئيس الإيراني محمد رضا عارف من أن الأعداء يسعون للتعويض عن إخفاقاتهم العسكرية من خلال الضغط الاقتصادي، قائلاً إن إيران يمكن أن تلحق بهم هزيمة أخرى من خلال الوحدة الوطنية والتماسك. @برس تي في",
-    "time": "22:52",
-    "views": 0,
-    "date": "الإثنين 17 أغسطس 2026",
-    "translated": true
-  },
-  {
-    "channel": "PressTV",
-    "text": "إسرائيل تشن غارات جوية على بلدة القنطرة في جنوب لبنان. @برس تي في",
-    "time": "22:31",
-    "views": 0,
-    "date": "الإثنين 17 أغسطس 2026",
-    "translated": true
-  },
-  {
     "channel": "MiddleEastMonitor",
     "text": "وفي حديثه مع الرئيس الإيراني، حث رئيس الوزراء الباكستاني الولايات المتحدة وإيران على الالتزام باتفاق السلام",
     "time": "22:23",
@@ -265,9 +249,24 @@
   },
   {
     "channel": "PressTV",
+    "text": "تحذر الأمم المتحدة من ارتفاع حاد في عنف المستوطنين ضد الفلسطينيين في الضفة الغربية المحتلة، حيث تم تسجيل ما يقرب من 3000 هجوم منذ يناير 2025. @PressTV",
+    "time": "05:48",
+    "views": 149,
+    "date": "الإثنين 17 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "Iran's Deputy Foreign Minister for Legal and International Affairs, Kazem Gharibabadi: The Zionist regime’s National Security Minister has set a “nightly quota” for the massacre in Gaza: 30 to 40 people. The Zionist criminal simultaneously speaks of expelling Palestinians and expanding settlements throughout Gaza. These confessions must be documented and preserved for the day when these criminals face justice and trial. @PressTV",
+    "time": "05:38",
+    "views": 303,
+    "date": "الإثنين 17 أغسطس 2026"
+  },
+  {
+    "channel": "PressTV",
     "text": "\"كان مستعدًا للموت من أجل الشعب\" ◀️ يقول جورج غالاوي إن إحجام قائد إيران الشهيد عن الذهاب إلى الملاجئ أظهر بطولة وعزز سمعة إيران. شاهد كاملاً على @MoscowReportt",
     "time": "05:33",
-    "views": 110,
+    "views": 354,
     "date": "الإثنين 17 أغسطس 2026",
     "translated": true
   },
@@ -275,7 +274,7 @@
     "channel": "PressTV",
     "text": "◀ الحرب الأمريكية الإسرائيلية تلحق خسائر فادحة بالبيئة الإيرانية، تقرير الخليج الفارسي جيسو ميشا أحمدي من طهران @PressTV",
     "time": "05:23",
-    "views": 295,
+    "views": 484,
     "date": "الإثنين 17 أغسطس 2026",
     "translated": true
   },
@@ -283,7 +282,7 @@
     "channel": "PressTV",
     "text": "ويصف الوزير الإسرائيلي اليميني المتطرف إيتامار بن غفير الفلسطينيين علناً بأنهم \"ليسوا بشراً\"، مضيفاً أنهم \"لا يحتاجون إلى العيش\". @برس تي في",
     "time": "05:16",
-    "views": 378,
+    "views": 543,
     "date": "الإثنين 17 أغسطس 2026",
     "translated": true
   },
@@ -291,7 +290,7 @@
     "channel": "PressTV",
     "text": "🔺 استكشفت شبكة PBS الآثار الاقتصادية للصراع الأمريكي المتصاعد مع إيران في مقال. #Exposé @PresstvPrograms",
     "time": "05:05",
-    "views": 494,
+    "views": 631,
     "date": "الإثنين 17 أغسطس 2026",
     "translated": true
   },
@@ -299,7 +298,7 @@
     "channel": "PressTV",
     "text": "متظاهرو باريس يطالبون باتخاذ إجراءات غربية، وليس بالأقوال، بشأن غزة والضفة الغربية، تقرير بيتر هومي من قناة @PressTV في باريس",
     "time": "04:42",
-    "views": 746,
+    "views": 863,
     "date": "الإثنين 17 أغسطس 2026",
     "translated": true
   },
@@ -307,7 +306,7 @@
     "channel": "PressTV",
     "text": "يقول قائد كبير في الحرس الثوري الإيراني إن إيران اتبعت حتى الآن نهجا دفاعيا في مواجهة عدوان العدو، لكن نهجها قد يصبح هجوميا في المستقبل. @برس تي في",
     "time": "04:16",
-    "views": 953,
+    "views": 0,
     "date": "الإثنين 17 أغسطس 2026",
     "translated": true
   },
@@ -320,10 +319,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "Death toll rises to 84 from capsized ferry in Zimbabwe @PressTV",
+    "text": "ارتفاع حصيلة ضحايا غرق العبارة في زيمبابوي إلى 84 شخصًا",
     "time": "02:55",
     "views": 0,
-    "date": "الإثنين 17 أغسطس 2026"
+    "date": "الإثنين 17 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
@@ -407,11 +407,10 @@
   },
   {
     "channel": "suppressednews",
-    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-take-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"هناك \"كانت هستيريا جنونية، مع اتخاذ قرارات دون أي معلومات تم التحقق منها\": أمر جيش الدفاع الإسرائيلي بتوجيه هانيبال في 7 أكتوبر بمنع حماس من أسر الجنود",
+    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-taking-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"There was crazy hysteria, with decisions made without any verified information\": IDF ordered Hannibal directive on October 7 to prevent Hamas taking soldiers captive",
     "time": "21:46",
     "views": 225,
-    "date": "الأحد 16 أغسطس 2026",
-    "translated": true
+    "date": "الأحد 16 أغسطس 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -591,10 +590,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "For forty days and nights, the Western media lamented the lie of Israeli children with their heads cut off, with which the occupation deceived the world, and they did not see a single picture confirming its claims... while every day the headless children of Gaza appear to us in painful pictures, without their weeping, and the media biased towards the occupation and complicit in the crime does not dare. 💔 💔 💔 💔 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭",
+    "text": "أربعون يوماً وليلة، رثى الإعلام الغربي كذبة أطفال إسرائيليين مقطوعة الرأس، التي خدع بها الاحتلال العالم، ولم يروا صورة واحدة تؤكد ادعاءاته... بينما أطفال غزة مقطوعي الرأس يظهرون لنا كل يوم بصور مؤلمة، دون بكاء، ولا يجرؤ الإعلام المنحاز للاحتلال والمتواطئ في الجريمة. 💔 💔 💔 💔 ؟؟؟؟؟؟؟",
     "time": "04:39",
     "views": 184,
-    "date": "السبت 15 أغسطس 2026"
+    "date": "السبت 15 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
@@ -622,10 +622,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "Yesterday, Israel beheaded a Palestinian child in gaza 🔞 🔞 🔞 🔞",
+    "text": "بالأمس قطعت إسرائيل رأس طفل فلسطيني في غزة 🔞 🔞 🔞 🔞",
     "time": "17:24",
     "views": 359,
-    "date": "الجمعة 14 أغسطس 2026"
+    "date": "الجمعة 14 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
