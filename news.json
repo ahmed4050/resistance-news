@@ -3,7 +3,7 @@
     "channel": "PressTV",
     "text": "العلاقات الإيرانية الصينية مبنية على الاحترام المتبادل ومعارضة الأحادية: قال نائب وزير الخارجية الإيراني كاظم غريب آبادي إن علاقات إيران مع الصين مبنية على الاحترام المتبادل ومعارضة الأحادية والسعي لتحقيق المصالح المشتركة. @برس تي في",
     "time": "23:56",
-    "views": 938,
+    "views": 0,
     "date": "الثلاثاء 18 أغسطس 2026",
     "translated": true
   },
@@ -11,7 +11,7 @@
     "channel": "PressTV",
     "text": "وبحسب أجامو بركة فإن الولايات المتحدة لا تلتزم باتفاقاتها، وانتهاء فترة الستين يوما يثير احتمال استمرار الحرب. @برس تي في",
     "time": "23:46",
-    "views": 971,
+    "views": 0,
     "date": "الثلاثاء 18 أغسطس 2026",
     "translated": true
   },
@@ -25,10 +25,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "Israeli forces have besieged Qusra in the occupied West Bank for nine days, declaring it a closed military zone and restricting access to food and essential supplies. @PressTV",
+    "text": "تحاصر القوات الإسرائيلية قصرة في الضفة الغربية المحتلة منذ تسعة أيام، معلنة إياها منطقة عسكرية مغلقة وتقييد الوصول إلى الغذاء والإمدادات الأساسية. @برس تي في",
     "time": "22:52",
     "views": 0,
-    "date": "الثلاثاء 18 أغسطس 2026"
+    "date": "الثلاثاء 18 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
@@ -64,24 +65,15 @@
   },
   {
     "channel": "PressTV",
-    "text": "أفادت مصادر عراقية، باندلاع حريق كبير في صهريج لتخزين الوقود في السليمانية شمالي العراق. @برس تي في",
+    "text": "Iraqi sources reported a major fire at a fuel storage tank in Sulaymaniyah, northern Iraq. @PressTV",
     "time": "21:59",
     "views": 0,
-    "date": "الثلاثاء 18 أغسطس 2026",
-    "translated": true
+    "date": "الثلاثاء 18 أغسطس 2026"
   },
   {
     "channel": "MiddleEastMonitor",
     "text": "غارة جوية إسرائيلية بدون طيار تصيب 3 من العاملين في مستشفى شمال غزة رغم وقف إطلاق النار",
     "time": "21:59",
-    "views": 0,
-    "date": "الثلاثاء 18 أغسطس 2026",
-    "translated": true
-  },
-  {
-    "channel": "PressTV",
-    "text": "ومرة أخرى، وبخ ترامب مراسلة شبكة \"سي إن إن\"، وطلب منها \"الهدوء\" واتهمها بنشر \"أخبار كاذبة\". @برس تي في",
-    "time": "21:51",
     "views": 0,
     "date": "الثلاثاء 18 أغسطس 2026",
     "translated": true
@@ -295,17 +287,24 @@
   },
   {
     "channel": "PressTV",
-    "text": "وزير الخارجية الإيراني يدين بشدة الهجوم بطائرة بدون طيار على مكتب رئيس وزراء كردستان ووصفه بأنه \"خدعة كاذبة\" أدان وزير الخارجية الإيراني سيد عباس عراقجي بشدة هجوم الطائرة بدون طيار الذي استهدف مكتب رئيس وزراء إقليم كردستان العراق مسرور بارزاني، واصفا...",
-    "time": "02:17",
-    "views": 1,
+    "text": "انخفض معدل تأييد ترامب إلى أدنى مستوى تاريخي مع رفض الأمريكيين للحرب العدوانية على إيران انهار معدل تأييد الرئيس الأمريكي دونالد ترامب إلى 33% فقط، وهو أدنى مستوى خلال رئاسته بأكملها، حيث أعربت الغالبية العظمى من الأمريكيين عن قلقهم العميق من أن الحرب العدوانية التي تشنها واشنطن ضد إيران ستستمر إلى أجل غير مسمى، وفقًا لاستطلاع جديد أجرته رويترز/إبسوس. @برس تي في",
+    "time": "02:27",
+    "views": 201,
     "date": "الثلاثاء 18 أغسطس 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
+    "text": "Iran FM strongly condemns drone attack on Kurdistan PM’s office as 'false-flag ploy' Iranian Foreign Minister Seyed Abbas Araghchi has strongly condemned a drone attack targeting the office of Iraqi Kurdistan Region Prime Minister Masrour Barzani, describing…",
+    "time": "02:17",
+    "views": 317,
+    "date": "الثلاثاء 18 أغسطس 2026"
+  },
+  {
+    "channel": "PressTV",
     "text": "وخلال مكالمة هاتفية مع نظيره الأمريكي ترامب، أكد الرئيس التركي أردوغان أن استمرار الحوار مع إيران هو مفتاح الدبلوماسية، وقال إن أنقرة مستعدة لدعم جهود السلام. @برس تي في",
     "time": "02:11",
-    "views": 140,
+    "views": 374,
     "date": "الثلاثاء 18 أغسطس 2026",
     "translated": true
   },
@@ -313,23 +312,22 @@
     "channel": "PressTV",
     "text": "انفجار هائل لخزان وقود في العراق يضيء سماء الليل مثل انفجار نووي @PressTV",
     "time": "02:07",
-    "views": 191,
+    "views": 386,
     "date": "الثلاثاء 18 أغسطس 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "واصلت القوات الإسرائيلية خرق وقف إطلاق النار في لبنان بغارات جوية على المنصوري ودير سريان في جنوب لبنان. @برس تي في",
+    "text": "Israeli forces continue violating the Lebanon ceasefire with airstrikes on Mansouri and Deir Siryan in southern Lebanon. @PressTV",
     "time": "01:54",
-    "views": 318,
-    "date": "الثلاثاء 18 أغسطس 2026",
-    "translated": true
+    "views": 471,
+    "date": "الثلاثاء 18 أغسطس 2026"
   },
   {
     "channel": "PressTV",
     "text": "البنتاغون يقر بأنه لا توجد خطة عسكرية يمكنها تأمين مضيق هرمز بينما يبحث ترامب عن كبش فداء: مصدر قال مصدر استخباراتي إقليمي مطلع لقناة برس تي في إن الجيش الأمريكي ليس لديه خطة قابلة للتطبيق لتأمين مضيق هرمز، في الوقت الذي يبدو فيه الرئيس دونالد ترامب...",
     "time": "01:44",
-    "views": 417,
+    "views": 547,
     "date": "الثلاثاء 18 أغسطس 2026",
     "translated": true
   },
@@ -337,7 +335,7 @@
     "channel": "PressTV",
     "text": "\"لم ينفذوا أبدًا ما عليهم من الصفقة\" في إشارة إلى فشل الولايات المتحدة في الوفاء بالتزاماتها بموجب الاتفاقيات السابقة، يقول جارلاند نيكسون إنه لا يوجد أمل في أن تلتزم الحكومة الاستعمارية بالقوانين الدولية. @برس تي في",
     "time": "01:29",
-    "views": 506,
+    "views": 623,
     "date": "الثلاثاء 18 أغسطس 2026",
     "translated": true
   },
@@ -345,7 +343,7 @@
     "channel": "PressTV",
     "text": "بيزشكيان: الصبر والتضامن والأمل أساسيان لمرونة إيران في مواجهة التهديدات الخارجية استخلص الرئيس الإيراني مسعود بيزشكيان دروسًا قوية من الحرب الإيرانية العراقية، المعروفة في إيران باسم الدفاع المقدس، قائلاً إن الصبر والتضامن والأمل تظل أسس مرونة الجمهورية الإسلامية غير القابلة للكسر في مواجهة الضغوط والتهديدات الخارجية المتصاعدة. @برس تي في",
     "time": "00:59",
-    "views": 679,
+    "views": 783,
     "date": "الثلاثاء 18 أغسطس 2026",
     "translated": true
   },
@@ -353,7 +351,7 @@
     "channel": "PressTV",
     "text": "التوغل الإسرائيلي الأخير للأقصى يعمق انتهاكات الوضع الراهن التاريخي أدت سلطات النظام الإسرائيلي إلى تآكل الوضع الراهن القائم منذ فترة طويلة في المسجد الأقصى من خلال السماح للمستوطنين غير الشرعيين بدخول الحرم وممارسة الطقوس الدينية العلنية وأعمال التدنيس، مما يمثل تصعيدًا كبيرًا للانتهاكات الإسرائيلية في أحد أقدس المواقع الإسلامية. @برس تي في",
     "time": "00:30",
-    "views": 835,
+    "views": 919,
     "date": "الثلاثاء 18 أغسطس 2026",
     "translated": true
   },
@@ -361,7 +359,7 @@
     "channel": "PressTV",
     "text": "مستوطنون إسرائيليون يقطعون طريقا رئيسيا ويعتدون على مركبات الفلسطينيين قرب عفرات جنوب بيت لحم. @برس تي في",
     "time": "00:13",
-    "views": 864,
+    "views": 943,
     "date": "الثلاثاء 18 أغسطس 2026",
     "translated": true
   },
@@ -383,10 +381,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-taking-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"There was crazy hysteria, with decisions made without any verified information\": IDF ordered Hannibal directive on October 7 to prevent Hamas taking soldiers captive",
+    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-take-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"هناك \"كانت هستيريا جنونية، مع اتخاذ قرارات دون أي معلومات تم التحقق منها\": أمر جيش الدفاع الإسرائيلي بتوجيه هانيبال في 7 أكتوبر بمنع حماس من أسر الجنود",
     "time": "21:46",
     "views": 225,
-    "date": "الإثنين 17 أغسطس 2026"
+    "date": "الإثنين 17 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -566,18 +565,18 @@
   },
   {
     "channel": "suppressednews",
-    "text": "For forty days and nights, the Western media lamented the lie of Israeli children with their heads cut off, with which the occupation deceived the world, and they did not see a single picture confirming its claims... while every day the headless children of Gaza appear to us in painful pictures, without their weeping, and the media biased towards the occupation and complicit in the crime does not dare. 💔 💔 💔 💔 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭",
+    "text": "أربعون يوماً وليلة، رثى الإعلام الغربي كذبة أطفال إسرائيليين مقطوعة الرأس، التي خدع بها الاحتلال العالم، ولم يروا صورة واحدة تؤكد ادعاءاته... بينما أطفال غزة مقطوعي الرأس يظهرون لنا كل يوم بصور مؤلمة، دون بكاء، ولا يجرؤ الإعلام المنحاز للاحتلال والمتواطئ في الجريمة. 💔 💔 💔 💔 ؟؟؟؟؟؟؟",
     "time": "04:39",
     "views": 184,
-    "date": "الأحد 16 أغسطس 2026"
+    "date": "الأحد 16 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "وكالعادة يقتل عدد كبير عند وقوع الكارثة، ويتوفى عدد آخر تدريجياً متأثراً بجراحه بعد وقوعها. توفي عمر الجعبري، 13 عاماً، متأثراً بجراحه في مستشفى كمال عدوان. وكان من بين ضحايا مجزرة مدرسة التابعين قبل يومين. وأصيب عمر بحروق شديدة نتيجة الصواريخ الأمريكية التي تنتج درجات حرارة عالية جدا، ولم يصب بشكل مباشر، وإلا لكان قد تحول إلى أشلاء وذاب جسده. 💔 💔 💔",
+    "text": "As usual, a large number are killed when the disaster strikes, and another number gradually succumbs to their wounds after it occurs. Omar Al-Jaabari, 13 years old, died of his wounds at Kamal Adwan Hospital. He was among the victims of the massacre at Al-Tabaeen School two days ago. Omar suffered severe burns as a result of the American missiles that produce very high temperatures, and he was not directly injured, otherwise he would have been turned into pieces and his body would have melted. 💔 💔 💔",
     "time": "04:38",
     "views": 168,
-    "date": "الأحد 16 أغسطس 2026",
-    "translated": true
+    "date": "الأحد 16 أغسطس 2026"
   },
   {
     "channel": "suppressednews",
