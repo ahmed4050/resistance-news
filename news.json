@@ -9,10 +9,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "Turkey accuses Israel of legitimizing 'unlawful strikes' on Syria and calls Netanyahu 'sole obstacle to a lasting peace'. @PressTV",
+    "text": "وتتهم تركيا إسرائيل بإضفاء الشرعية على \"الضربات غير القانونية\" على سوريا وتصف نتنياهو بأنه \"العائق الوحيد أمام السلام الدائم\". @برس تي في",
     "time": "23:40",
     "views": 0,
-    "date": "الأربعاء 19 أغسطس 2026"
+    "date": "الأربعاء 19 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
@@ -56,10 +57,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "Exclusive: Reports of Iranian missile attack on UAE unfounded; Zionist false flag imprint evident Findings from a Press TV reporter reveal that reports claiming Iran launched missile attacks against the United Arab Emirates on Tuesday are unfounded. @PressTV",
+    "text": "حصرياً: التقارير حول الهجوم الصاروخي الإيراني على الإمارات لا أساس لها من الصحة؛ بصمة العلم الصهيوني الزائف واضحة كشفت النتائج التي توصل إليها مراسل قناة Press TV أن التقارير التي تزعم أن إيران شنت هجمات صاروخية ضد الإمارات العربية المتحدة يوم الثلاثاء لا أساس لها من الصحة. @برس تي في",
     "time": "22:15",
     "views": 0,
-    "date": "الأربعاء 19 أغسطس 2026"
+    "date": "الأربعاء 19 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -87,10 +89,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "Iranians continue taking to the streets in support of their country for the 171st consecutive night since the start of the US-Israeli war on Iran. @PressTV",
+    "text": "يواصل الإيرانيون النزول إلى الشوارع دعماً لبلادهم لليلة 171 على التوالي منذ بدء الحرب الأمريكية الإسرائيلية على إيران. @برس تي في",
     "time": "21:57",
     "views": 0,
-    "date": "الأربعاء 19 أغسطس 2026"
+    "date": "الأربعاء 19 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -125,14 +128,6 @@
     "translated": true
   },
   {
-    "channel": "PressTV",
-    "text": "الضربات الإيرانية تكشف الضعف العسكري الأمريكي بينما يفكر البنتاغون في الانسحاب من الخليج العربي: تقرير كشفت الضربات الانتقامية المستمرة التي شنتها إيران ضد المواقع العسكرية الأمريكية في غرب آسيا عن ضعف البصمة العسكرية لواشنطن في المنطقة، مما دفع البنتاغون إلى دراسة ما إذا كان ينبغي تقليص الوجود الأمريكي في الخليج العربي بعد الحرب على إيران، وفقا لتقرير. @برس تي في",
-    "time": "21:11",
-    "views": 0,
-    "date": "الأربعاء 19 أغسطس 2026",
-    "translated": true
-  },
-  {
     "channel": "MiddleEastMonitor",
     "text": "إسرائيل تعتقل مفتي القدس وتمنعه ​​من دخول المسجد الأقصى لمدة أسبوع",
     "time": "21:00",
@@ -141,25 +136,9 @@
     "translated": true
   },
   {
-    "channel": "PressTV",
-    "text": "قُتلت امرأة على الفور بعد انهيار لوحة إعلانية ضخمة على سيارة في المكسيك. @برس تي في",
-    "time": "20:55",
-    "views": 0,
-    "date": "الأربعاء 19 أغسطس 2026",
-    "translated": true
-  },
-  {
     "channel": "MiddleEastMonitor",
     "text": "الجيش الإسرائيلي يبدأ تخفيضًا كبيرًا في جنود الاحتياط وسط ضغوط الميزانية",
     "time": "20:50",
-    "views": 0,
-    "date": "الأربعاء 19 أغسطس 2026",
-    "translated": true
-  },
-  {
-    "channel": "PressTV",
-    "text": "وفاة الطفلة الفلسطينية مها بشير بسبب سوء التغذية في غزة تقرير مطيع أبو مصبح من دير البلح @PressTV",
-    "time": "20:41",
     "views": 0,
     "date": "الأربعاء 19 أغسطس 2026",
     "translated": true
@@ -341,9 +320,33 @@
   },
   {
     "channel": "PressTV",
+    "text": "يدرس البنتاغون وجوداً عسكرياً أميركياً أصغر في منطقة الخليج العربي بمجرد انتهاء الحرب في إيران. @برس تي في",
+    "time": "03:00",
+    "views": 17,
+    "date": "الأربعاء 19 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "إيران والصين تحتفلان بمرور 55 عامًا على العلاقات الدبلوماسية، تقرير ناهد بوريسا من بكين @PressTV",
+    "time": "02:47",
+    "views": 226,
+    "date": "الأربعاء 19 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "يقول ريك ستاغينبورغ إن الحرب مع إيران تمثل نهاية العقيدة الدفاعية لإسرائيل والعقيدة الهجومية الأمريكية، حيث تمتلك إيران حاليًا كل الأوراق. @برس تي في",
+    "time": "02:39",
+    "views": 302,
+    "date": "الأربعاء 19 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
     "text": "وترفض إيران بشكل قاطع مزاعم الإمارات بشأن الهجوم الصاروخي، قائلة إن سلوك أبوظبي يقوض الجهود المبذولة لتعزيز الثقة بين دول المنطقة. @برس تي في",
     "time": "02:28",
-    "views": 75,
+    "views": 403,
     "date": "الأربعاء 19 أغسطس 2026",
     "translated": true
   },
@@ -351,7 +354,7 @@
     "channel": "PressTV",
     "text": "استهدفت القوات المسلحة اليمنية مصفاة نفط تابعة لشركة أرامكو في منطقة جازان جنوب غرب المملكة العربية السعودية بطائرات بدون طيار، مما أدى إلى انفجارات في المنشأة. @برس تي في",
     "time": "02:24",
-    "views": 138,
+    "views": 408,
     "date": "الأربعاء 19 أغسطس 2026",
     "translated": true
   },
@@ -359,7 +362,7 @@
     "channel": "PressTV",
     "text": "ألمانيا تدعو إلى فرض عقوبات على الوزير اليميني المتطرف في النظام الإسرائيلي نائب المستشارة الألمانية يقول إن تصريحات إيتامار بن غفير ضد الفلسطينيين كانت “غير إنسانية” ويدعو الاتحاد الأوروبي إلى النظر بجدية في فرض عقوبات عليه. @برس تي في",
     "time": "00:55",
-    "views": 875,
+    "views": 0,
     "date": "الأربعاء 19 أغسطس 2026",
     "translated": true
   },
@@ -367,7 +370,7 @@
     "channel": "PressTV",
     "text": "أنباء عن انفجار في خط أنابيب تصدير الغاز السوري، مما أدى إلى تعطيل العديد من محطات الطاقة قالت شركة النفط السورية إن خط الأنابيب تم استهدافه في عمل تخريبي متعمد. كما أشارت التحقيقات الأولية إلى أن الانفجار كان متعمدا، بحسب الميادين. @برس تي في",
     "time": "00:44",
-    "views": 869,
+    "views": 0,
     "date": "الأربعاء 19 أغسطس 2026",
     "translated": true
   },
@@ -375,16 +378,17 @@
     "channel": "PressTV",
     "text": "لقد تغير ميزان القوى في المنطقة إلى الأبد”. يقول ويلمر ليون إن البنتاغون أدرك أن قدرة الولايات المتحدة على إبراز القوة البحرية في المنطقة محدودة للغاية. @برس تي في",
     "time": "00:32",
-    "views": 871,
+    "views": 993,
     "date": "الأربعاء 19 أغسطس 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "Basij chief: Media now a battlefield of its own; untold realities leave room for distorted narratives The head of Iran’s Basij Organization has described the media as a central arena of confrontation in modern warfare, noting how confrontations are no longer confined to military battlefields alone and warning against inaction in the face of those seeking to disseminate distorted narratives. @PressTV",
+    "text": "قائد الباسيج: الإعلام أصبح الآن ساحة معركة خاصة به؛ الحقائق التي لا توصف تترك مجالاً لروايات مشوهة وصف رئيس منظمة الباسيج الإيرانية وسائل الإعلام بأنها ساحة مركزية للمواجهة في الحروب الحديثة، مشيراً إلى أن المواجهات لم تعد تقتصر على ساحات القتال العسكرية وحدها، وحذر من التقاعس في مواجهة أولئك الذين يسعون إلى نشر روايات مشوهة. @برس تي في",
     "time": "00:10",
     "views": 0,
-    "date": "الأربعاء 19 أغسطس 2026"
+    "date": "الأربعاء 19 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -404,10 +408,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-taking-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"There was crazy hysteria, with decisions made without any verified information\": IDF ordered Hannibal directive on October 7 to prevent Hamas taking soldiers captive",
+    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-take-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"هناك \"كانت هستيريا جنونية، مع اتخاذ قرارات دون أي معلومات تم التحقق منها\": أمر جيش الدفاع الإسرائيلي بتوجيه هانيبال في 7 أكتوبر بمنع حماس من أسر الجنود",
     "time": "21:46",
     "views": 225,
-    "date": "الثلاثاء 18 أغسطس 2026"
+    "date": "الثلاثاء 18 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -571,10 +576,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "BREAKING: Initial reports of at-least 100 Martyrs in an Israeli strike that targeted \"Al-Tabi'in\" school in Al-Daraj neighborhood in central Gaza City.",
+    "text": "عاجل: التقارير الأولية عن استشهاد ما لا يقل عن 100 شهيد في قصف إسرائيلي استهدف مدرسة \"التابعين\" في حي الدرج وسط مدينة غزة.",
     "time": "02:56",
     "views": 152,
-    "date": "الثلاثاء 18 أغسطس 2026"
+    "date": "الثلاثاء 18 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
@@ -586,10 +592,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "For forty days and nights, the Western media lamented the lie of Israeli children with their heads cut off, with which the occupation deceived the world, and they did not see a single picture confirming its claims... while every day the headless children of Gaza appear to us in painful pictures, without their weeping, and the media biased towards the occupation and complicit in the crime does not dare. 💔 💔 💔 💔 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭",
+    "text": "أربعون يوماً وليلة، رثى الإعلام الغربي كذبة أطفال إسرائيليين مقطوعة الرأس، التي خدع بها الاحتلال العالم، ولم يروا صورة واحدة تؤكد ادعاءاته... بينما أطفال غزة مقطوعي الرأس يظهرون لنا كل يوم بصور مؤلمة، دون بكاء، ولا يجرؤ الإعلام المنحاز للاحتلال والمتواطئ في الجريمة. 💔 💔 💔 💔 ؟؟؟؟؟؟؟",
     "time": "04:39",
     "views": 184,
-    "date": "الإثنين 17 أغسطس 2026"
+    "date": "الإثنين 17 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
