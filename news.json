@@ -24,6 +24,14 @@
     "date": "الأربعاء 20 أغسطس 2026"
   },
   {
+    "channel": "YouTube-AlAouni",
+    "text": "لماذا انهارت العلاقات الهندية-الإسرائيلية..بعد اتفاق مكة",
+    "link": "https://www.youtube.com/watch?v=Ay8zr2vUJMk",
+    "views": 0,
+    "time": "",
+    "date": "الأربعاء 20 أغسطس 2026"
+  },
+  {
     "channel": "MiddleEastMonitor",
     "text": "وفي حديثه مع الرئيس الإيراني، حث رئيس الوزراء الباكستاني الولايات المتحدة وإيران على الالتزام باتفاق السلام",
     "time": "22:23",
@@ -137,32 +145,50 @@
   },
   {
     "channel": "PressTV",
-    "text": "▶️ Sons of Iran's martyred Leader and various political and religious figures take part in the memorial service held for the martyred Leader of the Islamic Revolution, Ayatollah Seyyed Ali Khamenei, at the Holy Shrine of Imam Reza (AS) in Mashhad. @PressTV",
+    "text": "◀️ استدعت وزيرة الخارجية الأسترالية بيني وونغ سفير إسرائيل بعد أن لم يجد الجيش الإسرائيلي أي أساس لإجراء تحقيق جنائي في مقتل سبعة من عمال الإغاثة، من بينهم مواطن أسترالي. @برس تي في",
+    "time": "17:50",
+    "views": 17,
+    "date": "الخميس 20 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "◀️ يقول وزير الخزانة الأمريكي بيسنت: \"لدينا ارتفاع كبير في أسعار النفط اليوم لا أفهمه حقًا\". @برس تي في",
+    "time": "17:45",
+    "views": 164,
+    "date": "الخميس 20 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "◀️ أبناء قائد الثورة الإسلامية الشهيد وشخصيات سياسية ودينية مختلفة يشاركون في حفل تأبين قائد الثورة الإسلامية الشهيد آية الله السيد علي خامنئي في مرقد الإمام الرضا (ع) في مشهد. @برس تي في",
     "time": "17:30",
-    "views": 63,
-    "date": "الخميس 20 أغسطس 2026"
+    "views": 354,
+    "date": "الخميس 20 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
     "text": "Desperate Washington turns economic war into economic terrorism Donald Trump’s latest declaration of economic warfare against Iran reflects Washington’s frustration after decades of sanctions, threats and coercive measures failed to force Tehran to surrender its sovereignty. @PressTV",
     "time": "17:00",
-    "views": 533,
+    "views": 708,
     "date": "الخميس 20 أغسطس 2026"
   },
   {
     "channel": "PressTV",
     "text": "📸 أبناء قائد الثورة الإسلامية الشهيد يشاركون في حفل تأبين قائد الثورة الإسلامية الشهيد آية الله السيد علي خامنئي في مرقد الإمام الرضا (ع) في مشهد. @برس تي في",
     "time": "16:45",
-    "views": 701,
+    "views": 837,
     "date": "الخميس 20 أغسطس 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "▶️ Chinese Foreign Ministry spokesman Lin Jian slammed the US economic war against Iran, saying sanctions and pressure are not the solution. @PressTV",
+    "text": "◀️ انتقد المتحدث باسم وزارة الخارجية الصينية لين جيان الحرب الاقتصادية الأمريكية ضد إيران، قائلا إن العقوبات والضغوط ليسا الحل. @برس تي في",
     "time": "16:30",
-    "views": 801,
-    "date": "الخميس 20 أغسطس 2026"
+    "views": 947,
+    "date": "الخميس 20 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -206,10 +232,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "▶️ Hujjat al-Islam Mohammadi Golpayegani, the son-in-law of the martyred Leader and father of 14-month-old martyr Zahra, visits the resting place of the martyred Leader and his martyred daughter at the Holy Shrine of Imam Reza (AS) in Mashhad. @PressTV",
+    "text": "◀️ حجة الإسلام محمدي كلبايجاني، صهر القائد الشهيد ووالد الشهيدة زهرة البالغة من العمر 14 شهرًا، يزور مرقد القائد الشهيد وابنته الشهيدة في مرقد الإمام الرضا (ع) في مشهد. @برس تي في",
     "time": "15:51",
     "views": 0,
-    "date": "الخميس 20 أغسطس 2026"
+    "date": "الخميس 20 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -237,11 +264,10 @@
   },
   {
     "channel": "PressTV",
-    "text": "🔴 الخارجية: العقوبات الاقتصادية الأمريكية ضد إيران تستهدف حقوق الإنسان الأساسية للإيرانيين 🔺 الخارجية: العقوبات الاقتصادية الأمريكية ضد إيران \"إرهاب اقتصادي، جريمة ضد الإنسانية\" 🔺 الخارجية: يجب محاكمة من يأمرون وينفذون العقوبات ومعاقبتهم على مثل هذه الجرائم الشنيعة 🔺 الخارجية: العقوبات الاقتصادية الأمريكية جاءت بعد فشل الولايات المتحدة وإسرائيل في تحقيق أهداف العدوان على إيران 🔺 الخارجية: العقوبات هي الجانب الاقتصادي للعدوان العسكري على إيران 🔺 إيران وزارة الخارجية تقول إن العقوبات ستفشل في إجبار الإيرانيين على التنازل عن سيادتهم 🔺 الإدمان الأمريكي المرضي للعقوبات يهدد السلام والأمن العالميين 🔺 وزارة الخارجية: إدمان الولايات المتحدة للعقوبات قاد الحضارة الإنسانية إلى تدهور أخلاقي غير مسبوق @PressTV",
+    "text": "🔴 MFA: US economic sanctions against Iran target fundamental human rights of Iranians 🔺 MFA: US economic sanctions against Iran 'economic terrorism, crime against humanity' 🔺 MFA: Those ordering, implementing sanctions must be prosecuted, punished for such heinous crimes 🔺 MFA: US economic sanctions came after US, Israel failed to achieve objectives of aggression against Iran 🔺 MFA: Sanctions are economic side of military aggression against Iran 🔺 Iran MFA says sanctions will fail to force Iranians to surrender their sovereignty 🔺 US pathological addiction to sanctions threatens global peace and security 🔺 MFA: US addiction to sanctions has led human civilization into unprecedented moral decline @PressTV",
     "time": "15:15",
     "views": 0,
-    "date": "الخميس 20 أغسطس 2026",
-    "translated": true
+    "date": "الخميس 20 أغسطس 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -253,10 +279,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "▶️ Press TV’s Minas Al Jabbour provides updates regarding the funeral procession held in Gaza City for 50 Palestinians whose bodies were recovered from the rubble after three years. @PressTV",
+    "text": "◀️ تقدم مراسلة Press TV، ميناس الجبور، تحديثات بشأن موكب الجنازة الذي أقيم في مدينة غزة لـ 50 فلسطينيًا تم انتشال جثثهم من تحت الأنقاض بعد ثلاث سنوات. @برس تي في",
     "time": "15:10",
     "views": 0,
-    "date": "الخميس 20 أغسطس 2026"
+    "date": "الخميس 20 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -268,11 +295,10 @@
   },
   {
     "channel": "PressTV",
-    "text": "🔴 إيران بارل. المتحدث يلقي كلمة في الحفل الذي أقيم في كربلاء العراقية لإحياء ذكرى القائد الشهيد 🔺 قاليباف: كل محاولة من الأعداء لزرع الفرقة بين المسلمين لا تؤدي إلا إلى تعزيز وحدتهم @PressTV",
+    "text": "🔴 Iran Parl. Speaker delivering speech at ceremony held in Iraq's Karbala to commemorate martyred Leader 🔺 Ghalibaf: Every attempt by enemies to sow discord among Muslims only strengthens their unity @PressTV",
     "time": "14:57",
     "views": 0,
-    "date": "الخميس 20 أغسطس 2026",
-    "translated": true
+    "date": "الخميس 20 أغسطس 2026"
   },
   {
     "channel": "PressTV",
@@ -539,10 +565,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "BREAKING: Initial reports of at-least 100 Martyrs in an Israeli strike that targeted \"Al-Tabi'in\" school in Al-Daraj neighborhood in central Gaza City.",
+    "text": "عاجل: التقارير الأولية عن استشهاد ما لا يقل عن 100 شهيد في قصف إسرائيلي استهدف مدرسة \"التابعين\" في حي الدرج وسط مدينة غزة.",
     "time": "02:56",
     "views": 152,
-    "date": "الأربعاء 19 أغسطس 2026"
+    "date": "الأربعاء 19 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
@@ -569,10 +596,9 @@
   },
   {
     "channel": "suppressednews",
-    "text": "تخيل للحظة من الزمن أن هذا هو طفلك؟ كيف سيكون شعورك تجاه الصهاينة؟",
+    "text": "Imagine for a moment in time that this is your child? How would you feel about the Zionists?",
     "time": "20:57",
     "views": 217,
-    "date": "الإثنين 17 أغسطس 2026",
-    "translated": true
+    "date": "الإثنين 17 أغسطس 2026"
   }
 ]
