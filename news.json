@@ -225,16 +225,17 @@
   },
   {
     "channel": "PressTV",
-    "text": "Iranian Foreign Minister Abbas Araghchi dismissed the so-called \"Economic D-Day\" as a desperate diversion from America's own unprecedented debt crisis, warning that doubling down on US \"economic terrorism\" will only bring further defeat and threaten global sovereignty. @PressTV",
+    "text": "ورفض وزير الخارجية الإيراني عباس عراقجي ما يسمى بـ \"يوم النصر الاقتصادي\" باعتباره تحويلاً يائسًا عن أزمة الديون الأمريكية غير المسبوقة، محذرًا من أن مضاعفة \"الإرهاب الاقتصادي\" الأمريكي لن يؤدي إلا إلى المزيد من الهزيمة ويهدد السيادة العالمية. @برس تي في",
     "time": "05:59",
-    "views": 210,
-    "date": "الخميس 20 أغسطس 2026"
+    "views": 413,
+    "date": "الخميس 20 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
     "text": "📷 التقى الرئيس العراقي نزار عميدي وأجرى مباحثات مع رئيس البرلمان الإيراني محمد باقر قاليباف في بغداد. @برس تي في",
     "time": "05:55",
-    "views": 263,
+    "views": 425,
     "date": "الخميس 20 أغسطس 2026",
     "translated": true
   },
@@ -242,7 +243,7 @@
     "channel": "PressTV",
     "text": "◀️ما تبقى من خدمات المياه في غزة على وشك الانهيار التام، تقرير أحمد النجار من خان يونس. @برس تي في",
     "time": "05:33",
-    "views": 434,
+    "views": 549,
     "date": "الخميس 20 أغسطس 2026",
     "translated": true
   },
@@ -250,7 +251,7 @@
     "channel": "PressTV",
     "text": "تم الإبلاغ عن أكثر من 900 حالة يشتبه بإصابتها بفيروس إيبولا، وتم تأكيد 101 حالة منها في جمهورية الكونغو الديمقراطية، وفقًا لمنظمة الصحة العالمية. انتشر تفشي المرض في مقاطعة إيتوري إلى ثلاث مناطق حيث تكافح الخدمات الصحية المثقلة بتتبع المخالطين. @برس تي في",
     "time": "05:00",
-    "views": 747,
+    "views": 851,
     "date": "الخميس 20 أغسطس 2026",
     "translated": true
   },
@@ -258,22 +259,23 @@
     "channel": "PressTV",
     "text": "◀️ جمعية حقوق الأسرى الفلسطينيين تحذر من أن إسرائيل تقوم بإعداد جناح مخصص لسجن الفلسطينيين المحكوم عليهم بالإعدام، وتطالب بتحرك دولي عاجل لوقف جرائم النظام. @برس تي في",
     "time": "04:43",
-    "views": 769,
+    "views": 848,
     "date": "الخميس 20 أغسطس 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "Iraq’s PMU: Iran withstood ‘quasi-global war,’ maintained cohesion despite challenges Faleh al-Fayyadh, head of Iraq’s Popular Mobilization Units (PMU) anti-terror resistance coalition, says Iran faced a “quasi-global war” waged by the Islamic Republic’s adversaries and managed to maintain its cohesion despite the challenges. @PressTV",
+    "text": "وحدات الحشد الشعبي العراقية: إيران صمدت في وجه \"حرب شبه عالمية\" وحافظت على تماسكها رغم التحديات يقول فالح الفياض، رئيس تحالف المقاومة ضد الإرهاب التابع لوحدات الحشد الشعبي العراقي، إن إيران واجهت \"حرب شبه عالمية\" يشنها خصوم الجمهورية الإسلامية وتمكنت من الحفاظ على تماسكها على الرغم من التحديات. @برس تي في",
     "time": "04:19",
-    "views": 935,
-    "date": "الخميس 20 أغسطس 2026"
+    "views": 0,
+    "date": "الخميس 20 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
     "text": "🔸مشروع TP-AJAX عام 1953 🔸الانقلاب الذي أطاح بمصدق كيف أحيت وكالة المخابرات المركزية انقلابها الفاشل وحشدت شبكاتها وساعدت في الإطاحة بمصدق. @PresstvDoc",
     "time": "04:15",
-    "views": 822,
+    "views": 889,
     "date": "الخميس 20 أغسطس 2026",
     "translated": true
   },
@@ -310,10 +312,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-taking-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"There was crazy hysteria, with decisions made without any verified information\": IDF ordered Hannibal directive on October 7 to prevent Hamas taking soldiers captive",
+    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-take-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"هناك \"كانت هستيريا جنونية، مع اتخاذ قرارات دون أي معلومات تم التحقق منها\": أمر جيش الدفاع الإسرائيلي بتوجيه هانيبال في 7 أكتوبر بمنع حماس من أسر الجنود",
     "time": "21:46",
     "views": 225,
-    "date": "الأربعاء 19 أغسطس 2026"
+    "date": "الأربعاء 19 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -501,7 +504,7 @@
   },
   {
     "channel": "suppressednews",
-    "text": "وكالعادة يقتل عدد كبير عند وقوع الكارثة، ويتوفى عدد آخر تدريجياً متأثراً بجراحه بعد وقوعها. توفي عمر الجعبري، 13 عاماً، متأثراً بجراحه في مستشفى كمال عدوان. وكان من بين ضحايا مجزرة مدرسة التابعين قبل يومين. وأصيب عمر بحروق شديدة نتيجة الصواريخ الأمريكية التي تنتج درجات حرارة عالية للغاية، ولم يصب بشكل مباشر، وإلا لكان قد تحول إلى أشلاء وذاب جسده. 💔 💔 💔",
+    "text": "وكالعادة يقتل عدد كبير عند وقوع الكارثة، ويتوفى عدد آخر تدريجياً متأثراً بجراحه بعد وقوعها. توفي عمر الجعبري، 13 عاماً، متأثراً بجراحه في مستشفى كمال عدوان. وكان من بين ضحايا مجزرة مدرسة التابعين قبل يومين. وأصيب عمر بحروق شديدة نتيجة الصواريخ الأمريكية التي تنتج درجات حرارة عالية جدا، ولم يصب بشكل مباشر، وإلا لكان قد تحول إلى أشلاء وذاب جسده. 💔 💔 💔",
     "time": "04:38",
     "views": 168,
     "date": "الثلاثاء 18 أغسطس 2026",
@@ -509,10 +512,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "Imagine for a moment in time that this is your child? How would you feel about the Zionists?",
+    "text": "تخيل للحظة من الزمن أن هذا هو طفلك؟ كيف سيكون شعورك تجاه الصهاينة؟",
     "time": "20:57",
     "views": 217,
-    "date": "الإثنين 17 أغسطس 2026"
+    "date": "الإثنين 17 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
@@ -532,9 +536,10 @@
   },
   {
     "channel": "suppressednews",
-    "text": "This is how the beautiful child Tim was before Israel divided him into two halves. With the scale of the ugliness of those massacres, I hate.",
+    "text": "هكذا كان الطفل الجميل تيم قبل أن يقسمه إسرائيل إلى نصفين. ومع حجم بشاعة تلك المجازر فإنني أكره.",
     "time": "17:22",
     "views": 284,
-    "date": "الإثنين 17 أغسطس 2026"
+    "date": "الإثنين 17 أغسطس 2026",
+    "translated": true
   }
 ]
