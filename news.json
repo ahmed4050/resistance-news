@@ -41,9 +41,9 @@
   },
   {
     "channel": "PressTV",
-    "text": "تم تصوير قوات الاحتلال الإسرائيلي وهي تقوم بإلقاء أمتعتها من شرفة منزل فلسطيني في قصرة بالضفة الغربية المحتلة. @برس تي في",
+    "text": "تم تصوير القوات الإسرائيلية وهي ترمي ممتلكاتها من شرفة منزل فلسطيني في قصرة بالضفة الغربية المحتلة، حيث أطلق جندي على نفسه اسم \"مالك\" المنزل الفلسطيني. @برس تي في",
     "time": "21:18",
-    "views": 1,
+    "views": 291,
     "date": "السبت 22 أغسطس 2026",
     "translated": true
   },
@@ -67,7 +67,7 @@
     "channel": "PressTV",
     "text": "📸 \"لقد شاهدنا هذا الفيلم من قبل. نفس الثور. متنمرون مختلفون\" شدد وزير الخارجية الإيراني سيد عباس عراقجي على الأساليب العدائية الفاشلة العديدة التي اتبعتها الولايات المتحدة تجاه إيران. @برس تي في",
     "time": "20:45",
-    "views": 469,
+    "views": 641,
     "date": "السبت 22 أغسطس 2026",
     "translated": true
   },
@@ -91,7 +91,7 @@
     "channel": "PressTV",
     "text": "قصف مدفعي إسرائيلي يستهدف مرتفعات علي الطاهر جنوب لبنان.",
     "time": "20:19",
-    "views": 696,
+    "views": 843,
     "date": "السبت 22 أغسطس 2026",
     "translated": true
   },
@@ -107,7 +107,7 @@
     "channel": "PressTV",
     "text": "إنتاج إيران للأسلحة المتقدمة مستمر بلا هوادة: نائب وزير الدفاع الإيراني يقول إن إنتاج البلاد من الأسلحة المتقدمة مستمر دون انقطاع على الرغم من العدوان الأمريكي الإسرائيلي على إيران. @برس تي في",
     "time": "19:54",
-    "views": 896,
+    "views": 0,
     "date": "السبت 22 أغسطس 2026",
     "translated": true
   },
@@ -145,11 +145,10 @@
   },
   {
     "channel": "PressTV",
-    "text": "◀️ شن الجيش الإسرائيلي ليلاً غارات جوية جديدة على جنوب لبنان، منتهكاً وقف إطلاق النار. وشملت الأهداف المنصوري وكفر رمان ومواقع أخرى. @برس تي في",
+    "text": "▶️ Israeli military launched fresh overnight air raids on southern Lebanon, violating the ceasefire. Targets included al-Mansouri, Kfar Reman, and other locations. @PressTV",
     "time": "19:15",
     "views": 0,
-    "date": "السبت 22 أغسطس 2026",
-    "translated": true
+    "date": "السبت 22 أغسطس 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -407,10 +406,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-taking-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"There was crazy hysteria, with decisions made without any verified information\": IDF ordered Hannibal directive on October 7 to prevent Hamas taking soldiers captive",
+    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-take-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"هناك \"كانت هستيريا جنونية، مع اتخاذ قرارات دون أي معلومات تم التحقق منها\": أمر جيش الدفاع الإسرائيلي بتوجيه هانيبال في 7 أكتوبر بمنع حماس من أسر الجنود",
     "time": "21:46",
     "views": 225,
-    "date": "الجمعة 21 أغسطس 2026"
+    "date": "الجمعة 21 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
