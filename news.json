@@ -3,7 +3,7 @@
     "channel": "PressTV",
     "text": "قائد الجيش: قدرات إيران الدفاعية غيرت حسابات الأعداء أكد القائد العام للجيش الإيراني أن القدرات الدفاعية للبلاد عززت قوة الردع لديها، مما أجبر أعداءها على تغيير حساباتهم. @برس تي في",
     "time": "23:08",
-    "views": 169,
+    "views": 284,
     "date": "السبت 22 أغسطس 2026",
     "translated": true
   },
@@ -11,7 +11,7 @@
     "channel": "PressTV",
     "text": "قال الرئيس التركي رجب طيب أردوغان إن رئيس الوزراء الإسرائيلي بنيامين نتنياهو يتهرب من المساءلة عن جرائم الحرب التي ارتكبها في غزة. @برس تي في",
     "time": "22:48",
-    "views": 398,
+    "views": 505,
     "date": "السبت 22 أغسطس 2026",
     "translated": true
   },
@@ -19,7 +19,7 @@
     "channel": "PressTV",
     "text": "أفادت مصادر محلية، أن مستودعا للذخيرة انفجر في مدينة مصراتة غربي ليبيا. @برس تي في",
     "time": "22:34",
-    "views": 515,
+    "views": 573,
     "date": "السبت 22 أغسطس 2026",
     "translated": true
   },
@@ -51,7 +51,7 @@
     "channel": "PressTV",
     "text": "الأعداء لن يتخلىوا أبدًا عن عداءهم للأمة الإيرانية: القائد الأعلى للحرس الثوري الإيراني أكد القائد الأعلى للحرس الثوري الإيراني أنه يجب على إيران مواصلة تعزيز قدراتها الدفاعية والهجومية، مشيرًا إلى أن أعداء الجمهورية الإسلامية لن يتخلوا أبدًا عن عدائهم ومؤامراتهم ضد الأمة. @برس تي في",
     "time": "21:58",
-    "views": 774,
+    "views": 824,
     "date": "السبت 22 أغسطس 2026",
     "translated": true
   },
@@ -177,10 +177,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "▶️ Israeli military launched fresh overnight air raids on southern Lebanon, violating the ceasefire. Targets included al-Mansouri, Kfar Reman, and other locations. @PressTV",
+    "text": "◀️ شن الجيش الإسرائيلي ليلاً غارات جوية جديدة على جنوب لبنان، منتهكاً وقف إطلاق النار. وشملت الأهداف المنصوري وكفر رمان ومواقع أخرى. @برس تي في",
     "time": "19:15",
     "views": 0,
-    "date": "السبت 22 أغسطس 2026"
+    "date": "السبت 22 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -240,10 +241,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "▶️ Oil prices stay high despite the US Treasury Secretary's claim that heightened Iran sanctions will lower them soon. @PressTV",
+    "text": "◀️ أسعار النفط تظل مرتفعة على الرغم من ادعاء وزير الخزانة الأمريكي بأن العقوبات المشددة على إيران ستؤدي إلى خفضها قريبًا. @برس تي في",
     "time": "18:15",
     "views": 0,
-    "date": "السبت 22 أغسطس 2026"
+    "date": "السبت 22 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
@@ -398,10 +400,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-taking-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"There was crazy hysteria, with decisions made without any verified information\": IDF ordered Hannibal directive on October 7 to prevent Hamas taking soldiers captive",
+    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-take-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"هناك \"كانت هستيريا جنونية، مع اتخاذ قرارات دون أي معلومات تم التحقق منها\": أمر جيش الدفاع الإسرائيلي بتوجيه هانيبال في 7 أكتوبر بمنع حماس من أسر الجنود",
     "time": "21:46",
     "views": 225,
-    "date": "الجمعة 21 أغسطس 2026"
+    "date": "الجمعة 21 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -565,10 +568,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "BREAKING: Initial reports of at-least 100 Martyrs in an Israeli strike that targeted \"Al-Tabi'in\" school in Al-Daraj neighborhood in central Gaza City.",
+    "text": "عاجل: التقارير الأولية عن استشهاد ما لا يقل عن 100 شهيد في قصف إسرائيلي استهدف مدرسة \"التابعين\" في حي الدرج وسط مدينة غزة.",
     "time": "02:56",
     "views": 152,
-    "date": "الجمعة 21 أغسطس 2026"
+    "date": "الجمعة 21 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
@@ -580,24 +584,27 @@
   },
   {
     "channel": "suppressednews",
-    "text": "For forty days and nights, the Western media lamented the lie of Israeli children with their heads cut off, with which the occupation deceived the world, and they did not see a single picture confirming its claims... while every day the headless children of Gaza appear to us in painful pictures, without their weeping, and the media biased towards the occupation and complicit in the crime does not dare. 💔 💔 💔 💔 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭",
+    "text": "أربعون يوماً وليلة، رثى الإعلام الغربي كذبة أطفال إسرائيليين مقطوعة الرأس، التي خدع بها الاحتلال العالم، ولم يروا صورة واحدة تؤكد ادعاءاته... بينما أطفال غزة مقطوعي الرأس يظهرون لنا كل يوم بصور مؤلمة، دون بكاء، ولا يجرؤ الإعلام المنحاز للاحتلال والمتواطئ في الجريمة. 💔 💔 💔 💔 ؟؟؟؟؟؟؟",
     "time": "04:39",
     "views": 184,
-    "date": "الخميس 20 أغسطس 2026"
+    "date": "الخميس 20 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "As usual, a large number are killed when the disaster strikes, and another number gradually succumbs to their wounds after it occurs. Omar Al-Jaabari, 13 years old, died of his wounds at Kamal Adwan Hospital. He was among the victims of the massacre at Al-Tabaeen School two days ago. Omar suffered severe burns as a result of the American missiles that produce very high temperatures, and he was not directly injured, otherwise he would have been turned into pieces and his body would have melted. 💔 💔 💔",
+    "text": "وكالعادة يقتل عدد كبير عند وقوع الكارثة، ويتوفى عدد آخر تدريجياً متأثراً بجراحه بعد وقوعها. توفي عمر الجعبري، 13 عاماً، متأثراً بجراحه في مستشفى كمال عدوان. وكان من بين ضحايا مجزرة مدرسة التابعين قبل يومين. وأصيب عمر بحروق شديدة نتيجة الصواريخ الأمريكية التي تنتج درجات حرارة عالية جدا، ولم يصب بشكل مباشر، وإلا لكان قد تحول إلى أشلاء وذاب جسده. 💔 💔 💔",
     "time": "04:38",
     "views": 168,
-    "date": "الخميس 20 أغسطس 2026"
+    "date": "الخميس 20 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "Imagine for a moment in time that this is your child? How would you feel about the Zionists?",
+    "text": "تخيل للحظة من الزمن أن هذا هو طفلك؟ كيف سيكون شعورك تجاه الصهاينة؟",
     "time": "20:57",
     "views": 217,
-    "date": "الأربعاء 19 أغسطس 2026"
+    "date": "الأربعاء 19 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
@@ -609,10 +616,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "Yesterday, Israel beheaded a Palestinian child in gaza 🔞 🔞 🔞 🔞",
+    "text": "بالأمس قطعت إسرائيل رأس طفل فلسطيني في غزة 🔞 🔞 🔞 🔞",
     "time": "17:24",
     "views": 359,
-    "date": "الأربعاء 19 أغسطس 2026"
+    "date": "الأربعاء 19 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
