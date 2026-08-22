@@ -216,6 +216,14 @@
     "translated": true
   },
   {
+    "channel": "PressTV",
+    "text": "📸 القوات الإسرائيلية تنفذ غارات جوية جديدة استهدفت وادي سريبين جنوب لبنان في أحدث انتهاك لوقف إطلاق النار. @برس تي في",
+    "time": "14:18",
+    "views": 64,
+    "date": "السبت 22 أغسطس 2026",
+    "translated": true
+  },
+  {
     "channel": "MiddleEastMonitor",
     "text": "وفد عسكري إسرائيلي يجري محادثات مع مسؤولين مصريين في القاهرة",
     "time": "14:11",
@@ -225,10 +233,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "Families of 11 journalists killed in Lebanon demand Israeli authorities’ trial before ICC Families and relatives of 11 journalists martyred while covering Israeli airstrikes and artillery shelling on various neighborhoods in southern Lebanon have demanded that Israeli authorities be tried before the ICC for war crimes perpetrated against the members of the press. @PressTV",
+    "text": "أهالي 11 صحافياً قتلوا في لبنان يطالبون بمحاكمة السلطات الإسرائيلية أمام المحكمة الجنائية الدولية طالبت عائلات وأقارب 11 صحافياً استشهدوا أثناء تغطيتهم الغارات الجوية والقصف المدفعي الإسرائيلي على أحياء مختلفة في جنوب لبنان، بمحاكمة السلطات الإسرائيلية أمام المحكمة الجنائية الدولية بتهمة جرائم الحرب المرتكبة ضد الصحفيين. @برس تي في",
     "time": "14:00",
-    "views": 164,
-    "date": "السبت 22 أغسطس 2026"
+    "views": 329,
+    "date": "السبت 22 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -248,38 +257,39 @@
   },
   {
     "channel": "PressTV",
-    "text": "📸 Iranian footballer Mehdi Taremi officially joins the UAE's Al-Wasl Football Club. @PressTV",
+    "text": "📸 لاعب كرة القدم الإيراني مهدي طارمي ينضم رسمياً إلى نادي الوصل الإماراتي لكرة القدم. @برس تي في",
     "time": "13:45",
-    "views": 378,
-    "date": "السبت 22 أغسطس 2026"
-  },
-  {
-    "channel": "PressTV",
-    "text": "البنتاغون يقيل مديري صحيفة ستارز آند سترايبس ومراسل لفضحهم فضيحة أبراهام لينكولن أقال البنتاغون رئيس تحرير وناشرًا وأحد كبار مراسلي صحيفة ستارز آند سترايبس يوم الجمعة بسبب \"العصيان\". @برس تي في",
-    "time": "13:30",
-    "views": 552,
+    "views": 502,
     "date": "السبت 22 أغسطس 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "▶️ Israeli airstrikes target the town of Srobbin in southern Lebanon. @PressTV",
-    "time": "13:16",
-    "views": 638,
+    "text": "Pentagon fires Stars and Stripes managers, reporter for exposing Abraham Lincoln scandal Pentagon fired the editor-in-chief, publisher, and a top reporter of the Stars and Stripes newspaper on Friday over “insubordination.” @PressTV",
+    "time": "13:30",
+    "views": 645,
     "date": "السبت 22 أغسطس 2026"
+  },
+  {
+    "channel": "PressTV",
+    "text": "◀️ غارات جوية إسرائيلية تستهدف بلدة صروبين جنوب لبنان. @برس تي في",
+    "time": "13:16",
+    "views": 725,
+    "date": "السبت 22 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
     "text": "Iranian lives matter: Top rights official slams double standards in global response to terrorism The deputy chief of Iran’s Judiciary and secretary of the High Council for Human Rights has condemned double standards in the international community’s response to terrorism, saying the lives and rights of Iranian victims must be treated with the same importance as those of victims elsewhere in the world. @PressTV",
     "time": "13:01",
-    "views": 712,
+    "views": 780,
     "date": "السبت 22 أغسطس 2026"
   },
   {
     "channel": "PressTV",
     "text": "◀️ تصاعد عمود ضخم من الدخان في بلدة تشابايفسك الروسية في منطقة سمارة بعد غارات الطائرات بدون طيار الأوكرانية. @برس تي في",
     "time": "12:45",
-    "views": 798,
+    "views": 872,
     "date": "السبت 22 أغسطس 2026",
     "translated": true
   },
@@ -287,7 +297,7 @@
     "channel": "PressTV",
     "text": "◀️شن الجيش الإسرائيلي عدواناً جديداً على لبنان، استهدف المناطق الجنوبية من البلاد، في انتهاك آخر لاتفاق وقف إطلاق النار. @برس تي في",
     "time": "12:30",
-    "views": 885,
+    "views": 941,
     "date": "السبت 22 أغسطس 2026",
     "translated": true
   },
@@ -295,7 +305,7 @@
     "channel": "PressTV",
     "text": "📸 في لقاء مع الملحقين العسكريين المقيمين في طهران، قال وزير الدفاع الإيراني بالإنابة العميد سيد ماجد بن الرضا، إن إيران لن تستسلم أبداً للضغوط. 🔹 العميد. ويضيف العميد ابن الرضا أن وزارة الدفاع أبقت على إنتاج…",
     "time": "12:15",
-    "views": 977,
+    "views": 0,
     "date": "السبت 22 أغسطس 2026",
     "translated": true
   },
@@ -324,10 +334,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-taking-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"There was crazy hysteria, with decisions made without any verified information\": IDF ordered Hannibal directive on October 7 to prevent Hamas taking soldiers captive",
+    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-take-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"هناك \"كانت هستيريا جنونية، مع اتخاذ قرارات دون أي معلومات تم التحقق منها\": أمر جيش الدفاع الإسرائيلي بتوجيه هانيبال في 7 أكتوبر بمنع حماس من أسر الجنود",
     "time": "21:46",
     "views": 225,
-    "date": "الجمعة 21 أغسطس 2026"
+    "date": "الجمعة 21 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -491,10 +502,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "BREAKING: Initial reports of at-least 100 Martyrs in an Israeli strike that targeted \"Al-Tabi'in\" school in Al-Daraj neighborhood in central Gaza City.",
+    "text": "عاجل: التقارير الأولية عن استشهاد ما لا يقل عن 100 شهيد في قصف إسرائيلي استهدف مدرسة \"التابعين\" في حي الدرج وسط مدينة غزة.",
     "time": "02:56",
     "views": 152,
-    "date": "الجمعة 21 أغسطس 2026"
+    "date": "الجمعة 21 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
@@ -506,10 +518,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "For forty days and nights, the Western media lamented the lie of Israeli children with their heads cut off, with which the occupation deceived the world, and they did not see a single picture confirming its claims... while every day the headless children of Gaza appear to us in painful pictures, without their weeping, and the media biased towards the occupation and complicit in the crime does not dare. 💔 💔 💔 💔 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭",
+    "text": "أربعون يوماً وليلة، رثى الإعلام الغربي كذبة أطفال إسرائيليين مقطوعة الرأس، التي خدع بها الاحتلال العالم، ولم يروا صورة واحدة تؤكد ادعاءاته... بينما أطفال غزة مقطوعي الرأس يظهرون لنا كل يوم بصور مؤلمة، دون بكاء، ولا يجرؤ الإعلام المنحاز للاحتلال والمتواطئ في الجريمة. 💔 💔 💔 💔 ؟؟؟؟؟؟؟",
     "time": "04:39",
     "views": 184,
-    "date": "الخميس 20 أغسطس 2026"
+    "date": "الخميس 20 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
@@ -521,10 +534,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "Imagine for a moment in time that this is your child? How would you feel about the Zionists?",
+    "text": "تخيل للحظة من الزمن أن هذا هو طفلك؟ كيف سيكون شعورك تجاه الصهاينة؟",
     "time": "20:57",
     "views": 217,
-    "date": "الأربعاء 19 أغسطس 2026"
+    "date": "الأربعاء 19 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
