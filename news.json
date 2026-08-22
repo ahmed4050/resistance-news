@@ -241,9 +241,17 @@
   },
   {
     "channel": "PressTV",
+    "text": "📸 لاعب كرة القدم الإيراني مهدي طارمي ينضم رسمياً إلى نادي الوصل الإماراتي لكرة القدم. @برس تي في",
+    "time": "13:45",
+    "views": 230,
+    "date": "السبت 22 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
     "text": "البنتاغون يقيل مديري صحيفة ستارز آند سترايبس ومراسل لفضحهم فضيحة أبراهام لينكولن أقال البنتاغون رئيس تحرير وناشرًا وأحد كبار مراسلي صحيفة ستارز آند سترايبس يوم الجمعة بسبب \"العصيان\". @برس تي في",
     "time": "13:30",
-    "views": 204,
+    "views": 425,
     "date": "السبت 22 أغسطس 2026",
     "translated": true
   },
@@ -251,7 +259,7 @@
     "channel": "PressTV",
     "text": "◀️ غارات جوية إسرائيلية تستهدف بلدة صروبين جنوب لبنان. @برس تي في",
     "time": "13:16",
-    "views": 395,
+    "views": 538,
     "date": "السبت 22 أغسطس 2026",
     "translated": true
   },
@@ -259,41 +267,31 @@
     "channel": "PressTV",
     "text": "حياة الإيرانيين مهمة: مسؤول حقوقي رفيع ينتقد المعايير المزدوجة في الرد العالمي على الإرهاب أدان نائب رئيس السلطة القضائية الإيرانية وأمين المجلس الأعلى لحقوق الإنسان المعايير المزدوجة في رد المجتمع الدولي على الإرهاب، قائلاً إن حياة وحقوق الضحايا الإيرانيين يجب أن تعامل بنفس الأهمية التي تعامل بها حياة الضحايا في أماكن أخرى من العالم. @برس تي في",
     "time": "13:01",
-    "views": 489,
+    "views": 622,
     "date": "السبت 22 أغسطس 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "◀️ تصاعد عمود ضخم من الدخان في بلدة تشابايفسك الروسية في منطقة سمارة بعد غارات الطائرات بدون طيار الأوكرانية. @برس تي في",
+    "text": "▶️ Massive plume of smoke rises in the Russian town of Chapayevsk in Samara Oblast following Ukrainian drone strikes. @PressTV",
     "time": "12:45",
-    "views": 625,
-    "date": "السبت 22 أغسطس 2026",
-    "translated": true
+    "views": 721,
+    "date": "السبت 22 أغسطس 2026"
   },
   {
     "channel": "PressTV",
     "text": "◀️شن الجيش الإسرائيلي عدواناً جديداً على لبنان، استهدف المناطق الجنوبية من البلاد، في انتهاك آخر لاتفاق وقف إطلاق النار. @برس تي في",
     "time": "12:30",
-    "views": 724,
+    "views": 813,
     "date": "السبت 22 أغسطس 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "العميد. الجنرال باقرزاده: الظروف الصحية للطيارين الإيرانيين المحتجزين في قطر ليست جيدة قائد لجنة البحث عن المفقودين بالقوات المسلحة الإيرانية: 🔹الموقع الذي يتم فيه احتجاز الطيارين الإيرانيين على الماء غير مناسب للصيانة...",
-    "time": "12:02",
-    "views": 812,
-    "date": "السبت 22 أغسطس 2026",
-    "translated": true
-  },
-  {
-    "channel": "PressTV",
-    "text": "📸 في لقاء مع الملحقين العسكريين المقيمين في طهران، قال وزير الدفاع الإيراني بالإنابة العميد سيد ماجد بن الرضا، إن إيران لن تستسلم أبداً للضغوط. 🔹 العميد. ويضيف العميد ابن الرضا أن وزارة الدفاع أبقت خطوط إنتاج المعدات والأسلحة التي تحتاجها القوات المسلحة نشطة، بل وأدخلت أنظمة هجومية ودفاعية جديدة إلى ساحة القتال في ظل ظروف الحرب. @برس تي في",
-    "time": "11:51",
-    "views": 841,
-    "date": "السبت 22 أغسطس 2026",
-    "translated": true
+    "text": "📸 In a meeting with military attachés residing in Tehran, Iran's acting Defense Minister, Brigadier General Seyyed Majid Ibn Al-Reza, says that Iran will never surrender to pressure. 🔹 Brig. Gen. Ibn Al-Reza adds that the Ministry of Defense has kept production…",
+    "time": "12:15",
+    "views": 910,
+    "date": "السبت 22 أغسطس 2026"
   },
   {
     "channel": "suppressednews",
@@ -511,17 +509,19 @@
   },
   {
     "channel": "suppressednews",
-    "text": "As usual, a large number are killed when the disaster strikes, and another number gradually succumbs to their wounds after it occurs. Omar Al-Jaabari, 13 years old, died of his wounds at Kamal Adwan Hospital. He was among the victims of the massacre at Al-Tabaeen School two days ago. Omar suffered severe burns as a result of the American missiles that produce very high temperatures, and he was not directly injured, otherwise he would have been turned into pieces and his body would have melted. 💔 💔 💔",
+    "text": "وكالعادة يقتل عدد كبير عند وقوع الكارثة، ويتوفى عدد آخر تدريجياً متأثراً بجراحه بعد وقوعها. توفي عمر الجعبري، 13 عاماً، متأثراً بجراحه في مستشفى كمال عدوان. وكان من بين ضحايا مجزرة مدرسة التابعين قبل يومين. وأصيب عمر بحروق شديدة نتيجة الصواريخ الأمريكية التي تنتج درجات حرارة عالية جدا، ولم يصب بشكل مباشر، وإلا لكان قد تحول إلى أشلاء وذاب جسده. 💔 💔 💔",
     "time": "04:38",
     "views": 168,
-    "date": "الخميس 20 أغسطس 2026"
+    "date": "الخميس 20 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "Imagine for a moment in time that this is your child? How would you feel about the Zionists?",
+    "text": "تخيل للحظة من الزمن أن هذا هو طفلك؟ كيف سيكون شعورك تجاه الصهاينة؟",
     "time": "20:57",
     "views": 217,
-    "date": "الأربعاء 19 أغسطس 2026"
+    "date": "الأربعاء 19 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
@@ -541,10 +541,9 @@
   },
   {
     "channel": "suppressednews",
-    "text": "هكذا كان الطفل الجميل تيم قبل أن يقسمه إسرائيل إلى نصفين. ومع حجم بشاعة تلك المجازر فإنني أكره.",
+    "text": "This is how the beautiful child Tim was before Israel divided him into two halves. With the scale of the ugliness of those massacres, I hate.",
     "time": "17:22",
     "views": 284,
-    "date": "الأربعاء 19 أغسطس 2026",
-    "translated": true
+    "date": "الأربعاء 19 أغسطس 2026"
   }
 ]
