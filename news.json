@@ -1,24 +1,33 @@
 [
   {
+    "channel": "YouTube-AlAouni",
+    "text": "امريكا تحرق بيتها..والصين ترفض ألاعيب امريكا المتهورة.. ترجمة حرفية للافتتاحية النارية لجريدة الصين",
+    "link": "https://www.youtube.com/watch?v=Yk1IGlvKF4g",
+    "views": 0,
+    "time": "",
+    "date": "الجمعة 22 أغسطس 2026"
+  },
+  {
     "channel": "PressTV",
     "text": "قال وزير الخارجية الإيراني عباس عراقجي، إن العقوبات الاقتصادية الأمريكية الأخيرة ضد إيران محكوم عليها بالفشل، تمامًا مثل الإجراءات القسرية الأمريكية السابقة ضد البلاد. @برس تي في",
     "time": "23:47",
-    "views": 160,
+    "views": 334,
     "date": "السبت 22 أغسطس 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "Army chief: Iran’s defense capabilities changed enemies’ calculations Iranian Army's commander-in-chief has stressed that the country’s defense capabilities have strengthened its deterrence, forcing its enemies to change their calculations. @PressTV",
+    "text": "قائد الجيش: قدرات إيران الدفاعية غيرت حسابات الأعداء أكد القائد العام للجيش الإيراني أن القدرات الدفاعية للبلاد عززت قوة الردع لديها، مما أجبر أعداءها على تغيير حساباتهم. @برس تي في",
     "time": "23:08",
-    "views": 495,
-    "date": "السبت 22 أغسطس 2026"
+    "views": 618,
+    "date": "السبت 22 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
     "text": "قال الرئيس التركي رجب طيب أردوغان إن رئيس الوزراء الإسرائيلي بنيامين نتنياهو يتهرب من المساءلة عن جرائم الحرب التي ارتكبها في غزة. @برس تي في",
     "time": "22:48",
-    "views": 644,
+    "views": 741,
     "date": "السبت 22 أغسطس 2026",
     "translated": true
   },
@@ -26,7 +35,7 @@
     "channel": "PressTV",
     "text": "أفادت مصادر محلية، أن مستودعا للذخيرة انفجر في مدينة مصراتة غربي ليبيا. @برس تي في",
     "time": "22:34",
-    "views": 716,
+    "views": 798,
     "date": "السبت 22 أغسطس 2026",
     "translated": true
   },
@@ -58,7 +67,7 @@
     "channel": "PressTV",
     "text": "الأعداء لن يتخلىوا أبدًا عن عداءهم للأمة الإيرانية: القائد الأعلى للحرس الثوري الإيراني أكد القائد الأعلى للحرس الثوري الإيراني أنه يجب على إيران مواصلة تعزيز قدراتها الدفاعية والهجومية، مشيرًا إلى أن أعداء الجمهورية الإسلامية لن يتخلوا أبدًا عن عدائهم ومؤامراتهم ضد الأمة. @برس تي في",
     "time": "21:58",
-    "views": 946,
+    "views": 0,
     "date": "السبت 22 أغسطس 2026",
     "translated": true
   },
@@ -255,14 +264,6 @@
     "translated": true
   },
   {
-    "channel": "PressTV",
-    "text": "إيران تدين الحرب على تراثها في قمة البريكس، وتحث على حماية عالمية أقوى أدانت إيران العدوان الأمريكي الإسرائيلي في اجتماع سياحي لمجموعة البريكس، قائلة إن أكثر من 4000 شخص استشهدوا وتضرر 149 موقعًا ثقافيًا، بما في ذلك خمسة مواقع تابعة لليونسكو. @برس تي في",
-    "time": "18:01",
-    "views": 0,
-    "date": "السبت 22 أغسطس 2026",
-    "translated": true
-  },
-  {
     "channel": "MiddleEastMonitor",
     "text": "لم شمل عائلة من غزة مع ابنها الذي يعتقد أنه مات بعد عام من الاعتقال الإسرائيلي",
     "time": "16:21",
@@ -380,6 +381,14 @@
     "time": "03:26",
     "views": 130,
     "date": "السبت 22 أغسطس 2026"
+  },
+  {
+    "channel": "PressTV",
+    "text": "ارتفع عدد القتلى إلى 159 شخصا، وما زال 10 في عداد المفقودين، بسبب إعصار مايساك والفيضانات الناجمة عنه التي ضربت منطقة قوانغشي الصينية في أوائل يوليو. @برس تي في",
+    "time": "00:19",
+    "views": 52,
+    "date": "السبت 22 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -591,10 +600,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "As usual, a large number are killed when the disaster strikes, and another number gradually succumbs to their wounds after it occurs. Omar Al-Jaabari, 13 years old, died of his wounds at Kamal Adwan Hospital. He was among the victims of the massacre at Al-Tabaeen School two days ago. Omar suffered severe burns as a result of the American missiles that produce very high temperatures, and he was not directly injured, otherwise he would have been turned into pieces and his body would have melted. 💔 💔 💔",
+    "text": "وكالعادة يقتل عدد كبير عند وقوع الكارثة، ويتوفى عدد آخر تدريجياً متأثراً بجراحه بعد وقوعها. توفي عمر الجعبري، 13 عاماً، متأثراً بجراحه في مستشفى كمال عدوان. وكان من بين ضحايا مجزرة مدرسة التابعين قبل يومين. وأصيب عمر بحروق شديدة نتيجة الصواريخ الأمريكية التي تنتج درجات حرارة عالية جدا، ولم يصب بشكل مباشر، وإلا لكان قد تحول إلى أشلاء وذاب جسده. 💔 💔 💔",
     "time": "04:38",
     "views": 168,
-    "date": "الخميس 20 أغسطس 2026"
+    "date": "الخميس 20 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
@@ -614,10 +624,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "Yesterday, Israel beheaded a Palestinian child in gaza 🔞 🔞 🔞 🔞",
+    "text": "بالأمس قطعت إسرائيل رأس طفل فلسطيني في غزة 🔞 🔞 🔞 🔞",
     "time": "17:24",
     "views": 359,
-    "date": "الأربعاء 19 أغسطس 2026"
+    "date": "الأربعاء 19 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
