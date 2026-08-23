@@ -152,6 +152,13 @@
     "translated": true
   },
   {
+    "channel": "PressTV",
+    "text": "IRGC says Trump's economic war against Iran admission of military defeat The Islamic Revolution Guards Corps (IRGC) says the United States’ latest economic pressure campaign against Iran amounts to an implicit admission of failure on the military front. @PressTV",
+    "time": "16:05",
+    "views": 1,
+    "date": "الأحد 23 أغسطس 2026"
+  },
+  {
     "channel": "MiddleEastMonitor",
     "text": "يعترف بورنهام بأن حزب العمال \"أخطأ\" فيما يتعلق بغزة مع تزايد الضغوط من أجل الانفصال الكامل عن إسرائيل",
     "time": "15:59",
@@ -163,7 +170,7 @@
     "channel": "PressTV",
     "text": "Iran's acting Defense Minister Brig. Gen. Seyyed Majid Ibn Al-Reza: Iran’s armed forces obtain plenty of intelligence, technological achievements from the enemy @PressTV",
     "time": "15:45",
-    "views": 150,
+    "views": 366,
     "date": "الأحد 23 أغسطس 2026"
   },
   {
@@ -178,14 +185,14 @@
     "channel": "PressTV",
     "text": "Crews use heavy machinery to build a firebreak near Reno, Nevada, as the Hawk Fire burns over 10,500 acres. @PressTV",
     "time": "15:36",
-    "views": 271,
+    "views": 453,
     "date": "الأحد 23 أغسطس 2026"
   },
   {
     "channel": "PressTV",
     "text": "Brigadier General Esmaeil Qa’ani, the chief commander of the IRGC’s Quds Force, says the cause for the liberation of Palestinian lands remains alive and unchangeable despite Israeli aggression and settlement policy. @PressTV",
     "time": "15:32",
-    "views": 319,
+    "views": 490,
     "date": "الأحد 23 أغسطس 2026"
   },
   {
@@ -216,14 +223,14 @@
     "channel": "PressTV",
     "text": "Iran Parliament Speaker Ghalibaf fires back, describes ‘Trump’s economic terrorism’ as ‘the Iran boomerang’ @PressTV",
     "time": "14:59",
-    "views": 679,
+    "views": 836,
     "date": "الأحد 23 أغسطس 2026"
   },
   {
     "channel": "PressTV",
     "text": "\"Iran remains a significant challenge to imperialism\" Carlos Martinez asserts that Iran's ongoing resistance to the regional policies of Israel and the United States has made it a target for imperialist interests. @PressTV",
     "time": "14:47",
-    "views": 886,
+    "views": 994,
     "date": "الأحد 23 أغسطس 2026"
   },
   {
@@ -290,10 +297,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "Aerial footage shows the extent of destruction in the Gaza Strip following the relentless Israeli genocidal war. @PressTV",
+    "text": "أظهرت لقطات جوية مدى الدمار الذي لحق بقطاع غزة في أعقاب حرب الإبادة الجماعية الإسرائيلية التي لا هوادة فيها. @برس تي في",
     "time": "13:44",
     "views": 0,
-    "date": "الأحد 23 أغسطس 2026"
+    "date": "الأحد 23 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
@@ -311,24 +319,19 @@
   },
   {
     "channel": "PressTV",
-    "text": "Iran develops smart device to measure depth of anesthesia using EEG, brain modeling An Iranian knowledge-based company specializing in cognitive neuroscience technologies has developed a prototype smart device for measuring the depth of anesthesia using electroencephalography (EEG) signals and a computational brain model. @PressTV",
+    "text": "إيران تطور جهازًا ذكيًا لقياس عمق التخدير باستخدام تخطيط كهربية الدماغ (EEG) ونمذجة الدماغ طورت شركة إيرانية قائمة على المعرفة متخصصة في تقنيات علم الأعصاب الإدراكي نموذجًا أوليًا لجهاز ذكي لقياس عمق التخدير باستخدام إشارات تخطيط كهربية الدماغ (EEG) ونموذج الدماغ الحسابي. @برس تي في",
     "time": "12:46",
     "views": 0,
-    "date": "الأحد 23 أغسطس 2026"
+    "date": "الأحد 23 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "PressTV‘s Hadi Hoteit describes the damage caused to his residence by Israeli attacks nearby in southern Lebanon. @PressTV",
+    "text": "يصف هادي حطيط من PressTV الأضرار التي لحقت بمقر إقامته بسبب الهجمات الإسرائيلية القريبة في جنوب لبنان. @برس تي في",
     "time": "12:19",
     "views": 0,
-    "date": "الأحد 23 أغسطس 2026"
-  },
-  {
-    "channel": "PressTV",
-    "text": "🔴 IRGC Quds Force Commander Brig. Gen. Qaani: 🔺 The Palestinian cause, from the river to the sea, is more alive and within reach than ever. 🔺 The expansion of settlements and Israel’s crimes are an attempt to escape the deep military, security, political…",
-    "time": "12:09",
-    "views": 0,
-    "date": "الأحد 23 أغسطس 2026"
+    "date": "الأحد 23 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
@@ -529,10 +532,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "They stole his joy. He went to obtain a birth certificate for the twins Aser and Aysel - 4 days later. He returned and they were martyred along with their mother. What pain does it have to hold the birth certificate and death certificate of your children on the same day? God is sufficient for us, and He is the best disposer of affairs 💔 💔 💔 💔",
+    "text": "سرقوا فرحته وتوجه للحصول على شهادة ميلاد للتوأم آسر وأيسل – بعد 4 أيام. فرجع فاستشهدوا مع أمهم. ما الألم الذي يسببه حمل شهادة ميلاد ووفاة أطفالك في نفس اليوم؟ حسبنا الله ونعم الوكيل 💔 💔 💔 💔",
     "time": "18:26",
     "views": 175,
-    "date": "الجمعة 21 أغسطس 2026"
+    "date": "الجمعة 21 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
