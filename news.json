@@ -27,7 +27,7 @@
     "channel": "PressTV",
     "text": "Israeli war has robbed Gaza's children of their childhood Minas Al Jabbour reports from Gaza City @PressTV",
     "time": "21:58",
-    "views": 157,
+    "views": 301,
     "date": "الإثنين 24 أغسطس 2026"
   },
   {
@@ -42,14 +42,14 @@
     "channel": "PressTV",
     "text": "Israeli forces set fire to the northwestern outskirts of the town of Haddatha, in southern Lebanon. @PressTV",
     "time": "21:28",
-    "views": 495,
+    "views": 601,
     "date": "الإثنين 24 أغسطس 2026"
   },
   {
     "channel": "PressTV",
     "text": "“Western states lose control of narrative, public opinion changing” Mick Napier says Western governments have lost control of their narrative over Israel’s crimes against Palestinians, as their people are increasingly exposed to the reality. @PressTV",
     "time": "21:20",
-    "views": 566,
+    "views": 666,
     "date": "الإثنين 24 أغسطس 2026"
   },
   {
@@ -72,7 +72,7 @@
     "channel": "PressTV",
     "text": "Iran wins two golds at U20 World Wrestling Championships Iran won two gold medals at the 2026 U20 World Wrestling Championships in Bratislava, with Sina Khalili and Abolfazl Mohammad Nezhad claiming titles in the 70kg and 125kg freestyle categories. @PressTV",
     "time": "20:57",
-    "views": 727,
+    "views": 808,
     "date": "الإثنين 24 أغسطس 2026"
   },
   {
@@ -110,7 +110,7 @@
     "channel": "PressTV",
     "text": "Iran Parliament Speaker Ghalibaf says American frozen foreign policy produces a frozen and stagnant economy, adding that the only thing still moving is the “Iran boomerang”. @PressTV",
     "time": "20:20",
-    "views": 966,
+    "views": 0,
     "date": "الإثنين 24 أغسطس 2026"
   },
   {
@@ -604,9 +604,10 @@
   },
   {
     "channel": "suppressednews",
-    "text": "This is how the beautiful child Tim was before Israel divided him into two halves. With the scale of the ugliness of those massacres, I hate.",
+    "text": "هكذا كان الطفل الجميل تيم قبل أن يقسمه إسرائيل إلى نصفين. ومع حجم بشاعة تلك المجازر فإنني أكره.",
     "time": "17:22",
     "views": 284,
-    "date": "الجمعة 21 أغسطس 2026"
+    "date": "الجمعة 21 أغسطس 2026",
+    "translated": true
   }
 ]
