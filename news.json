@@ -1,10 +1,18 @@
 [
   {
     "channel": "PressTV",
-    "text": "Powerful winds at Forlì Airport in Italy tossed planes around like toys @PressTV",
-    "time": "22:27",
-    "views": 315,
+    "text": "Footage captures the moment Israeli forces strike Al-Zawayda in the central Gaza Strip. @PressTV",
+    "time": "23:03",
+    "views": 45,
     "date": "الإثنين 24 أغسطس 2026"
+  },
+  {
+    "channel": "PressTV",
+    "text": "أدت الرياح القوية في مطار فورلي في إيطاليا إلى قذف الطائرات مثل الألعاب @PressTV",
+    "time": "22:27",
+    "views": 414,
+    "date": "الإثنين 24 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -34,7 +42,7 @@
     "channel": "PressTV",
     "text": "Israeli war has robbed Gaza's children of their childhood Minas Al Jabbour reports from Gaza City @PressTV",
     "time": "21:58",
-    "views": 567,
+    "views": 640,
     "date": "الإثنين 24 أغسطس 2026"
   },
   {
@@ -49,14 +57,14 @@
     "channel": "PressTV",
     "text": "Israeli forces set fire to the northwestern outskirts of the town of Haddatha, in southern Lebanon. @PressTV",
     "time": "21:28",
-    "views": 797,
+    "views": 862,
     "date": "الإثنين 24 أغسطس 2026"
   },
   {
     "channel": "PressTV",
     "text": "“Western states lose control of narrative, public opinion changing” Mick Napier says Western governments have lost control of their narrative over Israel’s crimes against Palestinians, as their people are increasingly exposed to the reality. @PressTV",
     "time": "21:20",
-    "views": 853,
+    "views": 924,
     "date": "الإثنين 24 أغسطس 2026"
   },
   {
@@ -79,7 +87,7 @@
     "channel": "PressTV",
     "text": "Iran wins two golds at U20 World Wrestling Championships Iran won two gold medals at the 2026 U20 World Wrestling Championships in Bratislava, with Sina Khalili and Abolfazl Mohammad Nezhad claiming titles in the 70kg and 125kg freestyle categories. @PressTV",
     "time": "20:57",
-    "views": 942,
+    "views": 0,
     "date": "الإثنين 24 أغسطس 2026"
   },
   {
@@ -234,13 +242,6 @@
     "channel": "PressTV",
     "text": "A massive blaze erupted at the Al-Doura oil refinery complex in southern Baghdad @PressTV",
     "time": "16:52",
-    "views": 0,
-    "date": "الإثنين 24 أغسطس 2026"
-  },
-  {
-    "channel": "PressTV",
-    "text": "Iran Parliament Speaker Ghalibaf fires back, describes ‘Trump’s economic terrorism’ as ‘the Iran boomerang’ @PressTV",
-    "time": "16:48",
     "views": 0,
     "date": "الإثنين 24 أغسطس 2026"
   },
@@ -548,10 +549,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "BREAKING: Initial reports of at-least 100 Martyrs in an Israeli strike that targeted \"Al-Tabi'in\" school in Al-Daraj neighborhood in central Gaza City.",
+    "text": "عاجل: التقارير الأولية عن استشهاد ما لا يقل عن 100 شهيد في قصف إسرائيلي استهدف مدرسة \"التابعين\" في حي الدرج وسط مدينة غزة.",
     "time": "02:56",
     "views": 152,
-    "date": "الأحد 23 أغسطس 2026"
+    "date": "الأحد 23 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
