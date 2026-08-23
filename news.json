@@ -129,30 +129,30 @@
   },
   {
     "channel": "PressTV",
-    "text": "Footage reportedly shows fire in an industrial area in Beit Dagan, occupied territories. @PressTV",
+    "text": "Footage reportedly shows a fire in an industrial area in Beit Dagan, in the occupied territories. @PressTV",
     "time": "18:58",
-    "views": 16,
+    "views": 211,
     "date": "الأحد 23 أغسطس 2026"
   },
   {
     "channel": "PressTV",
     "text": "Iranian doctors introduce cancer treatment technique with 'no previous equivalent worldwide' Iranian doctors introduced a new diagnostic and treatment method for advanced and metastatic solid cancers, describing it as the first such technique developed and used in the world. @PressTV",
     "time": "18:29",
-    "views": 430,
+    "views": 563,
     "date": "الأحد 23 أغسطس 2026"
   },
   {
     "channel": "PressTV",
     "text": "Trump-linked US startup making low-cost interceptors in UAE to counter Iran’s drones: Report A US military startup with ties to Donald Trump’s business circle is ramping up production of low-cost drone interceptors in the United Arab Emirates (UAE) as the US war on Iran lays bare the mounting cost and logistical strain of relying on expensive American air-defense systems against waves of Iranian drones and missiles. @PressTV",
     "time": "17:57",
-    "views": 775,
+    "views": 868,
     "date": "الأحد 23 أغسطس 2026"
   },
   {
     "channel": "PressTV",
     "text": "IRGC spokesman Brigadier General Mohebbi says Trump’s recent order for an economic war against Iran amounts to an implicit admission of the enemy’s failure on the military front. @PressTV",
     "time": "17:31",
-    "views": 944,
+    "views": 0,
     "date": "الأحد 23 أغسطس 2026"
   },
   {
@@ -397,10 +397,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-taking-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"There was crazy hysteria, with decisions made without any verified information\": IDF ordered Hannibal directive on October 7 to prevent Hamas taking soldiers captive",
+    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-take-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"هناك \"كانت هستيريا جنونية، مع اتخاذ قرارات دون أي معلومات تم التحقق منها\": أمر جيش الدفاع الإسرائيلي بتوجيه هانيبال في 7 أكتوبر بمنع حماس من أسر الجنود",
     "time": "21:46",
     "views": 225,
-    "date": "السبت 22 أغسطس 2026"
+    "date": "السبت 22 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
