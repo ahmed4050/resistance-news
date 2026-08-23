@@ -16,6 +16,14 @@
     "date": "السبت 23 أغسطس 2026"
   },
   {
+    "channel": "YouTube-AlAouni",
+    "text": "عاجل- طائرة ورقية سادسة من غزة تدفع إسرائيل لحالة طوارئ..واجتماع وبيان لنتنياهو ووزير دفاعه..",
+    "link": "https://www.youtube.com/watch?v=n1aezh8hZbE",
+    "views": 0,
+    "time": "",
+    "date": "السبت 23 أغسطس 2026"
+  },
+  {
     "channel": "MiddleEastMonitor",
     "text": "وفي حديثه مع الرئيس الإيراني، حث رئيس الوزراء الباكستاني الولايات المتحدة وإيران على الالتزام باتفاق السلام",
     "time": "22:23",
@@ -96,6 +104,13 @@
     "translated": true
   },
   {
+    "channel": "PressTV",
+    "text": "Israeli strikes in Gaza kill three Palestinians, including 4-year-old Three Palestinians, including a four-year-old child, have been killed and several others wounded in Israeli strikes across the besieged Gaza Strip. @PressTV",
+    "time": "19:49",
+    "views": 166,
+    "date": "الأحد 23 أغسطس 2026"
+  },
+  {
     "channel": "MiddleEastMonitor",
     "text": "ترامب يزعم أن إيران طلبت من الولايات المتحدة مواصلة “المحادثات” ويعلن أن وقف إطلاق النار “انتهى”",
     "time": "19:33",
@@ -105,17 +120,16 @@
   },
   {
     "channel": "PressTV",
-    "text": "أمين المجلس الأعلى للأمن القومي الإيراني محسن رضائي: إيران ستعتبر مشاركة أي دولة في الحرب الاقتصادية الأمريكية ضد الجمهورية الإسلامية أو دعمها لها بمثابة عمل من أعمال الحرب.",
+    "text": "Iran's Supreme National Security Council secretary Mohsen Rezaei: Iran will consider any country's participation in or support for the US economic war against the Islamic Republic as an act of war.",
     "time": "19:30",
-    "views": 255,
-    "date": "الأحد 23 أغسطس 2026",
-    "translated": true
+    "views": 470,
+    "date": "الأحد 23 أغسطس 2026"
   },
   {
     "channel": "PressTV",
     "text": "Iranian Foreign Minister Abbas Araghchi asserts that Iran has never feared economic blockades or US threats, stressing that Washington's only viable path forward is through respectful, just, and dignified engagement with the Iranian people. @PressTV",
     "time": "19:22",
-    "views": 349,
+    "views": 539,
     "date": "الأحد 23 أغسطس 2026"
   },
   {
@@ -138,7 +152,7 @@
     "channel": "PressTV",
     "text": "Trump pushes ‘state’ rhetoric as trade war with Canada deepens US President Donald Trump lashed out at Canada, accusing Ottawa of seeking “the benefits of being a State, without being one,” after Canadian Prime Minister Mark Carney vowed retaliatory tariffs in response to Washington’s new trade measures. @PressTV",
     "time": "19:13",
-    "views": 479,
+    "views": 633,
     "date": "الأحد 23 أغسطس 2026"
   },
   {
@@ -153,14 +167,14 @@
     "channel": "PressTV",
     "text": "Footage reportedly shows a fire in an industrial area in Beit Dagan, in the occupied territories. @PressTV",
     "time": "18:58",
-    "views": 594,
+    "views": 731,
     "date": "الأحد 23 أغسطس 2026"
   },
   {
     "channel": "PressTV",
     "text": "Iranian doctors introduce cancer treatment technique with 'no previous equivalent worldwide' Iranian doctors introduced a new diagnostic and treatment method for advanced and metastatic solid cancers, describing it as the first such technique developed and used in the world. @PressTV",
     "time": "18:29",
-    "views": 833,
+    "views": 912,
     "date": "الأحد 23 أغسطس 2026"
   },
   {
@@ -193,10 +207,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "Araghchi dismisses US sanctions threat as failed 'repeated scenario' Iranian Foreign Minister Abbas Araghchi has dismissed the threat of tougher US sanctions against Tehran as another failed pressure tactic, saying Washington must engage with Iran respectfully and seek a solution based on “justice and honor.” @PressTV",
+    "text": "عراقجي يرفض التهديد بفرض عقوبات أمريكية ووصفه بأنه \"سيناريو متكرر\" فاشل رفض وزير الخارجية الإيراني عباس عراقجي التهديد بفرض عقوبات أمريكية أكثر صرامة على طهران ووصفه بأنه تكتيك ضغط فاشل آخر، قائلاً إن على واشنطن التعامل مع إيران باحترام والسعي إلى حل قائم على \"العدالة والشرف\". @برس تي في",
     "time": "16:23",
     "views": 0,
-    "date": "الأحد 23 أغسطس 2026"
+    "date": "الأحد 23 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -351,13 +366,6 @@
     "date": "الأحد 23 أغسطس 2026"
   },
   {
-    "channel": "PressTV",
-    "text": "Iran announces discovery of major gas field in southern Fars province Iran has discovered a major new gas field in southern Fars province, with recoverable reserves estimated at around 5.7 trillion cubic feet. @PressTV",
-    "time": "14:03",
-    "views": 0,
-    "date": "الأحد 23 أغسطس 2026"
-  },
-  {
     "channel": "MiddleEastMonitor",
     "text": "تراجع الشحن عبر مضيق هرمز مع استئناف الأعمال العدائية بين الولايات المتحدة وإيران",
     "time": "14:00",
@@ -398,10 +406,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-taking-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"There was crazy hysteria, with decisions made without any verified information\": IDF ordered Hannibal directive on October 7 to prevent Hamas taking soldiers captive",
+    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-take-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"هناك \"كانت هستيريا جنونية، مع اتخاذ قرارات دون أي معلومات تم التحقق منها\": أمر جيش الدفاع الإسرائيلي بتوجيه هانيبال في 7 أكتوبر بمنع حماس من أسر الجنود",
     "time": "21:46",
     "views": 225,
-    "date": "السبت 22 أغسطس 2026"
+    "date": "السبت 22 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
