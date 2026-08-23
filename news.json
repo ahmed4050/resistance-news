@@ -1,5 +1,12 @@
 [
   {
+    "channel": "PressTV",
+    "text": "Powerful winds at Forlì Airport in Italy tossed planes around like toys @PressTV",
+    "time": "22:27",
+    "views": 209,
+    "date": "الإثنين 24 أغسطس 2026"
+  },
+  {
     "channel": "MiddleEastMonitor",
     "text": "وفي حديثه مع الرئيس الإيراني، حث رئيس الوزراء الباكستاني الولايات المتحدة وإيران على الالتزام باتفاق السلام",
     "time": "22:23",
@@ -27,7 +34,7 @@
     "channel": "PressTV",
     "text": "Israeli war has robbed Gaza's children of their childhood Minas Al Jabbour reports from Gaza City @PressTV",
     "time": "21:58",
-    "views": 301,
+    "views": 486,
     "date": "الإثنين 24 أغسطس 2026"
   },
   {
@@ -42,14 +49,14 @@
     "channel": "PressTV",
     "text": "Israeli forces set fire to the northwestern outskirts of the town of Haddatha, in southern Lebanon. @PressTV",
     "time": "21:28",
-    "views": 601,
+    "views": 738,
     "date": "الإثنين 24 أغسطس 2026"
   },
   {
     "channel": "PressTV",
     "text": "“Western states lose control of narrative, public opinion changing” Mick Napier says Western governments have lost control of their narrative over Israel’s crimes against Palestinians, as their people are increasingly exposed to the reality. @PressTV",
     "time": "21:20",
-    "views": 666,
+    "views": 786,
     "date": "الإثنين 24 أغسطس 2026"
   },
   {
@@ -72,7 +79,7 @@
     "channel": "PressTV",
     "text": "Iran wins two golds at U20 World Wrestling Championships Iran won two gold medals at the 2026 U20 World Wrestling Championships in Bratislava, with Sina Khalili and Abolfazl Mohammad Nezhad claiming titles in the 70kg and 125kg freestyle categories. @PressTV",
     "time": "20:57",
-    "views": 808,
+    "views": 906,
     "date": "الإثنين 24 أغسطس 2026"
   },
   {
@@ -108,10 +115,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "Iran Parliament Speaker Ghalibaf says American frozen foreign policy produces a frozen and stagnant economy, adding that the only thing still moving is the “Iran boomerang”. @PressTV",
+    "text": "قال رئيس البرلمان الإيراني قاليباف إن السياسة الخارجية الأمريكية المجمدة تنتج اقتصادًا متجمدًا وراكدًا، مضيفًا أن الشيء الوحيد الذي لا يزال يتحرك هو \"الارتداد الإيراني\". @برس تي في",
     "time": "20:20",
     "views": 0,
-    "date": "الإثنين 24 أغسطس 2026"
+    "date": "الإثنين 24 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -218,10 +226,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "\"Macron, by constantly aligning himself with Trumpism, has struck us off the world's list of countries that are listened to,\" declares French presidential candidate Jean-Luc Mélenchon. @PressTV",
+    "text": "يقول المرشح الرئاسي الفرنسي جان لوك ميلينشون: \"لقد أخرجنا ماكرون، من خلال اصطفافه المستمر مع الترامبية، من قائمة الدول التي يتم الاستماع إليها في العالم\". @برس تي في",
     "time": "17:00",
     "views": 0,
-    "date": "الإثنين 24 أغسطس 2026"
+    "date": "الإثنين 24 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
@@ -239,10 +248,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "Araghchi dismisses US sanctions threat as failed 'repeated scenario' Iranian Foreign Minister Abbas Araghchi has dismissed the threat of tougher US sanctions against Tehran as another failed pressure tactic, saying Washington must engage with Iran respectfully and seek a solution based on “justice and honor.” @PressTV",
+    "text": "عراقجي يرفض التهديد بفرض عقوبات أمريكية ووصفه بأنه \"سيناريو متكرر\" فاشل رفض وزير الخارجية الإيراني عباس عراقجي التهديد بفرض عقوبات أمريكية أكثر صرامة على طهران ووصفه بأنه تكتيك ضغط فاشل آخر، قائلاً إن على واشنطن التعامل مع إيران باحترام والسعي إلى حل قائم على \"العدالة والشرف\". @برس تي في",
     "time": "16:23",
     "views": 0,
-    "date": "الإثنين 24 أغسطس 2026"
+    "date": "الإثنين 24 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -251,13 +261,6 @@
     "views": 0,
     "date": "الإثنين 24 أغسطس 2026",
     "translated": true
-  },
-  {
-    "channel": "PressTV",
-    "text": "Magnitude 6.0 earthquake hits Japan's Hokkaido @PressTV",
-    "time": "16:18",
-    "views": 0,
-    "date": "الإثنين 24 أغسطس 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -604,10 +607,9 @@
   },
   {
     "channel": "suppressednews",
-    "text": "هكذا كان الطفل الجميل تيم قبل أن يقسمه إسرائيل إلى نصفين. ومع حجم بشاعة تلك المجازر فإنني أكره.",
+    "text": "This is how the beautiful child Tim was before Israel divided him into two halves. With the scale of the ugliness of those massacres, I hate.",
     "time": "17:22",
     "views": 284,
-    "date": "الجمعة 21 أغسطس 2026",
-    "translated": true
+    "date": "الجمعة 21 أغسطس 2026"
   }
 ]
