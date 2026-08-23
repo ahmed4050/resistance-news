@@ -105,9 +105,16 @@
   },
   {
     "channel": "PressTV",
+    "text": "Iran to detain, confiscate violating ships in Strait of Hormuz: PGSA The Persian Gulf Strait Authority (PGSA), Iran’s regulatory body for the Strait of Hormuz, has announced that vessels violating Iranian protocols for the strategic waterway will face restrictions on future passages, including fines, detention, or confiscation. @PressTV",
+    "time": "20:03",
+    "views": 73,
+    "date": "الأحد 23 أغسطس 2026"
+  },
+  {
+    "channel": "PressTV",
     "text": "Israeli strikes in Gaza kill three Palestinians, including 4-year-old Three Palestinians, including a four-year-old child, have been killed and several others wounded in Israeli strikes across the besieged Gaza Strip. @PressTV",
     "time": "19:49",
-    "views": 166,
+    "views": 311,
     "date": "الأحد 23 أغسطس 2026"
   },
   {
@@ -122,14 +129,14 @@
     "channel": "PressTV",
     "text": "Iran's Supreme National Security Council secretary Mohsen Rezaei: Iran will consider any country's participation in or support for the US economic war against the Islamic Republic as an act of war.",
     "time": "19:30",
-    "views": 470,
+    "views": 577,
     "date": "الأحد 23 أغسطس 2026"
   },
   {
     "channel": "PressTV",
     "text": "Iranian Foreign Minister Abbas Araghchi asserts that Iran has never feared economic blockades or US threats, stressing that Washington's only viable path forward is through respectful, just, and dignified engagement with the Iranian people. @PressTV",
     "time": "19:22",
-    "views": 539,
+    "views": 626,
     "date": "الأحد 23 أغسطس 2026"
   },
   {
@@ -152,7 +159,7 @@
     "channel": "PressTV",
     "text": "Trump pushes ‘state’ rhetoric as trade war with Canada deepens US President Donald Trump lashed out at Canada, accusing Ottawa of seeking “the benefits of being a State, without being one,” after Canadian Prime Minister Mark Carney vowed retaliatory tariffs in response to Washington’s new trade measures. @PressTV",
     "time": "19:13",
-    "views": 633,
+    "views": 709,
     "date": "الأحد 23 أغسطس 2026"
   },
   {
@@ -167,14 +174,14 @@
     "channel": "PressTV",
     "text": "Footage reportedly shows a fire in an industrial area in Beit Dagan, in the occupied territories. @PressTV",
     "time": "18:58",
-    "views": 731,
+    "views": 792,
     "date": "الأحد 23 أغسطس 2026"
   },
   {
     "channel": "PressTV",
     "text": "Iranian doctors introduce cancer treatment technique with 'no previous equivalent worldwide' Iranian doctors introduced a new diagnostic and treatment method for advanced and metastatic solid cancers, describing it as the first such technique developed and used in the world. @PressTV",
     "time": "18:29",
-    "views": 912,
+    "views": 956,
     "date": "الأحد 23 أغسطس 2026"
   },
   {
@@ -186,17 +193,19 @@
   },
   {
     "channel": "PressTV",
-    "text": "IRGC spokesman Brigadier General Mohebbi says Trump’s recent order for an economic war against Iran amounts to an implicit admission of the enemy’s failure on the military front. @PressTV",
+    "text": "ويقول المتحدث باسم الحرس الثوري الإيراني، العميد محبي، إن الأمر الأخير الذي أصدره ترامب بشن حرب اقتصادية ضد إيران يرقى إلى اعتراف ضمني بفشل العدو على الجبهة العسكرية. @برس تي في",
     "time": "17:31",
     "views": 0,
-    "date": "الأحد 23 أغسطس 2026"
+    "date": "الأحد 23 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "\"Macron, by constantly aligning himself with Trumpism, has struck us off the world's list of countries that are listened to,\" declares French presidential candidate Jean-Luc Mélenchon. @PressTV",
+    "text": "يقول المرشح الرئاسي الفرنسي جان لوك ميلينشون: \"لقد أخرجنا ماكرون، من خلال اصطفافه المستمر مع الترامبية، من قائمة الدول التي يتم الاستماع إليها في العالم\". @برس تي في",
     "time": "17:00",
     "views": 0,
-    "date": "الأحد 23 أغسطس 2026"
+    "date": "الأحد 23 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
@@ -207,11 +216,10 @@
   },
   {
     "channel": "PressTV",
-    "text": "عراقجي يرفض التهديد بفرض عقوبات أمريكية ووصفه بأنه \"سيناريو متكرر\" فاشل رفض وزير الخارجية الإيراني عباس عراقجي التهديد بفرض عقوبات أمريكية أكثر صرامة على طهران ووصفه بأنه تكتيك ضغط فاشل آخر، قائلاً إن على واشنطن التعامل مع إيران باحترام والسعي إلى حل قائم على \"العدالة والشرف\". @برس تي في",
+    "text": "Araghchi dismisses US sanctions threat as failed 'repeated scenario' Iranian Foreign Minister Abbas Araghchi has dismissed the threat of tougher US sanctions against Tehran as another failed pressure tactic, saying Washington must engage with Iran respectfully and seek a solution based on “justice and honor.” @PressTV",
     "time": "16:23",
     "views": 0,
-    "date": "الأحد 23 أغسطس 2026",
-    "translated": true
+    "date": "الأحد 23 أغسطس 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -359,13 +367,6 @@
     "translated": true
   },
   {
-    "channel": "PressTV",
-    "text": "Israeli settler attacks an elderly disabled Palestinian man in Masafer Yatta @PressTV",
-    "time": "14:07",
-    "views": 0,
-    "date": "الأحد 23 أغسطس 2026"
-  },
-  {
     "channel": "MiddleEastMonitor",
     "text": "تراجع الشحن عبر مضيق هرمز مع استئناف الأعمال العدائية بين الولايات المتحدة وإيران",
     "time": "14:00",
@@ -406,11 +407,10 @@
   },
   {
     "channel": "suppressednews",
-    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-take-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"هناك \"كانت هستيريا جنونية، مع اتخاذ قرارات دون أي معلومات تم التحقق منها\": أمر جيش الدفاع الإسرائيلي بتوجيه هانيبال في 7 أكتوبر بمنع حماس من أسر الجنود",
+    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-taking-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"There was crazy hysteria, with decisions made without any verified information\": IDF ordered Hannibal directive on October 7 to prevent Hamas taking soldiers captive",
     "time": "21:46",
     "views": 225,
-    "date": "السبت 22 أغسطس 2026",
-    "translated": true
+    "date": "السبت 22 أغسطس 2026"
   },
   {
     "channel": "MiddleEastMonitor",
