@@ -9,10 +9,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "Ayatollah Khamenei ‘awakened consciences’ in defense of faith and dignity: PMU chief The head of Iraq’s Popular Mobilization Units (PMU), an anti-terror resistance coalition, says the martyred Leader of the Islamic Revolution, Ayatollah Seyyed Ali Khamenei, “awakened consciences” and inspired people to defend their dignity and religious sanctities. @PressTV",
+    "text": "آية الله خامنئي \"أيقظ الضمائر\" دفاعًا عن الإيمان والكرامة يقول رئيس الحشد الشعبي العراقي، وهو تحالف مقاوم لمكافحة الإرهاب، إن المرشد الشهيد للثورة الإسلامية آية الله السيد علي خامنئي، \"أيقظ الضمائر\" وألهم الناس للدفاع عن كرامتهم ومقدساتهم الدينية. @برس تي في",
     "time": "23:49",
     "views": 0,
-    "date": "الإثنين 24 أغسطس 2026"
+    "date": "الإثنين 24 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
@@ -80,10 +81,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "Israeli forces set fire to the northwestern outskirts of the town of Haddatha, in southern Lebanon. @PressTV",
+    "text": "أضرمت قوات الاحتلال الإسرائيلي النار في الأطراف الشمالية الغربية لبلدة حداثا جنوب لبنان. @برس تي في",
     "time": "21:28",
     "views": 0,
-    "date": "الإثنين 24 أغسطس 2026"
+    "date": "الإثنين 24 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
@@ -105,14 +107,6 @@
     "channel": "MiddleEastMonitor",
     "text": "إسرائيل تعتقل مفتي القدس وتمنعه ​​من دخول المسجد الأقصى لمدة أسبوع",
     "time": "21:00",
-    "views": 0,
-    "date": "الإثنين 24 أغسطس 2026",
-    "translated": true
-  },
-  {
-    "channel": "PressTV",
-    "text": "إيران تفوز بذهبيتين في بطولة العالم للمصارعة تحت 20 سنة فازت إيران بميداليتين ذهبيتين في بطولة العالم للمصارعة تحت 20 سنة 2026 في براتيسلافا، حيث حصل سينا ​​خليلي وأبو الفضل محمد نجاد على ألقاب في فئتي 70 كجم و125 كجم حرة. @برس تي في",
-    "time": "20:57",
     "views": 0,
     "date": "الإثنين 24 أغسطس 2026",
     "translated": true
@@ -295,9 +289,17 @@
   },
   {
     "channel": "PressTV",
+    "text": "حذر أمين المجلس الأعلى للأمن القومي الإيراني، اللواء محسن رضائي، من أنه لن يتم تصدير قطرة واحدة من النفط من الخليج الفارسي إذا استمرت حرب واشنطن الاقتصادية ضد طهران.",
+    "time": "04:40",
+    "views": 162,
+    "date": "الإثنين 24 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
     "text": "ومن المقرر أن يزور رئيس الوزراء البريطاني بورنهام أوكرانيا، حيث سيعلن عن نقل بيانات سرية لدعم إنتاج صواريخ SCALP بعيدة المدى القادرة على ضرب عمق روسيا. @برس تي في",
     "time": "04:24",
-    "views": 66,
+    "views": 375,
     "date": "الإثنين 24 أغسطس 2026",
     "translated": true
   },
@@ -305,7 +307,7 @@
     "channel": "PressTV",
     "text": "أفادت تقارير عن حريق هائل اجتاح قرية ديسا أدات ساد، وهي قرية تقليدية تابعة لساساك في جزيرة لومبوك بإندونيسيا، مما أدى إلى تدمير حوالي 120 منزلاً وتشريد مئات السكان. @برس تي في",
     "time": "03:51",
-    "views": 440,
+    "views": 646,
     "date": "الإثنين 24 أغسطس 2026",
     "translated": true
   },
@@ -318,16 +320,17 @@
   },
   {
     "channel": "PressTV",
-    "text": "UN rights expert demands urgent international protection in Palestine amid brutal settler attacks United Nations Special Rapporteur on the Occupied Palestinian Territories, Francesca Albanese, has issued an urgent call for the immediate deployment of an international protection presence in the West Bank, East al-Quds, and Gaza following the emergence of disturbing footage showing Israeli settlers violently assaulting an elderly, disabled Palestinian man. @PressTV",
+    "text": "خبيرة حقوقية تابعة للأمم المتحدة تطالب بحماية دولية عاجلة في فلسطين وسط هجمات المستوطنين الوحشية، أصدرت المقررة الخاصة للأمم المتحدة المعنية بالأراضي الفلسطينية المحتلة، فرانشيسكا ألبانيز، نداءً عاجلاً للنشر الفوري لوجود حماية دولي في الضفة الغربية والقدس الشرقية وغزة بعد ظهور لقطات مثيرة للقلق تظهر مستوطنين إسرائيليين يعتدون بعنف على رجل فلسطيني مسن ومعاق. @برس تي في",
     "time": "03:03",
-    "views": 752,
-    "date": "الإثنين 24 أغسطس 2026"
+    "views": 892,
+    "date": "الإثنين 24 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
     "text": "ومع ارتفاع الدين الوطني الأمريكي إلى أكثر من 40 تريليون دولار، يلجأ الأمريكيون بشكل متزايد إلى وسائل التواصل الاجتماعي للتعبير عن إحباطهم إزاء حروب ترامب وسياسات العقوبات ضد إيران. @برس تي في",
     "time": "02:45",
-    "views": 797,
+    "views": 947,
     "date": "الإثنين 24 أغسطس 2026",
     "translated": true
   },
@@ -335,7 +338,7 @@
     "channel": "PressTV",
     "text": "◀️ خرج الناشطون إلى شوارع طنجة بالمغرب للتعبير عن دعمهم لفلسطين. @برس تي في",
     "time": "02:20",
-    "views": 919,
+    "views": 0,
     "date": "الإثنين 24 أغسطس 2026",
     "translated": true
   },
@@ -343,7 +346,7 @@
     "channel": "PressTV",
     "text": "حماس تدين استخدام النظام الصهيوني للطائرات الورقية للأطفال كذريعة واهية للإبادة الجماعية في غزة أدانت حركة المقاومة الإسلامية حماس بشدة القصف الجوي الأخير للنظام الصهيوني والتهديدات بالتهجير القسري الجماعي في قطاع غزة، وكشفت استخدام الاحتلال للأطفال الذين يطلقون الطائرات الورقية كذريعة ساخرة وملفقة لتصعيد حرب الإبادة الوحشية التي يشنها. @برس تي في",
     "time": "02:06",
-    "views": 851,
+    "views": 965,
     "date": "الإثنين 24 أغسطس 2026",
     "translated": true
   },
@@ -351,7 +354,7 @@
     "channel": "PressTV",
     "text": "أدى الانهيار الأرضي في غينيا إلى مقتل 30 شخصًا على الأقل @PressTV",
     "time": "01:45",
-    "views": 895,
+    "views": 971,
     "date": "الإثنين 24 أغسطس 2026",
     "translated": true
   },
@@ -359,13 +362,13 @@
     "channel": "PressTV",
     "text": "دفاع إيران البطولي ودبلوماسيتها الحازمة مصدر فخر للحلفاء: نائب لبناني في لقاء مع عراقجي أشاد نائب لبناني كبير بالدفاع البطولي للأمة الإيرانية ضد العدوان العسكري الأمريكي الصهيوني، مشيدًا بالدبلوماسية الإيرانية الحازمة باعتبارها عاملاً حيويًا يعزز سلطة البلاد. @برس تي في",
     "time": "01:28",
-    "views": 989,
+    "views": 0,
     "date": "الإثنين 24 أغسطس 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "يمتد حريق هوك في ولاية نيفادا إلى 13000 فدان، مما يؤدي إلى إصابة ستة أشخاص بينما يعلن الحاكم حالة الطوارئ، ويطلب من 90.000 شخص إخلاء @PressTV",
+    "text": "يمتد حريق هوك في نيفادا إلى 13000 فدان، مما يؤدي إلى إصابة ستة أشخاص بينما يعلن الحاكم حالة الطوارئ، ويطلب من 90.000 شخص إخلاء @PressTV",
     "time": "00:07",
     "views": 0,
     "date": "الإثنين 24 أغسطس 2026",
@@ -389,10 +392,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-taking-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"There was crazy hysteria, with decisions made without any verified information\": IDF ordered Hannibal directive on October 7 to prevent Hamas taking soldiers captive",
+    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-take-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"هناك \"كانت هستيريا جنونية، مع اتخاذ قرارات دون أي معلومات تم التحقق منها\": أمر جيش الدفاع الإسرائيلي بتوجيه هانيبال في 7 أكتوبر بمنع حماس من أسر الجنود",
     "time": "21:46",
     "views": 225,
-    "date": "الأحد 23 أغسطس 2026"
+    "date": "الأحد 23 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -556,24 +560,27 @@
   },
   {
     "channel": "suppressednews",
-    "text": "BREAKING: Initial reports of at-least 100 Martyrs in an Israeli strike that targeted \"Al-Tabi'in\" school in Al-Daraj neighborhood in central Gaza City.",
+    "text": "عاجل: التقارير الأولية عن استشهاد ما لا يقل عن 100 شهيد في قصف إسرائيلي استهدف مدرسة \"التابعين\" في حي الدرج وسط مدينة غزة.",
     "time": "02:56",
     "views": 152,
-    "date": "الأحد 23 أغسطس 2026"
+    "date": "الأحد 23 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "They stole his joy. He went to obtain a birth certificate for the twins Aser and Aysel - 4 days later. He returned and they were martyred along with their mother. What pain does it have to hold the birth certificate and death certificate of your children on the same day? God is sufficient for us, and He is the best disposer of affairs 💔 💔 💔 💔",
+    "text": "سرقوا فرحته وتوجه للحصول على شهادة ميلاد للتوأم آسر وأيسل – بعد 4 أيام. فرجع فاستشهدوا مع أمهم. ما الألم الذي يسببه حمل شهادة ميلاد ووفاة أطفالك في نفس اليوم؟ حسبنا الله ونعم الوكيل 💔 💔 💔 💔",
     "time": "18:26",
     "views": 175,
-    "date": "السبت 22 أغسطس 2026"
+    "date": "السبت 22 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "For forty days and nights, the Western media lamented the lie of Israeli children with their heads cut off, with which the occupation deceived the world, and they did not see a single picture confirming its claims... while every day the headless children of Gaza appear to us in painful pictures, without their weeping, and the media biased towards the occupation and complicit in the crime does not dare. 💔 💔 💔 💔 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭",
+    "text": "أربعون يوماً وليلة، رثى الإعلام الغربي كذبة أطفال إسرائيليين مقطوعة الرأس، التي خدع بها الاحتلال العالم، ولم يروا صورة واحدة تؤكد ادعاءاته... بينما أطفال غزة مقطوعي الرأس يظهرون لنا كل يوم بصور مؤلمة، دون بكاء، ولا يجرؤ الإعلام المنحاز للاحتلال والمتواطئ في الجريمة. 💔 💔 💔 💔 ؟؟؟؟؟؟؟",
     "time": "04:39",
     "views": 184,
-    "date": "السبت 22 أغسطس 2026"
+    "date": "السبت 22 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
@@ -585,7 +592,7 @@
   },
   {
     "channel": "suppressednews",
-    "text": "تخيل للحظة أن هذا هو طفلك؟ كيف سيكون شعورك تجاه الصهاينة؟",
+    "text": "تخيل للحظة من الزمن أن هذا هو طفلك؟ كيف سيكون شعورك تجاه الصهاينة؟",
     "time": "20:57",
     "views": 217,
     "date": "الجمعة 21 أغسطس 2026",
@@ -609,9 +616,10 @@
   },
   {
     "channel": "suppressednews",
-    "text": "This is how the beautiful child Tim was before Israel divided him into two halves. With the scale of the ugliness of those massacres, I hate.",
+    "text": "هكذا كان الطفل الجميل تيم قبل أن يقسمه إسرائيل إلى نصفين. ومع حجم بشاعة تلك المجازر فإنني أكره.",
     "time": "17:22",
     "views": 284,
-    "date": "الجمعة 21 أغسطس 2026"
+    "date": "الجمعة 21 أغسطس 2026",
+    "translated": true
   }
 ]
