@@ -131,10 +131,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "Iraqi National Security Adviser : We have submitted a proposal to Iran and Saudi Arabia to establish a unified security coordination council @PressTV",
+    "text": "مستشار الأمن الوطني العراقي: قدمنا ​​مقترحا لإيران والسعودية لإنشاء مجلس تنسيق أمني موحد @PressTV",
     "time": "20:24",
     "views": 0,
-    "date": "الإثنين 24 أغسطس 2026"
+    "date": "الإثنين 24 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -145,33 +146,9 @@
     "translated": true
   },
   {
-    "channel": "PressTV",
-    "text": "قال رئيس البرلمان الإيراني قاليباف إن السياسة الخارجية الأمريكية المجمدة تنتج اقتصادًا متجمدًا وراكدًا، مضيفًا أن الشيء الوحيد الذي لا يزال يتحرك هو \"الارتداد الإيراني\". @برس تي في",
-    "time": "20:20",
-    "views": 0,
-    "date": "الإثنين 24 أغسطس 2026",
-    "translated": true
-  },
-  {
     "channel": "MiddleEastMonitor",
     "text": "رئيس الأمن الإيراني يحذر إسرائيل ’لن تكون في مأمن من الرد’",
     "time": "20:06",
-    "views": 0,
-    "date": "الإثنين 24 أغسطس 2026",
-    "translated": true
-  },
-  {
-    "channel": "PressTV",
-    "text": "إيران تحتجز وتصادر السفن المخالفة في مضيق هرمز: PGSA أعلنت هيئة مضيق الخليج العربي (PGSA)، الهيئة التنظيمية الإيرانية لمضيق هرمز، أن السفن التي تنتهك البروتوكولات الإيرانية للممر المائي الاستراتيجي ستواجه قيودًا على الممرات المستقبلية، بما في ذلك الغرامات أو الاحتجاز أو المصادرة. @برس تي في",
-    "time": "20:03",
-    "views": 0,
-    "date": "الإثنين 24 أغسطس 2026",
-    "translated": true
-  },
-  {
-    "channel": "PressTV",
-    "text": "مقتل ثلاثة فلسطينيين، بينهم طفل يبلغ من العمر 4 سنوات، في غارات إسرائيلية على غزة استشهد ثلاثة فلسطينيين، بينهم طفل يبلغ من العمر أربع سنوات، وأصيب عدد آخر في غارات إسرائيلية في أنحاء قطاع غزة المحاصر. @برس تي في",
-    "time": "19:49",
     "views": 0,
     "date": "الإثنين 24 أغسطس 2026",
     "translated": true
@@ -321,6 +298,13 @@
     "translated": true
   },
   {
+    "channel": "PressTV",
+    "text": "Reports of a massive fire sweeping through Desa Adat Sade, a traditional Sasak village on Indonesia’s Lombok Island, destroying around 120 houses and displacing hundreds of residents. @PressTV",
+    "time": "03:51",
+    "views": 168,
+    "date": "الإثنين 24 أغسطس 2026"
+  },
+  {
     "channel": "suppressednews",
     "text": "#شاهد .. استهداف مجاهدي كتائب القسام لجنود العدو وآلياته في محاور القتال بمدينة رفح جنوب القطاع #طوفان_الأقصى",
     "time": "03:26",
@@ -329,30 +313,32 @@
   },
   {
     "channel": "PressTV",
-    "text": "UN rights expert demands urgent international protection in Palestine amid brutal settler attacks United Nations Special Rapporteur on the Occupied Palestinian Territories, Francesca Albanese, has issued an urgent call for the immediate deployment of an international protection presence in the West Bank, East al-Quds, and Gaza following the emergence of disturbing footage showing Israeli settlers violently assaulting an elderly, disabled Palestinian man. @PressTV",
+    "text": "خبيرة حقوقية تابعة للأمم المتحدة تطالب بحماية دولية عاجلة في فلسطين وسط هجمات المستوطنين الوحشية، أصدرت المقررة الخاصة للأمم المتحدة المعنية بالأراضي الفلسطينية المحتلة، فرانشيسكا ألبانيز، نداءً عاجلاً للنشر الفوري لوجود حماية دولي في الضفة الغربية والقدس الشرقية وغزة بعد ظهور لقطات مثيرة للقلق تظهر مستوطنين إسرائيليين يعتدون بعنف على رجل فلسطيني مسن ومعاق. @برس تي في",
     "time": "03:03",
-    "views": 286,
-    "date": "الإثنين 24 أغسطس 2026"
+    "views": 515,
+    "date": "الإثنين 24 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
     "text": "As the US national debt rises above $40 trillion, Americans increasingly turn to social media to voice their frustration over Trump’s wars and sanctions policies against Iran. @PressTV",
     "time": "02:45",
-    "views": 405,
+    "views": 638,
     "date": "الإثنين 24 أغسطس 2026"
   },
   {
     "channel": "PressTV",
-    "text": "▶️ Activists took to the streets of Tangier, Morocco to express support for Palestine. @PressTV",
+    "text": "◀️ خرج الناشطون إلى شوارع طنجة بالمغرب للتعبير عن دعمهم لفلسطين. @برس تي في",
     "time": "02:20",
-    "views": 567,
-    "date": "الإثنين 24 أغسطس 2026"
+    "views": 769,
+    "date": "الإثنين 24 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
     "text": "حماس تدين استخدام النظام الصهيوني للطائرات الورقية للأطفال كذريعة واهية للإبادة الجماعية في غزة أدانت حركة المقاومة الإسلامية حماس بشدة القصف الجوي الأخير للنظام الصهيوني والتهديدات بالتهجير القسري الجماعي في قطاع غزة، وكشفت استخدام الاحتلال للأطفال الذين يطلقون الطائرات الورقية كذريعة ساخرة وملفقة لتصعيد حرب الإبادة الوحشية التي يشنها. @برس تي في",
     "time": "02:06",
-    "views": 597,
+    "views": 735,
     "date": "الإثنين 24 أغسطس 2026",
     "translated": true
   },
@@ -360,16 +346,17 @@
     "channel": "PressTV",
     "text": "أدى الانهيار الأرضي في غينيا إلى مقتل 30 شخصًا على الأقل @PressTV",
     "time": "01:45",
-    "views": 664,
+    "views": 754,
     "date": "الإثنين 24 أغسطس 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "Iran’s heroic defense, assertive diplomacy a source of pride for allies: Lebanese MP in meeting with Araghchi A senior Lebanese parliamentarian has commended the heroic defense of the Iranian nation against US-Zionist military aggression, praising Iran's assertive diplomacy as a vital factor that solidifies the country’s authority. @PressTV",
+    "text": "دفاع إيران البطولي ودبلوماسيتها الحازمة مصدر فخر للحلفاء: نائب لبناني في لقاء مع عراقجي أشاد نائب لبناني كبير بالدفاع البطولي للأمة الإيرانية ضد العدوان العسكري الأمريكي الصهيوني، مشيدًا بالدبلوماسية الإيرانية الحازمة باعتبارها عاملاً حيويًا يعزز سلطة البلاد. @برس تي في",
     "time": "01:28",
-    "views": 753,
-    "date": "الإثنين 24 أغسطس 2026"
+    "views": 848,
+    "date": "الإثنين 24 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
@@ -563,10 +550,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "BREAKING: Initial reports of at-least 100 Martyrs in an Israeli strike that targeted \"Al-Tabi'in\" school in Al-Daraj neighborhood in central Gaza City.",
+    "text": "عاجل: التقارير الأولية عن استشهاد ما لا يقل عن 100 شهيد في قصف إسرائيلي استهدف مدرسة \"التابعين\" في حي الدرج وسط مدينة غزة.",
     "time": "02:56",
     "views": 152,
-    "date": "الأحد 23 أغسطس 2026"
+    "date": "الأحد 23 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
@@ -584,10 +572,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "As usual, a large number are killed when the disaster strikes, and another number gradually succumbs to their wounds after it occurs. Omar Al-Jaabari, 13 years old, died of his wounds at Kamal Adwan Hospital. He was among the victims of the massacre at Al-Tabaeen School two days ago. Omar suffered severe burns as a result of the American missiles that produce very high temperatures, and he was not directly injured, otherwise he would have been turned into pieces and his body would have melted. 💔 💔 💔",
+    "text": "وكالعادة يقتل عدد كبير عند وقوع الكارثة، ويتوفى عدد آخر تدريجياً متأثراً بجراحه بعد وقوعها. توفي عمر الجعبري، 13 عاماً، متأثراً بجراحه في مستشفى كمال عدوان. وكان من بين ضحايا مجزرة مدرسة التابعين قبل يومين. وأصيب عمر بحروق شديدة نتيجة الصواريخ الأمريكية التي تنتج درجات حرارة عالية للغاية، ولم يصب بشكل مباشر، وإلا لكان قد تحول إلى أشلاء وذاب جسده. 💔 💔 💔",
     "time": "04:38",
     "views": 168,
-    "date": "السبت 22 أغسطس 2026"
+    "date": "السبت 22 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
@@ -598,10 +587,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "Oh the beauty of your eyes, this is the head of the angel child Osama Abu Al-Nada, which Israel cut off yesterday. Osama was martyred with his father, Taha Abu Al-Nada, his mother, Hoda, and his brothers, Nour, Dana, Ghani, and Jana.",
+    "text": "يا جمال عيونك هذا رأس الطفل الملاك أسامة أبو الندى الذي قطعته إسرائيل أمس. استشهد أسامة مع والده طه أبو الندى ووالدته هدى وإخوته نور ودانا وغني وجنا.",
     "time": "17:25",
     "views": 382,
-    "date": "الجمعة 21 أغسطس 2026"
+    "date": "الجمعة 21 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
@@ -612,9 +602,10 @@
   },
   {
     "channel": "suppressednews",
-    "text": "This is how the beautiful child Tim was before Israel divided him into two halves. With the scale of the ugliness of those massacres, I hate.",
+    "text": "هكذا كان الطفل الجميل تيم قبل أن يقسمه إسرائيل إلى نصفين. ومع حجم بشاعة تلك المجازر فإنني أكره.",
     "time": "17:22",
     "views": 284,
-    "date": "الجمعة 21 أغسطس 2026"
+    "date": "الجمعة 21 أغسطس 2026",
+    "translated": true
   }
 ]
