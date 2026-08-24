@@ -168,12 +168,33 @@
     "translated": true
   },
   {
+    "channel": "PressTV",
+    "text": "🔴 Yemeni Armed Forces spokesman Yahya Saree: 🔺 Armed forces targeted Saudi oil tanker Amzan off Yanbu with ballistic missiles 🔺 Armed forces targeted Saudi military build-ups in al-Kana'is with ballistic missiles, drones 🔺 We will continue targeting…",
+    "time": "15:46",
+    "views": 1,
+    "date": "الإثنين 24 أغسطس 2026"
+  },
+  {
     "channel": "MiddleEastMonitor",
     "text": "استطلاع: 40% من اليهود الأمريكيين غير المتدينين يتهمون إسرائيل بارتكاب جرائم إبادة جماعية في غزة",
     "time": "15:41",
     "views": 0,
     "date": "الإثنين 24 أغسطس 2026",
     "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "‘Make America hungry again’: Qalibaf mocks Trump’s claim of victory over Iran Iranian Parliament Speaker Mohammad Baqer Qalibaf has sharply mocked US President Donald Trump’s claims of defeating Iran and leaving its people hungry. @PressTV",
+    "time": "15:40",
+    "views": 163,
+    "date": "الإثنين 24 أغسطس 2026"
+  },
+  {
+    "channel": "PressTV",
+    "text": "An Israeli drone struck the southern Lebanese town of Harris. @PressTV",
+    "time": "15:34",
+    "views": 249,
+    "date": "الإثنين 24 أغسطس 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -187,7 +208,7 @@
     "channel": "PressTV",
     "text": "Moment Israeli forces bombed the Asqalan prayer hall in the Shati refugee camp, west of Gaza City. @PressTV",
     "time": "15:17",
-    "views": 206,
+    "views": 488,
     "date": "الإثنين 24 أغسطس 2026"
   },
   {
@@ -202,7 +223,7 @@
     "channel": "PressTV",
     "text": "🔴 IRGC Spokesman Brigadier General Mohebi : 🔺 The [US-Israeli] war’s most significant outcome was shifting the vulnerability to the enemy’s critical infrastructure and strategic assets. 🔺 The US now clearly understands that any attack on Iran’s infrastructure would expose its own energy chokepoints and vital interests to heavy strategic strikes. 🔺 This reality prevented the enemy from achieving many of its stated objectives, including its attempt to stage a show of force by reopening the Strait of Hormuz. @PressTV",
     "time": "15:03",
-    "views": 375,
+    "views": 606,
     "date": "الإثنين 24 أغسطس 2026"
   },
   {
@@ -217,7 +238,7 @@
     "channel": "PressTV",
     "text": "Zaidi: Iraq will declare full restoration of national sovereignty on September 30 Prime Minister Ali al-Zaidi says Iraq will declare complete restoration of sovereignty over all its territory on September 30, when the US-led coalition is scheduled to end its military mission in the country and complete the withdrawal of its forces. @PressTV",
     "time": "14:59",
-    "views": 405,
+    "views": 591,
     "date": "الإثنين 24 أغسطس 2026"
   },
   {
@@ -247,7 +268,7 @@
     "channel": "PressTV",
     "text": "Exclusive - Iran’s parliament slams Trump for distorting Qalibaf’s remarks to conceal military defeat Iranian parliament’s media center has denounced Trump for distorting Speaker Mohammad Baqer Qalibaf’s remarks in Iraq, releasing the full speech to counter blatant misinformation and stressing Iran-Iraq unity, economic resistance and sanctions-defying strategies . @PressTV",
     "time": "14:29",
-    "views": 764,
+    "views": 896,
     "date": "الإثنين 24 أغسطس 2026"
   },
   {
@@ -262,7 +283,7 @@
     "channel": "PressTV",
     "text": "“Sanctions only made Iran stronger” Press TV’s Maryam Azarchehr says the US is repeating its failed strategy of sanctions and threats against Iran, but mounting pressure has only pushed the country toward greater self-reliance. @PressTV",
     "time": "14:15",
-    "views": 814,
+    "views": 930,
     "date": "الإثنين 24 أغسطس 2026"
   },
   {
@@ -285,7 +306,7 @@
     "channel": "PressTV",
     "text": "Yemeni armed forces carried out precision strikes on sensitive positions, ammunition depots and gatherings of Saudi-backed fighters. @PressTV",
     "time": "13:56",
-    "views": 762,
+    "views": 859,
     "date": "الإثنين 24 أغسطس 2026"
   },
   {
@@ -300,14 +321,14 @@
     "channel": "PressTV",
     "text": "Iran's Parliament speaker Mohammad Bagher Ghalibaf : MAKE AMERICA HUNGRY AGAIN! You can’t cover up defeats with false claims. @PressTV",
     "time": "13:46",
-    "views": 852,
+    "views": 936,
     "date": "الإثنين 24 أغسطس 2026"
   },
   {
     "channel": "PressTV",
     "text": "Israeli aircraft bomb a water desalination plant in the Sheikh Radwan neighborhood, north of Gaza City. @PressTV",
     "time": "13:26",
-    "views": 980,
+    "views": 0,
     "date": "الإثنين 24 أغسطس 2026"
   },
   {
@@ -328,20 +349,6 @@
     "channel": "PressTV",
     "text": "Israeli fighter jets struck the southern Lebanese town of al-Mansouri in three separate raids. @PressTV",
     "time": "12:47",
-    "views": 0,
-    "date": "الإثنين 24 أغسطس 2026"
-  },
-  {
-    "channel": "PressTV",
-    "text": "Dust-cleansing ceremony held at Imam Reza Shrine in Mashhad, NE Iran, to mark Imam Mahdi’s imamate (leadership). @PressTV",
-    "time": "12:28",
-    "views": 0,
-    "date": "الإثنين 24 أغسطس 2026"
-  },
-  {
-    "channel": "PressTV",
-    "text": "Israeli army refuses to investigate its crimes against aid workers in Gaza Motee Abu Mosabeh reports from Deir Al-Balah. @PressTV",
-    "time": "12:19",
     "views": 0,
     "date": "الإثنين 24 أغسطس 2026"
   },
@@ -370,10 +377,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-taking-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"There was crazy hysteria, with decisions made without any verified information\": IDF ordered Hannibal directive on October 7 to prevent Hamas taking soldiers captive",
+    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-take-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"هناك \"كانت هستيريا جنونية، مع اتخاذ قرارات دون أي معلومات تم التحقق منها\": أمر جيش الدفاع الإسرائيلي بتوجيه هانيبال في 7 أكتوبر بمنع حماس من أسر الجنود",
     "time": "21:46",
     "views": 225,
-    "date": "الأحد 23 أغسطس 2026"
+    "date": "الأحد 23 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -537,10 +545,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "BREAKING: Initial reports of at-least 100 Martyrs in an Israeli strike that targeted \"Al-Tabi'in\" school in Al-Daraj neighborhood in central Gaza City.",
+    "text": "عاجل: التقارير الأولية عن استشهاد ما لا يقل عن 100 شهيد في قصف إسرائيلي استهدف مدرسة \"التابعين\" في حي الدرج وسط مدينة غزة.",
     "time": "02:56",
     "views": 152,
-    "date": "الأحد 23 أغسطس 2026"
+    "date": "الأحد 23 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
@@ -565,9 +574,10 @@
   },
   {
     "channel": "suppressednews",
-    "text": "Imagine for a moment in time that this is your child? How would you feel about the Zionists?",
+    "text": "تخيل للحظة من الزمن أن هذا هو طفلك؟ كيف سيكون شعورك تجاه الصهاينة؟",
     "time": "20:57",
     "views": 217,
-    "date": "الجمعة 21 أغسطس 2026"
+    "date": "الجمعة 21 أغسطس 2026",
+    "translated": true
   }
 ]
