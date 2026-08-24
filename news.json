@@ -16,24 +16,27 @@
   },
   {
     "channel": "PressTV",
-    "text": "Footage captures the moment Israeli forces strike Al-Zawayda in the central Gaza Strip. @PressTV",
+    "text": "لقطات مصورة لحظة قصف قوات الاحتلال الإسرائيلي لمدينة الزوايدة وسط قطاع غزة. @برس تي في",
     "time": "23:03",
     "views": 0,
-    "date": "الإثنين 24 أغسطس 2026"
+    "date": "الإثنين 24 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "Iran's Supreme National Security Council secretary Mohsen Rezaei: Iran will consider any country's participation in or support for the US economic war against the Islamic Republic as an act of war.",
+    "text": "أمين المجلس الأعلى للأمن القومي الإيراني محسن رضائي: إيران ستعتبر مشاركة أي دولة في الحرب الاقتصادية الأمريكية ضد الجمهورية الإسلامية أو دعمها لها بمثابة عمل من أعمال الحرب.",
     "time": "22:41",
     "views": 0,
-    "date": "الإثنين 24 أغسطس 2026"
+    "date": "الإثنين 24 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "Powerful winds at Forlì Airport in Italy tossed planes around like toys @PressTV",
+    "text": "أدت الرياح القوية في مطار فورلي في إيطاليا إلى قذف الطائرات مثل الألعاب @PressTV",
     "time": "22:27",
     "views": 0,
-    "date": "الإثنين 24 أغسطس 2026"
+    "date": "الإثنين 24 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -77,18 +80,18 @@
   },
   {
     "channel": "PressTV",
-    "text": "أضرمت قوات الاحتلال الإسرائيلي النار في الأطراف الشمالية الغربية لبلدة حداثا جنوب لبنان. @برس تي في",
+    "text": "Israeli forces set fire to the northwestern outskirts of the town of Haddatha, in southern Lebanon. @PressTV",
     "time": "21:28",
     "views": 0,
-    "date": "الإثنين 24 أغسطس 2026",
-    "translated": true
+    "date": "الإثنين 24 أغسطس 2026"
   },
   {
     "channel": "PressTV",
-    "text": "“Western states lose control of narrative, public opinion changing” Mick Napier says Western governments have lost control of their narrative over Israel’s crimes against Palestinians, as their people are increasingly exposed to the reality. @PressTV",
+    "text": "\"الدول الغربية تفقد السيطرة على سردها، مما يؤدي إلى تغير الرأي العام\" يقول ميك نابير إن الحكومات الغربية فقدت السيطرة على روايتها بشأن جرائم إسرائيل ضد الفلسطينيين، حيث تتعرض شعوبها بشكل متزايد للواقع. @برس تي في",
     "time": "21:20",
     "views": 0,
-    "date": "الإثنين 24 أغسطس 2026"
+    "date": "الإثنين 24 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -108,10 +111,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "Iran wins two golds at U20 World Wrestling Championships Iran won two gold medals at the 2026 U20 World Wrestling Championships in Bratislava, with Sina Khalili and Abolfazl Mohammad Nezhad claiming titles in the 70kg and 125kg freestyle categories. @PressTV",
+    "text": "إيران تفوز بذهبيتين في بطولة العالم للمصارعة تحت 20 سنة فازت إيران بميداليتين ذهبيتين في بطولة العالم للمصارعة تحت 20 سنة 2026 في براتيسلافا، حيث حصل سينا ​​خليلي وأبو الفضل محمد نجاد على ألقاب في فئتي 70 كجم و125 كجم حرة. @برس تي في",
     "time": "20:57",
     "views": 0,
-    "date": "الإثنين 24 أغسطس 2026"
+    "date": "الإثنين 24 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -125,14 +129,6 @@
     "channel": "MiddleEastMonitor",
     "text": "العراق يحكم على 12 موظف ضرائب في قضية فساد “سرقة القرن”.",
     "time": "20:33",
-    "views": 0,
-    "date": "الإثنين 24 أغسطس 2026",
-    "translated": true
-  },
-  {
-    "channel": "PressTV",
-    "text": "مستشار الأمن الوطني العراقي: قدمنا ​​مقترحا لإيران والسعودية لإنشاء مجلس تنسيق أمني موحد @PressTV",
-    "time": "20:24",
     "views": 0,
     "date": "الإثنين 24 أغسطس 2026",
     "translated": true
@@ -299,10 +295,19 @@
   },
   {
     "channel": "PressTV",
-    "text": "Reports of a massive fire sweeping through Desa Adat Sade, a traditional Sasak village on Indonesia’s Lombok Island, destroying around 120 houses and displacing hundreds of residents. @PressTV",
+    "text": "ومن المقرر أن يزور رئيس الوزراء البريطاني بورنهام أوكرانيا، حيث سيعلن عن نقل بيانات سرية لدعم إنتاج صواريخ SCALP بعيدة المدى القادرة على ضرب عمق روسيا. @برس تي في",
+    "time": "04:24",
+    "views": 66,
+    "date": "الإثنين 24 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "أفادت تقارير عن حريق هائل اجتاح قرية ديسا أدات ساد، وهي قرية تقليدية تابعة لساساك في جزيرة لومبوك بإندونيسيا، مما أدى إلى تدمير حوالي 120 منزلاً وتشريد مئات السكان. @برس تي في",
     "time": "03:51",
-    "views": 168,
-    "date": "الإثنين 24 أغسطس 2026"
+    "views": 440,
+    "date": "الإثنين 24 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
@@ -313,24 +318,24 @@
   },
   {
     "channel": "PressTV",
-    "text": "خبيرة حقوقية تابعة للأمم المتحدة تطالب بحماية دولية عاجلة في فلسطين وسط هجمات المستوطنين الوحشية، أصدرت المقررة الخاصة للأمم المتحدة المعنية بالأراضي الفلسطينية المحتلة، فرانشيسكا ألبانيز، نداءً عاجلاً للنشر الفوري لوجود حماية دولي في الضفة الغربية والقدس الشرقية وغزة بعد ظهور لقطات مثيرة للقلق تظهر مستوطنين إسرائيليين يعتدون بعنف على رجل فلسطيني مسن ومعاق. @برس تي في",
+    "text": "UN rights expert demands urgent international protection in Palestine amid brutal settler attacks United Nations Special Rapporteur on the Occupied Palestinian Territories, Francesca Albanese, has issued an urgent call for the immediate deployment of an international protection presence in the West Bank, East al-Quds, and Gaza following the emergence of disturbing footage showing Israeli settlers violently assaulting an elderly, disabled Palestinian man. @PressTV",
     "time": "03:03",
-    "views": 515,
+    "views": 752,
+    "date": "الإثنين 24 أغسطس 2026"
+  },
+  {
+    "channel": "PressTV",
+    "text": "ومع ارتفاع الدين الوطني الأمريكي إلى أكثر من 40 تريليون دولار، يلجأ الأمريكيون بشكل متزايد إلى وسائل التواصل الاجتماعي للتعبير عن إحباطهم إزاء حروب ترامب وسياسات العقوبات ضد إيران. @برس تي في",
+    "time": "02:45",
+    "views": 797,
     "date": "الإثنين 24 أغسطس 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "As the US national debt rises above $40 trillion, Americans increasingly turn to social media to voice their frustration over Trump’s wars and sanctions policies against Iran. @PressTV",
-    "time": "02:45",
-    "views": 638,
-    "date": "الإثنين 24 أغسطس 2026"
-  },
-  {
-    "channel": "PressTV",
     "text": "◀️ خرج الناشطون إلى شوارع طنجة بالمغرب للتعبير عن دعمهم لفلسطين. @برس تي في",
     "time": "02:20",
-    "views": 769,
+    "views": 919,
     "date": "الإثنين 24 أغسطس 2026",
     "translated": true
   },
@@ -338,7 +343,7 @@
     "channel": "PressTV",
     "text": "حماس تدين استخدام النظام الصهيوني للطائرات الورقية للأطفال كذريعة واهية للإبادة الجماعية في غزة أدانت حركة المقاومة الإسلامية حماس بشدة القصف الجوي الأخير للنظام الصهيوني والتهديدات بالتهجير القسري الجماعي في قطاع غزة، وكشفت استخدام الاحتلال للأطفال الذين يطلقون الطائرات الورقية كذريعة ساخرة وملفقة لتصعيد حرب الإبادة الوحشية التي يشنها. @برس تي في",
     "time": "02:06",
-    "views": 735,
+    "views": 851,
     "date": "الإثنين 24 أغسطس 2026",
     "translated": true
   },
@@ -346,7 +351,7 @@
     "channel": "PressTV",
     "text": "أدى الانهيار الأرضي في غينيا إلى مقتل 30 شخصًا على الأقل @PressTV",
     "time": "01:45",
-    "views": 754,
+    "views": 895,
     "date": "الإثنين 24 أغسطس 2026",
     "translated": true
   },
@@ -354,16 +359,17 @@
     "channel": "PressTV",
     "text": "دفاع إيران البطولي ودبلوماسيتها الحازمة مصدر فخر للحلفاء: نائب لبناني في لقاء مع عراقجي أشاد نائب لبناني كبير بالدفاع البطولي للأمة الإيرانية ضد العدوان العسكري الأمريكي الصهيوني، مشيدًا بالدبلوماسية الإيرانية الحازمة باعتبارها عاملاً حيويًا يعزز سلطة البلاد. @برس تي في",
     "time": "01:28",
-    "views": 848,
+    "views": 989,
     "date": "الإثنين 24 أغسطس 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "Nevada’s Hawk Fire expands to 13,000 acres, injuring six as governor declares emergency, 90,000 told to evacuate @PressTV",
+    "text": "يمتد حريق هوك في ولاية نيفادا إلى 13000 فدان، مما يؤدي إلى إصابة ستة أشخاص بينما يعلن الحاكم حالة الطوارئ، ويطلب من 90.000 شخص إخلاء @PressTV",
     "time": "00:07",
     "views": 0,
-    "date": "الإثنين 24 أغسطس 2026"
+    "date": "الإثنين 24 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -550,11 +556,10 @@
   },
   {
     "channel": "suppressednews",
-    "text": "عاجل: التقارير الأولية عن استشهاد ما لا يقل عن 100 شهيد في قصف إسرائيلي استهدف مدرسة \"التابعين\" في حي الدرج وسط مدينة غزة.",
+    "text": "BREAKING: Initial reports of at-least 100 Martyrs in an Israeli strike that targeted \"Al-Tabi'in\" school in Al-Daraj neighborhood in central Gaza City.",
     "time": "02:56",
     "views": 152,
-    "date": "الأحد 23 أغسطس 2026",
-    "translated": true
+    "date": "الأحد 23 أغسطس 2026"
   },
   {
     "channel": "suppressednews",
@@ -580,10 +585,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "Imagine for a moment in time that this is your child? How would you feel about the Zionists?",
+    "text": "تخيل للحظة أن هذا هو طفلك؟ كيف سيكون شعورك تجاه الصهاينة؟",
     "time": "20:57",
     "views": 217,
-    "date": "الجمعة 21 أغسطس 2026"
+    "date": "الجمعة 21 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
@@ -595,17 +601,17 @@
   },
   {
     "channel": "suppressednews",
-    "text": "Yesterday, Israel beheaded a Palestinian child in gaza 🔞 🔞 🔞 🔞",
+    "text": "بالأمس قطعت إسرائيل رأس طفل فلسطيني في غزة 🔞 🔞 🔞 🔞",
     "time": "17:24",
     "views": 359,
-    "date": "الجمعة 21 أغسطس 2026"
+    "date": "الجمعة 21 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "هكذا كان الطفل الجميل تيم قبل أن يقسمه إسرائيل إلى نصفين. ومع حجم بشاعة تلك المجازر فإنني أكره.",
+    "text": "This is how the beautiful child Tim was before Israel divided him into two halves. With the scale of the ugliness of those massacres, I hate.",
     "time": "17:22",
     "views": 284,
-    "date": "الجمعة 21 أغسطس 2026",
-    "translated": true
+    "date": "الجمعة 21 أغسطس 2026"
   }
 ]
