@@ -36,13 +36,6 @@
     "translated": true
   },
   {
-    "channel": "PressTV",
-    "text": "🔴 UKMTO announced that an oil tanker was hit by an unidentified projectile 9 nautical miles northeast of Ash Shishah, Oman, damaging its engine room and leaving the vessel disabled. @PressTV",
-    "time": "22:19",
-    "views": 0,
-    "date": "الثلاثاء 25 أغسطس 2026"
-  },
-  {
     "channel": "MiddleEastMonitor",
     "text": "المحكمة الوطنية الإسبانية تفتح تحقيقا مع مسؤولين عسكريين إسرائيليين بشأن اعتراض أسطول الحرية في غزة",
     "time": "22:11",
@@ -260,23 +253,30 @@
   },
   {
     "channel": "PressTV",
+    "text": "▶️ Australian healthcare workers held a sit-in protest against the abduction of Palestinian medical staff by Israeli forces. @PressTV",
+    "time": "04:38",
+    "views": 237,
+    "date": "الثلاثاء 25 أغسطس 2026"
+  },
+  {
+    "channel": "PressTV",
     "text": "▶️ “Europe is economically stretched very thin” John Steppling says Norway’s financial support for Ukraine reflects growing desperation across Europe, as public opinion turns against the war and countries face mounting economic pressure. @PressTV",
     "time": "04:16",
-    "views": 241,
+    "views": 437,
     "date": "الثلاثاء 25 أغسطس 2026"
   },
   {
     "channel": "PressTV",
     "text": "▶️ Ukraine’s European allies meet in Kiev to discuss expanding military assistance, while President Zelensky presses for additional Patriot interceptors. @PressTV",
     "time": "03:55",
-    "views": 414,
+    "views": 566,
     "date": "الثلاثاء 25 أغسطس 2026"
   },
   {
     "channel": "PressTV",
     "text": "Severe hailstorm hits Tarragona in Spain’s Catalonia region, disrupting daily life. @PressTV",
     "time": "03:32",
-    "views": 581,
+    "views": 709,
     "date": "الثلاثاء 25 أغسطس 2026"
   },
   {
@@ -290,28 +290,28 @@
     "channel": "PressTV",
     "text": "Chinese President Xi Jinping calls for the establishment of an independent Palestinian state and urges a comprehensive, just, and lasting solution to the Palestinian issue. @PressTV",
     "time": "03:15",
-    "views": 700,
+    "views": 810,
     "date": "الثلاثاء 25 أغسطس 2026"
   },
   {
     "channel": "PressTV",
     "text": "Fireworks light up the skies over Yemen’s capital, Sana’a, to celebrate the Prophet Muhammad’s birth anniversary. @PressTV",
     "time": "03:02",
-    "views": 728,
+    "views": 825,
     "date": "الثلاثاء 25 أغسطس 2026"
   },
   {
     "channel": "PressTV",
     "text": "🔴 Five Punjabi workers were shot dead by unidentified gunmen in the Saranan area of Pakistan’s Balochistan province while working on a road construction project. @PressTV",
     "time": "02:45",
-    "views": 839,
+    "views": 931,
     "date": "الثلاثاء 25 أغسطس 2026"
   },
   {
     "channel": "PressTV",
     "text": "Israeli attacks in southern Lebanon killed two teenagers as Israeli forces continued artillery shelling, home demolitions, and the burning of agricultural fields despite a US-mediated agreement. @PressTV",
     "time": "02:30",
-    "views": 901,
+    "views": 989,
     "date": "الثلاثاء 25 أغسطس 2026"
   },
   {
@@ -590,10 +590,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "Yesterday, Israel beheaded a Palestinian child in gaza 🔞 🔞 🔞 🔞",
+    "text": "بالأمس قطعت إسرائيل رأس طفل فلسطيني في غزة 🔞 🔞 🔞 🔞",
     "time": "17:24",
     "views": 359,
-    "date": "السبت 22 أغسطس 2026"
+    "date": "السبت 22 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
