@@ -15,10 +15,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "Bolivia’s former president hails Iran as ‘model of sovereign resistance against US empire’ Bolivia’s former President Evo Morales has praised Iran as a shining example of national dignity and resilience, commending the Islamic Republic for successfully countering US pressure through sovereign technological development and unified popular resistance. @PressTV",
+    "text": "رئيس بوليفيا السابق يشيد بإيران باعتبارها “نموذجًا للمقاومة السيادية ضد الإمبراطورية الأمريكية” أشاد رئيس بوليفيا السابق إيفو موراليس بإيران باعتبارها مثالًا ساطعًا للكرامة الوطنية والقدرة على الصمود، وأشاد بالجمهورية الإسلامية لنجاحها في مواجهة الضغوط الأمريكية من خلال التطوير التكنولوجي السيادي والمقاومة الشعبية الموحدة. @برس تي في",
     "time": "23:02",
     "views": 0,
-    "date": "الثلاثاء 25 أغسطس 2026"
+    "date": "الثلاثاء 25 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
@@ -51,13 +52,6 @@
     "translated": true
   },
   {
-    "channel": "PressTV",
-    "text": "📸 Pakistani Army Chief Asim Munir meets with Iran's President Pezeshkian as part of his trip to Tehran. @PressTV",
-    "time": "21:59",
-    "views": 0,
-    "date": "الثلاثاء 25 أغسطس 2026"
-  },
-  {
     "channel": "MiddleEastMonitor",
     "text": "غارة جوية إسرائيلية بدون طيار تصيب 3 من العاملين في مستشفى شمال غزة رغم وقف إطلاق النار",
     "time": "21:59",
@@ -72,13 +66,6 @@
     "views": 0,
     "date": "الثلاثاء 25 أغسطس 2026",
     "translated": true
-  },
-  {
-    "channel": "PressTV",
-    "text": "Israel denies Swedish MEPs entry to occupied lands over criticism of Gaza genocide Israel has denied two Swedish Members of the European Parliament (MEPs) entry to the occupied territories over criticism of the Gaza genocide. @PressTV",
-    "time": "21:32",
-    "views": 0,
-    "date": "الثلاثاء 25 أغسطس 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -274,9 +261,23 @@
   },
   {
     "channel": "PressTV",
+    "text": "▶️ “Europe is economically stretched very thin” John Steppling says Norway’s financial support for Ukraine reflects growing desperation across Europe, as public opinion turns against the war and countries face mounting economic pressure. @PressTV",
+    "time": "04:16",
+    "views": 1,
+    "date": "الثلاثاء 25 أغسطس 2026"
+  },
+  {
+    "channel": "PressTV",
+    "text": "▶️ Ukraine’s European allies meet in Kiev to discuss expanding military assistance, while President Zelensky presses for additional Patriot interceptors. @PressTV",
+    "time": "03:55",
+    "views": 236,
+    "date": "الثلاثاء 25 أغسطس 2026"
+  },
+  {
+    "channel": "PressTV",
     "text": "Severe hailstorm hits Tarragona in Spain’s Catalonia region, disrupting daily life. @PressTV",
     "time": "03:32",
-    "views": 242,
+    "views": 449,
     "date": "الثلاثاء 25 أغسطس 2026"
   },
   {
@@ -290,49 +291,50 @@
     "channel": "PressTV",
     "text": "Chinese President Xi Jinping calls for the establishment of an independent Palestinian state and urges a comprehensive, just, and lasting solution to the Palestinian issue. @PressTV",
     "time": "03:15",
-    "views": 437,
+    "views": 578,
     "date": "الثلاثاء 25 أغسطس 2026"
   },
   {
     "channel": "PressTV",
     "text": "Fireworks light up the skies over Yemen’s capital, Sana’a, to celebrate the Prophet Muhammad’s birth anniversary. @PressTV",
     "time": "03:02",
-    "views": 509,
+    "views": 628,
     "date": "الثلاثاء 25 أغسطس 2026"
   },
   {
     "channel": "PressTV",
-    "text": "🔴 Five Punjabi workers were shot dead by unidentified gunmen in the Saranan area of Pakistan’s Balochistan province while working on a road construction project. @PressTV",
+    "text": "🔴 قُتل خمسة عمال بنجابيين برصاص مسلحين مجهولين في منطقة سارانان بإقليم بلوشستان الباكستاني أثناء عملهم في مشروع لبناء الطرق. @برس تي في",
     "time": "02:45",
-    "views": 646,
-    "date": "الثلاثاء 25 أغسطس 2026"
+    "views": 753,
+    "date": "الثلاثاء 25 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
     "text": "Israeli attacks in southern Lebanon killed two teenagers as Israeli forces continued artillery shelling, home demolitions, and the burning of agricultural fields despite a US-mediated agreement. @PressTV",
     "time": "02:30",
-    "views": 712,
+    "views": 814,
     "date": "الثلاثاء 25 أغسطس 2026"
   },
   {
     "channel": "PressTV",
     "text": "🔴 A US F-35 fighter jet made an emergency landing at Jordan’s Muwaffaq Salti Air Base after reporting an emergency. @PressTV",
     "time": "02:15",
-    "views": 834,
+    "views": 911,
     "date": "الثلاثاء 25 أغسطس 2026"
   },
   {
     "channel": "PressTV",
     "text": "Yemeni armed forces target Saudi oil tanker in Red Sea with ballistic missile The Yemeni armed forces have targeted a Saudi oil tanker off the coast of the key Red Sea oil port of Yanbu as part of a maritime campaign in retaliation for the Riyadh regime’s…",
     "time": "02:00",
-    "views": 879,
+    "views": 945,
     "date": "الثلاثاء 25 أغسطس 2026"
   },
   {
     "channel": "PressTV",
     "text": "Hamas: Israel systematically destroying all means of life in Gaza The Israeli regime is deliberately wiping out every condition for survival in the Gaza Strip by targeting critical civilian infrastructure, Hamas has said, after Israeli occupation warplanes bombed a desalination plant vital to thirsty residents. @PressTV",
     "time": "01:46",
-    "views": 902,
+    "views": 967,
     "date": "الثلاثاء 25 أغسطس 2026"
   },
   {
