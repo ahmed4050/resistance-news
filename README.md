@@ -1,139 +1,127 @@
-# Resistance News | أخبار المقاومة
+# 📰 أخبار المقاومة
 
-موقع أخبار عربي ثابت (Static Site) يجمع ويورد الأخبار والتحليلات من مصادر مختارة،
-ويعرضها في صفحة واحدة تتحدّث تلقائياً كل بضعة دقائق دون تدخّل يدوي.
+[![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-black)](https://github.com/features/actions)
+[![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-brightgreen)](https://pages.github.com/)
 
-> الموقع مبني بملفات بسيطة (HTML/CSS/JS + Python) ويعمل عبر **GitHub Pages** و**GitHub Actions** — لا يحتاج خادماً.
+## 📋 نظرة عامة
 
----
+موقع أخبار عربي تلقائي يجمع وينشر أخبار المقاومة والمستجدات في الشرق الأوسط من مصادر متعددة.
 
-## ✨ المميزات
+## 📰 المصادر
 
-- **تحديث تلقائي** كل 10 دقائق عبر GitHub Actions.
-- عرض البطاقات بالعربية (اتجاه RTL) مع تمييز كل مصدر بلون خاص.
-- جلب الأخبار من **قنوات تيليغرام** و**خلاصات RSS** و**فيديوهات يوتيوب**.
-- ترجمة تلقائية للأخبار الإنجليزية إلى العربية.
-- بطاقات فيديو يوتيوب تحتوي **العنوان + رابط الفيديو** مباشرة.
-- صفحة خفيفة تتحدّث ذاتياً كل 5 دقائق في المتصفح.
+### 📺 قنوات Telegram
+- **PressTV** -(ir)
+- **SuppressedNews** - أخبار مقموعة
 
----
+### 📡 RSS Feeds
+- **Middle East Monitor** - مراقب الشرق الأوسط
 
-## 🔄 كيف يعمل
+### 🎥 YouTube
+- مقاطع فيديو ذات صلة
+- ملخصات بالذكاء الاصطناعي (اختياري)
 
-1. سكربت `fetch_news.py` يجمع الأخبار من المصادر ويخزّنها في `news.json`.
-2. سكربت `fetch_youtube.py` يجلب آخر فيديوهات قناة يوتيوب المحددة،
-   ويخزّن بياناتها في `youtube_cache.json` (لتفادي إعادة معالجة القديم).
-3. ملف `index.html` يعرض محتوى `news.json` في بطاقات منظّمة حسب التاريخ.
-4. GitHub Action (`.github/workflows/update-news.yml`) يشغّل السكربت كل 10 دقائق
-   ويرفع التغييرات تلقائياً إلى المستودع، فتنعكس فوراً على الموقع.
+## ⭐ المميزات
+
+### 🔄 الأتمتة
+- تحديث كل **10 دقائق** عبر GitHub Actions
+- نشر تلقائي عبر GitHub Pages
+- إزالة التكرار تلقائياً
+
+### 🌐 العرض
+- بطاقات RTL عربية
+- ألوان مميزة لكل مصدر
+- نافذة أخبار 72 ساعة
+
+### 🎥 الفيديو
+- عرض فيديوهات YouTube في الأعلى
+- إخفاء بعد 24 ساعة
+- ملخصات بالذكاء الاصطناعي (OpenAI/Gemini)
+
+### 🌍 الترجمة
+- ترجمة تلقائية للأخبار الإنجليزية
+- Google Translate API
+
+## 🏗️ البنية
 
 ```
-تيليغرام + RSS + يوتيوب
-        │
-        ▼
- fetch_news.py / fetch_youtube.py
-        │
-        ▼
-     news.json  ──►  index.html  ──►  الموقع
-        │
-        ▼
- GitHub Actions (كل 10 دقائق)
+┌─────────────────┐
+│  GitHub Actions  │
+│  (كل 10 دقائق)  │
+└────────┬────────┘
+         │
+         ▼
+┌─────────────────┐
+│  Python Scripts │
+│  (جمع الأخبار)  │
+└────────┬────────┘
+         │
+         ▼
+┌─────────────────┐
+│   news.json     │
+└────────┬────────┘
+         │
+         ▼
+┌─────────────────┐
+│  GitHub Pages   │
+│  (HTML/CSS/JS)  │
+└─────────────────┘
 ```
 
----
-
-## 📡 المصادر الحالية
-
-| المصدر | النوع | الوصف |
-|--------|------|-------|
-| `PressTV` | تيليغرام | Press TV |
-| `suppressednews` | تيليغرام | Suppressed News |
-| `MiddleEastMonitor` | RSS | Middle East Monitor |
-| `YouTube-AlAouni` | يوتيوب | قناة **عبد الحميد العوني** (عنوان الفيديو + رابط) |
-
----
-
-## 🚀 التشغيل محلياً
+## 🚀 التشغيل
 
 ```bash
+# استنساخ المستودع
+git clone https://github.com/ahmed4050/resistance-news.git
+
 # تثبيت المتطلبات
 pip install -r requirements.txt
 
-# جلب الأخبار وتحديث news.json
-python fetch_news.py
-
-# افتح index.html في المتصفح لمعاينة الموقع
+# تشغيل يدوياً
+python scraper.py
 ```
 
----
-
-## 🛠 التخصيص
-
-### إضافة قناة تيليغرام
-عدّل قائمة `TELEGRAM_CHANNELS` في `fetch_news.py`:
+## ⚙️ الإعدادات
 
 ```python
-TELEGRAM_CHANNELS = [
-    "PressTV",
-    "suppressednews",
-    "قناتك_هنا",
-]
+# config.py
+SOURCES = {
+    'telegram': [...],
+    'rss': [...],
+    'youtube': [...]
+}
+
+# إعدادات OpenAI (اختياري)
+OPENAI_API_KEY = "your_key_here"  # في GitHub Secrets
 ```
 
-### إضافة خلاصة RSS
-عدّل قائمة `RSS_FEEDS` في `fetch_news.py`:
+## 📁 هيكل الملفات
 
-```python
-RSS_FEEDS = [
-    {"name": "MiddleEastMonitor", "url": "https://www.middleeastmonitor.com/feed/"},
-]
+```
+resistance-news/
+├── scraper.py          # السكربت الرئيسي
+├── config.py           # الإعدادات
+├── requirements.txt    # المتطلبات
+├── index.html          # الصفحة الرئيسية
+├── style.css           # الأنماط
+├── script.js           # المنطق البرمجي
+├── news.json           # بيانات الأخبار
+└── .github/
+    └── workflows/
+        └── update.yml  # GitHub Actions
 ```
 
-### تغيير قناة يوتيوب
-عدّل `CHANNEL_URL` في `fetch_youtube.py` (يدعم رابط `@handle` أو `channel/UC...`).
+## 📊 الإحصائيات
 
-### إضافة وسم/لون جديد في الموقع
-أضف اسم المصدر في `CHANNEL_LABELS` داخل `index.html` مع صنف CSS مخصص.
+- 📰 مصادر: 5+
+- 🔄 تحديثات: كل 10 دقائق
+- 🌍 اللغة: العربية
+- 📱 متوافق مع: جميع الأجهزة
 
----
+## 👨‍💻 المؤلف
 
-## 🤖 تلخيص فيديوهات يوتيوب بالذكاء الاصطناعي (اختياري)
+**Ahmed Al-Qassabi** - [GitHub](https://github.com/ahmed4050)
 
-حالياً تظهر بطاقة الفيديو **عنوان الفيديو + رابطه** (بلا مفتاح API).
+## 📄 الرخصة
 
-لإضافة ملخص عربي قصير (2-4 جمل) من محتوى الفيديو، فعّل التلخيص عبر أي نقطة
-نهاية متوافقة مع واجهة OpenAI (مثل **GitHub Models** أو **Gemini** المجانية):
-
-1. في **إعدادات المستودع → Secrets and variables → Actions** أضف:
-   - `LLM_BASE_URL` — مثلاً `https://models.inference.ai.azure.com` (GitHub Models)
-     أو `https://generativelanguage.googleapis.com/v1beta/openai` (Gemini).
-   - `LLM_API_KEY` — رمز الوصول/المفتاح.
-   - `LLM_MODEL` — اختياري، افتراضياً `gpt-4o-mini` (GitHub Models) أو `gemini-2.5-flash` (Gemini).
-
-2. السكربت `fetch_youtube.py` سيُلخّص فقط الفيديوهات **الجديدة** عند اكتشافها
-   (ويخزّن الملخص في `youtube_cache.json`)، ثم يستخدمه كنص البطاقة؛
-   وإذا لم تُضبط الأسرار يكتفي بعنوان الفيديو تلقائياً.
-
-> للتشغيل محلياً: اضبط هذه المتغيرات في بيئتك قبل تشغيل `python fetch_news.py`.
-
----
-
-## 📋 المتطلبات
-
-- Python 3.11+
-- الحزم في `requirements.txt`:
-  - `requests`, `beautifulsoup4`, `deep-translator`
-  - `youtube-transcript-api`
-
----
-
-## ⚠️ إخلاء مسؤولية
-
-المحتوى منسوخ آلياً من مصادره الخارجية ولا يعبّر بالضرورة عن رأي صاحب الموقع.
-الأخبار تُجمع لأغراض المتابعة والرصد فقط.
-
----
-
-## 👤 صاحب المشروع
-
-**Ahmed Alqassabi** — ahmed4050@gmai.com
+هذا المشروع مرخص بموجب رخصة MIT.
