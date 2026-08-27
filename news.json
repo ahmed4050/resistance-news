@@ -8,34 +8,6 @@
     "date": "الأربعاء 27 أغسطس 2026"
   },
   {
-    "channel": "PressTV",
-    "text": "▶️ At least 95 people are killed and more than 400 others are missing after flash floods strike along the Nepal-Tibet border. @PressTV",
-    "time": "23:49",
-    "views": 917,
-    "date": "الخميس 27 أغسطس 2026"
-  },
-  {
-    "channel": "PressTV",
-    "text": "An Israeli airstrike hit the area between the southern Lebanese towns of Zoutar al-Sharqieh and Mayfadoun. @PressTV",
-    "time": "22:56",
-    "views": 0,
-    "date": "الخميس 27 أغسطس 2026"
-  },
-  {
-    "channel": "PressTV",
-    "text": "📸 Iran's Speaker of Parliament says Iran welcomes China’s principled statement rejecting the US's illegal sanctions against Iran, adding that Iran-China comprehensive strategic partnership is rooted in mutual respect, win-win cooperation, and a shared vision…",
-    "time": "22:47",
-    "views": 0,
-    "date": "الخميس 27 أغسطس 2026"
-  },
-  {
-    "channel": "PressTV",
-    "text": "Iran urges UN, member states to reject US economic terrorism; calls US ‘a rogue state’ Foreign Minister Abbas Araghchi has called on the United Nations Security Council and member states to reject the new US campaign of economic terrorism against Iran, arguing that Washington is seeking to force other countries to abandon lawful economic relations with Tehran through threats of secondary sanctions. @PressTV",
-    "time": "22:23",
-    "views": 0,
-    "date": "الخميس 27 أغسطس 2026"
-  },
-  {
     "channel": "MiddleEastMonitor",
     "text": "وفي حديثه مع الرئيس الإيراني، حث رئيس الوزراء الباكستاني الولايات المتحدة وإيران على الالتزام باتفاق السلام",
     "time": "22:23",
@@ -52,13 +24,6 @@
     "translated": true
   },
   {
-    "channel": "PressTV",
-    "text": "🔴 A 5.1-magnitude earthquake struck Colombia’s Santander province on Wednesday, prompting evacuations in Bogotá and Bucaramanga. No casualties or damage have been reported so far. @PressTV",
-    "time": "22:06",
-    "views": 0,
-    "date": "الخميس 27 أغسطس 2026"
-  },
-  {
     "channel": "MiddleEastMonitor",
     "text": "غارة جوية إسرائيلية بدون طيار تصيب 3 من العاملين في مستشفى شمال غزة رغم وقف إطلاق النار",
     "time": "21:59",
@@ -67,26 +32,12 @@
     "translated": true
   },
   {
-    "channel": "PressTV",
-    "text": "At least 15 infants killed in hospital fire in Pakistan's capital, Islamabad @PressTV",
-    "time": "21:57",
-    "views": 0,
-    "date": "الخميس 27 أغسطس 2026"
-  },
-  {
     "channel": "MiddleEastMonitor",
     "text": "مجلس المستشارين الألماني يقدم مشروع قانون لتجريم ’إنكار حق إسرائيل في الوجود’",
     "time": "21:43",
     "views": 0,
     "date": "الخميس 27 أغسطس 2026",
     "translated": true
-  },
-  {
-    "channel": "PressTV",
-    "text": "A Saudi spy drone was reportedly shot down in Yemen’s Ibb province. @PressTV",
-    "time": "21:29",
-    "views": 0,
-    "date": "الخميس 27 أغسطس 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -281,6 +232,22 @@
     "translated": true
   },
   {
+    "channel": "PressTV",
+    "text": "◀️ أدت حرائق الغابات في الجزائر إلى مقتل ما لا يقل عن 12 شخصًا وإصابة 54 آخرين. @برس تي في",
+    "time": "04:01",
+    "views": 325,
+    "date": "الخميس 27 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "قال الرئيس الأمريكي دونالد ترامب إنه ليس في عجلة من أمره لإجراء محادثات مع إيران. @برس تي في",
+    "time": "03:30",
+    "views": 563,
+    "date": "الخميس 27 أغسطس 2026",
+    "translated": true
+  },
+  {
     "channel": "suppressednews",
     "text": "#شاهد .. استهداف مجاهدي كتائب القسام لجنود العدو وآلياته في محاور القتال بمدينة رفح جنوب القطاع #طوفان_الأقصى",
     "time": "03:26",
@@ -289,79 +256,94 @@
   },
   {
     "channel": "PressTV",
-    "text": "Palestinian officials in Gaza say Israel’s continued ban on the entry of aid, including vehicle spare parts, is paralyzing the territory’s transport sector. @PressTV",
+    "text": "شنت طائرات الاحتلال الإسرائيلي غارتين جويتين على مرتفعات علي الطاهر جنوب لبنان. @برس تي في",
+    "time": "03:20",
+    "views": 606,
+    "date": "الخميس 27 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "تعرض مقر الجماعات الانفصالية المناهضة لإيران في قضاء سوران بمحافظة أربيل، لقصف جوي، ما أدى إلى اندلاع حريق كبير. @برس تي في",
+    "time": "03:15",
+    "views": 585,
+    "date": "الخميس 27 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "من المقرر إعادة فتح جسر بيات بالقرب من هشترود في شمال غرب إيران في غضون أسبوعين بعد إعادة بنائه في أعقاب ضربة أمريكية إسرائيلية. @برس تي في",
+    "time": "03:04",
+    "views": 615,
+    "date": "الخميس 27 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "أنصار ترامب يهاجمون متظاهرين مؤيدين لفلسطين في بورتلاند خارج حدث يضم المعلق الحقوقي الفلسطيني حسن بيكر. @برس تي في",
+    "time": "02:42",
+    "views": 726,
+    "date": "الخميس 27 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "ويقول مسؤولون فلسطينيون في غزة إن الحظر الإسرائيلي المستمر على دخول المساعدات، بما في ذلك قطع غيار المركبات، يؤدي إلى شل قطاع النقل في القطاع. @برس تي في",
     "time": "02:27",
-    "views": 160,
-    "date": "الخميس 27 أغسطس 2026"
+    "views": 786,
+    "date": "الخميس 27 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "📷 The US-Israeli enemy targeted Iran’s B1 Bridge — a major engineering achievement and key infrastructure project in Alborz province. The bridge, which was nearing completion, sustained damage in the attack, and power outages were reported in several areas.…",
+    "text": "📷 استهدف العدو الأمريكي الإسرائيلي جسر B1 الإيراني، وهو إنجاز هندسي كبير ومشروع بنية تحتية رئيسي في محافظة البرز. وتعرض الجسر، الذي كان على وشك الانتهاء، لأضرار جراء الهجوم، كما تم الإبلاغ عن انقطاع التيار الكهربائي في عدة مناطق.",
     "time": "02:13",
-    "views": 301,
-    "date": "الخميس 27 أغسطس 2026"
+    "views": 848,
+    "date": "الخميس 27 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "Press TV’s Alireza Akbari says Iran is moving toward a more active military doctrine designed to strengthen deterrence and raise the cost of aggression. @PressTV",
+    "text": "ويقول علي رضا أكبري، مراسل قناة Press TV، إن إيران تتجه نحو عقيدة عسكرية أكثر نشاطًا تهدف إلى تعزيز الردع ورفع تكلفة العدوان. @برس تي في",
     "time": "02:03",
-    "views": 377,
-    "date": "الخميس 27 أغسطس 2026"
+    "views": 859,
+    "date": "الخميس 27 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "🔴 US claims a China-linked hacking operation breached networks of several key agencies, including the Justice Department, NASA, the Federal Reserve and the Senate. @PressTV",
+    "text": "🔴 تزعم الولايات المتحدة أن عملية قرصنة مرتبطة بالصين اخترقت شبكات العديد من الوكالات الرئيسية، بما في ذلك وزارة العدل وناسا والاحتياطي الفيدرالي ومجلس الشيوخ. @برس تي في",
     "time": "01:52",
-    "views": 468,
-    "date": "الخميس 27 أغسطس 2026"
+    "views": 900,
+    "date": "الخميس 27 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
     "text": "🔴 UKMTO announced that a tanker was hit by an unknown projectile in the Strait of Hormuz, sparking a fire on the vessel. @PressTV",
     "time": "01:48",
-    "views": 451,
+    "views": 858,
     "date": "الخميس 27 أغسطس 2026"
   },
   {
     "channel": "PressTV",
     "text": "Qalibaf says Iran's partnership with China ‘needs no one's permission’ Iranian Parliament Speaker Mohammad Bagher Qalibaf says China's rejection of the latest round of US sanctions against Iran shows the strategic partnership between the two allies goes well…",
     "time": "01:45",
-    "views": 436,
+    "views": 814,
     "date": "الخميس 27 أغسطس 2026"
   },
   {
     "channel": "PressTV",
     "text": "🔺 Husnu Mahalli says there is no genuine rift between Turkey and Israel, pointing to the continued flow of oil to Israel through Turkey. Watch in full #Mideastream @PresstvPrograms",
     "time": "01:44",
-    "views": 410,
+    "views": 790,
     "date": "الخميس 27 أغسطس 2026"
   },
   {
     "channel": "PressTV",
     "text": "Mahyah Salari, a martyred Minab schoolgirl, would have turned 9 yesterday, but the nine candles she should have blown out will never be lit! @PressTV",
     "time": "01:30",
-    "views": 478,
-    "date": "الخميس 27 أغسطس 2026"
-  },
-  {
-    "channel": "PressTV",
-    "text": "Yemenis throng Sana’a’s al-Sabeen Square to celebrate Prophet Muhammad’s birth anniversary @PressTV",
-    "time": "01:15",
-    "views": 569,
-    "date": "الخميس 27 أغسطس 2026"
-  },
-  {
-    "channel": "PressTV",
-    "text": "Iran's Foreign Ministry spokesman Baghaei calls Washington’s Iran policy “pure parody,” saying the US is “sanctioning the already sanctioned” and calling the resulting “empty space” a coalition. @PressTV",
-    "time": "01:00",
-    "views": 656,
-    "date": "الخميس 27 أغسطس 2026"
-  },
-  {
-    "channel": "PressTV",
-    "text": "India’s Muslims mark Prophet Mohammad (PBUH)’s birth anniversary Aadil Mir reports from New Delhi. @PressTV",
-    "time": "00:15",
-    "views": 846,
+    "views": 835,
     "date": "الخميس 27 أغسطس 2026"
   },
   {
