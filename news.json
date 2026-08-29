@@ -305,35 +305,35 @@
     "channel": "PressTV",
     "text": "Iran's top security official says the reopening of the Hormuz Strait hinges on the US implementing all Iranian conditions, including ending the war on all fronts in West Asia, especially in Lebanon and Gaza. @PressTV",
     "time": "03:14",
-    "views": 134,
+    "views": 246,
     "date": "السبت 29 أغسطس 2026"
   },
   {
     "channel": "PressTV",
     "text": "Iran’s Foreign Ministry strongly condemned US economic sanctions against Iran, describing them as a form of US state terrorism targeting Iran and the world. @PressTV",
     "time": "03:03",
-    "views": 210,
+    "views": 300,
     "date": "السبت 29 أغسطس 2026"
   },
   {
     "channel": "PressTV",
     "text": "Gunfire, blasts heard in several areas of Niger capital Niamey @PressTV",
     "time": "02:54",
-    "views": 260,
+    "views": 332,
     "date": "السبت 29 أغسطس 2026"
   },
   {
     "channel": "PressTV",
     "text": "Iranian President Masoud Pezeshkian says Tehran is prepared to reopen the strategic Strait of Hormuz to maritime traffic if US fulfills its commitments under the Islamabad MoU. @PressTV",
     "time": "02:46",
-    "views": 330,
+    "views": 403,
     "date": "السبت 29 أغسطس 2026"
   },
   {
     "channel": "PressTV",
     "text": "غارة جوية إسرائيلية تستهدف بلدة المنصوري في جنوب لبنان. @برس تي في",
     "time": "02:36",
-    "views": 376,
+    "views": 443,
     "date": "السبت 29 أغسطس 2026",
     "translated": true
   },
@@ -341,29 +341,31 @@
     "channel": "PressTV",
     "text": "Press TV’s Farzaneh Ashoorioun says Iran emerged as a stronger regional power, shaping the future of regional security while demonstrating its ability to support allies and offer an alternative to the US security presence. @PressTV",
     "time": "01:33",
-    "views": 650,
+    "views": 690,
     "date": "السبت 29 أغسطس 2026"
   },
   {
     "channel": "PressTV",
-    "text": "South Korea’s kamikaze drone test fails as the aircraft crashes into the sea seconds after launch. @PressTV",
+    "text": "فشل اختبار طائرة الكاميكازي بدون طيار في كوريا الجنوبية عندما تحطمت الطائرة في البحر بعد ثوانٍ من إطلاقها. @برس تي في",
     "time": "01:08",
-    "views": 747,
-    "date": "السبت 29 أغسطس 2026"
+    "views": 787,
+    "date": "السبت 29 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
     "text": "IRGC Navy says Strait of Hormuz under Iran’s ‘complete and decisive’ control The Islamic Revolution Guards Corps (IRGC)’s Navy says Iranian forces exercise “complete and decisive” control over the strategic Strait of Hormuz, rejecting statements by US officials that the waterway remains open. @PressTV",
     "time": "00:51",
-    "views": 821,
+    "views": 856,
     "date": "السبت 29 أغسطس 2026"
   },
   {
     "channel": "PressTV",
-    "text": "Press TV’s Maryam Azarchehr says the US sanctions on Iran amount to an admission of military defeat, describing the continued economic pressure as an extension of Washington’s aggression against Iran. @PressTV",
+    "text": "قالت مريم أزارشهر، مراسلة قناة برس تي في، إن العقوبات الأمريكية على إيران ترقى إلى مستوى الاعتراف بالهزيمة العسكرية، واصفة الضغط الاقتصادي المستمر بأنه امتداد لعدوان واشنطن على إيران. @برس تي في",
     "time": "00:01",
-    "views": 995,
-    "date": "السبت 29 أغسطس 2026"
+    "views": 0,
+    "date": "السبت 29 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -557,10 +559,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "They stole his joy. He went to obtain a birth certificate for the twins Aser and Aysel - 4 days later. He returned and they were martyred along with their mother. What pain does it have to hold the birth certificate and death certificate of your children on the same day? God is sufficient for us, and He is the best disposer of affairs 💔 💔 💔 💔",
+    "text": "سرقوا فرحته وتوجه للحصول على شهادة ميلاد للتوأم آسر وأيسل – بعد 4 أيام. فرجع فاستشهدوا مع أمهم. ما الألم الذي يسببه حمل شهادة ميلاد ووفاة أطفالك في نفس اليوم؟ حسبنا الله ونعم الوكيل 💔 💔 💔 💔",
     "time": "18:26",
     "views": 175,
-    "date": "الخميس 27 أغسطس 2026"
+    "date": "الخميس 27 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
@@ -599,9 +602,10 @@
   },
   {
     "channel": "suppressednews",
-    "text": "This is how the beautiful child Tim was before Israel divided him into two halves. With the scale of the ugliness of those massacres, I hate.",
+    "text": "هكذا كان الطفل الجميل تيم قبل أن يقسمه إسرائيل إلى نصفين. ومع حجم بشاعة تلك المجازر فإنني أكره.",
     "time": "17:22",
     "views": 284,
-    "date": "الأربعاء 26 أغسطس 2026"
+    "date": "الأربعاء 26 أغسطس 2026",
+    "translated": true
   }
 ]
