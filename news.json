@@ -8,6 +8,14 @@
     "date": "الجمعة 29 أغسطس 2026"
   },
   {
+    "channel": "YouTube-AlAouni",
+    "text": "مبدأ المباغتة الإيراني سيدمر الاتفاق النفطي الأمريكي مع فنزويلا..سيناريو الرعب في إسرائيل",
+    "link": "https://www.youtube.com/watch?v=hJ4hRQ1o7oU",
+    "views": 0,
+    "time": "",
+    "date": "الجمعة 29 أغسطس 2026"
+  },
+  {
     "channel": "MiddleEastMonitor",
     "text": "وفي حديثه مع الرئيس الإيراني، حث رئيس الوزراء الباكستاني الولايات المتحدة وإيران على الالتزام باتفاق السلام",
     "time": "22:23",
@@ -233,23 +241,33 @@
   },
   {
     "channel": "PressTV",
-    "text": "🎤 Conversation - Western left’s ‘politics of purity’ ultimately reinforces the very imperialism it claims to oppose: Legal historian The Western left’s “politics of purity” can ultimately reinforce the very imperialism it claims to oppose, says a legal analyst, while rejecting the recent open letter published by The Guardian. @PressTV",
-    "time": "09:59",
-    "views": 423,
-    "date": "السبت 29 أغسطس 2026"
+    "text": "◀️ البحرية التابعة للحرس الثوري الإيراني تقول إن القوات المسلحة الإيرانية تسيطر على مضيق هرمز، مضيفة أن السفن لا يمكنها المرور عبر الممر المائي دون إذن إيران. @برس تي في",
+    "time": "10:44",
+    "views": 1,
+    "date": "السبت 29 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "The Kremlin announced that Russian President Vladimir Putin is scheduled to meet Iranian President Masoud Pezeshkian on September 1. @PressTV",
+    "text": "🎤 محادثة - \"سياسة النقاء\" لليسار الغربي تعزز في نهاية المطاف الإمبريالية ذاتها التي يدعي أنها تعارضها: مؤرخ قانوني يقول محلل قانوني إن \"سياسة النقاء\" التي ينتهجها اليسار الغربي يمكن أن تعزز في النهاية الإمبريالية ذاتها التي يدعي معارضتها، بينما يرفض الرسالة المفتوحة الأخيرة التي نشرتها صحيفة الغارديان. @برس تي في",
+    "time": "09:59",
+    "views": 517,
+    "date": "السبت 29 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "أعلن الكرملين أنه من المقرر أن يلتقي الرئيس الروسي فلاديمير بوتين بالرئيس الإيراني مسعود بيزشكيان في الأول من سبتمبر. @PressTV",
     "time": "09:36",
-    "views": 644,
-    "date": "السبت 29 أغسطس 2026"
+    "views": 705,
+    "date": "السبت 29 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
     "text": "✍🏻 وجهة نظر - ملف محكمة العدل الدولية في جنوب أفريقيا حول غزة يتحدى عالماً حيث الدول. القانون ينحني أمام السلطة والإفلات من العقاب في محاولة لإنقاذ مصداقية القانون الدولي، قدمت جنوب أفريقيا رسميًا ملفًا إلى محكمة العدل الدولية، يوثق عدم امتثال إسرائيل المنهجي للتدابير المؤقتة من خلال الإبادة الجماعية، والتجويع المتعمد، وتدمير الرعاية الصحية، والتهجير الجماعي في غزة. بقلم إقبال جاسات @PressTV",
     "time": "09:30",
-    "views": 618,
+    "views": 709,
     "date": "السبت 29 أغسطس 2026",
     "translated": true
   },
@@ -257,29 +275,31 @@
     "channel": "PressTV",
     "text": "الجنرال كرامي: الشعب الإيراني لا يخشى أي قوة. العدو توسل إلى إيران خلال حرب الـ 12 يومًا قائد القوات البرية للحرس الثوري الإيراني: 🔹اليوم، يفتخر جميع محبي الحرية في جميع أنحاء العالم، بما في ذلك المسيحيون، بالأمة الإيرانية. 🔹 إنه الأمة التي وقفت في وجه الظلم والجرائم الجسيمة، ولا تخشى من قوة شيئا. 🔹خلال حرب الـ 12 يومًا، طلبت الولايات المتحدة وقف إطلاق النار وجلست إلى طاولة المفاوضات، لكنها تصرفت في النهاية بشكل مخادع وقوضت المفاوضات من وراء الكواليس. @برس تي في",
     "time": "09:24",
-    "views": 668,
+    "views": 689,
     "date": "السبت 29 أغسطس 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "Sheikh Qassem: Hezbollah foiled ‘Greater Israel’ plot, stopped its expansion into Lebanon Hezbollah fighters have successfully thwarted the so-called ‘Greater Israel’ plot and stopped Israel’s expansion into Lebanon, says the secretary-general of the Lebanese resistance movement. @PressTV",
+    "text": "الشيخ قاسم: حزب الله أحبط مخطط “إسرائيل الكبرى” وأوقف توسعه في لبنان قال الأمين العام لحركة المقاومة اللبنانية إن مقاتلي حزب الله أحبطوا بنجاح مخطط “إسرائيل الكبرى” وأوقفوا توسع إسرائيل في لبنان. @برس تي في",
     "time": "09:11",
-    "views": 706,
-    "date": "السبت 29 أغسطس 2026"
+    "views": 722,
+    "date": "السبت 29 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "▶️ The death toll from devastating flooding along the Nepal-Tibet border has risen to more than 620, while rescue workers search for survivors despite severely damaged roads and bridges. @PressTV",
+    "text": "◀️ ارتفع عدد قتلى الفيضانات المدمرة على طول الحدود بين نيبال والتبت إلى أكثر من 620 شخصا، بينما يبحث عمال الإنقاذ عن ناجين على الرغم من الأضرار البالغة التي لحقت بالطرق والجسور. @برس تي في",
     "time": "08:56",
-    "views": 772,
-    "date": "السبت 29 أغسطس 2026"
+    "views": 815,
+    "date": "السبت 29 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
     "text": "◀️ فيديو يظهر طائرة إسرائيلية بدون طيار وهي تقوم بإسقاط عبوة ناسفة خلف مستشفى كمال عدوان شمال غزة. @برس تي في",
     "time": "08:39",
-    "views": 829,
+    "views": 874,
     "date": "السبت 29 أغسطس 2026",
     "translated": true
   },
@@ -287,20 +307,21 @@
     "channel": "PressTV",
     "text": "✍🏻 ميزة - من المحو إلى الأبد: كيف حوّل سليمان منصور خسارة فلسطين إلى فن وذاكرة صمود لا ينضب على الرغم من عقود الاحتلال التي محت وطنه بشكل منهجي، حوّل الرسام الفلسطيني سليمان منصور الخسارة إلى إرث بصري دائم من الصمود عبر خمسة عقود من الفن، وتأسيس المؤسسات والتقنيات الأرضية الرائدة للحفاظ على ذاكرة فلسطين. بقلم حميرة أحد @PressTV",
     "time": "08:04",
-    "views": 973,
+    "views": 987,
     "date": "السبت 29 أغسطس 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "US designates Palestinian refugee in Germany ‘terrorist’ over human rights activism The US has designated Zaid Abdulnasser, a 30-year-old stateless Palestinian refugee based in Berlin, as a terrorist and imposed sanctions on him over his advocacy for Palestinians imprisoned by the Israeli regime, a report says. @PressTV",
+    "text": "الولايات المتحدة تصنف لاجئًا فلسطينيًا في ألمانيا \"إرهابيًا\" بسبب نشاطه في مجال حقوق الإنسان صنفت الولايات المتحدة زيد عبد الناصر، وهو لاجئ فلسطيني عديم الجنسية يبلغ من العمر 30 عامًا ومقيم في برلين، كإرهابي وفرضت عليه عقوبات بسبب دفاعه عن الفلسطينيين المسجونين لدى النظام الإسرائيلي، حسبما ذكر تقرير. @برس تي في",
     "time": "07:32",
     "views": 0,
-    "date": "السبت 29 أغسطس 2026"
+    "date": "السبت 29 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "قائد الجيش: وقفنا بحزم في مواجهة أعدائنا، قال اللواء أمير حاتمي، خلال حفل تكريم 3785 من شهداء الجيش في محافظة جيلان: 🔹 سعى العدو إلى تدمير قدرات الجمهورية الإسلامية الإيرانية الصاروخية والطائرات المسيرة، لكن القوات المسلحة واصلت إطلاق الصواريخ والطائرات المسيرة على العدو بكامل قوتها حتى اللحظة الأخيرة. 🔹 من الناحية العسكرية، يعتبر الجانب المهاجم منتصراً فقط إذا حقق أهدافه. أما في الحرب الدفاعية، فإن منع العدو من تحقيق أهدافه يشكل انتصاراً للمدافع. @برس تي في",
+    "text": "قائد الجيش: وقفنا بحزم في مواجهة أعدائنا، قال اللواء أمير حاتمي، خلال حفل تكريم 3785 من شهداء الجيش في محافظة جيلان: 🔹 سعى العدو إلى تدمير قدرات الجمهورية الإسلامية الإيرانية الصاروخية والطائرات المسيرة، لكن القوات المسلحة واصلت إطلاق الصواريخ والطائرات المسيرة على العدو بكامل قوتها حتى اللحظة الأخيرة. 🔹من الناحية العسكرية، يعتبر الجانب المهاجم منتصراً فقط إذا حقق أهدافه. أما في الحرب الدفاعية، فإن منع العدو من تحقيق أهدافه يشكل انتصاراً للمدافع. @برس تي في",
     "time": "07:09",
     "views": 0,
     "date": "السبت 29 أغسطس 2026",
@@ -316,7 +337,7 @@
   },
   {
     "channel": "PressTV",
-    "text": "إيران لا تمزح بشأن أمنها القومي، بل ستواجه النار بالنار: عراقجي قال وزير الخارجية الإيراني عباس عراقجي إن الجمهورية الإسلامية لن تتنازل عن أمن البلاد، مشددًا على أن القوات الإيرانية ستواجه النار بالنار. @برس تي في",
+    "text": "إيران لا تمزح بشأن أمنها القومي، بل ستواجه النار بالنار: عراقجي قال وزير الخارجية الإيراني عباس عراقجي إن الجمهورية الإسلامية لن تتنازل عن أمن البلاد، مؤكدا أن القوات الإيرانية ستواجه النار بالنار. @برس تي في",
     "time": "06:57",
     "views": 0,
     "date": "السبت 29 أغسطس 2026",
@@ -340,10 +361,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "▶️ Israeli troops forcibly evacuate UNRWA training center in West Bank Teebah Assi reports from Qalandia. @PressTV",
+    "text": "◀️ القوات الإسرائيلية تخلي بالقوة مركز تدريب تابع للأونروا في الضفة الغربية. تقرير طيبة عاصي من قلنديا. @برس تي في",
     "time": "06:19",
     "views": 0,
-    "date": "السبت 29 أغسطس 2026"
+    "date": "السبت 29 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
@@ -368,13 +390,6 @@
     "views": 0,
     "date": "السبت 29 أغسطس 2026",
     "translated": true
-  },
-  {
-    "channel": "PressTV",
-    "text": "Statement by the Cabinet of the Islamic Republic of Iran in Appreciation of “wise and strategic directives” of Leader of the Islamic Revolution Ayatollah Seyyed Mojtaba Khamenei: 🔷 Your hopeful message, replete with grace and wise guidance, issued on the occasion of Government Week and its blessed coincidence with the auspicious birth anniversaries of the Holy Prophet of Islam (PBUH) and Imam Ja'far al-Sadiq (PBUH), has brought joy, reassurance, and renewed hope to the servants of the nation within the Government of the Islamic Republic of Iran. 🔷 Hereby, the Cabinet of the Islamic Republic of Iran expresses its profound appreciation and gratitude for Your Eminence’s trust, sincere support, and recognition of the efforts made by the servants of the people, particularly the honest, compassionate, and diligent President, Dr. Masoud Pezeshkian. We consider this valuable trust and grace to be our greatest asset and pillar of support on the challenging road ahead. @PressTV",
-    "time": "05:33",
-    "views": 0,
-    "date": "السبت 29 أغسطس 2026"
   },
   {
     "channel": "suppressednews",
@@ -577,10 +592,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "They stole his joy. He went to obtain a birth certificate for the twins Aser and Aysel - 4 days later. He returned and they were martyred along with their mother. What pain does it have to hold the birth certificate and death certificate of your children on the same day? God is sufficient for us, and He is the best disposer of affairs 💔 💔 💔 💔",
+    "text": "سرقوا فرحته وتوجه للحصول على شهادة ميلاد للتوأم آسر وأيسل – بعد 4 أيام. فرجع فاستشهدوا مع أمهم. ما الألم الذي يسببه حمل شهادة ميلاد ووفاة أطفالك في نفس اليوم؟ حسبنا الله ونعم الوكيل 💔 💔 💔 💔",
     "time": "18:26",
     "views": 175,
-    "date": "الخميس 27 أغسطس 2026"
+    "date": "الخميس 27 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
@@ -600,17 +616,19 @@
   },
   {
     "channel": "suppressednews",
-    "text": "Imagine for a moment in time that this is your child? How would you feel about the Zionists?",
+    "text": "تخيل للحظة أن هذا هو طفلك؟ كيف سيكون شعورك تجاه الصهاينة؟",
     "time": "20:57",
     "views": 217,
-    "date": "الأربعاء 26 أغسطس 2026"
+    "date": "الأربعاء 26 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "Oh the beauty of your eyes, this is the head of the angel child Osama Abu Al-Nada, which Israel cut off yesterday. Osama was martyred with his father, Taha Abu Al-Nada, his mother, Hoda, and his brothers, Nour, Dana, Ghani, and Jana.",
+    "text": "يا جمال عيونك هذا رأس الطفل الملاك أسامة أبو الندى الذي قطعته إسرائيل أمس. استشهد أسامة مع والده طه أبو الندى ووالدته هدى وإخوته نور ودانا وغني وجنا.",
     "time": "17:25",
     "views": 383,
-    "date": "الأربعاء 26 أغسطس 2026"
+    "date": "الأربعاء 26 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
