@@ -16,17 +16,19 @@
   },
   {
     "channel": "PressTV",
-    "text": "Storm hit Malatya, Turkey @PressTV",
+    "text": "ضربت العاصفة ملاطية، تركيا @PressTV",
     "time": "22:42",
     "views": 0,
-    "date": "السبت 29 أغسطس 2026"
+    "date": "السبت 29 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "Hezbollah Secretary-General Sheikh Naim Qassem underscores that the sacrifices of resistance fighters represent a defense of their rights and future, while saying that US and Israel are facing growing economic, political, and international losses. @PressTV",
+    "text": "أكد الأمين العام لحزب الله الشيخ نعيم قاسم أن تضحيات المقاومين تمثل دفاعاً عن حقوقهم ومستقبلهم، معتبراً أن الولايات المتحدة وإسرائيل تواجهان خسائر اقتصادية وسياسية ودولية متزايدة. @برس تي في",
     "time": "22:28",
     "views": 0,
-    "date": "السبت 29 أغسطس 2026"
+    "date": "السبت 29 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -38,10 +40,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "Iran’s security chief, parliament speaker hail Leader’s remarks on national unity, social cohesion Iran’s top security official and the country’s parliament speaker have hailed Leader of the Islamic Revolution Ayatollah Seyyed Mojtaba Khamenei’s remarks on national unity and social cohesion, describing them as a clear guiding principle for senior authorities. @PressTV",
+    "text": "قائد الأمن ورئيس البرلمان يشيدان بتصريحات قائد الثورة الإسلامية حول الوحدة الوطنية والتماسك الاجتماعي أشاد مسؤول أمني كبير في إيران ورئيس البرلمان بتصريحات قائد الثورة الإسلامية آية الله السيد مجتبى خامنئي حول الوحدة الوطنية والتماسك الاجتماعي، ووصفاها بأنها مبدأ توجيهي واضح للسلطات العليا. @برس تي في",
     "time": "22:14",
     "views": 0,
-    "date": "السبت 29 أغسطس 2026"
+    "date": "السبت 29 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -76,10 +79,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "Pro-Palestine protesters in Malaga demand end to Gaza genocide @PressTV",
+    "text": "المتظاهرون المؤيدون لفلسطين في ملقة يطالبون بإنهاء الإبادة الجماعية في غزة @PressTV",
     "time": "21:38",
     "views": 0,
-    "date": "السبت 29 أغسطس 2026"
+    "date": "السبت 29 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -275,10 +279,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "Vice President of Lebanon's Supreme Islamic Shia Council (SISC), Sheikh Ali Khatib, met with Iranian Foreign Minister Seyed Abbas Araghchi. @PressTV",
+    "text": "التقى نائب رئيس المجلس الإسلامي الشيعي الأعلى في لبنان الشيخ علي الخطيب، وزير الخارجية الإيراني سيد عباس عراقجي. @برس تي في",
     "time": "03:58",
-    "views": 162,
-    "date": "السبت 29 أغسطس 2026"
+    "views": 298,
+    "date": "السبت 29 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
@@ -289,66 +294,75 @@
   },
   {
     "channel": "PressTV",
-    "text": "Iran's top security official says the reopening of the Hormuz Strait hinges on the US implementing all Iranian conditions, including ending the war on all fronts in West Asia, especially in Lebanon and Gaza. @PressTV",
+    "text": "قال مسؤول أمني إيراني كبير إن إعادة فتح مضيق هرمز يتوقف على تنفيذ الولايات المتحدة جميع الشروط الإيرانية، بما في ذلك إنهاء الحرب على جميع الجبهات في غرب آسيا، وخاصة في لبنان وغزة. @برس تي في",
     "time": "03:14",
-    "views": 462,
-    "date": "السبت 29 أغسطس 2026"
+    "views": 570,
+    "date": "السبت 29 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "Iran’s Foreign Ministry strongly condemned US economic sanctions against Iran, describing them as a form of US state terrorism targeting Iran and the world. @PressTV",
+    "text": "أدانت وزارة الخارجية الإيرانية بشدة العقوبات الاقتصادية الأمريكية ضد إيران، ووصفتها بأنها شكل من أشكال إرهاب الدولة الأمريكي الذي يستهدف إيران والعالم. @برس تي في",
     "time": "03:03",
-    "views": 487,
-    "date": "السبت 29 أغسطس 2026"
-  },
-  {
-    "channel": "PressTV",
-    "text": "Gunfire, blasts heard in several areas of Niger capital Niamey @PressTV",
-    "time": "02:54",
-    "views": 492,
-    "date": "السبت 29 أغسطس 2026"
-  },
-  {
-    "channel": "PressTV",
-    "text": "Iranian President Masoud Pezeshkian says Tehran is prepared to reopen the strategic Strait of Hormuz to maritime traffic if US fulfills its commitments under the Islamabad MoU. @PressTV",
-    "time": "02:46",
-    "views": 539,
-    "date": "السبت 29 أغسطس 2026"
-  },
-  {
-    "channel": "PressTV",
-    "text": "Israeli airstrike hit the town of Al-Mansouri in southern Lebanon. @PressTV",
-    "time": "02:36",
     "views": 566,
-    "date": "السبت 29 أغسطس 2026"
+    "date": "السبت 29 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "Press TV’s Farzaneh Ashoorioun says Iran emerged as a stronger regional power, shaping the future of regional security while demonstrating its ability to support allies and offer an alternative to the US security presence. @PressTV",
+    "text": "سماع دوي إطلاق نار وانفجارات في عدة مناطق بعاصمة النيجر نيامي @PressTV",
+    "time": "02:54",
+    "views": 557,
+    "date": "السبت 29 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "قال الرئيس الإيراني مسعود بيزشكيان إن طهران مستعدة لإعادة فتح مضيق هرمز الاستراتيجي أمام حركة المرور البحرية إذا أوفت الولايات المتحدة بالتزاماتها بموجب مذكرة التفاهم في إسلام آباد. @برس تي في",
+    "time": "02:46",
+    "views": 593,
+    "date": "السبت 29 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "غارة جوية إسرائيلية تستهدف بلدة المنصوري في جنوب لبنان. @برس تي في",
+    "time": "02:36",
+    "views": 620,
+    "date": "السبت 29 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "وتقول فرزانة عاشوريون، من قناة Press TV، إن إيران برزت كقوة إقليمية أقوى، وقامت بتشكيل مستقبل الأمن الإقليمي مع إظهار قدرتها على دعم الحلفاء وتقديم بديل للوجود الأمني ​​الأمريكي. @برس تي في",
     "time": "01:33",
-    "views": 788,
-    "date": "السبت 29 أغسطس 2026"
+    "views": 833,
+    "date": "السبت 29 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "South Korea’s kamikaze drone test fails as the aircraft crashes into the sea seconds after launch. @PressTV",
+    "text": "فشل اختبار طائرة الكاميكازي بدون طيار في كوريا الجنوبية عندما تحطمت الطائرة في البحر بعد ثوانٍ من إطلاقها. @برس تي في",
     "time": "01:08",
-    "views": 876,
-    "date": "السبت 29 أغسطس 2026"
+    "views": 913,
+    "date": "السبت 29 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "IRGC Navy says Strait of Hormuz under Iran’s ‘complete and decisive’ control The Islamic Revolution Guards Corps (IRGC)’s Navy says Iranian forces exercise “complete and decisive” control over the strategic Strait of Hormuz, rejecting statements by US officials that the waterway remains open. @PressTV",
+    "text": "البحرية التابعة للحرس الثوري الإيراني تقول إن مضيق هرمز تحت سيطرة إيران “الكاملة والحاسمة” تقول البحرية التابعة للحرس الثوري الإيراني إن القوات الإيرانية تمارس سيطرة “كاملة وحاسمة” على مضيق هرمز الاستراتيجي، رافضة تصريحات المسؤولين الأمريكيين بأن الممر المائي لا يزال مفتوحا. @برس تي في",
     "time": "00:51",
-    "views": 934,
-    "date": "السبت 29 أغسطس 2026"
+    "views": 981,
+    "date": "السبت 29 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "Press TV’s Maryam Azarchehr says the US sanctions on Iran amount to an admission of military defeat, describing the continued economic pressure as an extension of Washington’s aggression against Iran. @PressTV",
+    "text": "قالت مريم أزارشهر، مراسلة قناة برس تي في، إن العقوبات الأمريكية على إيران ترقى إلى مستوى الاعتراف بالهزيمة العسكرية، واصفة الضغط الاقتصادي المستمر بأنه امتداد لعدوان واشنطن على إيران. @برس تي في",
     "time": "00:01",
     "views": 0,
-    "date": "السبت 29 أغسطس 2026"
+    "date": "السبت 29 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -368,10 +382,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-taking-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"There was crazy hysteria, with decisions made without any verified information\": IDF ordered Hannibal directive on October 7 to prevent Hamas taking soldiers captive",
+    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-take-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"هناك \"كانت هستيريا جنونية، مع اتخاذ قرارات دون أي معلومات تم التحقق منها\": أمر جيش الدفاع الإسرائيلي بتوجيه هانيبال في 7 أكتوبر بمنع حماس من أسر الجنود",
     "time": "21:46",
     "views": 225,
-    "date": "الجمعة 28 أغسطس 2026"
+    "date": "الجمعة 28 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -535,58 +550,66 @@
   },
   {
     "channel": "suppressednews",
-    "text": "BREAKING: Initial reports of at-least 100 Martyrs in an Israeli strike that targeted \"Al-Tabi'in\" school in Al-Daraj neighborhood in central Gaza City.",
+    "text": "عاجل: التقارير الأولية عن استشهاد ما لا يقل عن 100 شهيد في قصف إسرائيلي استهدف مدرسة \"التابعين\" في حي الدرج وسط مدينة غزة.",
     "time": "02:56",
     "views": 152,
-    "date": "الجمعة 28 أغسطس 2026"
+    "date": "الجمعة 28 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "They stole his joy. He went to obtain a birth certificate for the twins Aser and Aysel - 4 days later. He returned and they were martyred along with their mother. What pain does it have to hold the birth certificate and death certificate of your children on the same day? God is sufficient for us, and He is the best disposer of affairs 💔 💔 💔 💔",
+    "text": "سرقوا فرحته وتوجه للحصول على شهادة ميلاد للتوأم آسر وأيسل – بعد 4 أيام. فرجع فاستشهدوا مع أمهم. ما الألم الذي يسببه حمل شهادة ميلاد ووفاة أطفالك في نفس اليوم؟ حسبنا الله ونعم الوكيل 💔 💔 💔 💔",
     "time": "18:26",
     "views": 175,
-    "date": "الخميس 27 أغسطس 2026"
+    "date": "الخميس 27 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "For forty days and nights, the Western media lamented the lie of Israeli children with their heads cut off, with which the occupation deceived the world, and they did not see a single picture confirming its claims... while every day the headless children of Gaza appear to us in painful pictures, without their weeping, and the media biased towards the occupation and complicit in the crime does not dare. 💔 💔 💔 💔 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭",
+    "text": "أربعون يوماً وليلة، رثى الإعلام الغربي كذبة أطفال إسرائيليين مقطوعة الرأس، التي خدع بها الاحتلال العالم، ولم يروا صورة واحدة تؤكد ادعاءاته... بينما أطفال غزة مقطوعي الرأس يظهرون لنا كل يوم بصور مؤلمة، دون بكاء، ولا يجرؤ الإعلام المنحاز للاحتلال والمتواطئ في الجريمة. 💔 💔 💔 💔 ؟؟؟؟؟؟؟",
     "time": "04:39",
     "views": 184,
-    "date": "الخميس 27 أغسطس 2026"
+    "date": "الخميس 27 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "As usual, a large number are killed when the disaster strikes, and another number gradually succumbs to their wounds after it occurs. Omar Al-Jaabari, 13 years old, died of his wounds at Kamal Adwan Hospital. He was among the victims of the massacre at Al-Tabaeen School two days ago. Omar suffered severe burns as a result of the American missiles that produce very high temperatures, and he was not directly injured, otherwise he would have been turned into pieces and his body would have melted. 💔 💔 💔",
+    "text": "وكالعادة يقتل عدد كبير عند وقوع الكارثة، ويتوفى عدد آخر تدريجياً متأثراً بجراحه بعد وقوعها. توفي عمر الجعبري، 13 عاماً، متأثراً بجراحه في مستشفى كمال عدوان. وكان من بين ضحايا مجزرة مدرسة التابعين قبل يومين. وأصيب عمر بحروق شديدة نتيجة الصواريخ الأمريكية التي تنتج درجات حرارة عالية للغاية، ولم يصب بشكل مباشر، وإلا لكان قد تحول إلى أشلاء وذاب جسده. 💔 💔 💔",
     "time": "04:38",
     "views": 168,
-    "date": "الخميس 27 أغسطس 2026"
+    "date": "الخميس 27 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "Imagine for a moment in time that this is your child? How would you feel about the Zionists?",
+    "text": "تخيل للحظة أن هذا هو طفلك؟ كيف سيكون شعورك تجاه الصهاينة؟",
     "time": "20:57",
     "views": 217,
-    "date": "الأربعاء 26 أغسطس 2026"
+    "date": "الأربعاء 26 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "Oh the beauty of your eyes, this is the head of the angel child Osama Abu Al-Nada, which Israel cut off yesterday. Osama was martyred with his father, Taha Abu Al-Nada, his mother, Hoda, and his brothers, Nour, Dana, Ghani, and Jana.",
+    "text": "يا جمال عيونك هذا رأس الطفل الملاك أسامة أبو الندى الذي قطعته إسرائيل أمس. استشهد أسامة مع والده طه أبو الندى ووالدته هدى وإخوته نور ودانا وغني وجنا.",
     "time": "17:25",
     "views": 383,
-    "date": "الأربعاء 26 أغسطس 2026"
+    "date": "الأربعاء 26 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "Yesterday, Israel beheaded a Palestinian child in gaza 🔞 🔞 🔞 🔞",
+    "text": "بالأمس قطعت إسرائيل رأس طفل فلسطيني في غزة 🔞 🔞 🔞 🔞",
     "time": "17:24",
     "views": 359,
-    "date": "الأربعاء 26 أغسطس 2026"
+    "date": "الأربعاء 26 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "This is how the beautiful child Tim was before Israel divided him into two halves. With the scale of the ugliness of those massacres, I hate.",
+    "text": "هكذا كان الطفل الجميل تيم قبل أن يقسمه إسرائيل إلى نصفين. ومع حجم بشاعة تلك المجازر فإنني أكره.",
     "time": "17:22",
     "views": 284,
-    "date": "الأربعاء 26 أغسطس 2026"
+    "date": "الأربعاء 26 أغسطس 2026",
+    "translated": true
   }
 ]
