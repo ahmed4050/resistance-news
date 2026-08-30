@@ -1,17 +1,11 @@
 [
   {
     "channel": "PressTV",
-    "text": "🔴 Reports: Qatar Al Udeid Air Base struck by Iranian missiles @PressTV",
-    "time": "22:33",
-    "views": 309,
-    "date": "الإثنين 31 أغسطس 2026"
-  },
-  {
-    "channel": "PressTV",
-    "text": "Iranian missiles heading towards US bases in West Asia @PressTV",
+    "text": "صواريخ إيرانية تتجه نحو القواعد الأمريكية في غرب آسيا @PressTV",
     "time": "22:24",
-    "views": 637,
-    "date": "الإثنين 31 أغسطس 2026"
+    "views": 883,
+    "date": "الإثنين 31 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -31,10 +25,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "Global oil prices rise amid escalating tensions in the Persian Gulf @PressTV",
+    "text": "أسعار النفط العالمية ترتفع وسط تصاعد التوترات في الخليج العربي @PressTV",
     "time": "22:08",
     "views": 0,
-    "date": "الإثنين 31 أغسطس 2026"
+    "date": "الإثنين 31 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -46,17 +41,19 @@
   },
   {
     "channel": "PressTV",
-    "text": "🔴 Reports of multiple explosions in Jordan following Iranian strikes @PressTV",
+    "text": "🔴 أنباء عن انفجارات متعددة في الأردن عقب الضربات الإيرانية @PressTV",
     "time": "21:46",
     "views": 0,
-    "date": "الإثنين 31 أغسطس 2026"
+    "date": "الإثنين 31 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "Footage reportedly shows missiles being fired from Iran at enemy positions. Press TV cannot independently verify the authenticity of the video. @PressTV",
+    "text": "وبحسب ما ورد تظهر اللقطات إطلاق صواريخ من إيران على مواقع العدو. لا يمكن لـ Press TV التحقق بشكل مستقل من صحة الفيديو. @برس تي في",
     "time": "21:43",
     "views": 0,
-    "date": "الإثنين 31 أغسطس 2026"
+    "date": "الإثنين 31 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -68,10 +65,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "🔴 Reports of Iran firing missiles toward US vessels in Strait of Hormuz @PressTV",
+    "text": "🔴 أنباء عن إطلاق إيران صواريخ باتجاه السفن الأمريكية في مضيق هرمز @PressTV",
     "time": "21:30",
     "views": 0,
-    "date": "الإثنين 31 أغسطس 2026"
+    "date": "الإثنين 31 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -83,10 +81,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "Ebrahim Azizi, Chairman of the National Security Committee of Iran's Parliament, on X : @PressTV",
+    "text": "إبراهيم عزيزي، رئيس لجنة الأمن القومي في البرلمان الإيراني، على قناة X: @PressTV",
     "time": "21:14",
     "views": 0,
-    "date": "الإثنين 31 أغسطس 2026"
+    "date": "الإثنين 31 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -98,10 +97,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "🔴 Reports of fresh explosions in Iran’s southern island of Larak @PressTV",
+    "text": "🔴 أنباء عن انفجارات جديدة في جزيرة لاراك جنوبي إيران @PressTV",
     "time": "20:53",
     "views": 0,
-    "date": "الإثنين 31 أغسطس 2026"
+    "date": "الإثنين 31 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -113,17 +113,19 @@
   },
   {
     "channel": "PressTV",
-    "text": "IRGC spokesperson: Enemy will pay for Larak attack on both economic, military fronts @PressTV",
+    "text": "المتحدث باسم الحرس الثوري الإيراني: العدو سيدفع ثمن هجوم لاراك على الجبهتين الاقتصادية والعسكرية @PressTV",
     "time": "20:44",
     "views": 0,
-    "date": "الإثنين 31 أغسطس 2026"
+    "date": "الإثنين 31 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "IRGC: US terrorist attack on Larak Island will be answered, aggressor to be punished The Islamic Revolution Guards Corps (IRGC) says the latest terrorist strike on Iran’s Larak Island in the Strait of Hormuz martyred and wounded several IRGC combatants and civilians, and has promised that the aggression will not go unanswered. @PressTV",
+    "text": "الحرس الثوري الإيراني: سيتم الرد على الهجوم الإرهابي الأمريكي على جزيرة لارك ومعاقبة المعتدي يقول الحرس الثوري الإسلامي إن الضربة الإرهابية الأخيرة على جزيرة لارك الإيرانية في مضيق هرمز أدت إلى مقتل وإصابة العديد من مقاتلي ومدنيي الحرس الثوري الإيراني، ووعد بأن العدوان لن يمر دون رد. @برس تي في",
     "time": "20:37",
     "views": 0,
-    "date": "الإثنين 31 أغسطس 2026"
+    "date": "الإثنين 31 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -151,10 +153,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "🔴 Reports of blast in Iran’s Larak Island @PressTV",
+    "text": "🔴 أنباء عن انفجار في جزيرة لاراك الإيرانية @PressTV",
     "time": "20:06",
     "views": 0,
-    "date": "الإثنين 31 أغسطس 2026"
+    "date": "الإثنين 31 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -166,10 +169,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "Iraq calls for dialogue, peaceful solution to Iran-US standoff Iraq has called for dialogue between Iran and the United States to find a peaceful solution to the current standoff between the two countries, which has affected the entire West Asia region. @PressTV",
+    "text": "العراق يدعو إلى الحوار والحل السلمي للمواجهة الإيرانية الأمريكية دعا العراق إلى الحوار بين إيران والولايات المتحدة لإيجاد حل سلمي للمواجهة الحالية بين البلدين والتي أثرت على منطقة غرب آسيا بأكملها. @برس تي في",
     "time": "19:56",
     "views": 0,
-    "date": "الإثنين 31 أغسطس 2026"
+    "date": "الإثنين 31 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -181,7 +185,7 @@
   },
   {
     "channel": "PressTV",
-    "text": "\"يتم الاحتفال بهذا الأسبوع بأكمله باعتباره أسبوع الوحدة الإسلامية\"، مذيعة قناة برس تي في جيسو ميشا أحمدي موجودة في طهران، حيث تقدم تقريرًا عن تجمع عُقد للاحتفال بذكرى ميلاد النبي محمد. @برس تي في",
+    "text": "\"يتم الاحتفال بهذا الأسبوع بأكمله باعتباره أسبوع الوحدة الإسلامية\" مذيعة قناة برس تي في جيسو ميشا أحمدي موجودة في طهران، حيث تقدم تقريرًا عن تجمع عُقد للاحتفال بذكرى ميلاد النبي محمد. @برس تي في",
     "time": "19:25",
     "views": 0,
     "date": "الإثنين 31 أغسطس 2026",
@@ -213,17 +217,27 @@
   },
   {
     "channel": "PressTV",
-    "text": "Masked Israeli settlers attack NBC News crew in occupied West Bank A Palestinian woman and four members of an NBC News team have reportedly been injured after masked Israeli settlers attacked them while they were reporting in the occupied West Bank. @PressTV",
+    "text": "مستوطنون إسرائيليون ملثمون يهاجمون طاقم شبكة إن بي سي الإخبارية في الضفة الغربية المحتلة أصيبت امرأة فلسطينية وأربعة من أعضاء فريق شبكة إن بي سي الإخبارية بجروح بعد أن هاجمهم مستوطنون إسرائيليون ملثمون أثناء قيامهم بتغطية أخبار في الضفة الغربية المحتلة. @برس تي في",
     "time": "19:12",
     "views": 0,
-    "date": "الإثنين 31 أغسطس 2026"
+    "date": "الإثنين 31 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "“It was a massive betrayal” Joe Emersberger says any subsequent deals presented as preserving Venezuelan sovereignty are just a huge joke, arguing that the US bombing of Caracas and the removal of Venezuela’s legal president represented a massive betrayal. @PressTV",
+    "text": "يقول جو إيمرسبيرجر: \"لقد كانت خيانة هائلة\"، ويقول إن أي صفقات لاحقة يتم تقديمها على أنها تحافظ على السيادة الفنزويلية هي مجرد مزحة كبيرة، معتبراً أن القصف الأمريكي لكاراكاس وإقالة الرئيس القانوني لفنزويلا يمثلان خيانة هائلة. @برس تي في",
     "time": "18:50",
     "views": 0,
-    "date": "الإثنين 31 أغسطس 2026"
+    "date": "الإثنين 31 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "يعلق باتريك هينينغسن على مسار عملية تغيير النظام في سوريا. شاهد كاملاً على @TheSobhShow",
+    "time": "18:39",
+    "views": 0,
+    "date": "الإثنين 31 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -362,10 +376,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-taking-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"There was crazy hysteria, with decisions made without any verified information\": IDF ordered Hannibal directive on October 7 to prevent Hamas taking soldiers captive",
+    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-take-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"هناك \"كانت هستيريا جنونية، مع اتخاذ قرارات دون أي معلومات تم التحقق منها\": أمر جيش الدفاع الإسرائيلي بتوجيه هانيبال في 7 أكتوبر بمنع حماس من أسر الجنود",
     "time": "21:46",
     "views": 225,
-    "date": "الأحد 30 أغسطس 2026"
+    "date": "الأحد 30 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -529,28 +544,31 @@
   },
   {
     "channel": "suppressednews",
-    "text": "BREAKING: Initial reports of at-least 100 Martyrs in an Israeli strike that targeted \"Al-Tabi'in\" school in Al-Daraj neighborhood in central Gaza City.",
+    "text": "عاجل: التقارير الأولية عن استشهاد ما لا يقل عن 100 شهيد في قصف إسرائيلي استهدف مدرسة \"التابعين\" في حي الدرج وسط مدينة غزة.",
     "time": "02:56",
     "views": 152,
-    "date": "الأحد 30 أغسطس 2026"
+    "date": "الأحد 30 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "They stole his joy. He went to obtain a birth certificate for the twins Aser and Aysel - 4 days later. He returned and they were martyred along with their mother. What pain does it have to hold the birth certificate and death certificate of your children on the same day? God is sufficient for us, and He is the best disposer of affairs 💔 💔 💔 💔",
+    "text": "سرقوا فرحته وتوجه للحصول على شهادة ميلاد للتوأم آسر وأيسل – بعد 4 أيام. فرجع فاستشهدوا مع أمهم. ما الألم الذي يسببه حمل شهادة ميلاد ووفاة أطفالك في نفس اليوم؟ حسبنا الله ونعم الوكيل 💔 💔 💔 💔",
     "time": "18:26",
     "views": 175,
-    "date": "السبت 29 أغسطس 2026"
+    "date": "السبت 29 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "For forty days and nights, the Western media lamented the lie of Israeli children with their heads cut off, with which the occupation deceived the world, and they did not see a single picture confirming its claims... while every day the headless children of Gaza appear to us in painful pictures, without their weeping, and the media biased towards the occupation and complicit in the crime does not dare. 💔 💔 💔 💔 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭",
+    "text": "أربعون يوماً وليلة، رثى الإعلام الغربي كذبة أطفال إسرائيليين مقطوعة الرأس، التي خدع بها الاحتلال العالم، ولم يروا صورة واحدة تؤكد ادعاءاته... بينما أطفال غزة مقطوعي الرأس يظهرون لنا كل يوم بصور مؤلمة، دون بكاء، ولا يجرؤ الإعلام المنحاز للاحتلال والمتواطئ في الجريمة. 💔 💔 💔 💔 ؟؟؟؟؟؟؟",
     "time": "04:39",
     "views": 184,
-    "date": "السبت 29 أغسطس 2026"
+    "date": "السبت 29 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "وكالعادة يقتل عدد كبير عند وقوع الكارثة، ويتوفى عدد آخر تدريجياً متأثراً بجراحه بعد وقوعها. توفي عمر الجعبري، 13 عاماً، متأثراً بجراحه في مستشفى كمال عدوان. وكان من بين ضحايا مجزرة مدرسة التابعين قبل يومين. وأصيب عمر بحروق شديدة نتيجة الصواريخ الأمريكية التي تنتج درجات حرارة عالية للغاية، ولم يصب بشكل مباشر، وإلا لكان قد تحول إلى أشلاء وذاب جسده. 💔 💔 💔",
+    "text": "وكالعادة يقتل عدد كبير عند وقوع الكارثة، ويتوفى عدد آخر تدريجياً متأثراً بجراحه بعد وقوعها. توفي عمر الجعبري، 13 عاماً، متأثراً بجراحه في مستشفى كمال عدوان. وكان من بين ضحايا مجزرة مدرسة التابعين قبل يومين. وأصيب عمر بحروق شديدة نتيجة الصواريخ الأمريكية التي تنتج درجات حرارة عالية جدا، ولم يصب بشكل مباشر، وإلا لكان قد تحول إلى أشلاء وذاب جسده. 💔 💔 💔",
     "time": "04:38",
     "views": 168,
     "date": "السبت 29 أغسطس 2026",
@@ -558,30 +576,34 @@
   },
   {
     "channel": "suppressednews",
-    "text": "Imagine for a moment in time that this is your child? How would you feel about the Zionists?",
+    "text": "تخيل للحظة أن هذا هو طفلك؟ كيف سيكون شعورك تجاه الصهاينة؟",
     "time": "20:57",
     "views": 217,
-    "date": "الجمعة 28 أغسطس 2026"
+    "date": "الجمعة 28 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "Oh the beauty of your eyes, this is the head of the angel child Osama Abu Al-Nada, which Israel cut off yesterday. Osama was martyred with his father, Taha Abu Al-Nada, his mother, Hoda, and his brothers, Nour, Dana, Ghani, and Jana.",
+    "text": "يا جمال عيونك هذا رأس الطفل الملاك أسامة أبو الندى الذي قطعته إسرائيل أمس. استشهد أسامة مع والده طه أبو الندى ووالدته هدى وإخوته نور ودانا وغني وجنا.",
     "time": "17:25",
     "views": 383,
-    "date": "الجمعة 28 أغسطس 2026"
+    "date": "الجمعة 28 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "Yesterday, Israel beheaded a Palestinian child in gaza 🔞 🔞 🔞 🔞",
+    "text": "بالأمس قطعت إسرائيل رأس طفل فلسطيني في غزة 🔞 🔞 🔞 🔞",
     "time": "17:24",
     "views": 359,
-    "date": "الجمعة 28 أغسطس 2026"
+    "date": "الجمعة 28 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "This is how the beautiful child Tim was before Israel divided him into two halves. With the scale of the ugliness of those massacres, I hate.",
+    "text": "هكذا كان الطفل الجميل تيم قبل أن يقسمه إسرائيل إلى نصفين. ومع حجم بشاعة تلك المجازر فإنني أكره.",
     "time": "17:22",
     "views": 284,
-    "date": "الجمعة 28 أغسطس 2026"
+    "date": "الجمعة 28 أغسطس 2026",
+    "translated": true
   }
 ]
