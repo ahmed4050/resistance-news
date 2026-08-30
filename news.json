@@ -1,5 +1,12 @@
 [
   {
+    "channel": "PressTV",
+    "text": "Iranian missiles heading towards US bases in West Asia @PressTV",
+    "time": "22:24",
+    "views": 126,
+    "date": "الإثنين 31 أغسطس 2026"
+  },
+  {
     "channel": "MiddleEastMonitor",
     "text": "وفي حديثه مع الرئيس الإيراني، حث رئيس الوزراء الباكستاني الولايات المتحدة وإيران على الالتزام باتفاق السلام",
     "time": "22:23",
@@ -19,7 +26,7 @@
     "channel": "PressTV",
     "text": "Global oil prices rise amid escalating tensions in the Persian Gulf @PressTV",
     "time": "22:08",
-    "views": 268,
+    "views": 706,
     "date": "الإثنين 31 أغسطس 2026"
   },
   {
@@ -165,6 +172,13 @@
     "translated": true
   },
   {
+    "channel": "PressTV",
+    "text": "“This entire week is celebrated as the Islamic Unity Week” Press TV’s Gisoo Misha Ahmadi is in Tehran, reporting on a gathering held to celebrate Prophet Mohammad’s birth anniversary. @PressTV",
+    "time": "19:25",
+    "views": 0,
+    "date": "الإثنين 31 أغسطس 2026"
+  },
+  {
     "channel": "MiddleEastMonitor",
     "text": "\"الموت للمسيحيين\": تقرير يوثق تصاعد الهجمات ضد المسيحيين من قبل الإسرائيليين في القدس المحتلة",
     "time": "19:16",
@@ -206,27 +220,6 @@
     "channel": "PressTV",
     "text": "Patrick Henningsen comments on the course of the regime-change operation in Syria. Watch in full @TheSobhShow",
     "time": "18:39",
-    "views": 0,
-    "date": "الإثنين 31 أغسطس 2026"
-  },
-  {
-    "channel": "PressTV",
-    "text": "Protesters in Malaga denounce Israeli violence against Palestinians Alberto Garcia reports from Malaga @PressTV",
-    "time": "18:37",
-    "views": 0,
-    "date": "الإثنين 31 أغسطس 2026"
-  },
-  {
-    "channel": "PressTV",
-    "text": "“This entire week is celebrated as the Islamic Unity Week” Press TV’s Gisoo Misha Ahmadi is in Tehran, reporting on a gathering held to celebrate Prophet Mohammad’s birth anniversary. @PressTV",
-    "time": "18:26",
-    "views": 0,
-    "date": "الإثنين 31 أغسطس 2026"
-  },
-  {
-    "channel": "PressTV",
-    "text": "🔹️ A lifetime dedicated to Muslim unity 👌 Published for the first time 📽 Never-before-see footages of the martyred Leader of the Islamic Revolution, Imam Sayyid Ali Khamenei, on Islamic Unity 🔹 In this video, watch the martyred Leader speak about: ➕ How Unity Week was launched before the Islamic Revolution 💗 Islamic unity is not a mere formality 💬 The Muslim world must stand united against the common American-Zionist enemy ✏️ Supporting both Shia and Sunni resistance is an equal religious duty and obligation #MawlidAlNabi #ProphetMuhammad #IslamicUnityWeek 📲 KHAMENEI.IR | 𝕏 (Official) | 𝕏 (Website) 💻 @Khamenei_en",
-    "time": "18:20",
     "views": 0,
     "date": "الإثنين 31 أغسطس 2026"
   },
@@ -534,24 +527,27 @@
   },
   {
     "channel": "suppressednews",
-    "text": "BREAKING: Initial reports of at-least 100 Martyrs in an Israeli strike that targeted \"Al-Tabi'in\" school in Al-Daraj neighborhood in central Gaza City.",
+    "text": "عاجل: التقارير الأولية عن استشهاد ما لا يقل عن 100 شهيد في قصف إسرائيلي استهدف مدرسة \"التابعين\" في حي الدرج وسط مدينة غزة.",
     "time": "02:56",
     "views": 152,
-    "date": "الأحد 30 أغسطس 2026"
+    "date": "الأحد 30 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "They stole his joy. He went to obtain a birth certificate for the twins Aser and Aysel - 4 days later. He returned and they were martyred along with their mother. What pain does it have to hold the birth certificate and death certificate of your children on the same day? God is sufficient for us, and He is the best disposer of affairs 💔 💔 💔 💔",
+    "text": "سرقوا فرحته وتوجه للحصول على شهادة ميلاد للتوأم آسر وأيسل – بعد 4 أيام. فرجع فاستشهدوا مع أمهم. ما الألم الذي يسببه حمل شهادة ميلاد ووفاة أطفالك في نفس اليوم؟ حسبنا الله ونعم الوكيل 💔 💔 💔 💔",
     "time": "18:26",
     "views": 175,
-    "date": "السبت 29 أغسطس 2026"
+    "date": "السبت 29 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "For forty days and nights, the Western media lamented the lie of Israeli children with their heads cut off, with which the occupation deceived the world, and they did not see a single picture confirming its claims... while every day the headless children of Gaza appear to us in painful pictures, without their weeping, and the media biased towards the occupation and complicit in the crime does not dare. 💔 💔 💔 💔 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭",
+    "text": "أربعون يوماً وليلة، رثى الإعلام الغربي كذبة أطفال إسرائيليين مقطوعة الرأس، التي خدع بها الاحتلال العالم، ولم يروا صورة واحدة تؤكد ادعاءاته... بينما أطفال غزة مقطوعي الرأس يظهرون لنا كل يوم بصور مؤلمة، دون بكاء، ولا يجرؤ الإعلام المنحاز للاحتلال والمتواطئ في الجريمة. 💔 💔 💔 💔 ؟؟؟؟؟؟؟",
     "time": "04:39",
     "views": 184,
-    "date": "السبت 29 أغسطس 2026"
+    "date": "السبت 29 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
