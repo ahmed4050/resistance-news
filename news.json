@@ -9,45 +9,35 @@
   },
   {
     "channel": "PressTV",
-    "text": "Enemy shifts to psychological warfare after 200 days of Iranian resistance: IRGC Intelligence he Islamic Revolution Guards Corps (IRGC) Intelligence Organization has warned that the enemy, frustrated by 200 days of Iranian resistance, is now pursuing a strategy of \"eroding national stability and resilience through psychological warfare.\" @PressTV",
+    "text": "العدو يتحول إلى الحرب النفسية بعد 200 يوم من المقاومة الإيرانية: حذرت استخبارات الحرس الثوري الإيراني من أن العدو، الذي يشعر بالإحباط بسبب 200 يوم من المقاومة الإيرانية، يتبع الآن استراتيجية \"تقويض الاستقرار الوطني والمرونة من خلال الحرب النفسية\". @برس تي في",
     "time": "23:53",
     "views": 0,
-    "date": "الإثنين 31 أغسطس 2026"
+    "date": "الإثنين 31 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "Palestinians condemn Israeli far-right minister Itamar Ben-Gvir after he posted a video mocking the harsh conditions of female Palestinian prisoners. @PressTV",
+    "text": "أدان الفلسطينيون الوزير الإسرائيلي اليميني المتطرف إيتامار بن غفير بعد أن نشر مقطع فيديو يسخر من الظروف القاسية للأسيرات الفلسطينيات. @برس تي في",
     "time": "23:42",
     "views": 0,
-    "date": "الإثنين 31 أغسطس 2026"
+    "date": "الإثنين 31 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "Trump's DHS uses obscure law for 'outrageous' spy campaign on journalists: Report The US Department of Homeland Security, acting with the backing of President Donald Trump, has launched an outrageous surveillance operation against journalists, non-profits and unions by misusing an obscure customs statute, without judicial oversight and in violation of the US Constitution. @PressTV",
+    "text": "تستخدم وزارة الأمن الداخلي التابعة لترامب قانونًا غامضًا لحملة تجسس \"شنيعة\" على الصحفيين: تقرير أطلقت وزارة الأمن الداخلي الأمريكية، بدعم من الرئيس دونالد ترامب، عملية مراقبة شنيعة ضد الصحفيين والمنظمات غير الربحية والنقابات من خلال إساءة استخدام قانون جمركي غامض، دون إشراف قضائي وفي انتهاك لدستور الولايات المتحدة. @برس تي في",
     "time": "23:32",
     "views": 0,
-    "date": "الإثنين 31 أغسطس 2026"
+    "date": "الإثنين 31 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "Ebrahim Azizi, Chairman of the National Security Committee of Iran's Parliament, on X: @PressTV",
+    "text": "إبراهيم عزيزي، رئيس لجنة الأمن القومي في البرلمان الإيراني، على قناة X: @PressTV",
     "time": "23:17",
     "views": 0,
-    "date": "الإثنين 31 أغسطس 2026"
-  },
-  {
-    "channel": "PressTV",
-    "text": "Footage shows the moment IRGC launched ballistic missiles at the technical and maintenance infrastructure and fighter-jet positions at two US air bases in Jordan—King Hussein and Al-Azraq. @PressTV",
-    "time": "23:04",
-    "views": 0,
-    "date": "الإثنين 31 أغسطس 2026"
-  },
-  {
-    "channel": "PressTV",
-    "text": "IRGC statement: Technical maintenance infrastructure, enemy fighter jets location at two US bases destroyed @PressTV",
-    "time": "22:58",
-    "views": 0,
-    "date": "الإثنين 31 أغسطس 2026"
+    "date": "الإثنين 31 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -275,24 +265,51 @@
   },
   {
     "channel": "PressTV",
-    "text": "IRGC says super tanker hits two naval mines in 'illegal' route in southern Hormuz Strait. @PressTV",
+    "text": "يستهدف الحرس الثوري الإيراني البنية التحتية التقنية والصيانة وموقع الطائرات المقاتلة في قاعدتين أمريكيتين في الأردن. @برس تي في",
+    "time": "05:03",
+    "views": 504,
+    "date": "الإثنين 31 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "\"هجوم جزيرة لاراك لن يغير سيطرة إيران على هرمز\" يقول الأكاديمي والباحث جيم كافاناغ إن الهجوم على جزيرة لاراك لن يغير الوضع على الأرض لصالح الولايات المتحدة، وستواصل إيران السيطرة على الخليج العربي ومضيق هرمز. @برس تي في",
+    "time": "05:02",
+    "views": 487,
+    "date": "الإثنين 31 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "بيزشكيان يغادر طهران متوجها إلى بيشكيك لحضور قمة منظمة شنغهاي للتعاون واجتماع شنغهاي بلس. @برس تي في",
+    "time": "05:02",
+    "views": 516,
+    "date": "الإثنين 31 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "الحرس الثوري الإيراني يقول إن ناقلة عملاقة اصطدمت بلغمين بحريين في طريق \"غير قانوني\" جنوب مضيق هرمز. @برس تي في",
     "time": "04:43",
-    "views": 346,
-    "date": "الإثنين 31 أغسطس 2026"
+    "views": 840,
+    "date": "الإثنين 31 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "Iran’s Army targeted the positions of US helicopters and forces at the Al-Minhad base in the UAE with drones. @PressTV",
+    "text": "استهدف الجيش الإيراني مواقع المروحيات والقوات الأمريكية في قاعدة المنهاد في الإمارات بطائرات مسيرة. @برس تي في",
     "time": "04:24",
-    "views": 742,
-    "date": "الإثنين 31 أغسطس 2026"
+    "views": 0,
+    "date": "الإثنين 31 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "Iran's Islamic Revolution Guards Corps targets American military assets in two Jordanian bases in retaliation for an earlier US attack on Larak Island. @PressTV",
+    "text": "استهدف الحرس الثوري الإيراني الأصول العسكرية الأمريكية في قاعدتين أردنيتين ردا على هجوم أمريكي سابق على جزيرة لارك. @برس تي في",
     "time": "04:14",
-    "views": 855,
-    "date": "الإثنين 31 أغسطس 2026"
+    "views": 0,
+    "date": "الإثنين 31 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
@@ -577,10 +594,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "Imagine for a moment in time that this is your child? How would you feel about the Zionists?",
+    "text": "تخيل للحظة من الزمن أن هذا هو طفلك؟ كيف سيكون شعورك تجاه الصهاينة؟",
     "time": "20:57",
     "views": 217,
-    "date": "الجمعة 28 أغسطس 2026"
+    "date": "الجمعة 28 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
