@@ -33,10 +33,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "Ebrahim Azizi, Chairman of the National Security Committee of Iran's Parliament, on X: @PressTV",
+    "text": "إبراهيم عزيزي، رئيس لجنة الأمن القومي في البرلمان الإيراني، على قناة X: @PressTV",
     "time": "23:17",
     "views": 0,
-    "date": "الإثنين 31 أغسطس 2026"
+    "date": "الإثنين 31 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
@@ -64,10 +65,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "Iranian missiles heading towards US bases in West Asia @PressTV",
+    "text": "صواريخ إيرانية تتجه نحو القواعد الأمريكية في غرب آسيا @PressTV",
     "time": "22:24",
     "views": 0,
-    "date": "الإثنين 31 أغسطس 2026"
+    "date": "الإثنين 31 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -81,14 +83,6 @@
     "channel": "MiddleEastMonitor",
     "text": "المحكمة الوطنية الإسبانية تفتح تحقيقا مع مسؤولين عسكريين إسرائيليين بشأن اعتراض أسطول الحرية في غزة",
     "time": "22:11",
-    "views": 0,
-    "date": "الإثنين 31 أغسطس 2026",
-    "translated": true
-  },
-  {
-    "channel": "PressTV",
-    "text": "أسعار النفط العالمية ترتفع وسط تصاعد التوترات في الخليج العربي @PressTV",
-    "time": "22:08",
     "views": 0,
     "date": "الإثنين 31 أغسطس 2026",
     "translated": true
@@ -303,9 +297,25 @@
   },
   {
     "channel": "PressTV",
+    "text": "استهدف الحرس الثوري الإيراني الأصول العسكرية الأمريكية في قاعدتين أردنيتين ردا على هجوم أمريكي سابق على جزيرة لارك. @برس تي في",
+    "time": "04:14",
+    "views": 158,
+    "date": "الإثنين 31 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "وشعر سكان شرق طهران بالهزة قبل دقائق قليلة. سيتم توفير المزيد من المعلومات عندما تصبح متاحة. @برس تي في",
+    "time": "03:58",
+    "views": 531,
+    "date": "الإثنين 31 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
     "text": "الحرس الثوري الإيراني: سقوط طائرة أمريكية بدون طيار من طراز MQ-9 فوق مضيق هرمز وتحطمها في مياه الخليج العربي. @برس تي في",
     "time": "03:43",
-    "views": 288,
+    "views": 746,
     "date": "الإثنين 31 أغسطس 2026",
     "translated": true
   },
@@ -320,23 +330,25 @@
     "channel": "PressTV",
     "text": "الرئيس الإيراني: لا نسعى للحرب لكننا سنرد بقوة على المعتدي @PressTV",
     "time": "03:09",
-    "views": 798,
+    "views": 0,
     "date": "الإثنين 31 أغسطس 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "Yemen's health ministry warns blockade is worsening healthcare crisis Noura Mansour reports from Sana'a @PressTV",
+    "text": "وزارة الصحة اليمنية تحذر من أن الحصار يؤدي إلى تفاقم أزمة الرعاية الصحية تقرير نورا منصور من صنعاء @PressTV",
     "time": "02:52",
     "views": 0,
-    "date": "الإثنين 31 أغسطس 2026"
+    "date": "الإثنين 31 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "Ben-Gvir rapped for exploiting Palestinian women’s suffering at Damon Prison Teebah Assi reports from Jenin @PressTV",
+    "text": "بن جفير يتعرض لموسيقى الراب لاستغلاله معاناة النساء الفلسطينيات في سجن الدامون، تقارير طيبة عاصي من جنين @PressTV",
     "time": "02:35",
     "views": 0,
-    "date": "الإثنين 31 أغسطس 2026"
+    "date": "الإثنين 31 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
