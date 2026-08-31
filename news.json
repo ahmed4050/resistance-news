@@ -129,16 +129,23 @@
   },
   {
     "channel": "PressTV",
+    "text": "Press TV's Zainab Virani says Iran sees the SCO as consistent with its long-standing policies of multilateralism and multipolarity. @PressTV",
+    "time": "16:40",
+    "views": 204,
+    "date": "الإثنين 31 أغسطس 2026"
+  },
+  {
+    "channel": "PressTV",
     "text": "🔴 IRGC Aerospace Force shot down an MQ-9 drone in the eastern Strait of Hormuz using the new advanced air defense system. @PressTV",
     "time": "16:33",
-    "views": 191,
+    "views": 383,
     "date": "الإثنين 31 أغسطس 2026"
   },
   {
     "channel": "PressTV",
     "text": "Iran's President Pezeshkian and Pakistan's PM Sharif met on the sidelines of the SCO summit in Bishkek, Kyrgyzstan. @PressTV",
     "time": "16:32",
-    "views": 228,
+    "views": 372,
     "date": "الإثنين 31 أغسطس 2026"
   },
   {
@@ -153,7 +160,7 @@
     "channel": "PressTV",
     "text": "Iranian President Pezeshkian attends the opening ceremony of the 6th World Nomad Games in Bishkek, Kyrgyzstan. @PressTV",
     "time": "16:18",
-    "views": 418,
+    "views": 545,
     "date": "الإثنين 31 أغسطس 2026"
   },
   {
@@ -176,7 +183,7 @@
     "channel": "PressTV",
     "text": "Israeli settlers attack journalists in Birzeit, north of Ramallah, occupied West Bank. @PressTV",
     "time": "16:09",
-    "views": 546,
+    "views": 658,
     "date": "الإثنين 31 أغسطس 2026"
   },
   {
@@ -191,14 +198,14 @@
     "channel": "PressTV",
     "text": "“Security in the Strait of Hormuz is guaranteed by one sovereign power alone: Iran” Ebrahim Azizi, chairman of the Iranian Parliament’s National Security Committee, highlights Iran’s role as the sole guarantor of security in the Strait of Hormuz after a supertanker strikes mines in the strategic waterway. @PressTV",
     "time": "15:57",
-    "views": 733,
+    "views": 808,
     "date": "الإثنين 31 أغسطس 2026"
   },
   {
     "channel": "PressTV",
     "text": "Israeli forces demolish several remaining homes in Houla, southern Lebanon. @PressTV",
     "time": "15:47",
-    "views": 842,
+    "views": 908,
     "date": "الإثنين 31 أغسطس 2026"
   },
   {
@@ -213,7 +220,7 @@
     "channel": "PressTV",
     "text": "'The bully strikes again', 'Total robbery' Social media speak of Trump oil deal with Venezuela @PressTV",
     "time": "15:37",
-    "views": 908,
+    "views": 971,
     "date": "الإثنين 31 أغسطس 2026"
   },
   {
@@ -357,13 +364,6 @@
     "views": 0,
     "date": "الإثنين 31 أغسطس 2026",
     "translated": true
-  },
-  {
-    "channel": "PressTV",
-    "text": "🔴 Top source: 🔺 For every US aggression against Iran, a response will be delivered dozens of times greater 🔺 Iran's retaliation against US Larak aggression showed 'no targets in West Asia stand beyond Tehran's reach' @PressTV",
-    "time": "13:50",
-    "views": 0,
-    "date": "الإثنين 31 أغسطس 2026"
   },
   {
     "channel": "suppressednews",
@@ -557,10 +557,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "BREAKING: Initial reports of at-least 100 Martyrs in an Israeli strike that targeted \"Al-Tabi'in\" school in Al-Daraj neighborhood in central Gaza City.",
+    "text": "عاجل: التقارير الأولية عن استشهاد ما لا يقل عن 100 شهيد في قصف إسرائيلي استهدف مدرسة \"التابعين\" في حي الدرج وسط مدينة غزة.",
     "time": "02:56",
     "views": 152,
-    "date": "الأحد 30 أغسطس 2026"
+    "date": "الأحد 30 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
