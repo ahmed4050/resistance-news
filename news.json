@@ -17,10 +17,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "Palestinians condemn Israeli far-right minister Itamar Ben-Gvir after he posted a video mocking the harsh conditions of female Palestinian prisoners. @PressTV",
+    "text": "أدان الفلسطينيون الوزير الإسرائيلي اليميني المتطرف إيتامار بن غفير بعد أن نشر مقطع فيديو يسخر من الظروف القاسية للأسيرات الفلسطينيات. @برس تي في",
     "time": "23:42",
     "views": 0,
-    "date": "الإثنين 31 أغسطس 2026"
+    "date": "الإثنين 31 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
@@ -48,17 +49,19 @@
   },
   {
     "channel": "PressTV",
-    "text": "IRGC statement: Technical maintenance infrastructure, enemy fighter jets location at two US bases destroyed @PressTV",
+    "text": "بيان الحرس الثوري الإيراني: تم تدمير البنية التحتية للصيانة الفنية وموقع طائرات العدو المقاتلة في قاعدتين أمريكيتين @PressTV",
     "time": "22:58",
     "views": 0,
-    "date": "الإثنين 31 أغسطس 2026"
+    "date": "الإثنين 31 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "Qatar’s Interior Ministry raises security threat levels, urges residents to stay indoors after Iran strike @PressTV",
+    "text": "وزارة الداخلية القطرية ترفع مستويات التهديد الأمني ​​وتحث السكان على البقاء في منازلهم بعد الضربة الإيرانية @PressTV",
     "time": "22:51",
     "views": 0,
-    "date": "الإثنين 31 أغسطس 2026"
+    "date": "الإثنين 31 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
@@ -86,10 +89,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "Global oil prices rise amid escalating tensions in the Persian Gulf @PressTV",
+    "text": "أسعار النفط العالمية ترتفع وسط تصاعد التوترات في الخليج العربي @PressTV",
     "time": "22:08",
     "views": 0,
-    "date": "الإثنين 31 أغسطس 2026"
+    "date": "الإثنين 31 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -109,10 +113,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "Footage reportedly shows missiles being fired from Iran at enemy positions. Press TV cannot independently verify the authenticity of the video. @PressTV",
+    "text": "وبحسب ما ورد تظهر اللقطات إطلاق صواريخ من إيران على مواقع العدو. لا يمكن لـ Press TV التحقق بشكل مستقل من صحة الفيديو. @برس تي في",
     "time": "21:43",
     "views": 0,
-    "date": "الإثنين 31 أغسطس 2026"
+    "date": "الإثنين 31 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -323,16 +328,25 @@
   },
   {
     "channel": "PressTV",
-    "text": "Ben-Gvir rapped for exploiting Palestinian women’s suffering at Damon Prison Teebah Assi reports from Jenin @PressTV",
+    "text": "وزارة الصحة اليمنية تحذر من أن الحصار يؤدي إلى تفاقم أزمة الرعاية الصحية تقرير نورا منصور من صنعاء @PressTV",
+    "time": "02:52",
+    "views": 131,
+    "date": "الإثنين 31 أغسطس 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "بن جفير يتعرض لموسيقى الراب لاستغلاله معاناة النساء الفلسطينيات في سجن الدامون، تقارير طيبة عاصي من جنين @PressTV",
     "time": "02:35",
-    "views": 319,
-    "date": "الإثنين 31 أغسطس 2026"
+    "views": 472,
+    "date": "الإثنين 31 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
     "text": "ما لا يقل عن 20 شخصا في عداد المفقودين بعد الفيضانات المفاجئة في حديقة جراند كانيون الوطنية في ولاية أريزونا @PressTV",
     "time": "01:54",
-    "views": 924,
+    "views": 0,
     "date": "الإثنين 31 أغسطس 2026",
     "translated": true
   },
@@ -346,10 +360,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "A forest fire is currently burning and being fueled by strong winds at Jebel Bargou, Tunisia. @PressTV",
+    "text": "تشتعل حاليًا حرائق الغابات وتؤججها الرياح القوية في جبل برقو بتونس. @برس تي في",
     "time": "00:26",
     "views": 0,
-    "date": "الإثنين 31 أغسطس 2026"
+    "date": "الإثنين 31 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
@@ -377,10 +392,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-taking-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"There was crazy hysteria, with decisions made without any verified information\": IDF ordered Hannibal directive on October 7 to prevent Hamas taking soldiers captive",
+    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-take-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"هناك \"كانت هستيريا جنونية، مع اتخاذ قرارات دون أي معلومات تم التحقق منها\": أمر جيش الدفاع الإسرائيلي بتوجيه هانيبال في 7 أكتوبر بمنع حماس من أسر الجنود",
     "time": "21:46",
     "views": 225,
-    "date": "الأحد 30 أغسطس 2026"
+    "date": "الأحد 30 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -552,10 +568,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "They stole his joy. He went to obtain a birth certificate for the twins Aser and Aysel - 4 days later. He returned and they were martyred along with their mother. What pain does it have to hold the birth certificate and death certificate of your children on the same day? God is sufficient for us, and He is the best disposer of affairs 💔 💔 💔 💔",
+    "text": "سرقوا فرحته وتوجه للحصول على شهادة ميلاد للتوأم آسر وأيسل – بعد 4 أيام. فرجع فاستشهدوا مع أمهم. ما الألم الذي يسببه حمل شهادة ميلاد ووفاة أطفالك في نفس اليوم؟ حسبنا الله ونعم الوكيل 💔 💔 💔 💔",
     "time": "18:26",
     "views": 175,
-    "date": "السبت 29 أغسطس 2026"
+    "date": "السبت 29 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
@@ -591,10 +608,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "Yesterday, Israel beheaded a Palestinian child in gaza 🔞 🔞 🔞 🔞",
+    "text": "بالأمس قطعت إسرائيل رأس طفل فلسطيني في غزة 🔞 🔞 🔞 🔞",
     "time": "17:24",
     "views": 359,
-    "date": "الجمعة 28 أغسطس 2026"
+    "date": "الجمعة 28 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
