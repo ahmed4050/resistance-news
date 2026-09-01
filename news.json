@@ -1,10 +1,11 @@
 [
   {
     "channel": "PressTV",
-    "text": "🔺 Yemeni armed forces targeted Saudi- and Emirati-backed mercenary camps and positions in Mokha, Taiz province, and Al-Khokha, Hudaydah province, early Tuesday. 🔺 The attacks involved ballistic missiles and attack drones. @PressTV",
+    "text": "🔺 استهدفت القوات المسلحة اليمنية، فجر اليوم الثلاثاء، معسكرات ومواقع المرتزقة المدعومة من السعودية والإمارات في المخا بمحافظة تعز والخوخة بمحافظة الحديدة. 🔺 استخدمت في الهجمات صواريخ باليستية وطائرات مسيرة هجومية. @برس تي في",
     "time": "23:45",
     "views": 0,
-    "date": "الثلاثاء 1 سبتمبر 2026"
+    "date": "الثلاثاء 1 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
@@ -24,25 +25,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "🔴 UKMTO announced that a tanker was struck by three unknown projectiles 17 nautical miles east of Khasab, Oman, while transiting outbound through the Strait of Hormuz. @PressTV",
+    "text": "🔴 أعلنت UKMTO أن ناقلة أصيبت بثلاثة مقذوفات مجهولة على بعد 17 ميلًا بحريًا شرق خصب بسلطنة عمان، أثناء عبورها للخارج عبر مضيق هرمز. @برس تي في",
     "time": "22:56",
-    "views": 0,
-    "date": "الثلاثاء 1 سبتمبر 2026"
-  },
-  {
-    "channel": "PressTV",
-    "text": "🔴 المتحدث باسم وزارة الخارجية الإيرانية بقائي يقول إن أوروبا لا يمكنها المطالبة بـ”الحكم الذاتي الاستراتيجي” مع اتباع أوامر واشنطن، مشددا على أن الحكم الذاتي الحقيقي يعني اتخاذ قرارات مستقلة. @برس تي في",
-    "time": "22:45",
     "views": 0,
     "date": "الثلاثاء 1 سبتمبر 2026",
     "translated": true
-  },
-  {
-    "channel": "PressTV",
-    "text": "🔴 Knife-wielding woman approaches NYC officers before being shot; area reportedly placed on lockdown. @PressTV",
-    "time": "22:34",
-    "views": 0,
-    "date": "الثلاثاء 1 سبتمبر 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -51,13 +38,6 @@
     "views": 0,
     "date": "الثلاثاء 1 سبتمبر 2026",
     "translated": true
-  },
-  {
-    "channel": "PressTV",
-    "text": "🔴 US Army Secretary Dan Driscoll resigns after months of friction with War Secretary Pete Hegseth @PressTV",
-    "time": "22:17",
-    "views": 0,
-    "date": "الثلاثاء 1 سبتمبر 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -74,13 +54,6 @@
     "views": 0,
     "date": "الثلاثاء 1 سبتمبر 2026",
     "translated": true
-  },
-  {
-    "channel": "PressTV",
-    "text": "North Korea says it will maintain and expand its nuclear capabilities despite US pressure for denuclearization and growing regional military tensions. @PressTV",
-    "time": "21:58",
-    "views": 0,
-    "date": "الثلاثاء 1 سبتمبر 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -283,6 +256,14 @@
     "translated": true
   },
   {
+    "channel": "PressTV",
+    "text": "📷 الرئيس القيرغيزي صدر جباروف والرئيس الإيراني مسعود بيزشكيان يلتقطان صورة تذكارية في قمة منظمة شنغهاي للتعاون في بيشكيك، قيرغيزستان. @برس تي في",
+    "time": "04:20",
+    "views": 67,
+    "date": "الثلاثاء 1 سبتمبر 2026",
+    "translated": true
+  },
+  {
     "channel": "suppressednews",
     "text": "#شاهد .. استهداف مجاهدي كتائب القسام لجنود العدو وآلياته في محاور القتال بمدينة رفح جنوب القطاع #طوفان_الأقصى",
     "time": "03:26",
@@ -291,73 +272,83 @@
   },
   {
     "channel": "PressTV",
-    "text": "Sister of martyred distinguished Iranian student Sadra Nejabat: \"I only wanted to see him for the last time.\" @PressTV",
+    "text": "شقيقة الطالب الإيراني المتميز الشهيد صدرا نجابات: \"أردت رؤيته للمرة الأخيرة فقط\" @برس تي في",
     "time": "03:15",
-    "views": 552,
-    "date": "الثلاثاء 1 سبتمبر 2026"
+    "views": 789,
+    "date": "الثلاثاء 1 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "A new Reuters/Ipsos poll shows that just 33% of Americans approve of Trump’s performance, while most are frustrated and dissatisfied with the war with Iran and the rising cost of living. @PressTV",
+    "text": "ويظهر استطلاع جديد أجرته رويترز/إبسوس أن 33% فقط من الأميركيين يوافقون على أداء ترامب، في حين يشعر معظمهم بالإحباط وعدم الرضا عن الحرب مع إيران وارتفاع تكاليف المعيشة. @برس تي في",
     "time": "02:45",
-    "views": 797,
-    "date": "الثلاثاء 1 سبتمبر 2026"
+    "views": 0,
+    "date": "الثلاثاء 1 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "Social media users and American activists describe Trump’s announcement of what he calls a deal with Venezuela to seize Venezuelan oil as the biggest oil theft in history. @PressTV",
+    "text": "ويصف مستخدمو وسائل التواصل الاجتماعي والناشطون الأمريكيون إعلان ترامب عما يسميه صفقة مع فنزويلا للاستيلاء على النفط الفنزويلي بأنه أكبر سرقة نفط في التاريخ. @برس تي في",
     "time": "02:37",
-    "views": 830,
-    "date": "الثلاثاء 1 سبتمبر 2026"
+    "views": 0,
+    "date": "الثلاثاء 1 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "Israeli forces blow up homes of displaced Lebanese residents in Khiam, southern Lebanon. @PressTV",
+    "text": "القوات الإسرائيلية تفجر منازل النازحين اللبنانيين في الخيام بجنوب لبنان. @برس تي في",
     "time": "02:08",
-    "views": 982,
-    "date": "الثلاثاء 1 سبتمبر 2026"
+    "views": 0,
+    "date": "الثلاثاء 1 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "“This is an illegal war” Nick Mottern says continued US-Israeli attacks against Iran could have serious consequences for the global economy. @PressTV",
+    "text": "\"هذه حرب غير قانونية\" يقول نيك موتيرن إن الهجمات الأمريكية الإسرائيلية المستمرة ضد إيران يمكن أن يكون لها عواقب وخيمة على الاقتصاد العالمي. @برس تي في",
     "time": "01:50",
     "views": 0,
-    "date": "الثلاثاء 1 سبتمبر 2026"
+    "date": "الثلاثاء 1 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "🔺 In a letter to the UN Security Council, Iran’s UN envoy Gholamhossein Darzi condemns the latest US aggression against Larak Island as a blatant violation of Iran’s sovereignty, territorial integrity and Article 2(4) of the UN Charter. @PressTV",
+    "text": "🔺 في رسالة إلى مجلس الأمن الدولي، أدان مبعوث إيران لدى الأمم المتحدة غلام حسين درزي العدوان الأمريكي الأخير على جزيرة لاراك ووصفه بأنه انتهاك صارخ لسيادة إيران وسلامة أراضيها والمادة 2 (4) من ميثاق الأمم المتحدة. @برس تي في",
     "time": "01:24",
     "views": 0,
-    "date": "الثلاثاء 1 سبتمبر 2026"
+    "date": "الثلاثاء 1 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "Press TV’s Motee Abu Musabeh reports on the catastrophic situation in the Gaza Strip. @PressTV",
+    "text": "مطيع أبو مصبح من قناة برس تي في يتحدث عن الوضع الكارثي في ​​قطاع غزة. @برس تي في",
     "time": "00:52",
     "views": 0,
-    "date": "الثلاثاء 1 سبتمبر 2026"
+    "date": "الثلاثاء 1 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "Saudis to borrow $8 billion amid economic fallout of US-Israel war on Iran: Report Saudi Arabia plans to raise at least $8 billion from a fresh loan, as the US-Israel war of aggression on Iran has severely impacted the economy of the oil-rich kingdom, according to a report. @PressTV",
+    "text": "السعوديون يقترضون 8 مليارات دولار وسط التداعيات الاقتصادية للحرب الأمريكية الإسرائيلية على إيران: تقرير تخطط المملكة العربية السعودية لجمع ما لا يقل عن 8 مليارات دولار من قرض جديد، حيث أثرت الحرب العدوانية الأمريكية الإسرائيلية على إيران بشدة على اقتصاد المملكة الغنية بالنفط، وفقًا لتقرير. @برس تي في",
     "time": "00:31",
     "views": 0,
-    "date": "الثلاثاء 1 سبتمبر 2026"
+    "date": "الثلاثاء 1 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "EU surrenders sovereignty to US coercion, becomes accessory to economic terrorism: Iran FM spokesman The European Union has surrendered its sovereignty, laws, values and ethics to American coercion and turned itself into an accessory to Washington’s lawless…",
+    "text": "المتحدث باسم وزير الخارجية الإيراني: الاتحاد الأوروبي يسلم سيادته للإكراه الأمريكي ويصبح شريكًا للإرهاب الاقتصادي: لقد سلّم الاتحاد الأوروبي سيادته وقوانينه وقيمه وأخلاقه للإكراه الأمريكي وحوّل نفسه إلى شريك لواشنطن الخارجة عن القانون.",
     "time": "00:15",
     "views": 0,
-    "date": "الثلاثاء 1 سبتمبر 2026"
+    "date": "الثلاثاء 1 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "Greece inks $3.5 billion deal to buy comprehensive missile system from Israel Israel and Greece have signed a massive 3 billion euro ($3.5 billion) deal, under which the Tel Aviv regime will beef up the Mediterranean country’s defenses and build a “multi-layered” missile system for it, as the two sides continue to expand their military relationship. @PressTV",
+    "text": "اليونان توقع صفقة بقيمة 3.5 مليار دولار لشراء نظام صاروخي شامل من إسرائيل وقعت إسرائيل واليونان صفقة ضخمة بقيمة 3 مليارات يورو (3.5 مليار دولار)، بموجبها سيعزز نظام تل أبيب دفاعات الدولة المتوسطية ويبني نظامًا صاروخيًا “متعدد الطبقات” لها، بينما يواصل الجانبان توسيع علاقتهما العسكرية. @برس تي في",
     "time": "00:02",
     "views": 0,
-    "date": "الثلاثاء 1 سبتمبر 2026"
+    "date": "الثلاثاء 1 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -586,11 +577,10 @@
   },
   {
     "channel": "suppressednews",
-    "text": "بالأمس قطعت إسرائيل رأس طفل فلسطيني في غزة 🔞 🔞 🔞 🔞",
+    "text": "Yesterday, Israel beheaded a Palestinian child in gaza 🔞 🔞 🔞 🔞",
     "time": "17:24",
     "views": 359,
-    "date": "السبت 29 أغسطس 2026",
-    "translated": true
+    "date": "السبت 29 أغسطس 2026"
   },
   {
     "channel": "suppressednews",
