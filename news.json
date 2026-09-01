@@ -128,14 +128,6 @@
     "translated": true
   },
   {
-    "channel": "PressTV",
-    "text": "نظم اليهود الحريديم المعارضون للخدمة العسكرية الإجبارية، وقفة احتجاجية عند مدخل مدينة القدس المحتلة، مما أدى إلى عرقلة حركة المرور وتعطيل الحركة. @برس تي في",
-    "time": "21:10",
-    "views": 0,
-    "date": "الثلاثاء 1 سبتمبر 2026",
-    "translated": true
-  },
-  {
     "channel": "MiddleEastMonitor",
     "text": "إسرائيل تعتقل مفتي القدس وتمنعه ​​من دخول المسجد الأقصى لمدة أسبوع",
     "time": "21:00",
@@ -328,9 +320,17 @@
   },
   {
     "channel": "PressTV",
+    "text": "ويظهر استطلاع جديد أجرته رويترز/إبسوس أن 33% فقط من الأميركيين يوافقون على أداء ترامب، في حين يشعر معظمهم بالإحباط وعدم الرضا عن الحرب مع إيران وارتفاع تكاليف المعيشة. @برس تي في",
+    "time": "02:45",
+    "views": 152,
+    "date": "الثلاثاء 1 سبتمبر 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
     "text": "ويصف مستخدمو وسائل التواصل الاجتماعي والناشطون الأمريكيون إعلان ترامب عما يسميه صفقة مع فنزويلا للاستيلاء على النفط الفنزويلي بأنه أكبر سرقة نفط في التاريخ. @برس تي في",
     "time": "02:37",
-    "views": 111,
+    "views": 245,
     "date": "الثلاثاء 1 سبتمبر 2026",
     "translated": true
   },
@@ -338,22 +338,23 @@
     "channel": "PressTV",
     "text": "القوات الإسرائيلية تفجر منازل نازحين لبنانيين في الخيام بجنوب لبنان. @برس تي في",
     "time": "02:08",
-    "views": 422,
+    "views": 515,
     "date": "الثلاثاء 1 سبتمبر 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "“This is an illegal war” Nick Mottern says continued US-Israeli attacks against Iran could have serious consequences for the global economy. @PressTV",
+    "text": "\"هذه حرب غير قانونية\" يقول نيك موتيرن إن الهجمات الأمريكية الإسرائيلية المستمرة ضد إيران يمكن أن يكون لها عواقب وخيمة على الاقتصاد العالمي. @برس تي في",
     "time": "01:50",
-    "views": 582,
-    "date": "الثلاثاء 1 سبتمبر 2026"
+    "views": 661,
+    "date": "الثلاثاء 1 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
     "text": "🔺 في رسالة إلى مجلس الأمن الدولي، أدان مبعوث إيران لدى الأمم المتحدة غلام حسين درزي العدوان الأمريكي الأخير على جزيرة لاراك ووصفه بأنه انتهاك صارخ لسيادة إيران وسلامة أراضيها والمادة 2 (4) من ميثاق الأمم المتحدة. @برس تي في",
     "time": "01:24",
-    "views": 754,
+    "views": 828,
     "date": "الثلاثاء 1 سبتمبر 2026",
     "translated": true
   },
@@ -361,7 +362,7 @@
     "channel": "PressTV",
     "text": "مطيع أبو مصبح من قناة برس تي في يتحدث عن الوضع الكارثي في ​​قطاع غزة. @برس تي في",
     "time": "00:52",
-    "views": 981,
+    "views": 0,
     "date": "الثلاثاء 1 سبتمبر 2026",
     "translated": true
   },
@@ -382,11 +383,10 @@
   },
   {
     "channel": "PressTV",
-    "text": "اليونان توقع صفقة بقيمة 3.5 مليار دولار لشراء نظام صاروخي شامل من إسرائيل وقعت إسرائيل واليونان صفقة ضخمة بقيمة 3 مليارات يورو (3.5 مليار دولار)، بموجبها سيعزز نظام تل أبيب دفاعات الدولة المتوسطية ويبني نظامًا صاروخيًا “متعدد الطبقات” لها، بينما يواصل الجانبان توسيع علاقتهما العسكرية. @برس تي في",
+    "text": "Greece inks $3.5 billion deal to buy comprehensive missile system from Israel Israel and Greece have signed a massive 3 billion euro ($3.5 billion) deal, under which the Tel Aviv regime will beef up the Mediterranean country’s defenses and build a “multi-layered” missile system for it, as the two sides continue to expand their military relationship. @PressTV",
     "time": "00:02",
     "views": 0,
-    "date": "الثلاثاء 1 سبتمبر 2026",
-    "translated": true
+    "date": "الثلاثاء 1 سبتمبر 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -406,11 +406,10 @@
   },
   {
     "channel": "suppressednews",
-    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-take-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"هناك \"كانت هستيريا جنونية، مع اتخاذ قرارات دون أي معلومات تم التحقق منها\": أمر جيش الدفاع الإسرائيلي بتوجيه هانيبال في 7 أكتوبر بمنع حماس من أسر الجنود",
+    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-taking-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"There was crazy hysteria, with decisions made without any verified information\": IDF ordered Hannibal directive on October 7 to prevent Hamas taking soldiers captive",
     "time": "21:46",
     "views": 225,
-    "date": "الإثنين 31 أغسطس 2026",
-    "translated": true
+    "date": "الإثنين 31 أغسطس 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -589,11 +588,10 @@
   },
   {
     "channel": "suppressednews",
-    "text": "أربعون يوماً وليلة، رثى الإعلام الغربي كذبة أطفال إسرائيليين مقطوعة الرأس، التي خدع بها الاحتلال العالم، ولم يروا صورة واحدة تؤكد ادعاءاته... بينما أطفال غزة مقطوعي الرأس يظهرون لنا كل يوم بصور مؤلمة، دون بكاء، ولا يجرؤ الإعلام المنحاز للاحتلال والمتواطئ في الجريمة. 💔 💔 💔 💔 ؟؟؟؟؟؟؟",
+    "text": "For forty days and nights, the Western media lamented the lie of Israeli children with their heads cut off, with which the occupation deceived the world, and they did not see a single picture confirming its claims... while every day the headless children of Gaza appear to us in painful pictures, without their weeping, and the media biased towards the occupation and complicit in the crime does not dare. 💔 💔 💔 💔 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭",
     "time": "04:39",
     "views": 184,
-    "date": "الأحد 30 أغسطس 2026",
-    "translated": true
+    "date": "الأحد 30 أغسطس 2026"
   },
   {
     "channel": "suppressednews",
