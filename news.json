@@ -1,9 +1,17 @@
 [
   {
     "channel": "PressTV",
+    "text": "📸 قوات الاحتلال تنفذ غارة جوية استهدفت محيط شارع المشتهى بحي الشجاعية شرق مدينة غزة. @برس تي في",
+    "time": "23:45",
+    "views": 170,
+    "date": "الجمعة 4 سبتمبر 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
     "text": "◀️ ورد أن طائرات بدون طيار أوكرانية قصفت مدينة سوتشي في منطقة كراسنودار كراي الروسية. @برس تي في",
     "time": "23:30",
-    "views": 255,
+    "views": 365,
     "date": "الجمعة 4 سبتمبر 2026",
     "translated": true
   },
@@ -11,7 +19,7 @@
     "channel": "PressTV",
     "text": "📸 أفاد تحليل لوكالة رويترز أن الضربة القاتلة التي استهدفت حفل زفاف في كوهستاك، جنوب إيران، كانت ضربة مباشرة بذخيرة أمريكية. @برس تي في",
     "time": "23:15",
-    "views": 413,
+    "views": 500,
     "date": "الجمعة 4 سبتمبر 2026",
     "translated": true
   },
@@ -19,7 +27,7 @@
     "channel": "PressTV",
     "text": "📸 في منشور على موقع Truth Social، الرئيس الأمريكي ترامب يعلن تعيين آدم تيل وزيراً جديداً للجيش بالوكالة. @برس تي في",
     "time": "23:00",
-    "views": 560,
+    "views": 639,
     "date": "الجمعة 4 سبتمبر 2026",
     "translated": true
   },
@@ -27,7 +35,7 @@
     "channel": "PressTV",
     "text": "📸 وافق مجلس النواب الأمريكي على مشروع قانون، 237-169، من شأنه حجب التمويل الفيدرالي ومعاقبة الجامعات التي تقاطع إسرائيل أو تقيد برامج تبادل الطلاب مع البلاد. @برس تي في",
     "time": "22:30",
-    "views": 869,
+    "views": 928,
     "date": "الجمعة 4 سبتمبر 2026",
     "translated": true
   },
@@ -153,11 +161,10 @@
   },
   {
     "channel": "PressTV",
-    "text": "📸 يقول المتحدث باسم وزارة الخارجية الإيرانية إن هناك فرقًا شاسعًا بين أمة متحضرة تعلمت أهمية الالتزام بالمبادئ الأخلاقية والإنسانية وبين الحكام المثيرين للحرب الذين لا يراعون سيادة القانون أو الأخلاق في استعراضهم للسلطة. @برس تي في",
+    "text": "📸 Iran's Foreign Ministry spokesman says there is a vast difference between a civilized nation that has learned the importance of adhering to moral and humanitarian principles and warmongering rulers who observe no rule of law or ethics in their projection of power. @PressTV",
     "time": "20:15",
     "views": 0,
-    "date": "الجمعة 4 سبتمبر 2026",
-    "translated": true
+    "date": "الجمعة 4 سبتمبر 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -184,25 +191,9 @@
     "translated": true
   },
   {
-    "channel": "PressTV",
-    "text": "◀️ صرح مسعود شادجاره أن الهجمات الأمريكية المتعمدة على المدارس وحفلات الزفاف في إيران تشكل جرائم حرب. @برس تي في",
-    "time": "19:32",
-    "views": 0,
-    "date": "الجمعة 4 سبتمبر 2026",
-    "translated": true
-  },
-  {
     "channel": "MiddleEastMonitor",
     "text": "\"الموت للمسيحيين\": تقرير يوثق تصاعد الهجمات ضد المسيحيين من قبل الإسرائيليين في القدس المحتلة",
     "time": "19:16",
-    "views": 0,
-    "date": "الجمعة 4 سبتمبر 2026",
-    "translated": true
-  },
-  {
-    "channel": "PressTV",
-    "text": "◀️ أنباء عن قصف إسرائيلي جديد على بلدة المنصوري جنوب لبنان. @برس تي في",
-    "time": "19:15",
     "views": 0,
     "date": "الجمعة 4 سبتمبر 2026",
     "translated": true
@@ -560,11 +551,10 @@
   },
   {
     "channel": "suppressednews",
-    "text": "تخيل للحظة أن هذا هو طفلك؟ كيف سيكون شعورك تجاه الصهاينة؟",
+    "text": "Imagine for a moment in time that this is your child? How would you feel about the Zionists?",
     "time": "20:57",
     "views": 217,
-    "date": "الثلاثاء 1 سبتمبر 2026",
-    "translated": true
+    "date": "الثلاثاء 1 سبتمبر 2026"
   },
   {
     "channel": "suppressednews",
@@ -576,18 +566,16 @@
   },
   {
     "channel": "suppressednews",
-    "text": "بالأمس قطعت إسرائيل رأس طفل فلسطيني في غزة 🔞 🔞 🔞 🔞",
+    "text": "Yesterday, Israel beheaded a Palestinian child in gaza 🔞 🔞 🔞 🔞",
     "time": "17:24",
     "views": 359,
-    "date": "الثلاثاء 1 سبتمبر 2026",
-    "translated": true
+    "date": "الثلاثاء 1 سبتمبر 2026"
   },
   {
     "channel": "suppressednews",
-    "text": "هكذا كان الطفل الجميل تيم قبل أن يقسمه إسرائيل إلى نصفين. ومع حجم بشاعة تلك المجازر فإنني أكره.",
+    "text": "This is how the beautiful child Tim was before Israel divided him into two halves. With the scale of the ugliness of those massacres, I hate.",
     "time": "17:22",
     "views": 284,
-    "date": "الثلاثاء 1 سبتمبر 2026",
-    "translated": true
+    "date": "الثلاثاء 1 سبتمبر 2026"
   }
 ]
