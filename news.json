@@ -1,9 +1,17 @@
 [
   {
     "channel": "PressTV",
+    "text": "📸 أفاد تحليل لوكالة رويترز أن الضربة القاتلة التي استهدفت حفل زفاف في كوهستاك، جنوب إيران، كانت ضربة مباشرة بذخيرة أمريكية. @برس تي في",
+    "time": "23:15",
+    "views": 167,
+    "date": "الجمعة 4 سبتمبر 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
     "text": "📸 في منشور على موقع Truth Social، الرئيس الأمريكي ترامب يعلن تعيين آدم تيل وزيراً جديداً للجيش بالوكالة. @برس تي في",
     "time": "23:00",
-    "views": 224,
+    "views": 373,
     "date": "الجمعة 4 سبتمبر 2026",
     "translated": true
   },
@@ -11,7 +19,7 @@
     "channel": "PressTV",
     "text": "📸 وافق مجلس النواب الأمريكي على مشروع قانون، 237-169، من شأنه حجب التمويل الفيدرالي ومعاقبة الجامعات التي تقاطع إسرائيل أو تقيد برامج تبادل الطلاب مع البلاد. @برس تي في",
     "time": "22:30",
-    "views": 631,
+    "views": 728,
     "date": "الجمعة 4 سبتمبر 2026",
     "translated": true
   },
@@ -27,7 +35,7 @@
     "channel": "PressTV",
     "text": "◀️ أنباء عن اندلاع اشتباكات بين القوات المسلحة اليمنية ومرتزقة مدعومين من السعودية في محافظة الحديدة اليمنية. @برس تي في",
     "time": "22:13",
-    "views": 793,
+    "views": 891,
     "date": "الجمعة 4 سبتمبر 2026",
     "translated": true
   },
@@ -51,7 +59,7 @@
     "channel": "PressTV",
     "text": "◀️القوات الإسرائيلية تواصل استهداف بلدة المنصوري جنوب لبنان بقذائف المدفعية. @برس تي في",
     "time": "21:51",
-    "views": 981,
+    "views": 0,
     "date": "الجمعة 4 سبتمبر 2026",
     "translated": true
   },
@@ -217,23 +225,16 @@
   },
   {
     "channel": "PressTV",
-    "text": "📸 Former Bosnian Serb commander Ratko Mladić dies in UN custody while serving a life sentence for genocide. @PressTV",
+    "text": "📸 وفاة القائد السابق لصرب البوسنة راتكو ملاديتش في حجز الأمم المتحدة بينما كان يقضي عقوبة السجن مدى الحياة بتهمة الإبادة الجماعية. @برس تي في",
     "time": "18:47",
-    "views": 0,
-    "date": "الجمعة 4 سبتمبر 2026"
-  },
-  {
-    "channel": "PressTV",
-    "text": "◀️ من كوهستاك في جنوب إيران، زار معين أميني من قناة Press TV المنزل الذي تعرض لهجوم أمريكي خلال حفل زفاف، ويظهر مشهد المأساة. @برس تي في",
-    "time": "18:30",
     "views": 0,
     "date": "الجمعة 4 سبتمبر 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "◀️ بعد وقت قصير من القصف الأمريكي لحفل زفاف في كوهستاك الإيرانية، ادعى نائب الرئيس الأمريكي جيه دي فانس أن الولايات المتحدة لا تستهدف المدنيين أبدًا في القتال. @برس تي في",
-    "time": "18:15",
+    "text": "◀️ من كوهستاك في جنوب إيران، زار معين أميني من قناة Press TV المنزل الذي تعرض لهجوم أمريكي خلال حفل زفاف، ويظهر مشهد المأساة. @برس تي في",
+    "time": "18:30",
     "views": 0,
     "date": "الجمعة 4 سبتمبر 2026",
     "translated": true
@@ -551,10 +552,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "They stole his joy. He went to obtain a birth certificate for the twins Aser and Aysel - 4 days later. He returned and they were martyred along with their mother. What pain does it have to hold the birth certificate and death certificate of your children on the same day? God is sufficient for us, and He is the best disposer of affairs 💔 💔 💔 💔",
+    "text": "سرقوا فرحته وتوجه للحصول على شهادة ميلاد للتوأم آسر وأيسل – بعد 4 أيام. فرجع فاستشهدوا مع أمهم. ما الألم الذي يسببه حمل شهادة ميلاد ووفاة أطفالك في نفس اليوم؟ حسبنا الله ونعم الوكيل 💔 💔 💔 💔",
     "time": "18:26",
     "views": 175,
-    "date": "الأربعاء 2 سبتمبر 2026"
+    "date": "الأربعاء 2 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
@@ -582,10 +584,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "Oh the beauty of your eyes, this is the head of the angel child Osama Abu Al-Nada, which Israel cut off yesterday. Osama was martyred with his father, Taha Abu Al-Nada, his mother, Hoda, and his brothers, Nour, Dana, Ghani, and Jana.",
+    "text": "يا جمال عيونك هذا رأس الطفل الملاك أسامة أبو الندى الذي قطعته إسرائيل أمس. استشهد أسامة مع والده طه أبو الندى ووالدته هدى وإخوته نور ودانا وغني وجنا.",
     "time": "17:25",
     "views": 383,
-    "date": "الثلاثاء 1 سبتمبر 2026"
+    "date": "الثلاثاء 1 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
