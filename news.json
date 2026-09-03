@@ -1,32 +1,34 @@
 [
   {
     "channel": "PressTV",
-    "text": "إطلاق نار في ولاية مينيسوتا الأمريكية يخلف عدة قتلى وجرحى @PressTV",
+    "text": "Shooting in US state of Minnesota leaves several people dead and injured @PressTV",
     "time": "23:58",
-    "views": 533,
+    "views": 751,
+    "date": "الخميس 3 سبتمبر 2026"
+  },
+  {
+    "channel": "PressTV",
+    "text": "وحذرت روسيا من أن قرار ألمانيا بإغلاق قنصليتها في بون والبيت الروسي في برلين سيثير رد فعل قاسيا. @برس تي في",
+    "time": "23:49",
+    "views": 835,
     "date": "الخميس 3 سبتمبر 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "Russia warns that Germany's decision to close its consulate in Bonn and the Russian House in Berlin will draw a tough response. @PressTV",
-    "time": "23:49",
-    "views": 634,
-    "date": "الخميس 3 سبتمبر 2026"
-  },
-  {
-    "channel": "PressTV",
-    "text": "🔴 Iran's Health Ministry: Enemy attacks from August 30–September 2 killed 18 and injured 142, including 61 women and 44 people under 18. @PressTV",
+    "text": "🔴 وزارة الصحة الإيرانية: هجمات العدو في الفترة من 30 أغسطس إلى 2 سبتمبر أدت إلى مقتل 18 وإصابة 142، من بينهم 61 امرأة و44 شخصًا دون سن 18 عامًا. @PressTV",
     "time": "23:06",
-    "views": 893,
-    "date": "الخميس 3 سبتمبر 2026"
+    "views": 0,
+    "date": "الخميس 3 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "Blair directed PA to eliminate mention of 'Palestine' from textbooks, former UK envoy reveals Former UK Prime Minister Tony Blair has been tasked by a body set up by US President Donald Trump to approach the Palestinian Authority (PA) and propose removing the term \"Palestine\" from school textbooks, replacing it with the Jewish name \"Samaria.\" @PressTV",
+    "text": "وجه بلير السلطة الفلسطينية لإزالة ذكر \"فلسطين\" من الكتب المدرسية، كما كشف مبعوث بريطاني سابق أن رئيس الوزراء البريطاني السابق توني بلير تم تكليفه من قبل هيئة أنشأها الرئيس الأمريكي دونالد ترامب بالتواصل مع السلطة الفلسطينية واقتراح إزالة مصطلح \"فلسطين\" من الكتب المدرسية، واستبداله بالاسم اليهودي \"السامرة\". @برس تي في",
     "time": "22:52",
     "views": 0,
-    "date": "الخميس 3 سبتمبر 2026"
+    "date": "الخميس 3 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
@@ -54,10 +56,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "📸 Images of victims of US strikes on a wedding in Sirik, southern Iran @PressTV",
+    "text": "📸 صور ضحايا الضربات الأمريكية في حفل زفاف في سيريك جنوب إيران @PressTV",
     "time": "22:04",
     "views": 0,
-    "date": "الخميس 3 سبتمبر 2026"
+    "date": "الخميس 3 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -66,13 +69,6 @@
     "views": 0,
     "date": "الخميس 3 سبتمبر 2026",
     "translated": true
-  },
-  {
-    "channel": "PressTV",
-    "text": "📸 Iran's Persian Gulf Strait Authority (PGSA) has updated the NCV list of violating vessels on its website, with 12 new vessels being added to the list, bringing the total to 57 violating vessels. @PressTV",
-    "time": "21:56",
-    "views": 0,
-    "date": "الخميس 3 سبتمبر 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -283,16 +279,33 @@
   },
   {
     "channel": "PressTV",
-    "text": "Iran’s military benefitted technologically from US-Israeli aggression Iran's defense minister says the recent US-Israeli aggression against the Islamic Republic has technologically benefited the country's military. @PressTV",
+    "text": "اليمن تدين الغارة الأمريكية على حفل زفاف في جنوب إيران تقرير يحيى الوزير من صنعاء. @برس تي في",
+    "time": "01:03",
+    "views": 188,
+    "date": "الخميس 3 سبتمبر 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "📸 رئيس مجلس النواب الإيراني محمد باقر قاليباف يلتقي مسؤول العلاقات الإسلامية في حماس باسم نعيم في طهران. @برس تي في",
+    "time": "00:45",
+    "views": 392,
+    "date": "الخميس 3 سبتمبر 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "قال وزير الدفاع الإيراني إن العدوان الأمريكي الإسرائيلي الأخير على الجمهورية الإسلامية أفاد جيش البلاد من الناحية التكنولوجية. @برس تي في",
     "time": "00:31",
-    "views": 172,
-    "date": "الخميس 3 سبتمبر 2026"
+    "views": 539,
+    "date": "الخميس 3 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
     "text": "أصيب عدد من عناصر الحشد الشعبي في هجوم إرهابي على نقطة تفتيش أمنية في كركوك شمالي العراق. @برس تي في",
     "time": "00:05",
-    "views": 469,
+    "views": 711,
     "date": "الخميس 3 سبتمبر 2026",
     "translated": true
   },
@@ -314,10 +327,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-taking-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"There was crazy hysteria, with decisions made without any verified information\": IDF ordered Hannibal directive on October 7 to prevent Hamas taking soldiers captive",
+    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-take-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"هناك \"كانت هستيريا جنونية، مع اتخاذ قرارات دون أي معلومات تم التحقق منها\": أمر جيش الدفاع الإسرائيلي بتوجيه هانيبال في 7 أكتوبر بمنع حماس من أسر الجنود",
     "time": "21:46",
     "views": 225,
-    "date": "الأربعاء 2 سبتمبر 2026"
+    "date": "الأربعاء 2 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -489,10 +503,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "They stole his joy. He went to obtain a birth certificate for the twins Aser and Aysel - 4 days later. He returned and they were martyred along with their mother. What pain does it have to hold the birth certificate and death certificate of your children on the same day? God is sufficient for us, and He is the best disposer of affairs 💔 💔 💔 💔",
+    "text": "سرقوا فرحته وتوجه للحصول على شهادة ميلاد للتوأم آسر وأيسل – بعد 4 أيام. فرجع فاستشهدوا مع أمهم. ما الألم الذي يسببه حمل شهادة ميلاد ووفاة أطفالك في نفس اليوم؟ حسبنا الله ونعم الوكيل 💔 💔 💔 💔",
     "time": "18:26",
     "views": 175,
-    "date": "الثلاثاء 1 سبتمبر 2026"
+    "date": "الثلاثاء 1 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
