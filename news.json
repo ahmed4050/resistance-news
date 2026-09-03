@@ -227,7 +227,7 @@
     "channel": "PressTV",
     "text": "يصور الفنان اليمني الشهير كمال شرف الهجوم الأمريكي الذي وقع في الأول من سبتمبر/أيلول على حفل زفاف في سيريك جنوب إيران، والذي خلف عدداً من الشهداء والجرحى. @برس تي في",
     "time": "05:35",
-    "views": 170,
+    "views": 430,
     "date": "الخميس 3 سبتمبر 2026",
     "translated": true
   },
@@ -235,7 +235,7 @@
     "channel": "PressTV",
     "text": "◀️ قُتل المزيد من الفلسطينيين في غارات عنيفة جديدة شنتها القوات الإسرائيلية والمستوطنون على بلدات وقرى في أنحاء الضفة الغربية المحتلة. @برس تي في",
     "time": "05:07",
-    "views": 533,
+    "views": 751,
     "date": "الخميس 3 سبتمبر 2026",
     "translated": true
   },
@@ -264,7 +264,7 @@
   },
   {
     "channel": "PressTV",
-    "text": "وأضاف: \"سنرد على كل تحرك للعدو برد أقوى عدة مرات، حتى يترسخ في حساباتهم أن الجمهورية الإسلامية الإيرانية عازمة تماما على الدفاع عن نفسها وعن الشعب الإيراني\". — اللواء أمير حاتمي، قائد الجيش الإيراني @PressTV",
+    "text": "وأضاف: «سنرد على كل تحرك للعدو برد أقوى عدة مرات، حتى يترسخ في حساباتهم أن الجمهورية الإسلامية الإيرانية عازمة تماما على الدفاع عن نفسها وعن الشعب الإيراني». — اللواء أمير حاتمي، قائد الجيش الإيراني @PressTV",
     "time": "03:15",
     "views": 0,
     "date": "الخميس 3 سبتمبر 2026",
@@ -296,7 +296,7 @@
   },
   {
     "channel": "PressTV",
-    "text": "🔴 تعرض موقع رئيسي في قاعدة أمريكية في الكويت للقصف، مما أدى إلى تصاعد أعمدة من الدخان في الهواء. @برس تي في",
+    "text": "🔴 تم استهداف موقع رئيسي في قاعدة أمريكية في الكويت، مما أدى إلى تصاعد أعمدة من الدخان في الهواء. @برس تي في",
     "time": "02:13",
     "views": 0,
     "date": "الخميس 3 سبتمبر 2026",
@@ -304,31 +304,35 @@
   },
   {
     "channel": "PressTV",
-    "text": "Iran’s Strait of Hormuz authority updates its non-compliant vessel list The Iranian authority controlling the Strait of Hormuz in the Persian Gulf has updated the list featuring vessels violating the Islamic Republic’s protocols governing the waterway, while…",
+    "text": "هيئة مضيق هرمز الإيرانية تحدث قائمة السفن غير المتوافقة قامت السلطة الإيرانية التي تسيطر على مضيق هرمز في الخليج العربي بتحديث القائمة التي تضم السفن التي تنتهك بروتوكولات الجمهورية الإسلامية التي تحكم الممر المائي، في حين...",
     "time": "02:04",
     "views": 0,
-    "date": "الخميس 3 سبتمبر 2026"
+    "date": "الخميس 3 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "🔴 US bases in Kuwait come under Iranian missile and drone strikes. @PressTV",
+    "text": "🔴 القواعد الأمريكية في الكويت تتعرض لضربات صاروخية وطائرات مسيرة إيرانية. @برس تي في",
     "time": "02:04",
     "views": 0,
-    "date": "الخميس 3 سبتمبر 2026"
+    "date": "الخميس 3 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "‘Horrific, appalling’: Iran urges UN Security Council to condemn deadly US attack on wedding ceremony Iran has called on the UN Security Council to condemn an unprovoked and deadly US attack on a residential home hosting a wedding ceremony in southern Islamic Republic that led to the martyrdom of five civilians, including a four-year-old child, and injured more than 70 others. @PressTV",
+    "text": "\"مروع ومروع\": إيران تحث مجلس الأمن الدولي على إدانة الهجوم الأمريكي القاتل على حفل زفاف دعت إيران مجلس الأمن الدولي إلى إدانة الهجوم الأمريكي القاتل وغير المبرر على منزل سكني يستضيف حفل زفاف في جنوب الجمهورية الإسلامية والذي أدى إلى استشهاد خمسة مدنيين، من بينهم طفل يبلغ من العمر أربع سنوات، وإصابة أكثر من 70 آخرين. @برس تي في",
     "time": "01:45",
     "views": 0,
-    "date": "الخميس 3 سبتمبر 2026"
+    "date": "الخميس 3 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "🔴 Kuwait issues warning over drone and missile attacks. @PressTV",
+    "text": "🔴 الكويت تصدر تحذيرا من هجمات بطائرات مسيرة وصواريخ. @برس تي في",
     "time": "01:44",
     "views": 0,
-    "date": "الخميس 3 سبتمبر 2026"
+    "date": "الخميس 3 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
@@ -364,10 +368,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-taking-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"There was crazy hysteria, with decisions made without any verified information\": IDF ordered Hannibal directive on October 7 to prevent Hamas taking soldiers captive",
+    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-take-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"هناك \"كانت هستيريا جنونية، مع اتخاذ قرارات دون أي معلومات تم التحقق منها\": أمر جيش الدفاع الإسرائيلي بتوجيه هانيبال في 7 أكتوبر بمنع حماس من أسر الجنود",
     "time": "21:46",
     "views": 225,
-    "date": "الأربعاء 2 سبتمبر 2026"
+    "date": "الأربعاء 2 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -539,24 +544,27 @@
   },
   {
     "channel": "suppressednews",
-    "text": "They stole his joy. He went to obtain a birth certificate for the twins Aser and Aysel - 4 days later. He returned and they were martyred along with their mother. What pain does it have to hold the birth certificate and death certificate of your children on the same day? God is sufficient for us, and He is the best disposer of affairs 💔 💔 💔 💔",
+    "text": "سرقوا فرحته وتوجه للحصول على شهادة ميلاد للتوأم آسر وأيسل – بعد 4 أيام. فرجع فاستشهدوا مع أمهم. ما الألم الذي يسببه حمل شهادة ميلاد ووفاة أطفالك في نفس اليوم؟ حسبنا الله ونعم الوكيل 💔 💔 💔 💔",
     "time": "18:26",
     "views": 175,
-    "date": "الثلاثاء 1 سبتمبر 2026"
+    "date": "الثلاثاء 1 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "For forty days and nights, the Western media lamented the lie of Israeli children with their heads cut off, with which the occupation deceived the world, and they did not see a single picture confirming its claims... while every day the headless children of Gaza appear to us in painful pictures, without their weeping, and the media biased towards the occupation and complicit in the crime does not dare. 💔 💔 💔 💔 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭",
+    "text": "أربعون يوماً وليلة، رثى الإعلام الغربي كذبة أطفال إسرائيليين مقطوعة الرأس، التي خدع بها الاحتلال العالم، ولم يروا صورة واحدة تؤكد ادعاءاته... بينما أطفال غزة مقطوعي الرأس يظهرون لنا كل يوم بصور مؤلمة، دون بكاء، ولا يجرؤ الإعلام المنحاز للاحتلال والمتواطئ في الجريمة. 💔 💔 💔 💔 ؟؟؟؟؟؟؟",
     "time": "04:39",
     "views": 184,
-    "date": "الثلاثاء 1 سبتمبر 2026"
+    "date": "الثلاثاء 1 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "As usual, a large number are killed when the disaster strikes, and another number gradually succumbs to their wounds after it occurs. Omar Al-Jaabari, 13 years old, died of his wounds at Kamal Adwan Hospital. He was among the victims of the massacre at Al-Tabaeen School two days ago. Omar suffered severe burns as a result of the American missiles that produce very high temperatures, and he was not directly injured, otherwise he would have been turned into pieces and his body would have melted. 💔 💔 💔",
+    "text": "وكالعادة يقتل عدد كبير عند وقوع الكارثة، ويتوفى عدد آخر تدريجياً متأثراً بجراحه بعد وقوعها. توفي عمر الجعبري، 13 عاماً، متأثراً بجراحه في مستشفى كمال عدوان. وكان من بين ضحايا مجزرة مدرسة التابعين قبل يومين. وأصيب عمر بحروق شديدة نتيجة الصواريخ الأمريكية التي تنتج درجات حرارة عالية جدا، ولم يصب بشكل مباشر، وإلا لكان قد تحول إلى أشلاء وذاب جسده. 💔 💔 💔",
     "time": "04:38",
     "views": 168,
-    "date": "الثلاثاء 1 سبتمبر 2026"
+    "date": "الثلاثاء 1 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
@@ -576,16 +584,18 @@
   },
   {
     "channel": "suppressednews",
-    "text": "Yesterday, Israel beheaded a Palestinian child in gaza 🔞 🔞 🔞 🔞",
+    "text": "بالأمس قطعت إسرائيل رأس طفل فلسطيني في غزة 🔞 🔞 🔞 🔞",
     "time": "17:24",
     "views": 359,
-    "date": "الإثنين 31 أغسطس 2026"
+    "date": "الإثنين 31 أغسطس 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "This is how the beautiful child Tim was before Israel divided him into two halves. With the scale of the ugliness of those massacres, I hate.",
+    "text": "هكذا كان الطفل الجميل تيم قبل أن يقسمه إسرائيل إلى نصفين. ومع حجم بشاعة تلك المجازر فإنني أكره.",
     "time": "17:22",
     "views": 284,
-    "date": "الإثنين 31 أغسطس 2026"
+    "date": "الإثنين 31 أغسطس 2026",
+    "translated": true
   }
 ]
