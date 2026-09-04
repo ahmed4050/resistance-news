@@ -1,34 +1,10 @@
 [
   {
-    "channel": "YouTube-AlAouni",
-    "text": "أمير يارياب..الرجل الذي سيحرق نصف أمريكا..يسبق مجتبى خامنئي والجنرال واحدي في اللوائح",
-    "link": "https://www.youtube.com/watch?v=WqwhL9bZRws",
-    "views": 0,
-    "time": "",
-    "date": "الخميس 4 سبتمبر 2026"
-  },
-  {
-    "channel": "YouTube-AlAouni",
-    "text": "حصري/ الجزائر بصواريخ \"ميني زيركون\" الفرط صوتية تهدد الغواصة الإسرائيلية \"دراغون\"",
-    "link": "https://www.youtube.com/watch?v=OBWsnKlF7t0",
-    "views": 0,
-    "time": "",
-    "date": "الخميس 4 سبتمبر 2026"
-  },
-  {
-    "channel": "YouTube-AlAouni",
-    "text": "سري/القنبلة النووية التركية بعد 8أشهر.. و أردوغان لن يحارب إسرائيل إلا بعد القنبلة",
-    "link": "https://www.youtube.com/watch?v=-27GXKnDsUo",
-    "views": 0,
-    "time": "",
-    "date": "الخميس 4 سبتمبر 2026"
-  },
-  {
     "channel": "MiddleEastMonitor",
     "text": "وفي حديثه مع الرئيس الإيراني، حث رئيس الوزراء الباكستاني الولايات المتحدة وإيران على الالتزام باتفاق السلام",
     "time": "22:23",
     "views": 0,
-    "date": "الجمعة 4 سبتمبر 2026",
+    "date": "السبت 5 سبتمبر 2026",
     "translated": true
   },
   {
@@ -36,7 +12,7 @@
     "text": "المحكمة الوطنية الإسبانية تفتح تحقيقا مع مسؤولين عسكريين إسرائيليين بشأن اعتراض أسطول الحرية في غزة",
     "time": "22:11",
     "views": 0,
-    "date": "الجمعة 4 سبتمبر 2026",
+    "date": "السبت 5 سبتمبر 2026",
     "translated": true
   },
   {
@@ -44,7 +20,7 @@
     "text": "غارة جوية إسرائيلية بدون طيار تصيب 3 من العاملين في مستشفى شمال غزة رغم وقف إطلاق النار",
     "time": "21:59",
     "views": 0,
-    "date": "الجمعة 4 سبتمبر 2026",
+    "date": "السبت 5 سبتمبر 2026",
     "translated": true
   },
   {
@@ -52,7 +28,7 @@
     "text": "مجلس المستشارين الألماني يقدم مشروع قانون لتجريم ’إنكار حق إسرائيل في الوجود’",
     "time": "21:43",
     "views": 0,
-    "date": "الجمعة 4 سبتمبر 2026",
+    "date": "السبت 5 سبتمبر 2026",
     "translated": true
   },
   {
@@ -60,7 +36,15 @@
     "text": "حملة الأشرطة الحمراء تطالب الصليب الأحمر باستئناف زياراته للفلسطينيين في السجون الإسرائيلية",
     "time": "21:19",
     "views": 0,
-    "date": "الجمعة 4 سبتمبر 2026",
+    "date": "السبت 5 سبتمبر 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "الوضع الإنساني الكارثي يتفاقم مع اقتراب فصل الشتاء في غزة، تقرير مطيع أبو مصبح من مدينة غزة @PressTV",
+    "time": "21:10",
+    "views": 132,
+    "date": "السبت 5 سبتمبر 2026",
     "translated": true
   },
   {
@@ -68,112 +52,123 @@
     "text": "إسرائيل تعتقل مفتي القدس وتمنعه ​​من دخول المسجد الأقصى لمدة أسبوع",
     "time": "21:00",
     "views": 0,
-    "date": "الجمعة 4 سبتمبر 2026",
+    "date": "السبت 5 سبتمبر 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "An Israeli attack targeted a house in the town of Al-Ramadiyah, southern Lebanon, resulting in civilian injuries. @PressTV",
+    "text": "استهدف هجوم إسرائيلي منزلاً في بلدة الرمادية جنوب لبنان، ما أدى إلى إصابة مدنيين. @برس تي في",
     "time": "20:53",
-    "views": 78,
-    "date": "الجمعة 4 سبتمبر 2026"
+    "views": 428,
+    "date": "السبت 5 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
     "text": "الجيش الإسرائيلي يبدأ تخفيضًا كبيرًا في جنود الاحتياط وسط ضغوط الميزانية",
     "time": "20:50",
     "views": 0,
-    "date": "الجمعة 4 سبتمبر 2026",
+    "date": "السبت 5 سبتمبر 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "Iranian border guard martyred in clash with militants in western Iran An Iranian border guard has been martyred during an armed clash with members of an anti-Iran Kurdish militant group in Iran’s western province of Kermanshah on the frontier with the semi-autonomous Kurdistan Region in northern Iraq. @PressTV",
+    "text": "استشهاد أحد حرس الحدود الإيراني في اشتباك مع مسلحين غرب إيران استشهد أحد حرس الحدود الإيراني خلال اشتباك مسلح مع أعضاء جماعة كردية مسلحة مناهضة لإيران في مقاطعة كرمانشاه غرب إيران على الحدود مع إقليم كردستان شبه المستقل في شمال العراق. @برس تي في",
     "time": "20:43",
-    "views": 336,
-    "date": "الجمعة 4 سبتمبر 2026"
+    "views": 604,
+    "date": "السبت 5 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
     "text": "العراق يحكم على 12 موظف ضرائب في قضية فساد “سرقة القرن”.",
     "time": "20:33",
     "views": 0,
-    "date": "الجمعة 4 سبتمبر 2026",
+    "date": "السبت 5 سبتمبر 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
     "text": "Israeli airstrike hit the vicinity of the town of Al-Jabour in southern Lebanon. @PressTV",
     "time": "20:22",
-    "views": 652,
-    "date": "الجمعة 4 سبتمبر 2026"
+    "views": 845,
+    "date": "السبت 5 سبتمبر 2026"
   },
   {
     "channel": "MiddleEastMonitor",
     "text": "القوات الألمانية تغادر قاعدة أربيل في شمال العراق وسط توترات إقليمية",
     "time": "20:21",
     "views": 0,
-    "date": "الجمعة 4 سبتمبر 2026",
+    "date": "السبت 5 سبتمبر 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "Large eruption at the Anak Krakatau volcano in Indonesia @PressTV",
+    "text": "ثوران كبير في بركان أناك كراكاتاو في إندونيسيا @PressTV",
     "time": "20:17",
-    "views": 691,
-    "date": "الجمعة 4 سبتمبر 2026"
+    "views": 869,
+    "date": "السبت 5 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
     "text": "رئيس الأمن الإيراني يحذر إسرائيل ’لن تكون في مأمن من الرد’",
     "time": "20:06",
     "views": 0,
-    "date": "الجمعة 4 سبتمبر 2026",
+    "date": "السبت 5 سبتمبر 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
     "text": "Pentagon disables ad trackers on phones, computers amid fears of Iran retaliation: Reports The Pentagon has ordered the US military to disable ad trackers on its troops' phones, computers and other devices amid fears of Iran's retaliatory strikes to the US-Israeli aggression. @PressTV",
     "time": "20:02",
-    "views": 940,
-    "date": "الجمعة 4 سبتمبر 2026"
+    "views": 0,
+    "date": "السبت 5 سبتمبر 2026"
   },
   {
     "channel": "MiddleEastMonitor",
     "text": "ترامب يزعم أن إيران طلبت من الولايات المتحدة مواصلة “المحادثات” ويعلن أن وقف إطلاق النار “انتهى”",
     "time": "19:33",
     "views": 0,
-    "date": "الجمعة 4 سبتمبر 2026",
+    "date": "السبت 5 سبتمبر 2026",
     "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "📸 \"Iran stands ready\" Iran's Speaker of Parliament Mohammad Bagher Ghalibaf says that true stability can only come through a new security architecture that is homegrown. @PressTV",
+    "time": "19:31",
+    "views": 0,
+    "date": "السبت 5 سبتمبر 2026"
   },
   {
     "channel": "PressTV",
     "text": "🇮🇷 Discover Iran: Qazvin, the beating heart of Iran’s centuries-old calligraphy tradition Qazvin, Iran’s calligraphy capital, has preserved centuries of artistic tradition shaped by religious schools, Safavid royal patronage and master-apprentice teaching, while institutions and young artists continue keeping its rich calligraphic heritage alive. By Humaira Ahad @PressTV",
     "time": "19:20",
     "views": 0,
-    "date": "الجمعة 4 سبتمبر 2026"
+    "date": "السبت 5 سبتمبر 2026"
   },
   {
     "channel": "MiddleEastMonitor",
     "text": "\"الموت للمسيحيين\": تقرير يوثق تصاعد الهجمات ضد المسيحيين من قبل الإسرائيليين في القدس المحتلة",
     "time": "19:16",
     "views": 0,
-    "date": "الجمعة 4 سبتمبر 2026",
+    "date": "السبت 5 سبتمبر 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "Russia’s TASS: US negotiators Witkoff and Kushner to travel to Moscow and then Kiev in coming days @PressTV",
+    "text": "تاس الروسية: المفاوضون الأمريكيون فيتكوف وكوشنر يسافرون إلى موسكو ثم كييف في الأيام المقبلة @PressTV",
     "time": "19:15",
     "views": 0,
-    "date": "الجمعة 4 سبتمبر 2026"
+    "date": "السبت 5 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
     "text": "بري: سوريا لا تنوي التدخل في لبنان",
     "time": "19:14",
     "views": 0,
-    "date": "الجمعة 4 سبتمبر 2026",
+    "date": "السبت 5 سبتمبر 2026",
     "translated": true
   },
   {
@@ -181,7 +176,7 @@
     "text": "تقرير فرنسي: الإمارات تجهز أول موطئ قدم عسكري إسرائيلي قرب باب المندب",
     "time": "19:13",
     "views": 0,
-    "date": "الجمعة 4 سبتمبر 2026",
+    "date": "السبت 5 سبتمبر 2026",
     "translated": true
   },
   {
@@ -189,91 +184,88 @@
     "text": "Israel threatens economic, political response to London as UK mulls sanctions Far-right finance minister Bezalel Smotrich says Israel is preparing to implement political and economic measures in response to any potential sanctions or restrictions that Britain and other nations may introduce regarding illegal Israeli settlement activities in the occupied West Bank. @PressTV",
     "time": "19:10",
     "views": 0,
-    "date": "الجمعة 4 سبتمبر 2026"
+    "date": "السبت 5 سبتمبر 2026"
   },
   {
     "channel": "PressTV",
-    "text": "▶️ The death toll from the flooding along the Nepal-Tibet border has risen to around 1,300. @PressTV",
+    "text": "◀️ ارتفع عدد قتلى الفيضانات على طول الحدود بين نيبال والتبت إلى حوالي 1300 شخص. @برس تي في",
     "time": "19:05",
     "views": 0,
-    "date": "الجمعة 4 سبتمبر 2026"
+    "date": "السبت 5 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "Argentina's Milei escalates Malvinas-Falklands dispute, eliciting Britain's response Argentine President Javier Milei has escalated the territorial dispute with the United Kingdom over the Malvinas Islands, known by the UK as the Falklands, triggering Britain's response. @PressTV",
+    "text": "مايلي الأرجنتينية تصعّد النزاع على جزر مالفيناس-فوكلاند، مما أثار رداً بريطانياً صعّد الرئيس الأرجنتيني خافيير مايلي النزاع الإقليمي مع المملكة المتحدة بشأن جزر مالفيناس، التي تعرفها المملكة المتحدة باسم جزر فوكلاند، مما أثار رد فعل بريطانيا. @برس تي في",
     "time": "19:01",
     "views": 0,
-    "date": "الجمعة 4 سبتمبر 2026"
+    "date": "السبت 5 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
     "text": "Iran, Russia can play effective role in restoring regional, global stability: Judiciary chief Iran’s Judiciary Chief Gholam-Hossein Mohseni Ejei has stressed that strengthening ties and coordination between the Islamic Republic and Russia can play a highly effective role in restoring stability to the region and the entire world, while countering the US-led unipolar world order. @PressTV",
     "time": "18:50",
     "views": 0,
-    "date": "الجمعة 4 سبتمبر 2026"
+    "date": "السبت 5 سبتمبر 2026"
   },
   {
     "channel": "PressTV",
-    "text": "▶️ US President Trump once again threatens to attack Iran's Pickaxe Mountain. @PressTV",
+    "text": "◀️الرئيس الأمريكي ترامب يهدد مرة أخرى بمهاجمة جبل الفأس الإيراني. @برس تي في",
     "time": "18:47",
     "views": 0,
-    "date": "الجمعة 4 سبتمبر 2026"
+    "date": "السبت 5 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
     "text": "▶️ The Medical Referrals Committee says the Israeli regime has once against cancelled the scheduled departure of patients through the Rafah crossing in southern Gaza, because the necessary coordination was not available. @PressTV",
     "time": "18:40",
     "views": 0,
-    "date": "الجمعة 4 سبتمبر 2026"
+    "date": "السبت 5 سبتمبر 2026"
   },
   {
     "channel": "PressTV",
     "text": "UN report: Israel forcibly displaced over 33,000 Palestinians from three West Bank refugee camps A UN report says Israeli forces have forcibly displaced the entire Palestinian populations of three refugee camps in the occupied West Bank between January and February 2025 and have continued to prevent their return, raising concerns of forcible transfer and “ethnic cleansing.” @PressTV",
     "time": "18:31",
     "views": 0,
-    "date": "الجمعة 4 سبتمبر 2026"
+    "date": "السبت 5 سبتمبر 2026"
   },
   {
     "channel": "PressTV",
     "text": "▶️ Press TV's Zainab Zakaria identifies the US lack of understanding of Iranian society as its primary miscalculation in dealing with the country. @PressTV",
     "time": "18:15",
     "views": 0,
-    "date": "الجمعة 4 سبتمبر 2026"
+    "date": "السبت 5 سبتمبر 2026"
   },
   {
     "channel": "PressTV",
     "text": "Iranian Army advises US to pay price of aggression, leave region Iran's Army spokesman Brigadier General Mohammad Akraminia says the United States should accept the consequences of its decision to attack an “independent and civilized” country and leave West Asia. @PressTV",
     "time": "18:01",
     "views": 0,
-    "date": "الجمعة 4 سبتمبر 2026"
+    "date": "السبت 5 سبتمبر 2026"
   },
   {
     "channel": "PressTV",
-    "text": "US House passes bill to punish universities over Israel boycotts The US House of Representatives has passed a controversial Republican-backed bill that would strip federal funding from universities that take part in boycotts of Israel, a move that is meant…",
+    "text": "مجلس النواب الأمريكي يوافق على مشروع قانون لمعاقبة الجامعات بسبب مقاطعة إسرائيل أقر مجلس النواب الأمريكي مشروع قانون مثير للجدل يدعمه الجمهوريون من شأنه أن يحرم الجامعات التي تشارك في مقاطعة إسرائيل من التمويل الفيدرالي، وهي خطوة تهدف إلى...",
     "time": "17:50",
     "views": 0,
-    "date": "الجمعة 4 سبتمبر 2026"
+    "date": "السبت 5 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
     "text": "▶️ Four-year-old Amir Mohammad’s happy night at wedding was cut short by US strike in southern Iran @PressTV",
     "time": "17:20",
     "views": 0,
-    "date": "الجمعة 4 سبتمبر 2026"
-  },
-  {
-    "channel": "PressTV",
-    "text": "📸 \"Iran stands ready\" Iran's Speaker of Parliament Mohammad Bagher Ghalibaf says that true stability can only come through a new security architecture that is homegrown. @PressTV",
-    "time": "17:10",
-    "views": 0,
-    "date": "الجمعة 4 سبتمبر 2026"
+    "date": "السبت 5 سبتمبر 2026"
   },
   {
     "channel": "MiddleEastMonitor",
     "text": "لم شمل عائلة من غزة مع ابنها الذي يعتقد أنه مات بعد عام من الاعتقال الإسرائيلي",
     "time": "16:21",
     "views": 0,
-    "date": "الجمعة 4 سبتمبر 2026",
+    "date": "السبت 5 سبتمبر 2026",
     "translated": true
   },
   {
@@ -281,7 +273,7 @@
     "text": "دعوات واسعة النطاق للحشد في المسجد الأقصى لمواجهة المخططات الإسرائيلية",
     "time": "16:15",
     "views": 0,
-    "date": "الجمعة 4 سبتمبر 2026",
+    "date": "السبت 5 سبتمبر 2026",
     "translated": true
   },
   {
@@ -289,7 +281,7 @@
     "text": "مسعد بولس: مثل رجل يؤذن الليبيين للصلاة من مالطا",
     "time": "16:11",
     "views": 0,
-    "date": "الجمعة 4 سبتمبر 2026",
+    "date": "السبت 5 سبتمبر 2026",
     "translated": true
   },
   {
@@ -297,7 +289,7 @@
     "text": "يعترف بورنهام بأن حزب العمال \"أخطأ\" فيما يتعلق بغزة مع تزايد الضغوط من أجل الانفصال الكامل عن إسرائيل",
     "time": "15:59",
     "views": 0,
-    "date": "الجمعة 4 سبتمبر 2026",
+    "date": "السبت 5 سبتمبر 2026",
     "translated": true
   },
   {
@@ -305,7 +297,7 @@
     "text": "استطلاع: 40% من اليهود الأمريكيين غير المتدينين يتهمون إسرائيل بارتكاب جرائم إبادة جماعية في غزة",
     "time": "15:41",
     "views": 0,
-    "date": "الجمعة 4 سبتمبر 2026",
+    "date": "السبت 5 سبتمبر 2026",
     "translated": true
   },
   {
@@ -313,7 +305,7 @@
     "text": "المنتدى الفلسطيني في بريطانيا يرحب بتصريحات آندي بورنهام بشأن غزة وفلسطين",
     "time": "15:29",
     "views": 0,
-    "date": "الجمعة 4 سبتمبر 2026",
+    "date": "السبت 5 سبتمبر 2026",
     "translated": true
   },
   {
@@ -321,7 +313,7 @@
     "text": "وتسعى إسرائيل للحصول على الضوء الأخضر الأمريكي لضرب إيران",
     "time": "15:15",
     "views": 0,
-    "date": "الجمعة 4 سبتمبر 2026",
+    "date": "السبت 5 سبتمبر 2026",
     "translated": true
   },
   {
@@ -329,7 +321,7 @@
     "text": "بودكاست جاسم العزاوي مع راي ماكغفرن: من يسيطر على وكالة المخابرات المركزية؟",
     "time": "15:01",
     "views": 0,
-    "date": "الجمعة 4 سبتمبر 2026",
+    "date": "السبت 5 سبتمبر 2026",
     "translated": true
   },
   {
@@ -337,7 +329,7 @@
     "text": "أردوغان يقول إن قمة الناتو سلطت الضوء على الدور المركزي لتركيا في الأمن العالمي",
     "time": "14:45",
     "views": 0,
-    "date": "الجمعة 4 سبتمبر 2026",
+    "date": "السبت 5 سبتمبر 2026",
     "translated": true
   },
   {
@@ -345,7 +337,7 @@
     "text": "صفقة الدفاع المخططة لشركة فولكس فاجن مع إسرائيل تم حظرها من قبل المستثمرين القطريين",
     "time": "14:36",
     "views": 0,
-    "date": "الجمعة 4 سبتمبر 2026",
+    "date": "السبت 5 سبتمبر 2026",
     "translated": true
   },
   {
@@ -353,7 +345,7 @@
     "text": "نجاة المتحدث باسم حماس من محاولة اغتيال إسرائيلية",
     "time": "14:19",
     "views": 0,
-    "date": "الجمعة 4 سبتمبر 2026",
+    "date": "السبت 5 سبتمبر 2026",
     "translated": true
   },
   {
@@ -361,7 +353,7 @@
     "text": "وفد عسكري إسرائيلي يجري محادثات مع مسؤولين مصريين في القاهرة",
     "time": "14:11",
     "views": 0,
-    "date": "الجمعة 4 سبتمبر 2026",
+    "date": "السبت 5 سبتمبر 2026",
     "translated": true
   },
   {
@@ -369,7 +361,7 @@
     "text": "تراجع الشحن عبر مضيق هرمز مع استئناف الأعمال العدائية بين الولايات المتحدة وإيران",
     "time": "14:00",
     "views": 0,
-    "date": "الجمعة 4 سبتمبر 2026",
+    "date": "السبت 5 سبتمبر 2026",
     "translated": true
   },
   {
@@ -377,7 +369,7 @@
     "text": "هدم مدرسة يانون يثير المخاوف بشأن مستقبل القرية الفلسطينية القريبة من نابلس",
     "time": "13:55",
     "views": 0,
-    "date": "الجمعة 4 سبتمبر 2026",
+    "date": "السبت 5 سبتمبر 2026",
     "translated": true
   },
   {
@@ -385,14 +377,14 @@
     "text": "#شاهد .. استهداف مجاهدي كتائب القسام لجنود العدو وآلياته في محاور القتال بمدينة رفح جنوب القطاع #طوفان_الأقصى",
     "time": "03:26",
     "views": 130,
-    "date": "الجمعة 4 سبتمبر 2026"
+    "date": "السبت 5 سبتمبر 2026"
   },
   {
     "channel": "MiddleEastMonitor",
     "text": "سوريا تقول إنها ألقت القبض على خلية مسؤولة عن \"تفجيرات إرهابية\" في دمشق",
     "time": "22:20",
     "views": 0,
-    "date": "الخميس 3 سبتمبر 2026",
+    "date": "الجمعة 4 سبتمبر 2026",
     "translated": true
   },
   {
@@ -400,22 +392,23 @@
     "text": "رئيس الوزراء الإسرائيلي: الحرب مع إيران لم تنته بعد",
     "time": "21:49",
     "views": 0,
-    "date": "الخميس 3 سبتمبر 2026",
+    "date": "الجمعة 4 سبتمبر 2026",
     "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-taking-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"There was crazy hysteria, with decisions made without any verified information\": IDF ordered Hannibal directive on October 7 to prevent Hamas taking soldiers captive",
+    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-take-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"هناك \"كانت هستيريا جنونية، مع اتخاذ قرارات دون أي معلومات تم التحقق منها\": أمر جيش الدفاع الإسرائيلي بتوجيه هانيبال في 7 أكتوبر بمنع حماس من أسر الجنود",
     "time": "21:46",
     "views": 225,
-    "date": "الخميس 3 سبتمبر 2026"
+    "date": "الجمعة 4 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
     "text": "ميرز الألماني يقول لنتنياهو إن الاتفاق الأمريكي الإيراني هو “أفضل فرصة” للاستقرار",
     "time": "21:32",
     "views": 0,
-    "date": "الخميس 3 سبتمبر 2026",
+    "date": "الجمعة 4 سبتمبر 2026",
     "translated": true
   },
   {
@@ -423,7 +416,7 @@
     "text": "استشهاد 12 فلسطينيا وإصابة 20 آخرين في غارات إسرائيلية على غزة وسط انتهاكات لوقف إطلاق النار",
     "time": "18:59",
     "views": 0,
-    "date": "الخميس 3 سبتمبر 2026",
+    "date": "الجمعة 4 سبتمبر 2026",
     "translated": true
   },
   {
@@ -431,7 +424,7 @@
     "text": "تقول بعثة حفظ السلام التابعة للأمم المتحدة إن الوضع الأمني ​​في جنوب لبنان لا يزال هشاً",
     "time": "18:53",
     "views": 0,
-    "date": "الخميس 3 سبتمبر 2026",
+    "date": "الجمعة 4 سبتمبر 2026",
     "translated": true
   },
   {
@@ -439,7 +432,7 @@
     "text": "تقرير يكشف شبكة مؤيدة لإسرائيل تدفع ألمانيا إلى وقف تمويل الأونروا",
     "time": "18:17",
     "views": 0,
-    "date": "الخميس 3 سبتمبر 2026",
+    "date": "الجمعة 4 سبتمبر 2026",
     "translated": true
   },
   {
@@ -447,7 +440,7 @@
     "text": "بيان الهيئة الوطنية للعمل الشعبي الفلسطيني حول الانتخابات المقبلة",
     "time": "18:06",
     "views": 0,
-    "date": "الخميس 3 سبتمبر 2026",
+    "date": "الجمعة 4 سبتمبر 2026",
     "translated": true
   },
   {
@@ -455,7 +448,7 @@
     "text": "نماذج التمويل الفاشلة للفلسطينيين في غزة",
     "time": "17:54",
     "views": 0,
-    "date": "الخميس 3 سبتمبر 2026",
+    "date": "الجمعة 4 سبتمبر 2026",
     "translated": true
   },
   {
@@ -463,7 +456,7 @@
     "text": "حسام أبو صفية؛ عندما يدق الرهينة ناقوس الخطر نيابة عن آلاف المعتقلين",
     "time": "17:53",
     "views": 0,
-    "date": "الخميس 3 سبتمبر 2026",
+    "date": "الجمعة 4 سبتمبر 2026",
     "translated": true
   },
   {
@@ -471,7 +464,7 @@
     "text": "غزة: على الأرض مع معتصم دلول | الأسبوع 08 يوليو",
     "time": "17:34",
     "views": 0,
-    "date": "الخميس 3 سبتمبر 2026",
+    "date": "الجمعة 4 سبتمبر 2026",
     "translated": true
   },
   {
@@ -479,7 +472,7 @@
     "text": "الحرس الثوري الإيراني يقول إنه ضرب مركز القيادة الأمريكي والقاعدة الجوية الأردنية بعشرة صواريخ باليستية",
     "time": "17:30",
     "views": 0,
-    "date": "الخميس 3 سبتمبر 2026",
+    "date": "الجمعة 4 سبتمبر 2026",
     "translated": true
   },
   {
@@ -487,7 +480,7 @@
     "text": "عباس يحدد 28 تشرين الثاني/نوفمبر لإجراء أول انتخابات تشريعية فلسطينية منذ أكثر من 20 عاما",
     "time": "17:23",
     "views": 0,
-    "date": "الخميس 3 سبتمبر 2026",
+    "date": "الجمعة 4 سبتمبر 2026",
     "translated": true
   },
   {
@@ -495,7 +488,7 @@
     "text": "الرابع من يوليو: جنازة طهران وعيد ميلاد ترامب",
     "time": "17:13",
     "views": 0,
-    "date": "الخميس 3 سبتمبر 2026",
+    "date": "الجمعة 4 سبتمبر 2026",
     "translated": true
   },
   {
@@ -503,7 +496,7 @@
     "text": "مرآة الهند الإسرائيلية",
     "time": "16:57",
     "views": 0,
-    "date": "الخميس 3 سبتمبر 2026",
+    "date": "الجمعة 4 سبتمبر 2026",
     "translated": true
   },
   {
@@ -511,7 +504,7 @@
     "text": "الولايات المتحدة تضرب جسراً استراتيجياً للسكك الحديدية يربط إيران بالصين وروسيا",
     "time": "16:57",
     "views": 0,
-    "date": "الخميس 3 سبتمبر 2026",
+    "date": "الجمعة 4 سبتمبر 2026",
     "translated": true
   },
   {
@@ -519,7 +512,7 @@
     "text": "يقود الحاخام الأكبر دعوات لمنع مناقشة كنيسة إنجلترا لتقرير الإبادة الجماعية للمسيحيين الفلسطينيين",
     "time": "16:29",
     "views": 0,
-    "date": "الخميس 3 سبتمبر 2026",
+    "date": "الجمعة 4 سبتمبر 2026",
     "translated": true
   },
   {
@@ -527,7 +520,7 @@
     "text": "تقول القيادة المركزية الأمريكية إنها أكملت جولة أخرى من الضربات على إيران",
     "time": "16:03",
     "views": 0,
-    "date": "الخميس 3 سبتمبر 2026",
+    "date": "الجمعة 4 سبتمبر 2026",
     "translated": true
   },
   {
@@ -535,7 +528,7 @@
     "text": "كيف تقوم إسرائيل والصهاينة الأمريكيون بإلغاء التعديل الأول",
     "time": "15:28",
     "views": 0,
-    "date": "الخميس 3 سبتمبر 2026",
+    "date": "الجمعة 4 سبتمبر 2026",
     "translated": true
   },
   {
@@ -543,7 +536,7 @@
     "text": "منظمة العفو الدولية تدعو إلى التحقيق في الغارات الجوية الإسرائيلية على لبنان باعتبارها \"جرائم حرب\"",
     "time": "15:12",
     "views": 0,
-    "date": "الخميس 3 سبتمبر 2026",
+    "date": "الجمعة 4 سبتمبر 2026",
     "translated": true
   },
   {
@@ -551,7 +544,7 @@
     "text": "وزيرا خارجية قطر وإيران يناقشان التوترات الإقليمية ومضيق هرمز",
     "time": "14:57",
     "views": 0,
-    "date": "الخميس 3 سبتمبر 2026",
+    "date": "الجمعة 4 سبتمبر 2026",
     "translated": true
   },
   {
@@ -559,7 +552,7 @@
     "text": "مسؤول سابق في سلاح الجو الباكستاني يقول إن إسرائيل لا تريد أن ينجح الاتفاق الأمريكي الإيراني",
     "time": "14:30",
     "views": 0,
-    "date": "الخميس 3 سبتمبر 2026",
+    "date": "الجمعة 4 سبتمبر 2026",
     "translated": true
   },
   {
@@ -567,7 +560,7 @@
     "text": "أسعار النفط ترتفع بعد الضربات الأمريكية الجديدة على إيران",
     "time": "14:23",
     "views": 0,
-    "date": "الخميس 3 سبتمبر 2026",
+    "date": "الجمعة 4 سبتمبر 2026",
     "translated": true
   },
   {
@@ -575,27 +568,55 @@
     "text": "BREAKING: Initial reports of at-least 100 Martyrs in an Israeli strike that targeted \"Al-Tabi'in\" school in Al-Daraj neighborhood in central Gaza City.",
     "time": "02:56",
     "views": 152,
-    "date": "الخميس 3 سبتمبر 2026"
+    "date": "الجمعة 4 سبتمبر 2026"
   },
   {
     "channel": "suppressednews",
     "text": "They stole his joy. He went to obtain a birth certificate for the twins Aser and Aysel - 4 days later. He returned and they were martyred along with their mother. What pain does it have to hold the birth certificate and death certificate of your children on the same day? God is sufficient for us, and He is the best disposer of affairs 💔 💔 💔 💔",
     "time": "18:26",
     "views": 175,
-    "date": "الأربعاء 2 سبتمبر 2026"
+    "date": "الخميس 3 سبتمبر 2026"
   },
   {
     "channel": "suppressednews",
     "text": "For forty days and nights, the Western media lamented the lie of Israeli children with their heads cut off, with which the occupation deceived the world, and they did not see a single picture confirming its claims... while every day the headless children of Gaza appear to us in painful pictures, without their weeping, and the media biased towards the occupation and complicit in the crime does not dare. 💔 💔 💔 💔 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭",
     "time": "04:39",
     "views": 184,
-    "date": "الأربعاء 2 سبتمبر 2026"
+    "date": "الخميس 3 سبتمبر 2026"
   },
   {
     "channel": "suppressednews",
     "text": "As usual, a large number are killed when the disaster strikes, and another number gradually succumbs to their wounds after it occurs. Omar Al-Jaabari, 13 years old, died of his wounds at Kamal Adwan Hospital. He was among the victims of the massacre at Al-Tabaeen School two days ago. Omar suffered severe burns as a result of the American missiles that produce very high temperatures, and he was not directly injured, otherwise he would have been turned into pieces and his body would have melted. 💔 💔 💔",
     "time": "04:38",
     "views": 168,
+    "date": "الخميس 3 سبتمبر 2026"
+  },
+  {
+    "channel": "suppressednews",
+    "text": "Imagine for a moment in time that this is your child? How would you feel about the Zionists?",
+    "time": "20:57",
+    "views": 217,
+    "date": "الأربعاء 2 سبتمبر 2026"
+  },
+  {
+    "channel": "suppressednews",
+    "text": "Oh the beauty of your eyes, this is the head of the angel child Osama Abu Al-Nada, which Israel cut off yesterday. Osama was martyred with his father, Taha Abu Al-Nada, his mother, Hoda, and his brothers, Nour, Dana, Ghani, and Jana.",
+    "time": "17:25",
+    "views": 383,
+    "date": "الأربعاء 2 سبتمبر 2026"
+  },
+  {
+    "channel": "suppressednews",
+    "text": "Yesterday, Israel beheaded a Palestinian child in gaza 🔞 🔞 🔞 🔞",
+    "time": "17:24",
+    "views": 359,
+    "date": "الأربعاء 2 سبتمبر 2026"
+  },
+  {
+    "channel": "suppressednews",
+    "text": "This is how the beautiful child Tim was before Israel divided him into two halves. With the scale of the ugliness of those massacres, I hate.",
+    "time": "17:22",
+    "views": 284,
     "date": "الأربعاء 2 سبتمبر 2026"
   }
 ]
