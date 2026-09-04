@@ -3,7 +3,7 @@
     "channel": "PressTV",
     "text": "📸 قوات الاحتلال تنفذ غارة جوية استهدفت محيط شارع المشتهى بحي الشجاعية شرق مدينة غزة. @برس تي في",
     "time": "23:45",
-    "views": 851,
+    "views": 937,
     "date": "الجمعة 4 سبتمبر 2026",
     "translated": true
   },
@@ -11,7 +11,7 @@
     "channel": "PressTV",
     "text": "◀️ ورد أن طائرات بدون طيار أوكرانية قصفت مدينة سوتشي في منطقة كراسنودار كراي الروسية. @برس تي في",
     "time": "23:30",
-    "views": 939,
+    "views": 0,
     "date": "الجمعة 4 سبتمبر 2026",
     "translated": true
   },
@@ -176,14 +176,6 @@
     "translated": true
   },
   {
-    "channel": "PressTV",
-    "text": "📸 صور الشهداء الأربعة من قوات حرس الثورة الإسلامية الإيرانية إثر الهجوم الأمريكي على محافظة كرمانشاه. @برس تي في",
-    "time": "20:00",
-    "views": 0,
-    "date": "الجمعة 4 سبتمبر 2026",
-    "translated": true
-  },
-  {
     "channel": "MiddleEastMonitor",
     "text": "ترامب يزعم أن إيران طلبت من الولايات المتحدة مواصلة “المحادثات” ويعلن أن وقف إطلاق النار “انتهى”",
     "time": "19:33",
@@ -336,9 +328,17 @@
   },
   {
     "channel": "PressTV",
+    "text": "الولايات المتحدة لديها سجل طويل في تحويل حفلات الزفاف إلى جنازات: سفارة إيران انتقدت السفارة الإيرانية في لندن الولايات المتحدة لتاريخ طويل من الهجمات القاتلة على حفلات الزفاف في أفغانستان والعراق واليمن، مستشهدة بالحادث الأخير في مقاطعة هرمزكان الإيرانية. @برس تي في",
+    "time": "01:30",
+    "views": 243,
+    "date": "الجمعة 4 سبتمبر 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
     "text": "\"لقد انهار وهم القوة المطلقة\": إيران توبخ وزير الخزانة الأمريكي بشأن تشبيه حرب \"الفناء الخلفي\" وجه دبلوماسي إيراني توبيخًا لوزير الخزانة الأمريكي سكوت بيسينت، ورفض خطابه العدواني ووصفه بأنه تفاخر جاهل بطفل يلعب في الفناء الخلفي، وأعلن أن \"الحرب الاختيارية\" غير القانونية التي تشنها واشنطن ضد إيران لم تؤدي إلا إلى تحطيم وهم الهيمنة الأمريكية. @برس تي في",
     "time": "00:30",
-    "views": 598,
+    "views": 718,
     "date": "الجمعة 4 سبتمبر 2026",
     "translated": true
   },
@@ -346,7 +346,7 @@
     "channel": "PressTV",
     "text": "◀️تدور حاليا اشتباكات عنيفة بين القوات المسلحة اليمنية ومرتزقة دعم السعودية غرب تعز. @برس تي في",
     "time": "00:15",
-    "views": 671,
+    "views": 783,
     "date": "الجمعة 4 سبتمبر 2026",
     "translated": true
   },
@@ -544,10 +544,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "They stole his joy. He went to obtain a birth certificate for the twins Aser and Aysel - 4 days later. He returned and they were martyred along with their mother. What pain does it have to hold the birth certificate and death certificate of your children on the same day? God is sufficient for us, and He is the best disposer of affairs 💔 💔 💔 💔",
+    "text": "سرقوا فرحته وتوجه للحصول على شهادة ميلاد للتوأم آسر وأيسل – بعد 4 أيام. فرجع فاستشهدوا مع أمهم. ما الألم الذي يسببه حمل شهادة ميلاد ووفاة أطفالك في نفس اليوم؟ حسبنا الله ونعم الوكيل 💔 💔 💔 💔",
     "time": "18:26",
     "views": 175,
-    "date": "الأربعاء 2 سبتمبر 2026"
+    "date": "الأربعاء 2 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
@@ -559,7 +560,7 @@
   },
   {
     "channel": "suppressednews",
-    "text": "وكالعادة يقتل عدد كبير عند وقوع الكارثة، ويتوفى عدد آخر تدريجياً متأثراً بجراحه بعد وقوعها. توفي عمر الجعبري، 13 عاماً، متأثراً بجراحه في مستشفى كمال عدوان. وكان من بين ضحايا مجزرة مدرسة التابعين قبل يومين. وأصيب عمر بحروق شديدة نتيجة الصواريخ الأمريكية التي تنتج درجات حرارة عالية جدا، ولم يصب بشكل مباشر، وإلا لكان قد تحول إلى أشلاء وذاب جسده. 💔 💔 💔",
+    "text": "وكالعادة يقتل عدد كبير عند وقوع الكارثة، ويتوفى عدد آخر تدريجياً متأثراً بجراحه بعد وقوعها. توفي عمر الجعبري، 13 عاماً، متأثراً بجراحه في مستشفى كمال عدوان. وكان من بين ضحايا مجزرة مدرسة التابعين قبل يومين. وأصيب عمر بحروق شديدة نتيجة الصواريخ الأمريكية التي تنتج درجات حرارة عالية للغاية، ولم يصب بشكل مباشر، وإلا لكان قد تحول إلى أشلاء وذاب جسده. 💔 💔 💔",
     "time": "04:38",
     "views": 168,
     "date": "الأربعاء 2 سبتمبر 2026",
@@ -567,30 +568,34 @@
   },
   {
     "channel": "suppressednews",
-    "text": "Imagine for a moment in time that this is your child? How would you feel about the Zionists?",
+    "text": "تخيل للحظة أن هذا هو طفلك؟ كيف سيكون شعورك تجاه الصهاينة؟",
     "time": "20:57",
     "views": 217,
-    "date": "الثلاثاء 1 سبتمبر 2026"
+    "date": "الثلاثاء 1 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "Oh the beauty of your eyes, this is the head of the angel child Osama Abu Al-Nada, which Israel cut off yesterday. Osama was martyred with his father, Taha Abu Al-Nada, his mother, Hoda, and his brothers, Nour, Dana, Ghani, and Jana.",
+    "text": "يا جمال عيونك هذا رأس الطفل الملاك أسامة أبو الندى الذي قطعته إسرائيل أمس. استشهد أسامة مع والده طه أبو الندى ووالدته هدى وإخوته نور ودانا وغني وجنا.",
     "time": "17:25",
     "views": 383,
-    "date": "الثلاثاء 1 سبتمبر 2026"
+    "date": "الثلاثاء 1 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "Yesterday, Israel beheaded a Palestinian child in gaza 🔞 🔞 🔞 🔞",
+    "text": "بالأمس قطعت إسرائيل رأس طفل فلسطيني في غزة 🔞 🔞 🔞 🔞",
     "time": "17:24",
     "views": 359,
-    "date": "الثلاثاء 1 سبتمبر 2026"
+    "date": "الثلاثاء 1 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "This is how the beautiful child Tim was before Israel divided him into two halves. With the scale of the ugliness of those massacres, I hate.",
+    "text": "هكذا كان الطفل الجميل تيم قبل أن يقسمه إسرائيل إلى نصفين. ومع حجم بشاعة تلك المجازر فإنني أكره.",
     "time": "17:22",
     "views": 284,
-    "date": "الثلاثاء 1 سبتمبر 2026"
+    "date": "الثلاثاء 1 سبتمبر 2026",
+    "translated": true
   }
 ]
