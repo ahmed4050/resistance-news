@@ -27,7 +27,7 @@
     "channel": "PressTV",
     "text": "Footage shows massive devastation across Fujian, China , following severe flooding caused by Typhoon Saudel. @PressTV",
     "time": "21:55",
-    "views": 506,
+    "views": 608,
     "date": "السبت 5 سبتمبر 2026"
   },
   {
@@ -42,7 +42,7 @@
     "channel": "PressTV",
     "text": "Iran slams Western UN referral push as ‘desperate action,’ says it will gain nothing Iran says a planned resolution by the United States and European troika (E3) against Tehran at the International Atomic Energy Agency (IAEA) Board of Governors is a “desperate” move that demonstrates the failure of the snapback mechanism. @PressTV",
     "time": "21:24",
-    "views": 824,
+    "views": 917,
     "date": "السبت 5 سبتمبر 2026"
   },
   {
@@ -55,10 +55,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "Catastrophic humanitarian situation exacerbating as Gaza heads toward winter season Motee Abu Musabeh reports from Gaza City @PressTV",
+    "text": "الوضع الإنساني الكارثي يتفاقم مع اقتراب فصل الشتاء في غزة، تقرير مطيع أبو مصبح من مدينة غزة @PressTV",
     "time": "21:10",
-    "views": 993,
-    "date": "السبت 5 سبتمبر 2026"
+    "views": 0,
+    "date": "السبت 5 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -115,10 +116,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "Large eruption at the Anak Krakatau volcano in Indonesia @PressTV",
+    "text": "ثوران كبير في بركان أناك كراكاتاو في إندونيسيا @PressTV",
     "time": "20:17",
     "views": 0,
-    "date": "السبت 5 سبتمبر 2026"
+    "date": "السبت 5 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -204,17 +206,19 @@
   },
   {
     "channel": "PressTV",
-    "text": "Argentina's Milei escalates Malvinas-Falklands dispute, eliciting Britain's response Argentine President Javier Milei has escalated the territorial dispute with the United Kingdom over the Malvinas Islands, known by the UK as the Falklands, triggering Britain's response. @PressTV",
+    "text": "مايلي الأرجنتينية تصعّد النزاع على جزر مالفيناس-فوكلاند، مما أثار رداً بريطانياً صعّد الرئيس الأرجنتيني خافيير مايلي النزاع الإقليمي مع المملكة المتحدة بشأن جزر مالفيناس، التي تعرفها المملكة المتحدة باسم جزر فوكلاند، مما أثار رد فعل بريطانيا. @برس تي في",
     "time": "19:01",
     "views": 0,
-    "date": "السبت 5 سبتمبر 2026"
+    "date": "السبت 5 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "Iran, Russia can play effective role in restoring regional, global stability: Judiciary chief Iran’s Judiciary Chief Gholam-Hossein Mohseni Ejei has stressed that strengthening ties and coordination between the Islamic Republic and Russia can play a highly effective role in restoring stability to the region and the entire world, while countering the US-led unipolar world order. @PressTV",
+    "text": "يمكن لإيران وروسيا أن تلعبا دورًا فعالًا في استعادة الاستقرار الإقليمي والعالمي: رئيس السلطة القضائية أكد رئيس السلطة القضائية الإيرانية غلام حسين محسني إيجائي أن تعزيز العلاقات والتنسيق بين الجمهورية الإسلامية وروسيا يمكن أن يلعب دورًا فعالًا للغاية في استعادة الاستقرار في المنطقة والعالم بأسره، وفي مواجهة النظام العالمي أحادي القطب الذي تقوده الولايات المتحدة. @برس تي في",
     "time": "18:50",
     "views": 0,
-    "date": "السبت 5 سبتمبر 2026"
+    "date": "السبت 5 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
@@ -590,10 +594,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "Oh the beauty of your eyes, this is the head of the angel child Osama Abu Al-Nada, which Israel cut off yesterday. Osama was martyred with his father, Taha Abu Al-Nada, his mother, Hoda, and his brothers, Nour, Dana, Ghani, and Jana.",
+    "text": "يا جمال عيونك هذا رأس الطفل الملاك أسامة أبو الندى الذي قطعته إسرائيل أمس. استشهد أسامة مع والده طه أبو الندى ووالدته هدى وإخوته نور ودانا وغني وجنا.",
     "time": "17:25",
     "views": 383,
-    "date": "الأربعاء 2 سبتمبر 2026"
+    "date": "الأربعاء 2 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
