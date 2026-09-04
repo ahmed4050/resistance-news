@@ -1,17 +1,19 @@
 [
   {
     "channel": "PressTV",
-    "text": "📸 Israeli forces have carried out an airstrike targeting the vicinity of Mushtaha Street in the Shuja'iyya neighborhood, east of Gaza City. @PressTV",
+    "text": "📸 قوات الاحتلال تنفذ غارة جوية استهدفت محيط شارع المشتهى بحي الشجاعية شرق مدينة غزة. @برس تي في",
     "time": "23:45",
     "views": 0,
-    "date": "الجمعة 4 سبتمبر 2026"
+    "date": "الجمعة 4 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "▶️ Ukrainian drones have reportedly struck Sochi in Russia's Krasnodar Krai region. @PressTV",
+    "text": "◀️ ورد أن طائرات بدون طيار أوكرانية قصفت مدينة سوتشي في منطقة كراسنودار كراي الروسية. @برس تي في",
     "time": "23:30",
     "views": 0,
-    "date": "الجمعة 4 سبتمبر 2026"
+    "date": "الجمعة 4 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -239,31 +241,42 @@
   },
   {
     "channel": "PressTV",
-    "text": "Israeli artillery targets Zawtar al-Sharqiyah in southern Lebanon. @PressTV",
+    "text": "لقي شخصان مصرعهما بعد تحطم طائرة صغيرة في مقاطعة هيلزبورو بولاية فلوريدا. @برس تي في",
+    "time": "05:24",
+    "views": 126,
+    "date": "الجمعة 4 سبتمبر 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "المدفعية الإسرائيلية تستهدف زوطر الشرقية جنوب لبنان. @برس تي في",
     "time": "05:09",
-    "views": 118,
-    "date": "الجمعة 4 سبتمبر 2026"
+    "views": 338,
+    "date": "الجمعة 4 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
     "text": "Qatar confirms Iran’s defensive strikes targeted only US military facilities, no civilians: FM spokesman Iran’s Foreign Ministry spokesman Esmaeil Baghaei has pointed to an official Qatari document submitted to the International Telecommunication Union (ITU)…",
     "time": "04:44",
-    "views": 474,
+    "views": 650,
     "date": "الجمعة 4 سبتمبر 2026"
   },
   {
     "channel": "PressTV",
-    "text": "IRGC Intelligence arrested a seven-member cell linked to anti-Iran Kurdish separatist groups that procured weapons and planned armed attacks in western Iran, with firearms and ammunition seized from its hideout. @PressTV",
+    "text": "ألقت استخبارات الحرس الثوري الإيراني القبض على خلية مكونة من سبعة أعضاء مرتبطة بالجماعات الانفصالية الكردية المناهضة لإيران قامت بشراء أسلحة وخططت لهجمات مسلحة في غرب إيران، وتم الاستيلاء على أسلحة نارية وذخائر من مخبأها. @برس تي في",
     "time": "04:31",
-    "views": 630,
-    "date": "الجمعة 4 سبتمبر 2026"
+    "views": 771,
+    "date": "الجمعة 4 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "📸 A Reuters analysis reports that the deadly strike on the wedding celebration in Kohestak, southern Iran, was a direct hit by a US munition. @PressTV",
+    "text": "📸 أفاد تحليل لوكالة رويترز أن الضربة القاتلة التي استهدفت حفل زفاف في كوهستاك، جنوب إيران، كانت ضربة مباشرة بذخيرة أمريكية. @برس تي في",
     "time": "03:49",
-    "views": 940,
-    "date": "الجمعة 4 سبتمبر 2026"
+    "views": 0,
+    "date": "الجمعة 4 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
