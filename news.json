@@ -89,10 +89,19 @@
   },
   {
     "channel": "PressTV",
-    "text": "▶️ Russian President Putin meets with US Special Envoys Steve Witkoff and Jared Kushner at the Kremlin. @PressTV",
+    "text": "◀️ \"الجيش الأمريكي خسر هذه الحرب\" يقول هاني بطيش إن هجمات واشنطن على السفن ومزاعم السيطرة على مضيق هرمز هي جزء من حملة دعائية لتصوير الحرب الخاسرة على أنها انتصار عسكري. @برس تي في",
+    "time": "20:15",
+    "views": 310,
+    "date": "السبت 5 سبتمبر 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "◀️الرئيس الروسي بوتين يلتقي بالمبعوثين الخاصين للولايات المتحدة ستيف ويتكوف وجاريد كوشنر في الكرملين. @برس تي في",
     "time": "20:10",
-    "views": 110,
-    "date": "السبت 5 سبتمبر 2026"
+    "views": 413,
+    "date": "السبت 5 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -104,10 +113,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "📸 Images from the mass funeral ceremony held in Gaza City for over 100 Palestinians whose remains were recently recovered from underneath the rubbles of the homes destroyed by Israel during the genocide. @PressTV",
+    "text": "📸 صور من مراسم الجنازة الجماعية التي أقيمت في مدينة غزة لأكثر من 100 فلسطيني تم انتشال رفاتهم مؤخرًا من تحت أنقاض المنازل التي دمرتها إسرائيل خلال الإبادة الجماعية. @برس تي في",
     "time": "19:50",
-    "views": 523,
-    "date": "السبت 5 سبتمبر 2026"
+    "views": 725,
+    "date": "السبت 5 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -119,10 +129,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "🔴 Hezbollah: Lebanese Government continues submissive approach as Israel escalates aggression @PressTV",
+    "text": "🔴 حزب الله: الحكومة اللبنانية تواصل نهج الخنوع مع تصعيد إسرائيل لعدوانها @PressTV",
     "time": "19:30",
-    "views": 777,
-    "date": "السبت 5 سبتمبر 2026"
+    "views": 927,
+    "date": "السبت 5 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -134,10 +145,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "📸 10 people were reportedly killed after a traffic accident led to a fuel tanker explosion on the Sanandaj-Hamedan highway in eastern Iran. @PressTV",
+    "text": "📸 أفادت أنباء بمقتل 10 أشخاص إثر حادث مروري أدى إلى انفجار صهريج وقود على طريق سنندج - همدان السريع شرقي إيران. @برس تي في",
     "time": "19:15",
-    "views": 900,
-    "date": "السبت 5 سبتمبر 2026"
+    "views": 0,
+    "date": "السبت 5 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -157,31 +169,35 @@
   },
   {
     "channel": "PressTV",
-    "text": "✍️ Analysis - Israel's Ali al-Taher ‘operational control’ claim aims to shape perceptions rather than reflect reality The Israeli military’s bombastic claim of “operational control” over Lebanon’s strategic Ali al-Taher hill is undermined by vague terminology, continued activity in the area, silence from the Lebanese resistance, and the political timing of the announcement, suggesting that the claim is aimed more at shaping perceptions than reflecting reality. By Press TV Strategic Analysis Desk @PressTV",
+    "text": "✍️ تحليل - ادعاء \"السيطرة العملياتية\" الإسرائيلي على تلة علي الطاهر يهدف إلى تشكيل التصورات بدلاً من عكس الواقع إن ادعاء الجيش الإسرائيلي \"بالسيطرة العملياتية\" على تلة علي الطاهر الاستراتيجية في لبنان تقوضه المصطلحات الغامضة، والنشاط المستمر في المنطقة، وصمت المقاومة اللبنانية، والتوقيت السياسي للإعلان، مما يشير إلى أن الادعاء يهدف إلى تشكيل التصورات أكثر من عكس الواقع. بواسطة Press TV مكتب التحليل الاستراتيجي @PressTV",
     "time": "19:00",
     "views": 0,
-    "date": "السبت 5 سبتمبر 2026"
+    "date": "السبت 5 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "🇮🇷 Discover Iran : Discover Iran: Kharraqan Twin Towers in Qazvin and the brilliance of Iranian brick architecture Qale Kord Cave near Qazvin is rewriting Iran’s human history, with Neanderthal teeth, ancient tools and animal remains revealing human presence dating back at least 455,000 years, while deeper layers may reach 700,000 years. By Mohammad Ali Haqshenas @DiscoverIran1",
+    "text": "🇮🇷 اكتشف إيران: اكتشف إيران: برجا خرقان التوأم في قزوين وتألق الهندسة المعمارية الإيرانية المبنية من الطوب، يعيد كهف قل كورد بالقرب من قزوين كتابة تاريخ البشرية في إيران، حيث تكشف أسنان الإنسان البدائي والأدوات القديمة وبقايا الحيوانات عن وجود بشري يعود تاريخه إلى 455000 عام على الأقل، بينما قد تصل الطبقات الأعمق إلى 700000 عام. بواسطة محمد علي حقشيناس @DiscoverIran1",
     "time": "18:47",
     "views": 0,
-    "date": "السبت 5 سبتمبر 2026"
+    "date": "السبت 5 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "📸 Spokesman of Iran's Khatam al-Anbiya CHQ warns that if the US continues its mischief, insecurity, and harassment of Iranian ships and the naval blockade of Iran, the strikes by the Iranian Armed Forces against US military vessels in the region will be more severe than before. @PressTV",
+    "text": "إيران تنتصر في \"حرب الإرادة\" على الأعداء: القائد الأعلى لرئيس أركان الجيش الإيراني ونائب المنسق يقول إن حرب اليوم هي معركة قوة الإرادة والصمود، مشددا على أن إيران حققت نجاحا في هذا الصدد. @برس تي في",
+    "time": "18:45",
+    "views": 0,
+    "date": "السبت 5 سبتمبر 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "📸 المتحدث الرسمي باسم خاتم الأنبياء الإيراني يحذر من أنه إذا استمرت الولايات المتحدة في الأذى وانعدام الأمن ومضايقة السفن الإيرانية والحصار البحري لإيران، فإن ضربات القوات المسلحة الإيرانية ضد السفن العسكرية الأمريكية في المنطقة ستكون أشد من ذي قبل. @برس تي في",
     "time": "18:34",
     "views": 0,
-    "date": "السبت 5 سبتمبر 2026"
-  },
-  {
-    "channel": "PressTV",
-    "text": "Iran wins ‘war of willpower’ against enemies: Senior commander Iranian Army Chief of Staff and Deputy Coordinator says today's warfare is a battle of willpower and endurance, stressing that Iran has performed successfully in this regard. @PressTV",
-    "time": "18:30",
-    "views": 0,
-    "date": "السبت 5 سبتمبر 2026"
+    "date": "السبت 5 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -320,10 +336,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-taking-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"There was crazy hysteria, with decisions made without any verified information\": IDF ordered Hannibal directive on October 7 to prevent Hamas taking soldiers captive",
+    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-take-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"هناك \"كانت هستيريا جنونية، مع اتخاذ قرارات دون أي معلومات تم التحقق منها\": أمر جيش الدفاع الإسرائيلي بتوجيه هانيبال في 7 أكتوبر بمنع حماس من أسر الجنود",
     "time": "21:46",
     "views": 225,
-    "date": "الجمعة 4 سبتمبر 2026"
+    "date": "الجمعة 4 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -487,30 +504,34 @@
   },
   {
     "channel": "suppressednews",
-    "text": "BREAKING: Initial reports of at-least 100 Martyrs in an Israeli strike that targeted \"Al-Tabi'in\" school in Al-Daraj neighborhood in central Gaza City.",
+    "text": "عاجل: التقارير الأولية عن استشهاد ما لا يقل عن 100 شهيد في قصف إسرائيلي استهدف مدرسة \"التابعين\" في حي الدرج وسط مدينة غزة.",
     "time": "02:56",
     "views": 152,
-    "date": "الجمعة 4 سبتمبر 2026"
+    "date": "الجمعة 4 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "They stole his joy. He went to obtain a birth certificate for the twins Aser and Aysel - 4 days later. He returned and they were martyred along with their mother. What pain does it have to hold the birth certificate and death certificate of your children on the same day? God is sufficient for us, and He is the best disposer of affairs 💔 💔 💔 💔",
+    "text": "سرقوا فرحته وتوجه للحصول على شهادة ميلاد للتوأم آسر وأيسل – بعد 4 أيام. فرجع فاستشهدوا مع أمهم. ما الألم الذي يسببه حمل شهادة ميلاد ووفاة أطفالك في نفس اليوم؟ حسبنا الله ونعم الوكيل 💔 💔 💔 💔",
     "time": "18:26",
     "views": 175,
-    "date": "الخميس 3 سبتمبر 2026"
+    "date": "الخميس 3 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "For forty days and nights, the Western media lamented the lie of Israeli children with their heads cut off, with which the occupation deceived the world, and they did not see a single picture confirming its claims... while every day the headless children of Gaza appear to us in painful pictures, without their weeping, and the media biased towards the occupation and complicit in the crime does not dare. 💔 💔 💔 💔 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭",
+    "text": "أربعون يوماً وليلة، رثى الإعلام الغربي كذبة أطفال إسرائيليين مقطوعة الرأس، التي خدع بها الاحتلال العالم، ولم يروا صورة واحدة تؤكد ادعاءاته... بينما أطفال غزة مقطوعي الرأس يظهرون لنا كل يوم بصور مؤلمة، دون بكاء، ولا يجرؤ الإعلام المنحاز للاحتلال والمتواطئ في الجريمة. 💔 💔 💔 💔 ؟؟؟؟؟؟؟",
     "time": "04:39",
     "views": 184,
-    "date": "الخميس 3 سبتمبر 2026"
+    "date": "الخميس 3 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "As usual, a large number are killed when the disaster strikes, and another number gradually succumbs to their wounds after it occurs. Omar Al-Jaabari, 13 years old, died of his wounds at Kamal Adwan Hospital. He was among the victims of the massacre at Al-Tabaeen School two days ago. Omar suffered severe burns as a result of the American missiles that produce very high temperatures, and he was not directly injured, otherwise he would have been turned into pieces and his body would have melted. 💔 💔 💔",
+    "text": "وكالعادة يقتل عدد كبير عند وقوع الكارثة، ويتوفى عدد آخر تدريجياً متأثراً بجراحه بعد وقوعها. توفي عمر الجعبري، 13 عاماً، متأثراً بجراحه في مستشفى كمال عدوان. وكان من بين ضحايا مجزرة مدرسة التابعين قبل يومين. وأصيب عمر بحروق شديدة نتيجة الصواريخ الأمريكية التي تنتج درجات حرارة عالية للغاية، ولم يصب بشكل مباشر، وإلا لكان قد تحول إلى أشلاء وذاب جسده. 💔 💔 💔",
     "time": "04:38",
     "views": 168,
-    "date": "الخميس 3 سبتمبر 2026"
+    "date": "الخميس 3 سبتمبر 2026",
+    "translated": true
   }
 ]
