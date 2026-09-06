@@ -225,43 +225,48 @@
   },
   {
     "channel": "PressTV",
-    "text": "انهار برج كنيسة سانت أغنيس القديمة، في شارع مارثا في توليدو، أوهايو، أثناء حريق. @برس تي في",
-    "time": "05:10",
-    "views": 295,
+    "text": "\"شنت القوات الإسرائيلية حربًا على تاريخ مدينة النبطية\" تقرير هادي حطيط من قناة Press TV من جنوب لبنان، حيث ألحقت القوات الإسرائيلية أضرارًا جسيمة بمنزل تاريخي عمره أكثر من 120 عامًا في النبطية كجزء من عدوانها المستمر في جنوب لبنان. @برس تي في",
+    "time": "05:35",
+    "views": 99,
     "date": "الأحد 6 سبتمبر 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "تقول سكينة داتو إن الولايات المتحدة تفشل في حربها ضد إيران بسبب الموارد العسكرية المحدودة والدعم الشعبي الإيراني القوي للحكومة، مما يؤدي إلى استهداف مدني يائس قبل انتخابات التجديد النصفي. @برس تي في",
-    "time": "04:45",
-    "views": 570,
+    "text": "انهار برج كنيسة سانت أغنيس القديمة، في شارع مارثا في توليدو، أوهايو، أثناء حريق. @برس تي في",
+    "time": "05:10",
+    "views": 469,
     "date": "الأحد 6 سبتمبر 2026",
     "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "Sakina Datoo argues that the US is failing in its war against Iran due to limited military resources and strong Iranian public support for the government, leading to desperate civilian targeting ahead of mid-term elections. @PressTV",
+    "time": "04:45",
+    "views": 719,
+    "date": "الأحد 6 سبتمبر 2026"
   },
   {
     "channel": "PressTV",
     "text": "محلل: الدورة الفاشلة لسياسة الولايات المتحدة تجاه إيران تخدم مصالح الشركات تؤكد المقابلة أن سياسة الولايات المتحدة تجاه إيران قد تطورت إلى دورة من العدوان العسكري الفاشل والعقوبات والهجمات الانتقامية التي لم تسفر عن أي مكاسب استراتيجية واضحة بينما تبدو وكأنها تخدم مصالح الشركات أكثر من مصالح الجمهور الأمريكي. @برس تي في",
     "time": "04:29",
-    "views": 725,
+    "views": 827,
     "date": "الأحد 6 سبتمبر 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "الجيش الإسرائيلي يقول إنه يستهدف جنوب لبنان بعد استهداف قواته بطائرات مسيرة متفجرة تابعة لحزب الله @PressTV",
+    "text": "Israeli military says it is targeting south Lebanon after its forces were targeted by Hezbollah’s explosive drones @PressTV",
     "time": "04:24",
-    "views": 741,
-    "date": "الأحد 6 سبتمبر 2026",
-    "translated": true
+    "views": 861,
+    "date": "الأحد 6 سبتمبر 2026"
   },
   {
     "channel": "PressTV",
-    "text": "قصفت مقاتلات سعودية عن طريق الخطأ قواتها في محافظة تعز اليمنية. @برس تي في",
+    "text": "Saudi fighter jet mistakenly struck its own forces in Yemen's Taiz province . @PressTV",
     "time": "04:13",
-    "views": 863,
-    "date": "الأحد 6 سبتمبر 2026",
-    "translated": true
+    "views": 936,
+    "date": "الأحد 6 سبتمبر 2026"
   },
   {
     "channel": "PressTV",
@@ -273,11 +278,10 @@
   },
   {
     "channel": "PressTV",
-    "text": "◀️الحرس الثوري الإيراني يضرب حاملة طائرات ومدمرة أمريكية بعدة صواريخ باليستية مما أجبرهم على الفرار من منطقة الاشتباك. @برس تي في",
+    "text": "▶️ The IRGC hits an American aircraft carrier and a destroyer with several ballistic missiles, forcing them to flee the engagement zone. @PressTV",
     "time": "03:33",
     "views": 0,
-    "date": "الأحد 6 سبتمبر 2026",
-    "translated": true
+    "date": "الأحد 6 سبتمبر 2026"
   },
   {
     "channel": "suppressednews",
@@ -288,11 +292,10 @@
   },
   {
     "channel": "PressTV",
-    "text": "◀️ البحرية التابعة لحرس الثورة الإسلامية الإيرانية تنشر لقطات توثق مراقبتها واعتراضها للسفن المخالفة في مضيق هرمز، محذرة من استهداف أي نشاط مشبوه. @برس تي في",
+    "text": "▶️ Iran's Islamic Revolution Guard Corps (IRGC) Navy releases footage documenting its surveillance and interception of violating vessels in the Strait of Hormuz, warning that any suspicious activity will be targeted. @PressTV",
     "time": "03:20",
     "views": 0,
-    "date": "الأحد 6 سبتمبر 2026",
-    "translated": true
+    "date": "الأحد 6 سبتمبر 2026"
   },
   {
     "channel": "PressTV",
@@ -304,11 +307,10 @@
   },
   {
     "channel": "PressTV",
-    "text": "◀️ المقر المركزي لخاتم الأنبياء الإيراني يحذر الولايات المتحدة من أن استمرار مضايقة السفن الإيرانية والحصار البحري سيؤدي إلى رد فعل أكثر شدة من ذي قبل. @برس تي في",
+    "text": "▶️ Iran’s Khatam al-Anbiya Central Headquarters warns the US that continued harassment of Iranian vessels and the maritime blockade will trigger a more severe response than before. @PressTV",
     "time": "03:04",
     "views": 0,
-    "date": "الأحد 6 سبتمبر 2026",
-    "translated": true
+    "date": "الأحد 6 سبتمبر 2026"
   },
   {
     "channel": "PressTV",
@@ -336,11 +338,10 @@
   },
   {
     "channel": "PressTV",
-    "text": "📸 أعلن الحرس الثوري الإسلامي الإيراني (IRGC) أنه هاجم سفينة USV (سفينة سطحية بدون طيار) تابعة للجيش الأمريكي الإرهابي، أثناء محاولتها دخول المنطقة المحمية في مضيق هرمز. 🔹 يحذر الحرس الثوري الإيراني من أن أي تحرك يائس من قبل العدو سيكون تحت مراقبة المقاتلين الشجعان والمضحين في البحرية التابعة للحرس الثوري الإيراني وسيتم استهدافه بشكل حاسم. 🔹 الحرس الثوري الإيراني يؤكد مجددا أن مضيق هرمز تحت إدارة الجمهورية الإسلامية الإيرانية، وأي تحرك للعدو القاتل للأطفال سيتم الرد عليه بقوة. 🔹 الحرس الثوري: على الولايات المتحدة العدوانية أن تفهم أنه ليس أمامها خيار سوى مغادرة المنطقة والكف عن أذىها. @برس تي في",
+    "text": "📸 Iran's Islamic Revolution Guard Corps (IRGC) announces that it has attacked a USV (unmanned surface vessel) belonging to the terrorist US military, while it was attempting to enter the protected zone of the Strait of Hormuz. 🔹 The IRGC warns that any desperate move by the enemy is under the watch of the fearless, self-sacrificing warriors of the IRGC Navy and will be decisively targeted. 🔹 Iran's IRGC reiterates that the Strait of Hormuz is under the management of the Islamic Republic of Iran, and any movement by the child-killing enemy will be met with a firm response. 🔹 IRGC: The aggressive United States must understand that it has no choice but to leave the region and cease its mischief. @PressTV",
     "time": "02:15",
     "views": 0,
-    "date": "الأحد 6 سبتمبر 2026",
-    "translated": true
+    "date": "الأحد 6 سبتمبر 2026"
   },
   {
     "channel": "PressTV",
@@ -368,16 +369,8 @@
   },
   {
     "channel": "PressTV",
-    "text": "حزب الله يلقي باللوم على “فشل” الحكومة اللبنانية مع تصعيد إسرائيل “القتل والدمار” يقول حزب الله إن إسرائيل تكثف هجماتها على لبنان، مضيفًا أن ضربات النظام التي أسفرت عن مقتل أربعة أشخاص وإصابة العشرات في وقت سابق من اليوم جاءت وسط…",
+    "text": "حزب الله يلقي باللوم على \"فشل\" الحكومة اللبنانية بينما تصعد إسرائيل \"القتل والدمار\" يقول حزب الله إن إسرائيل تكثف هجماتها على لبنان، مضيفًا أن ضربات النظام التي أسفرت عن مقتل أربعة أشخاص وإصابة العشرات في وقت سابق من اليوم جاءت وسط...",
     "time": "01:01",
-    "views": 0,
-    "date": "الأحد 6 سبتمبر 2026",
-    "translated": true
-  },
-  {
-    "channel": "PressTV",
-    "text": "◀️ في عملية إنقاذ معجزة، تم العثور على امرأة تبلغ من العمر 60 عامًا بعد أن تمكنت من البقاء على قيد الحياة لأكثر من 10 أيام تحت أنقاض منزل في أعقاب الفيضانات المدمرة في نواكوت، نيبال. @برس تي في",
-    "time": "00:47",
     "views": 0,
     "date": "الأحد 6 سبتمبر 2026",
     "translated": true
@@ -400,11 +393,10 @@
   },
   {
     "channel": "suppressednews",
-    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-take-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"هناك \"كانت هستيريا جنونية، مع اتخاذ قرارات دون أي معلومات تم التحقق منها\": أمر جيش الدفاع الإسرائيلي بتوجيه هانيبال في 7 أكتوبر بمنع حماس من أسر الجنود",
+    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-taking-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"There was crazy hysteria, with decisions made without any verified information\": IDF ordered Hannibal directive on October 7 to prevent Hamas taking soldiers captive",
     "time": "21:46",
     "views": 225,
-    "date": "السبت 5 سبتمبر 2026",
-    "translated": true
+    "date": "السبت 5 سبتمبر 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -568,11 +560,10 @@
   },
   {
     "channel": "suppressednews",
-    "text": "عاجل: التقارير الأولية عن استشهاد ما لا يقل عن 100 شهيد في قصف إسرائيلي استهدف مدرسة \"التابعين\" في حي الدرج وسط مدينة غزة.",
+    "text": "BREAKING: Initial reports of at-least 100 Martyrs in an Israeli strike that targeted \"Al-Tabi'in\" school in Al-Daraj neighborhood in central Gaza City.",
     "time": "02:56",
     "views": 152,
-    "date": "السبت 5 سبتمبر 2026",
-    "translated": true
+    "date": "السبت 5 سبتمبر 2026"
   },
   {
     "channel": "suppressednews",
@@ -608,11 +599,10 @@
   },
   {
     "channel": "suppressednews",
-    "text": "يا جمال عيونك هذا رأس الطفل الملاك أسامة أبو الندى الذي قطعته إسرائيل أمس. استشهد أسامة مع والده طه أبو الندى ووالدته هدى وإخوته نور ودانا وغني وجنا.",
+    "text": "Oh the beauty of your eyes, this is the head of the angel child Osama Abu Al-Nada, which Israel cut off yesterday. Osama was martyred with his father, Taha Abu Al-Nada, his mother, Hoda, and his brothers, Nour, Dana, Ghani, and Jana.",
     "time": "17:25",
     "views": 383,
-    "date": "الخميس 3 سبتمبر 2026",
-    "translated": true
+    "date": "الخميس 3 سبتمبر 2026"
   },
   {
     "channel": "suppressednews",
@@ -624,10 +614,9 @@
   },
   {
     "channel": "suppressednews",
-    "text": "هكذا كان الطفل الجميل تيم قبل أن يقسمه إسرائيل إلى نصفين. ومع حجم بشاعة تلك المجازر فإنني أكره.",
+    "text": "This is how the beautiful child Tim was before Israel divided him into two halves. With the scale of the ugliness of those massacres, I hate.",
     "time": "17:22",
     "views": 284,
-    "date": "الخميس 3 سبتمبر 2026",
-    "translated": true
+    "date": "الخميس 3 سبتمبر 2026"
   }
 ]
