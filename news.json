@@ -225,9 +225,25 @@
   },
   {
     "channel": "PressTV",
+    "text": "رئيس مجلس النواب قاليباف: أي اعتداء على المصالح الإيرانية سيواجه برد أشد إيلاماً @PressTV",
+    "time": "09:08",
+    "views": 131,
+    "date": "الأحد 6 سبتمبر 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "الرئيس الأمريكي دونالد ترامب يكرر باستمرار بعض الجمل، مفادها أنهم لا يملكون أسلحة نووية، لقد دمرنا قواتهم البحرية، ودمرنا قواتهم الجوية، ووضعهم الاقتصادي سيء؛ وقال رئيس أركان الجيش ونائب المنسق الأميرال حبيب الله سياري، إنه ليس لديه أي جملة أخرى غير هذه، ونحن معتادون على هذا التكرار. @برس تي في",
+    "time": "08:56",
+    "views": 348,
+    "date": "الأحد 6 سبتمبر 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
     "text": "🇮🇷 اكتشف إيران: من آلموت كليم إلى بان بافي، تحمل الحرف اليدوية في قزوين قرونًا من التقاليد الحية. يتضمن تراث الحرف اليدوية الغني في قزوين، والذي تحافظ عليه النساء بشكل خاص، تقاليد النسيج والتطريز المميزة التي تستمر في التطور، وتدعم سبل العيش، وتربط المعرفة الثقافية بالحياة المعاصرة. بقلم مينا مسلم نجاد @DiscoverIran1",
     "time": "08:41",
-    "views": 226,
+    "views": 505,
     "date": "الأحد 6 سبتمبر 2026",
     "translated": true
   },
@@ -235,7 +251,7 @@
     "channel": "PressTV",
     "text": "الهجمات الأمريكية على سفن النفط الإيرانية هي عمل يائس: يقول الكاتب والباحث نيك موتيرن إن الضربات التي شنتها واشنطن مؤخرًا على سفن النفط الإيرانية تعكس شعورًا عميقًا باليأس العسكري والسياسي. @برس تي في",
     "time": "08:21",
-    "views": 539,
+    "views": 781,
     "date": "الأحد 6 سبتمبر 2026",
     "translated": true
   },
@@ -243,7 +259,7 @@
     "channel": "PressTV",
     "text": "قال روبرت فانتينا إن المزاعم الأمريكية بشأن إيران لا يمكن أن تؤخذ على محمل الجد، مؤكدا أن طهران لن تخضع أبدا لضغوط واشنطن. @برس تي في",
     "time": "07:58",
-    "views": 790,
+    "views": 975,
     "date": "الأحد 6 سبتمبر 2026",
     "translated": true
   },
@@ -281,7 +297,7 @@
   },
   {
     "channel": "PressTV",
-    "text": "\"شنت القوات الإسرائيلية حربا على تاريخ مدينة النبطية\" تقرير هادي حطيط من قناة برس تي في من جنوب لبنان، حيث دمرت القوات الإسرائيلية بالكامل منزلا تاريخيا عمره أكثر من 120 عاما في النبطية كجزء من عدوانها المستمر في جنوب لبنان. @برس تي في",
+    "text": "\"شنت القوات الإسرائيلية حرباً على تاريخ مدينة النبطية\" تقرير هادي حطيط من قناة برس تي في من جنوب لبنان، حيث دمرت القوات الإسرائيلية بالكامل منزلاً تاريخياً عمره أكثر من 120 عاماً في النبطية كجزء من عدوانها المستمر في جنوب لبنان. @برس تي في",
     "time": "05:35",
     "views": 0,
     "date": "الأحد 6 سبتمبر 2026",
@@ -359,22 +375,6 @@
     "translated": true
   },
   {
-    "channel": "PressTV",
-    "text": "◀️ أدانت وزارة الخارجية الإيرانية بشدة الهجوم الأمريكي على السفن التجارية الإيرانية في الخليج الفارسي وبحر عمان. @برس تي في",
-    "time": "03:10",
-    "views": 0,
-    "date": "الأحد 6 سبتمبر 2026",
-    "translated": true
-  },
-  {
-    "channel": "PressTV",
-    "text": "◀️ المقر المركزي لخاتم الأنبياء الإيراني يحذر الولايات المتحدة من أن استمرار مضايقة السفن الإيرانية والحصار البحري سيؤدي إلى رد فعل أكثر شدة من ذي قبل. @برس تي في",
-    "time": "03:04",
-    "views": 0,
-    "date": "الأحد 6 سبتمبر 2026",
-    "translated": true
-  },
-  {
     "channel": "MiddleEastMonitor",
     "text": "سوريا تقول إنها ألقت القبض على خلية مسؤولة عن \"تفجيرات إرهابية\" في دمشق",
     "time": "22:20",
@@ -392,11 +392,10 @@
   },
   {
     "channel": "suppressednews",
-    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-take-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"هناك \"كانت هستيريا جنونية، مع اتخاذ قرارات دون أي معلومات تم التحقق منها\": أمر جيش الدفاع الإسرائيلي بتوجيه هانيبال في 7 أكتوبر بمنع حماس من أسر الجنود",
+    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-taking-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"There was crazy hysteria, with decisions made without any verified information\": IDF ordered Hannibal directive on October 7 to prevent Hamas taking soldiers captive",
     "time": "21:46",
     "views": 225,
-    "date": "السبت 5 سبتمبر 2026",
-    "translated": true
+    "date": "السبت 5 سبتمبر 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -568,10 +567,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "They stole his joy. He went to obtain a birth certificate for the twins Aser and Aysel - 4 days later. He returned and they were martyred along with their mother. What pain does it have to hold the birth certificate and death certificate of your children on the same day? God is sufficient for us, and He is the best disposer of affairs 💔 💔 💔 💔",
+    "text": "سرقوا فرحته وتوجه للحصول على شهادة ميلاد للتوأم آسر وأيسل – بعد 4 أيام. فرجع فاستشهدوا مع أمهم. ما الألم الذي يسببه حمل شهادة ميلاد ووفاة أطفالك في نفس اليوم؟ حسبنا الله ونعم الوكيل 💔 💔 💔 💔",
     "time": "18:26",
     "views": 176,
-    "date": "الجمعة 4 سبتمبر 2026"
+    "date": "الجمعة 4 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
@@ -589,17 +589,19 @@
   },
   {
     "channel": "suppressednews",
-    "text": "Imagine for a moment in time that this is your child? How would you feel about the Zionists?",
+    "text": "تخيل للحظة أن هذا هو طفلك؟ كيف سيكون شعورك تجاه الصهاينة؟",
     "time": "20:57",
     "views": 217,
-    "date": "الخميس 3 سبتمبر 2026"
+    "date": "الخميس 3 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "Oh the beauty of your eyes, this is the head of the angel child Osama Abu Al-Nada, which Israel cut off yesterday. Osama was martyred with his father, Taha Abu Al-Nada, his mother, Hoda, and his brothers, Nour, Dana, Ghani, and Jana.",
+    "text": "يا جمال عيونك هذا رأس الطفل الملاك أسامة أبو الندى الذي قطعته إسرائيل أمس. استشهد أسامة مع والده طه أبو الندى ووالدته هدى وإخوته نور ودانا وغني وجنا.",
     "time": "17:25",
     "views": 383,
-    "date": "الخميس 3 سبتمبر 2026"
+    "date": "الخميس 3 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
