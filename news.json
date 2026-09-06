@@ -225,41 +225,40 @@
   },
   {
     "channel": "PressTV",
-    "text": "غزة تودع 100 ضحية، بينهم 70 طفلا، ضحايا حرب الإبادة الجماعية الإسرائيلية بعد أن انتشلت فرق الدفاع المدني جثثهم من تحت أنقاض المناطق السكنية المدمرة في مدينة غزة. @برس تي في",
+    "text": "غزة تودع 100 ضحية، بينهم 70 طفلا، في حرب الإبادة الجماعية الإسرائيلية بعد أن انتشلت فرق الدفاع المدني جثثهم من تحت أنقاض المناطق السكنية المدمرة في مدينة غزة. @برس تي في",
     "time": "07:17",
-    "views": 353,
+    "views": 439,
     "date": "الأحد 6 سبتمبر 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "عثر على امرأة تبلغ من العمر 64 عامًا على قيد الحياة في نيبال بعد أن أمضت 10 أيام محاصرة تحت منزل تضرر من الفيضانات في نواكوت. @برس تي في",
+    "text": "A 64-year-old woman has been found alive in Nepal after spending 10 days trapped beneath a flood-damaged house in Nuwakot. @PressTV",
     "time": "07:01",
-    "views": 564,
-    "date": "الأحد 6 سبتمبر 2026",
-    "translated": true
+    "views": 641,
+    "date": "الأحد 6 سبتمبر 2026"
   },
   {
     "channel": "PressTV",
-    "text": "Yemen’s roads, bridges devastated by years of war, blockade Noura Mansour reports from Sana'a @PressTV",
+    "text": "طرق وجسور اليمن دمرتها سنوات الحرب والحصار تقرير نورا منصور من صنعاء @PressTV",
     "time": "06:53",
-    "views": 653,
-    "date": "الأحد 6 سبتمبر 2026"
+    "views": 712,
+    "date": "الأحد 6 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
     "text": "IRGC strikes US unmanned vessel in Hormuz, warns of ‘decisive’ response to enemy moves The Islamic Revolution Guards Corps (IRGC) says it has attacked a Remotely Operated Vessel (ROV) belonging to the terrorist US military in Iran’s southern coast. @PressTV",
     "time": "06:26",
-    "views": 983,
+    "views": 0,
     "date": "الأحد 6 سبتمبر 2026"
   },
   {
     "channel": "PressTV",
-    "text": "دمرت إسرائيل حياً سكنياً في بلدة بني حيان جنوب لبنان. @برس تي في",
+    "text": "Israel destroyed a residential neighborhood in the town of Bani Hayyan, southern Lebanon. @PressTV",
     "time": "06:01",
     "views": 0,
-    "date": "الأحد 6 سبتمبر 2026",
-    "translated": true
+    "date": "الأحد 6 سبتمبر 2026"
   },
   {
     "channel": "PressTV",
@@ -270,10 +269,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "The tower of the old St. Agnes Church, on Martha Avenue in Toledo, Ohio, collapsed during a fire. @PressTV",
+    "text": "انهار برج كنيسة سانت أغنيس القديمة، في شارع مارثا في توليدو، أوهايو، أثناء حريق. @برس تي في",
     "time": "05:10",
     "views": 0,
-    "date": "الأحد 6 سبتمبر 2026"
+    "date": "الأحد 6 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
@@ -285,19 +285,17 @@
   },
   {
     "channel": "PressTV",
-    "text": "محلل: الدورة الفاشلة لسياسة الولايات المتحدة تجاه إيران تخدم مصالح الشركات تؤكد المقابلة أن سياسة الولايات المتحدة تجاه إيران قد تطورت إلى دورة من العدوان العسكري الفاشل والعقوبات والهجمات الانتقامية التي لم تسفر عن أي مكاسب استراتيجية واضحة بينما تبدو وكأنها تخدم مصالح الشركات أكثر من مصالح الجمهور الأمريكي. @برس تي في",
+    "text": "Analyst: Failed cycle of US Iran policy serves corporate interests The interview contends that US policy towards Iran has devolved into a cycle of failed military aggression, sanctions, and retaliatory attacks yielding no clear strategic gains while appearing to serve corporate interests more than those of the American public. @PressTV",
     "time": "04:29",
     "views": 0,
-    "date": "الأحد 6 سبتمبر 2026",
-    "translated": true
+    "date": "الأحد 6 سبتمبر 2026"
   },
   {
     "channel": "PressTV",
-    "text": "الجيش الإسرائيلي يقول إنه يستهدف جنوب لبنان بعد استهداف قواته بطائرات مسيرة متفجرة تابعة لحزب الله @PressTV",
+    "text": "Israeli military says it is targeting south Lebanon after its forces were targeted by Hezbollah’s explosive drones @PressTV",
     "time": "04:24",
     "views": 0,
-    "date": "الأحد 6 سبتمبر 2026",
-    "translated": true
+    "date": "الأحد 6 سبتمبر 2026"
   },
   {
     "channel": "PressTV",
@@ -308,19 +306,17 @@
   },
   {
     "channel": "PressTV",
-    "text": "علق تلفزيون برس «الانتقام بالصواريخ الباليستية التابعة للحرس الثوري الإيراني يجبر حاملة الطائرات والمدمرة الأمريكية على الفرار أطلقت القوة الجوية التابعة للحرس الثوري الإيراني عدة صواريخ باليستية على حاملة طائرات أمريكية ومدمرة أمريكية تشارك في مناورات واشنطن... »",
+    "text": "Press TV pinned « IRGC ballistic missile retaliation forces US aircraft carrier, destroyer to flee The Islamic Revolution Guards Corps (IRGC)’s Aerospace Force has launched several ballistic missiles at a US aircraft carrier and an American destroyer participating in Washington’s… »",
     "time": "04:09",
     "views": 0,
-    "date": "الأحد 6 سبتمبر 2026",
-    "translated": true
+    "date": "الأحد 6 سبتمبر 2026"
   },
   {
     "channel": "PressTV",
-    "text": "◀️الحرس الثوري الإيراني يضرب حاملة طائرات ومدمرة أمريكية بعدة صواريخ باليستية مما أجبرهم على الفرار من منطقة الاشتباك. @برس تي في",
+    "text": "▶️ The IRGC hits an American aircraft carrier and a destroyer with several ballistic missiles, forcing them to flee the engagement zone. @PressTV",
     "time": "03:33",
     "views": 0,
-    "date": "الأحد 6 سبتمبر 2026",
-    "translated": true
+    "date": "الأحد 6 سبتمبر 2026"
   },
   {
     "channel": "suppressednews",
@@ -579,7 +575,7 @@
   },
   {
     "channel": "suppressednews",
-    "text": "وكالعادة يقتل عدد كبير عند وقوع الكارثة، ويتوفى عدد آخر تدريجياً متأثراً بجراحه بعد وقوعها. توفي عمر الجعبري، 13 عاماً، متأثراً بجراحه في مستشفى كمال عدوان. وكان من بين ضحايا مجزرة مدرسة التابعين قبل يومين. وأصيب عمر بحروق شديدة نتيجة الصواريخ الأمريكية التي تنتج درجات حرارة عالية للغاية، ولم يصب بشكل مباشر، وإلا لكان قد تحول إلى أشلاء وذاب جسده. 💔 💔 💔",
+    "text": "وكالعادة يقتل عدد كبير عند وقوع الكارثة، ويتوفى عدد آخر تدريجياً متأثراً بجراحه بعد وقوعها. توفي عمر الجعبري، 13 عاماً، متأثراً بجراحه في مستشفى كمال عدوان. وكان من بين ضحايا مجزرة مدرسة التابعين قبل يومين. وأصيب عمر بحروق شديدة نتيجة الصواريخ الأمريكية التي تنتج درجات حرارة عالية جدا، ولم يصب بشكل مباشر، وإلا لكان قد تحول إلى أشلاء وذاب جسده. 💔 💔 💔",
     "time": "04:38",
     "views": 169,
     "date": "الجمعة 4 سبتمبر 2026",
@@ -603,10 +599,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "Yesterday, Israel beheaded a Palestinian child in gaza 🔞 🔞 🔞 🔞",
+    "text": "بالأمس قطعت إسرائيل رأس طفل فلسطيني في غزة 🔞 🔞 🔞 🔞",
     "time": "17:24",
     "views": 359,
-    "date": "الخميس 3 سبتمبر 2026"
+    "date": "الخميس 3 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
