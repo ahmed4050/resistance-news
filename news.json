@@ -233,9 +233,17 @@
   },
   {
     "channel": "PressTV",
+    "text": "◀️ في أحدث انتهاك للقانون الإنساني، تحول مستشفى غندور في بلدة النبطية الفوقا جنوب لبنان إلى أنقاض إثر القصف الإسرائيلي. @برس تي في",
+    "time": "12:45",
+    "views": 24,
+    "date": "الأحد 6 سبتمبر 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
     "text": "◀️ الجيش الإسرائيلي يواصل عدوانه على لبنان، وينفذ هجمات دامية على منطقة النبطية. @برس تي في",
     "time": "12:32",
-    "views": 81,
+    "views": 259,
     "date": "الأحد 6 سبتمبر 2026",
     "translated": true
   },
@@ -243,15 +251,15 @@
     "channel": "PressTV",
     "text": "📸 كشف استطلاع للرأي أجرته صحيفة فايننشال تايمز أن معدلات تأييد الرئيس الأمريكي ترامب وصلت إلى مستوى قياسي منخفض بلغ 33%، حيث يلومه الناخبون بشكل متزايد على أزمة تكلفة المعيشة وتدهور الاقتصاد الأمريكي. @برس تي في",
     "time": "12:16",
-    "views": 407,
+    "views": 562,
     "date": "الأحد 6 سبتمبر 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "أنصار الله: المملكة العربية السعودية لا تزال العدو الأول لليمن أدان عضو المكتب السياسي لأنصار الله في اليمن المملكة العربية السعودية باعتبارها العدو الأول لليمن، قائلاً إن الرياض تواصل مواصلة الهيمنة والاحتلال والحصار الخانق على صنعاء. @برس تي في",
+    "text": "أنصار الله: السعودية لا تزال العدو الأول لليمن أدان عضو المكتب السياسي لأنصار الله في اليمن المملكة العربية السعودية باعتبارها العدو الأول لليمن، قائلا إن الرياض تواصل مواصلة الهيمنة والاحتلال والحصار الخانق على صنعاء. @برس تي في",
     "time": "12:00",
-    "views": 634,
+    "views": 724,
     "date": "الأحد 6 سبتمبر 2026",
     "translated": true
   },
@@ -259,7 +267,7 @@
     "channel": "PressTV",
     "text": "◀️ المبعوثان الخاصان للولايات المتحدة ستيف ويتكوف وجاريد كوشنر يلتقيان بالرئيس الأوكراني زيلينسكي في كييف بعد محادثاتهما مع الرئيس الروسي بوتين في موسكو، أمس. @برس تي في",
     "time": "11:45",
-    "views": 803,
+    "views": 882,
     "date": "الأحد 6 سبتمبر 2026",
     "translated": true
   },
@@ -267,13 +275,13 @@
     "channel": "PressTV",
     "text": "يقول المسؤولون العسكريون إن أوروبا لن تكون قادرة على مواصلة حرب الاستنزاف مع روسيا حذر المسؤولون العسكريون الغربيون من أن أوروبا قد تكافح من أجل الحفاظ على حرب استنزاف طويلة الأمد مع روسيا إذا اندلع صراع شامل، مما يسلط الضوء على المخاوف بشأن الاستعداد العسكري والدعم الشعبي لمواجهة طويلة الأمد. @برس تي في",
     "time": "11:29",
-    "views": 942,
+    "views": 0,
     "date": "الأحد 6 سبتمبر 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "يقول اللواء عبد الله إن الولايات المتحدة تسعى إلى تعويض هزائمها العسكرية من خلال الضغط الاقتصادي @PressTV",
+    "text": "يقول اللواء عبد الله إن الولايات المتحدة تسعى إلى تعويض هزائمها العسكرية من خلال الضغط الاقتصادي@PressTV",
     "time": "11:18",
     "views": 0,
     "date": "الأحد 6 سبتمبر 2026",
@@ -281,24 +289,27 @@
   },
   {
     "channel": "PressTV",
-    "text": "Saudi Arabia and its allied forces carried out shelling and missile attacks in southwestern Yemen that killed and injured civilians, including at least one child. @PressTV",
+    "text": "نفذت المملكة العربية السعودية والقوات المتحالفة معها عمليات قصف وهجمات صاروخية في جنوب غرب اليمن أدت إلى مقتل وجرح مدنيين، بينهم طفل واحد على الأقل. @برس تي في",
     "time": "11:07",
     "views": 0,
-    "date": "الأحد 6 سبتمبر 2026"
+    "date": "الأحد 6 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "Senior MP: Hezbollah proud of alliance with Iran, will continue resistance Hezbollah lawmaker Hussein al-Hajj Hassan says the group is proud of its alliance with Iran and will continue its policy of resistance, saying Tehran has always supported Hezbollah and that the option of surrender is not part of the resistance’s vocabulary. @PressTV",
+    "text": "نائب كبير: حزب الله فخور بتحالفه مع إيران وسيواصل المقاومة يقول النائب عن حزب الله حسين الحاج حسن إن حزب الله فخور بتحالفه مع إيران وسيواصل سياسته المقاومة، معتبراً أن طهران دعمت حزب الله دائماً وأن خيار الاستسلام ليس جزءاً من مفردات المقاومة. @برس تي في",
     "time": "10:54",
     "views": 0,
-    "date": "الأحد 6 سبتمبر 2026"
+    "date": "الأحد 6 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "\"US attacks against Iranian oil vessels are an act of desperation\" Nick Mottern says Trump's attacks on three Iranian oil vessels are an act of desperation amid US weapons shortages, military fatigue, and rising gasoline and diesel prices. @PressTV",
+    "text": "\"الهجمات الأمريكية ضد سفن النفط الإيرانية هي عمل يائس\" يقول نيك موتيرن إن هجمات ترامب على ثلاث سفن نفط إيرانية هي عمل يائس وسط نقص الأسلحة الأمريكية، والإرهاق العسكري، وارتفاع أسعار البنزين والديزل. @برس تي في",
     "time": "10:26",
     "views": 0,
-    "date": "الأحد 6 سبتمبر 2026"
+    "date": "الأحد 6 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
@@ -310,24 +321,27 @@
   },
   {
     "channel": "PressTV",
-    "text": "Stunning 89% of Americans say government corruption is widespread Ramin Mazaheri reports from Washington DC @PressTV",
+    "text": "مذهل 89٪ من الأمريكيين يقولون إن الفساد الحكومي منتشر على نطاق واسع تقارير رامين مظاهري من واشنطن العاصمة @PressTV",
     "time": "09:53",
     "views": 0,
-    "date": "الأحد 6 سبتمبر 2026"
+    "date": "الأحد 6 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "\"We're fed up with genocide and ethnic cleansing\" Pro-Palestine demonstrators have taken to the streets of Paris, calling for an end to Israel's crimes in Gaza and the occupied West Bank. @PressTV",
+    "text": "\"لقد سئمنا الإبادة الجماعية والتطهير العرقي\" خرج المتظاهرون المؤيدون لفلسطين إلى شوارع باريس، مطالبين بوضع حد لجرائم إسرائيل في غزة والضفة الغربية المحتلة. @برس تي في",
     "time": "09:40",
     "views": 0,
-    "date": "الأحد 6 سبتمبر 2026"
+    "date": "الأحد 6 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "Israel’s destruction of Gaza sewage system backfires, triggering water crisis for regime Israel destruction of Gaza’s sewage system has contributed to an enormous algal bloom that has disrupted Israel’s own desalination network, forcing five of its six plants offline. @PressTV",
+    "text": "تدمير إسرائيل لنظام الصرف الصحي في غزة يأتي بنتائج عكسية، مما يؤدي إلى أزمة مياه للنظام ساهم التدمير الإسرائيلي لنظام الصرف الصحي في غزة في تكاثر الطحالب الهائل الذي عطل شبكة تحلية المياه في إسرائيل، مما أجبر خمس من محطاتها الست على التوقف عن العمل. @برس تي في",
     "time": "09:32",
     "views": 0,
-    "date": "الأحد 6 سبتمبر 2026"
+    "date": "الأحد 6 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
@@ -339,10 +353,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "Palestinian prisoners in Israeli jails face harsh and oppressive conditions, according to Palestinian journalist and former prisoner Ramez Awad. @PressTV",
+    "text": "يواجه الأسرى الفلسطينيون في سجون الاحتلال الإسرائيلي، ظروفًا قاسية وقمعية، بحسب الصحفي الفلسطيني والأسير السابق رامز عوض. @برس تي في",
     "time": "09:22",
     "views": 0,
-    "date": "الأحد 6 سبتمبر 2026"
+    "date": "الأحد 6 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
@@ -354,7 +369,7 @@
   },
   {
     "channel": "PressTV",
-    "text": "يواصل الرئيس الأمريكي دونالد ترامب ترديد بعض الجمل، مفادها أنهم لا يملكون أسلحة نووية، لقد دمرنا قواتهم البحرية، ودمرنا قواتهم الجوية، ووضعهم الاقتصادي سيء؛ وقال رئيس أركان الجيش ونائب المنسق الأميرال حبيب الله سياري، إنه ليس لديه أي جملة أخرى غير هذه، ونحن معتادون على هذا التكرار. @برس تي في",
+    "text": "الرئيس الأمريكي دونالد ترامب يكرر باستمرار بعض الجمل، مفادها أنهم لا يملكون أسلحة نووية، لقد دمرنا قواتهم البحرية، ودمرنا قواتهم الجوية، ووضعهم الاقتصادي سيء؛ وقال رئيس أركان الجيش ونائب المنسق الأميرال حبيب الله سياري، إنه ليس لديه أي جملة أخرى غير هذه، ونحن معتادون على هذا التكرار. @برس تي في",
     "time": "08:56",
     "views": 0,
     "date": "الأحد 6 سبتمبر 2026",
@@ -362,23 +377,8 @@
   },
   {
     "channel": "PressTV",
-    "text": "🇮🇷 Discover Iran : From Alamut Kilims to Pan-Bafi, Qazvin’s crafts carry centuries of living tradition Qazvin’s rich handicraft heritage, preserved especially by women, includes distinctive weaving and embroidery traditions that continue to evolve, support livelihoods, and connect cultural knowledge with contemporary life. By Mina Mosallanejad @DiscoverIran1",
+    "text": "🇮🇷 اكتشف إيران: من آلموت كليم إلى بان بافي، تحمل الحرف اليدوية في قزوين قرونًا من التقاليد الحية. يتضمن تراث الحرف اليدوية الغني في قزوين، والذي تحافظ عليه النساء بشكل خاص، تقاليد النسيج والتطريز المميزة التي تستمر في التطور، وتدعم سبل العيش، وتربط المعرفة الثقافية بالحياة المعاصرة. بقلم مينا مسلم نجاد @DiscoverIran1",
     "time": "08:41",
-    "views": 0,
-    "date": "الأحد 6 سبتمبر 2026"
-  },
-  {
-    "channel": "PressTV",
-    "text": "الهجمات الأمريكية على سفن النفط الإيرانية هي عمل يائس: يقول الكاتب والباحث نيك موتيرن إن الضربات التي شنتها واشنطن مؤخرًا على سفن النفط الإيرانية تعكس شعورًا عميقًا باليأس العسكري والسياسي. @برس تي في",
-    "time": "08:21",
-    "views": 0,
-    "date": "الأحد 6 سبتمبر 2026",
-    "translated": true
-  },
-  {
-    "channel": "PressTV",
-    "text": "قال روبرت فانتينا إن المزاعم الأمريكية بشأن إيران لا يمكن أن تؤخذ على محمل الجد، مؤكدا أن طهران لن تخضع أبدا لضغوط واشنطن. @برس تي في",
-    "time": "07:58",
     "views": 0,
     "date": "الأحد 6 سبتمبر 2026",
     "translated": true
@@ -576,10 +576,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "BREAKING: Initial reports of at-least 100 Martyrs in an Israeli strike that targeted \"Al-Tabi'in\" school in Al-Daraj neighborhood in central Gaza City.",
+    "text": "عاجل: التقارير الأولية عن استشهاد ما لا يقل عن 100 شهيد في قصف إسرائيلي استهدف مدرسة \"التابعين\" في حي الدرج وسط مدينة غزة.",
     "time": "02:56",
     "views": 152,
-    "date": "السبت 5 سبتمبر 2026"
+    "date": "السبت 5 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
@@ -599,7 +600,7 @@
   },
   {
     "channel": "suppressednews",
-    "text": "وكالعادة يقتل عدد كبير عند وقوع الكارثة، ويتوفى عدد آخر تدريجياً متأثراً بجراحه بعد وقوعها. توفي عمر الجعبري، 13 عاماً، متأثراً بجراحه في مستشفى كمال عدوان. وكان من بين ضحايا مجزرة مدرسة التابعين قبل يومين. وأصيب عمر بحروق شديدة نتيجة الصواريخ الأمريكية التي تنتج درجات حرارة عالية جدا، ولم يصب بشكل مباشر، وإلا لكان قد تحول إلى أشلاء وذاب جسده. 💔 💔 💔",
+    "text": "وكالعادة يقتل عدد كبير عند وقوع الكارثة، ويتوفى عدد آخر تدريجياً متأثراً بجراحه بعد وقوعها. توفي عمر الجعبري، 13 عاماً، متأثراً بجراحه في مستشفى كمال عدوان. وكان من بين ضحايا مجزرة مدرسة التابعين قبل يومين. وأصيب عمر بحروق شديدة نتيجة الصواريخ الأمريكية التي تنتج درجات حرارة عالية للغاية، ولم يصب بشكل مباشر، وإلا لكان قد تحول إلى أشلاء وذاب جسده. 💔 💔 💔",
     "time": "04:38",
     "views": 169,
     "date": "الجمعة 4 سبتمبر 2026",
