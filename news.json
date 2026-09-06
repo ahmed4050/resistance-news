@@ -233,9 +233,17 @@
   },
   {
     "channel": "PressTV",
+    "text": "◀️ الجيش الإسرائيلي يواصل عدوانه على لبنان، وينفذ هجمات دامية على منطقة النبطية. @برس تي في",
+    "time": "12:32",
+    "views": 81,
+    "date": "الأحد 6 سبتمبر 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
     "text": "📸 كشف استطلاع للرأي أجرته صحيفة فايننشال تايمز أن معدلات تأييد الرئيس الأمريكي ترامب وصلت إلى مستوى قياسي منخفض بلغ 33%، حيث يلومه الناخبون بشكل متزايد على أزمة تكلفة المعيشة وتدهور الاقتصاد الأمريكي. @برس تي في",
     "time": "12:16",
-    "views": 86,
+    "views": 407,
     "date": "الأحد 6 سبتمبر 2026",
     "translated": true
   },
@@ -243,15 +251,15 @@
     "channel": "PressTV",
     "text": "أنصار الله: المملكة العربية السعودية لا تزال العدو الأول لليمن أدان عضو المكتب السياسي لأنصار الله في اليمن المملكة العربية السعودية باعتبارها العدو الأول لليمن، قائلاً إن الرياض تواصل مواصلة الهيمنة والاحتلال والحصار الخانق على صنعاء. @برس تي في",
     "time": "12:00",
-    "views": 388,
+    "views": 634,
     "date": "الأحد 6 سبتمبر 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "◀️ المبعوثان الأمريكيان الخاصان ستيف ويتكوف وجاريد كوشنر يلتقيان بالرئيس الأوكراني زيلينسكي في كييف عقب محادثاتهما مع الرئيس الروسي بوتين في موسكو، أمس. @برس تي في",
+    "text": "◀️ المبعوثان الخاصان للولايات المتحدة ستيف ويتكوف وجاريد كوشنر يلتقيان بالرئيس الأوكراني زيلينسكي في كييف بعد محادثاتهما مع الرئيس الروسي بوتين في موسكو، أمس. @برس تي في",
     "time": "11:45",
-    "views": 617,
+    "views": 803,
     "date": "الأحد 6 سبتمبر 2026",
     "translated": true
   },
@@ -259,22 +267,23 @@
     "channel": "PressTV",
     "text": "يقول المسؤولون العسكريون إن أوروبا لن تكون قادرة على مواصلة حرب الاستنزاف مع روسيا حذر المسؤولون العسكريون الغربيون من أن أوروبا قد تكافح من أجل الحفاظ على حرب استنزاف طويلة الأمد مع روسيا إذا اندلع صراع شامل، مما يسلط الضوء على المخاوف بشأن الاستعداد العسكري والدعم الشعبي لمواجهة طويلة الأمد. @برس تي في",
     "time": "11:29",
-    "views": 776,
+    "views": 942,
     "date": "الأحد 6 سبتمبر 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "Major General Abdollahi says US seeks to offset its military defeats through economic pressure @PressTV",
+    "text": "يقول اللواء عبد الله إن الولايات المتحدة تسعى إلى تعويض هزائمها العسكرية من خلال الضغط الاقتصادي @PressTV",
     "time": "11:18",
-    "views": 868,
-    "date": "الأحد 6 سبتمبر 2026"
+    "views": 0,
+    "date": "الأحد 6 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
     "text": "Saudi Arabia and its allied forces carried out shelling and missile attacks in southwestern Yemen that killed and injured civilians, including at least one child. @PressTV",
     "time": "11:07",
-    "views": 968,
+    "views": 0,
     "date": "الأحد 6 سبتمبر 2026"
   },
   {
@@ -286,18 +295,18 @@
   },
   {
     "channel": "PressTV",
-    "text": "\"الهجمات الأمريكية ضد سفن النفط الإيرانية هي عمل يائس\" يقول نيك موتيرن إن هجمات ترامب على ثلاث سفن نفط إيرانية هي عمل يائس وسط نقص الأسلحة الأمريكية، والإرهاق العسكري، وارتفاع أسعار البنزين والديزل. @برس تي في",
+    "text": "\"US attacks against Iranian oil vessels are an act of desperation\" Nick Mottern says Trump's attacks on three Iranian oil vessels are an act of desperation amid US weapons shortages, military fatigue, and rising gasoline and diesel prices. @PressTV",
     "time": "10:26",
     "views": 0,
-    "date": "الأحد 6 سبتمبر 2026",
-    "translated": true
+    "date": "الأحد 6 سبتمبر 2026"
   },
   {
     "channel": "PressTV",
-    "text": "Exclusive: Israel demolishes historic house in fresh attacks on southern Lebanon The Israeli military has reportedly conducted new attacks on the city of Nabtaieh in southern Lebanon, completely destroying a historic house there. @PressTV",
+    "text": "حصرياً: إسرائيل تهدم منزلاً تاريخياً في هجمات جديدة على جنوب لبنان أفادت التقارير أن الجيش الإسرائيلي شن هجمات جديدة على مدينة النبطية في جنوب لبنان، مما أدى إلى تدمير منزل تاريخي هناك بالكامل. @برس تي في",
     "time": "10:11",
     "views": 0,
-    "date": "الأحد 6 سبتمبر 2026"
+    "date": "الأحد 6 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
@@ -308,11 +317,10 @@
   },
   {
     "channel": "PressTV",
-    "text": "\"لقد سئمنا الإبادة الجماعية والتطهير العرقي\" خرج المتظاهرون المؤيدون لفلسطين إلى شوارع باريس، مطالبين بوضع حد لجرائم إسرائيل في غزة والضفة الغربية المحتلة. @برس تي في",
+    "text": "\"We're fed up with genocide and ethnic cleansing\" Pro-Palestine demonstrators have taken to the streets of Paris, calling for an end to Israel's crimes in Gaza and the occupied West Bank. @PressTV",
     "time": "09:40",
     "views": 0,
-    "date": "الأحد 6 سبتمبر 2026",
-    "translated": true
+    "date": "الأحد 6 سبتمبر 2026"
   },
   {
     "channel": "PressTV",
@@ -323,32 +331,34 @@
   },
   {
     "channel": "PressTV",
-    "text": "Yemeni army deals heavy blows to Saudi-backed mercenaries in Ta’izz, western coast Yemeni Armed Forces have dealt heavy operational blows to Saudi-backed mercenary forces in the southwestern province of Ta’izz, as well as the strategically important stretch of coastline near the Red Sea and the Bab al-Mandab Strait. @PressTV",
+    "text": "الجيش اليمني يوجه ضربات موجعة للمرتزقة المدعومين من السعودية في تعز بالساحل الغربي وجهت القوات المسلحة اليمنية ضربات عملياتية مكثفة لقوات المرتزقة المدعومة من السعودية في محافظة تعز جنوب غرب البلاد، فضلا عن الامتداد الساحلي ذو الأهمية الاستراتيجية بالقرب من البحر الأحمر ومضيق باب المندب. @برس تي في",
     "time": "09:25",
-    "views": 0,
-    "date": "الأحد 6 سبتمبر 2026"
-  },
-  {
-    "channel": "PressTV",
-    "text": "يواجه الأسرى الفلسطينيون في سجون الاحتلال الإسرائيلي، ظروفًا قاسية وقمعية، بحسب الصحفي الفلسطيني والأسير السابق رامز عوض. @برس تي في",
-    "time": "09:22",
     "views": 0,
     "date": "الأحد 6 سبتمبر 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "Parliament Speaker Ghalibaf: Any aggression against Iran’s interests will face heavier, more painful response @PressTV",
-    "time": "09:08",
+    "text": "Palestinian prisoners in Israeli jails face harsh and oppressive conditions, according to Palestinian journalist and former prisoner Ramez Awad. @PressTV",
+    "time": "09:22",
     "views": 0,
     "date": "الأحد 6 سبتمبر 2026"
   },
   {
     "channel": "PressTV",
-    "text": "US President Donald Trump keeps repeating a few sentences, to the effect that they don't have nuclear weapons, we destroyed their navy, we destroyed their air force, their economic situation is bad; he has no other sentences besides these, and we are used to these repetitions, Army Chief of Staff and Deputy Coordinator Rear Admiral Habibollah Sayyari said. @PressTV",
+    "text": "رئيس مجلس النواب قاليباف: أي اعتداء على المصالح الإيرانية سيواجه برد أعنف وأكثر إيلاما @PressTV",
+    "time": "09:08",
+    "views": 0,
+    "date": "الأحد 6 سبتمبر 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "يواصل الرئيس الأمريكي دونالد ترامب ترديد بعض الجمل، مفادها أنهم لا يملكون أسلحة نووية، لقد دمرنا قواتهم البحرية، ودمرنا قواتهم الجوية، ووضعهم الاقتصادي سيء؛ وقال رئيس أركان الجيش ونائب المنسق الأميرال حبيب الله سياري، إنه ليس لديه أي جملة أخرى غير هذه، ونحن معتادون على هذا التكرار. @برس تي في",
     "time": "08:56",
     "views": 0,
-    "date": "الأحد 6 سبتمبر 2026"
+    "date": "الأحد 6 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
@@ -359,24 +369,19 @@
   },
   {
     "channel": "PressTV",
-    "text": "US attacks against Iranian oil vessels is an act of desperation: Author Writer and researcher Nick Mottern says Washington’s recent strikes on Iranian oil vessels reflect a deepening sense of military and political desperation. @PressTV",
+    "text": "الهجمات الأمريكية على سفن النفط الإيرانية هي عمل يائس: يقول الكاتب والباحث نيك موتيرن إن الضربات التي شنتها واشنطن مؤخرًا على سفن النفط الإيرانية تعكس شعورًا عميقًا باليأس العسكري والسياسي. @برس تي في",
     "time": "08:21",
     "views": 0,
-    "date": "الأحد 6 سبتمبر 2026"
+    "date": "الأحد 6 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "Robert Fantina says the US claims about Iran cannot be taken seriously, stressing that Tehran will never submit to Washington’s pressure. @PressTV",
+    "text": "قال روبرت فانتينا إن المزاعم الأمريكية بشأن إيران لا يمكن أن تؤخذ على محمل الجد، مؤكدا أن طهران لن تخضع أبدا لضغوط واشنطن. @برس تي في",
     "time": "07:58",
     "views": 0,
-    "date": "الأحد 6 سبتمبر 2026"
-  },
-  {
-    "channel": "PressTV",
-    "text": "Gaza bids farewell to 100 victims, including 70 children, of Israel’s genocidal war after civil defense teams recovered their bodies from beneath the rubble of destroyed residential areas in Gaza City. @PressTV",
-    "time": "07:17",
-    "views": 0,
-    "date": "الأحد 6 سبتمبر 2026"
+    "date": "الأحد 6 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
@@ -578,21 +583,23 @@
   },
   {
     "channel": "suppressednews",
-    "text": "They stole his joy. He went to obtain a birth certificate for the twins Aser and Aysel - 4 days later. He returned and they were martyred along with their mother. What pain does it have to hold the birth certificate and death certificate of your children on the same day? God is sufficient for us, and He is the best disposer of affairs 💔 💔 💔 💔",
+    "text": "سرقوا فرحته وتوجه للحصول على شهادة ميلاد للتوأم آسر وأيسل – بعد 4 أيام. فرجع فاستشهدوا مع أمهم. ما الألم الذي يسببه حمل شهادة ميلاد ووفاة أطفالك في نفس اليوم؟ حسبنا الله ونعم الوكيل 💔 💔 💔 💔",
     "time": "18:26",
     "views": 176,
-    "date": "الجمعة 4 سبتمبر 2026"
+    "date": "الجمعة 4 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "For forty days and nights, the Western media lamented the lie of Israeli children with their heads cut off, with which the occupation deceived the world, and they did not see a single picture confirming its claims... while every day the headless children of Gaza appear to us in painful pictures, without their weeping, and the media biased towards the occupation and complicit in the crime does not dare. 💔 💔 💔 💔 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭",
+    "text": "أربعون يوماً وليلة، رثى الإعلام الغربي كذبة أطفال إسرائيليين مقطوعة الرأس، التي خدع بها الاحتلال العالم، ولم يروا صورة واحدة تؤكد ادعاءاته... بينما أطفال غزة مقطوعي الرأس يظهرون لنا كل يوم بصور مؤلمة، دون بكاء، ولا يجرؤ الإعلام المنحاز للاحتلال والمتواطئ في الجريمة. 💔 💔 💔 💔 ؟؟؟؟؟؟؟",
     "time": "04:39",
     "views": 184,
-    "date": "الجمعة 4 سبتمبر 2026"
+    "date": "الجمعة 4 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "وكالعادة يقتل عدد كبير عند وقوع الكارثة، ويتوفى عدد آخر تدريجياً متأثراً بجراحه بعد وقوعها. توفي عمر الجعبري، 13 عاماً، متأثراً بجراحه في مستشفى كمال عدوان. وكان من بين ضحايا مجزرة مدرسة التابعين قبل يومين. وأصيب عمر بحروق شديدة نتيجة الصواريخ الأمريكية التي تنتج درجات حرارة عالية للغاية، ولم يصب بشكل مباشر، وإلا لكان قد تحول إلى أشلاء وذاب جسده. 💔 💔 💔",
+    "text": "وكالعادة يقتل عدد كبير عند وقوع الكارثة، ويتوفى عدد آخر تدريجياً متأثراً بجراحه بعد وقوعها. توفي عمر الجعبري، 13 عاماً، متأثراً بجراحه في مستشفى كمال عدوان. وكان من بين ضحايا مجزرة مدرسة التابعين قبل يومين. وأصيب عمر بحروق شديدة نتيجة الصواريخ الأمريكية التي تنتج درجات حرارة عالية جدا، ولم يصب بشكل مباشر، وإلا لكان قد تحول إلى أشلاء وذاب جسده. 💔 💔 💔",
     "time": "04:38",
     "views": 169,
     "date": "الجمعة 4 سبتمبر 2026",
@@ -600,7 +607,7 @@
   },
   {
     "channel": "suppressednews",
-    "text": "تخيل للحظة أن هذا هو طفلك؟ كيف سيكون شعورك تجاه الصهاينة؟",
+    "text": "تخيل للحظة من الزمن أن هذا هو طفلك؟ كيف سيكون شعورك تجاه الصهاينة؟",
     "time": "20:57",
     "views": 217,
     "date": "الخميس 3 سبتمبر 2026",
@@ -608,23 +615,26 @@
   },
   {
     "channel": "suppressednews",
-    "text": "Oh the beauty of your eyes, this is the head of the angel child Osama Abu Al-Nada, which Israel cut off yesterday. Osama was martyred with his father, Taha Abu Al-Nada, his mother, Hoda, and his brothers, Nour, Dana, Ghani, and Jana.",
+    "text": "يا جمال عيونك هذا رأس الطفل الملاك أسامة أبو الندى الذي قطعته إسرائيل أمس. استشهد أسامة مع والده طه أبو الندى ووالدته هدى وإخوته نور ودانا وغني وجنا.",
     "time": "17:25",
     "views": 383,
-    "date": "الخميس 3 سبتمبر 2026"
+    "date": "الخميس 3 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "Yesterday, Israel beheaded a Palestinian child in gaza 🔞 🔞 🔞 🔞",
+    "text": "بالأمس قطعت إسرائيل رأس طفل فلسطيني في غزة 🔞 🔞 🔞 🔞",
     "time": "17:24",
     "views": 359,
-    "date": "الخميس 3 سبتمبر 2026"
+    "date": "الخميس 3 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "This is how the beautiful child Tim was before Israel divided him into two halves. With the scale of the ugliness of those massacres, I hate.",
+    "text": "هكذا كان الطفل الجميل تيم قبل أن يقسمه إسرائيل إلى نصفين. ومع حجم بشاعة تلك المجازر فإنني أكره.",
     "time": "17:22",
     "views": 284,
-    "date": "الخميس 3 سبتمبر 2026"
+    "date": "الخميس 3 سبتمبر 2026",
+    "translated": true
   }
 ]
