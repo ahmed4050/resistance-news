@@ -1,13 +1,5 @@
 [
   {
-    "channel": "PressTV",
-    "text": "◀️ تقول نتفا فريمان إن ارتفاع التكاليف وإهمال حكومة الولايات المتحدة للاحتياجات الاجتماعية لصالح الإنفاق الحربي يؤدي إلى تآكل شرعية الطبقة الحاكمة، مما يدفع المجتمعات المهمشة إلى تنظيم نفسها. @برس تي في",
-    "time": "23:45",
-    "views": 0,
-    "date": "الأحد 6 سبتمبر 2026",
-    "translated": true
-  },
-  {
     "channel": "MiddleEastMonitor",
     "text": "وفي حديثه مع الرئيس الإيراني، حث رئيس الوزراء الباكستاني الولايات المتحدة وإيران على الالتزام باتفاق السلام",
     "time": "22:23",
@@ -233,11 +225,24 @@
   },
   {
     "channel": "PressTV",
-    "text": "◀️الحرس الثوري الإيراني يضرب حاملة طائرات ومدمرة أمريكية بعدة صواريخ باليستية مما أجبرهم على الفرار من منطقة الاشتباك. @برس تي في",
+    "text": "Saudi fighter jet mistakenly struck its own forces in Yemen's Taiz province . @PressTV",
+    "time": "04:13",
+    "views": 94,
+    "date": "الأحد 6 سبتمبر 2026"
+  },
+  {
+    "channel": "PressTV",
+    "text": "Press TV pinned « IRGC ballistic missile retaliation forces US aircraft carrier, destroyer to flee The Islamic Revolution Guards Corps (IRGC)’s Aerospace Force has launched several ballistic missiles at a US aircraft carrier and an American destroyer participating in Washington’s… »",
+    "time": "04:09",
+    "views": 0,
+    "date": "الأحد 6 سبتمبر 2026"
+  },
+  {
+    "channel": "PressTV",
+    "text": "▶️ The IRGC hits an American aircraft carrier and a destroyer with several ballistic missiles, forcing them to flee the engagement zone. @PressTV",
     "time": "03:33",
-    "views": 342,
-    "date": "الأحد 6 سبتمبر 2026",
-    "translated": true
+    "views": 621,
+    "date": "الأحد 6 سبتمبر 2026"
   },
   {
     "channel": "suppressednews",
@@ -248,115 +253,94 @@
   },
   {
     "channel": "PressTV",
-    "text": "◀️ البحرية التابعة لحرس الثورة الإسلامية الإيرانية تنشر لقطات توثق مراقبتها واعتراضها للسفن المخالفة في مضيق هرمز، محذرة من استهداف أي نشاط مشبوه. @برس تي في",
+    "text": "▶️ Iran's Islamic Revolution Guard Corps (IRGC) Navy releases footage documenting its surveillance and interception of violating vessels in the Strait of Hormuz, warning that any suspicious activity will be targeted. @PressTV",
     "time": "03:20",
-    "views": 497,
-    "date": "الأحد 6 سبتمبر 2026",
-    "translated": true
+    "views": 744,
+    "date": "الأحد 6 سبتمبر 2026"
   },
   {
     "channel": "PressTV",
-    "text": "◀️ أدانت وزارة الخارجية الإيرانية بشدة الهجوم الأمريكي على السفن التجارية الإيرانية في الخليج الفارسي وبحر عمان. @برس تي في",
+    "text": "▶️ Iran's Foreign Ministry strongly condemned a US attack on Iranian commercial vessels in the Persian Gulf and the Sea of Oman. @PressTV",
     "time": "03:10",
-    "views": 556,
-    "date": "الأحد 6 سبتمبر 2026",
-    "translated": true
+    "views": 743,
+    "date": "الأحد 6 سبتمبر 2026"
   },
   {
     "channel": "PressTV",
-    "text": "◀️ المقر المركزي لخاتم الأنبياء الإيراني يحذر الولايات المتحدة من أن استمرار مضايقة السفن الإيرانية والحصار البحري سيؤدي إلى رد فعل أكثر شدة من ذي قبل. @برس تي في",
+    "text": "▶️ Iran’s Khatam al-Anbiya Central Headquarters warns the US that continued harassment of Iranian vessels and the maritime blockade will trigger a more severe response than before. @PressTV",
     "time": "03:04",
-    "views": 580,
-    "date": "الأحد 6 سبتمبر 2026",
-    "translated": true
+    "views": 748,
+    "date": "الأحد 6 سبتمبر 2026"
   },
   {
     "channel": "PressTV",
-    "text": "◀️أصدر الرئيس الروسي بوتين وقف الضربات العسكرية ضد العاصمة الأوكرانية كييف لمدة 3 أيام وسط زيارة وفد أمريكي لموسكو. @برس تي في",
+    "text": "▶️ Russian President Putin issued a 3-day halt to military strikes against the Ukrainian capital Kiev amid a US delegation’s visit to Moscow. @PressTV",
     "time": "02:50",
-    "views": 663,
-    "date": "الأحد 6 سبتمبر 2026",
-    "translated": true
+    "views": 794,
+    "date": "الأحد 6 سبتمبر 2026"
   },
   {
     "channel": "PressTV",
-    "text": "\"الحكومات مستمرة بالفشل\": أسطول الحرية يبحر مرة أخرى لكسر الحصار الإسرائيلي على غزة أعلن تحالف أسطول الحرية (FFC) عن جهد دولي جديد لكسر الحصار الإسرائيلي على غزة، حيث تبحر السفن بين الموانئ الأوروبية قبل محاولة مخططة للوصول إلى الأراضي الفلسطينية في أكتوبر. @برس تي في",
+    "text": "‘Governments continue to fail’: Freedom Flotilla sails again to break Israel’s Gaza blockade The Freedom Flotilla Coalition (FFC) has announced a new international effort to break Israel’s blockade of Gaza, with ships sailing between European ports before a planned attempt to reach the Palestinian territory in October. @PressTV",
     "time": "02:40",
-    "views": 731,
-    "date": "الأحد 6 سبتمبر 2026",
-    "translated": true
+    "views": 861,
+    "date": "الأحد 6 سبتمبر 2026"
   },
   {
     "channel": "PressTV",
-    "text": "📸 القوة الجوية للحرس الثوري الإيراني تعلن أنها هاجمت بعدة صواريخ باليستية حاملة طائرات ومدمرة تابعة للبحرية الأمريكية التي تقتل الأطفال، والتي كانت تضايق السفن الإيرانية وتشارك في...",
+    "text": "📸 Iran's Islamic Revolution Guard Corps (IRGC) Aerospace Force announces that it has attacked, with several ballistic missiles, an aircraft carrier and a destroyer belonging to the child-killing US Navy, which had been harassing Iranian ships and participating…",
     "time": "02:30",
-    "views": 799,
-    "date": "الأحد 6 سبتمبر 2026",
-    "translated": true
+    "views": 914,
+    "date": "الأحد 6 سبتمبر 2026"
   },
   {
     "channel": "PressTV",
-    "text": "📸 أعلن الحرس الثوري الإسلامي الإيراني (IRGC) أنه هاجم سفينة USV (سفينة سطحية بدون طيار) تابعة للجيش الأمريكي الإرهابي، أثناء محاولتها دخول المنطقة المحمية في مضيق هرمز. 🔹 يحذر الحرس الثوري الإيراني من أن أي تحرك يائس من قبل العدو سيكون تحت مراقبة المقاتلين الشجعان والمضحين في البحرية التابعة للحرس الثوري الإيراني وسيتم استهدافه بشكل حاسم. 🔹 الحرس الثوري الإيراني يؤكد مجددا أن مضيق هرمز تحت إدارة الجمهورية الإسلامية الإيرانية، وأي تحرك للعدو القاتل للأطفال سيتم الرد عليه بقوة. 🔹 الحرس الثوري: على الولايات المتحدة العدوانية أن تفهم أنه ليس أمامها خيار سوى مغادرة المنطقة والكف عن أذىها. @برس تي في",
+    "text": "📸 Iran's Islamic Revolution Guard Corps (IRGC) announces that it has attacked a USV (unmanned surface vessel) belonging to the terrorist US military, while it was attempting to enter the protected zone of the Strait of Hormuz. 🔹 The IRGC warns that any desperate move by the enemy is under the watch of the fearless, self-sacrificing warriors of the IRGC Navy and will be decisively targeted. 🔹 Iran's IRGC reiterates that the Strait of Hormuz is under the management of the Islamic Republic of Iran, and any movement by the child-killing enemy will be met with a firm response. 🔹 IRGC: The aggressive United States must understand that it has no choice but to leave the region and cease its mischief. @PressTV",
     "time": "02:15",
-    "views": 894,
-    "date": "الأحد 6 سبتمبر 2026",
-    "translated": true
+    "views": 999,
+    "date": "الأحد 6 سبتمبر 2026"
   },
   {
     "channel": "PressTV",
-    "text": "◀️ يرى هنري هاكاماكي أن الغضب الديمقراطي من خطاب ترامب أجوف لأن كلا الطرفين يسمحان للحرب والعقوبات بقتل آلاف الإيرانيين بينما يحزنون فقط على القوات الأمريكية. @برس تي في",
+    "text": "▶️ Henry Hakamaki argues that Democratic outrage over Trump’s rhetoric is hollow because both parties enable the war and sanctions killing thousands of Iranians while only mourning US troops. @PressTV",
     "time": "02:00",
-    "views": 917,
-    "date": "الأحد 6 سبتمبر 2026",
-    "translated": true
+    "views": 0,
+    "date": "الأحد 6 سبتمبر 2026"
   },
   {
     "channel": "PressTV",
-    "text": "وافقت الولايات المتحدة على بيع أسلحة بقيمة 5 مليارات دولار للسعودية مع تجديد العدوان على إيران وافقت واشنطن على صفقة أسلحة محتملة بقيمة 5 مليارات دولار للسعودية من شأنها أن توسع بشكل كبير قدرات المملكة على الضربات الدقيقة مع تصعيد الولايات المتحدة حربها العدوانية ضد إيران. @برس تي في",
+    "text": "US approves $5 billion arms sale to Saudi Arabia as it renews aggression against Iran Washington has approved a potential $5 billion arms package for Saudi Arabia that would sharply expand the kingdom’s precision-strike capabilities as the United States escalates its war of aggression against Iran. @PressTV",
     "time": "01:30",
     "views": 0,
-    "date": "الأحد 6 سبتمبر 2026",
-    "translated": true
+    "date": "الأحد 6 سبتمبر 2026"
   },
   {
     "channel": "PressTV",
-    "text": "حزب الله يلقي باللوم على “فشل” الحكومة اللبنانية مع تصعيد إسرائيل “القتل والدمار” يقول حزب الله إن إسرائيل تكثف هجماتها على لبنان، مضيفًا أن ضربات النظام التي أسفرت عن مقتل أربعة أشخاص وإصابة العشرات في وقت سابق من اليوم جاءت وسط…",
+    "text": "Hezbollah blames Lebanon govt.’s ‘failure’ as Israel escalates ‘killing and destruction’ Hezbollah says Israel is intensifying its attacks on Lebanon, adding that the regime’s strikes that killed four people and wounded dozens earlier in the day came amid…",
     "time": "01:01",
     "views": 0,
-    "date": "الأحد 6 سبتمبر 2026",
-    "translated": true
+    "date": "الأحد 6 سبتمبر 2026"
   },
   {
     "channel": "PressTV",
-    "text": "◀️ في عملية إنقاذ معجزة، تم العثور على امرأة تبلغ من العمر 60 عامًا بعد أن تمكنت من البقاء على قيد الحياة لأكثر من 10 أيام تحت أنقاض منزل في أعقاب الفيضانات المدمرة في نواكوت، نيبال. @برس تي في",
+    "text": "▶️ In a miraculous rescue, a 60-year-old woman was found after managing to survive over 10 days beneath the debris of a house following the devastating flash floods in Nuwakot, Nepal. @PressTV",
     "time": "00:47",
     "views": 0,
-    "date": "الأحد 6 سبتمبر 2026",
-    "translated": true
+    "date": "الأحد 6 سبتمبر 2026"
   },
   {
     "channel": "PressTV",
-    "text": "◀️ وفقًا لريك ستيرلنج، تشن الولايات المتحدة حربًا عدوانية غير معلنة ضد إيران، وتهاجم بشكل غير مبرر ناقلات النفط المدنية بينما تظل ردود إيران على الوجود العسكري الأمريكي مبررة قانونيًا. @برس تي في",
+    "text": "▶️ According to Rick Sterling, the US is waging an undeclared war of aggression against Iran, unjustifiably attacking civilian oil tankers while Iran’s responses to US military presence remain legally justified. @PressTV",
     "time": "00:30",
     "views": 0,
-    "date": "الأحد 6 سبتمبر 2026",
-    "translated": true
+    "date": "الأحد 6 سبتمبر 2026"
   },
   {
     "channel": "PressTV",
-    "text": "◀️اندلاع اشتباكات بين القوات المسلحة اليمنية ومرتزقة العدوان السعودي شرق مدينة تعز. @برس تي في",
+    "text": "▶️ Clashes reported between Yemeni Armed Forces and Saudi-backed mercenaries east of Taiz city. @PressTV",
     "time": "00:15",
     "views": 0,
-    "date": "الأحد 6 سبتمبر 2026",
-    "translated": true
-  },
-  {
-    "channel": "PressTV",
-    "text": "◀️ كرة القدم الفلسطينية تعود بعد توقف 3 سنوات بسبب حرب الإبادة، تقرير مطيع أبو مصبح من دير البلح @PressTV",
-    "time": "00:00",
-    "views": 0,
-    "date": "الأحد 6 سبتمبر 2026",
-    "translated": true
+    "date": "الأحد 6 سبتمبر 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -376,11 +360,10 @@
   },
   {
     "channel": "suppressednews",
-    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-take-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"هناك \"كانت هستيريا جنونية، مع اتخاذ قرارات دون أي معلومات تم التحقق منها\": أمر جيش الدفاع الإسرائيلي بتوجيه هانيبال في 7 أكتوبر بمنع حماس من أسر الجنود",
+    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-taking-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"There was crazy hysteria, with decisions made without any verified information\": IDF ordered Hannibal directive on October 7 to prevent Hamas taking soldiers captive",
     "time": "21:46",
     "views": 225,
-    "date": "السبت 5 سبتمبر 2026",
-    "translated": true
+    "date": "السبت 5 سبتمبر 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -544,66 +527,58 @@
   },
   {
     "channel": "suppressednews",
-    "text": "عاجل: التقارير الأولية عن استشهاد ما لا يقل عن 100 شهيد في قصف إسرائيلي استهدف مدرسة \"التابعين\" في حي الدرج وسط مدينة غزة.",
+    "text": "BREAKING: Initial reports of at-least 100 Martyrs in an Israeli strike that targeted \"Al-Tabi'in\" school in Al-Daraj neighborhood in central Gaza City.",
     "time": "02:56",
     "views": 152,
-    "date": "السبت 5 سبتمبر 2026",
-    "translated": true
+    "date": "السبت 5 سبتمبر 2026"
   },
   {
     "channel": "suppressednews",
-    "text": "سرقوا فرحته وتوجه للحصول على شهادة ميلاد للتوأم آسر وأيسل – بعد 4 أيام. فرجع فاستشهدوا مع أمهم. ما الألم الذي يسببه حمل شهادة ميلاد ووفاة أطفالك في نفس اليوم؟ حسبنا الله ونعم الوكيل 💔 💔 💔 💔",
+    "text": "They stole his joy. He went to obtain a birth certificate for the twins Aser and Aysel - 4 days later. He returned and they were martyred along with their mother. What pain does it have to hold the birth certificate and death certificate of your children on the same day? God is sufficient for us, and He is the best disposer of affairs 💔 💔 💔 💔",
     "time": "18:26",
     "views": 176,
-    "date": "الجمعة 4 سبتمبر 2026",
-    "translated": true
+    "date": "الجمعة 4 سبتمبر 2026"
   },
   {
     "channel": "suppressednews",
-    "text": "أربعون يوماً وليلة، رثى الإعلام الغربي كذبة أطفال إسرائيليين مقطوعة الرأس، التي خدع بها الاحتلال العالم، ولم يروا صورة واحدة تؤكد ادعاءاته... بينما أطفال غزة مقطوعي الرأس يظهرون لنا كل يوم بصور مؤلمة، دون بكاء، ولا يجرؤ الإعلام المنحاز للاحتلال والمتواطئ في الجريمة. 💔 💔 💔 💔 ؟؟؟؟؟؟؟",
+    "text": "For forty days and nights, the Western media lamented the lie of Israeli children with their heads cut off, with which the occupation deceived the world, and they did not see a single picture confirming its claims... while every day the headless children of Gaza appear to us in painful pictures, without their weeping, and the media biased towards the occupation and complicit in the crime does not dare. 💔 💔 💔 💔 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭",
     "time": "04:39",
     "views": 184,
-    "date": "الجمعة 4 سبتمبر 2026",
-    "translated": true
+    "date": "الجمعة 4 سبتمبر 2026"
   },
   {
     "channel": "suppressednews",
-    "text": "وكالعادة يقتل عدد كبير عند وقوع الكارثة، ويتوفى عدد آخر تدريجياً متأثراً بجراحه بعد وقوعها. توفي عمر الجعبري، 13 عاماً، متأثراً بجراحه في مستشفى كمال عدوان. وكان من بين ضحايا مجزرة مدرسة التابعين قبل يومين. وأصيب عمر بحروق شديدة نتيجة الصواريخ الأمريكية التي تنتج درجات حرارة عالية جدا، ولم يصب بشكل مباشر، وإلا لكان قد تحول إلى أشلاء وذاب جسده. 💔 💔 💔",
+    "text": "As usual, a large number are killed when the disaster strikes, and another number gradually succumbs to their wounds after it occurs. Omar Al-Jaabari, 13 years old, died of his wounds at Kamal Adwan Hospital. He was among the victims of the massacre at Al-Tabaeen School two days ago. Omar suffered severe burns as a result of the American missiles that produce very high temperatures, and he was not directly injured, otherwise he would have been turned into pieces and his body would have melted. 💔 💔 💔",
     "time": "04:38",
     "views": 169,
-    "date": "الجمعة 4 سبتمبر 2026",
-    "translated": true
+    "date": "الجمعة 4 سبتمبر 2026"
   },
   {
     "channel": "suppressednews",
-    "text": "تخيل للحظة أن هذا هو طفلك؟ كيف سيكون شعورك تجاه الصهاينة؟",
+    "text": "Imagine for a moment in time that this is your child? How would you feel about the Zionists?",
     "time": "20:57",
     "views": 217,
-    "date": "الخميس 3 سبتمبر 2026",
-    "translated": true
+    "date": "الخميس 3 سبتمبر 2026"
   },
   {
     "channel": "suppressednews",
-    "text": "يا جمال عيونك هذا رأس الطفل الملاك أسامة أبو الندى الذي قطعته إسرائيل أمس. استشهد أسامة مع والده طه أبو الندى ووالدته هدى وإخوته نور ودانا وغني وجنا.",
+    "text": "Oh the beauty of your eyes, this is the head of the angel child Osama Abu Al-Nada, which Israel cut off yesterday. Osama was martyred with his father, Taha Abu Al-Nada, his mother, Hoda, and his brothers, Nour, Dana, Ghani, and Jana.",
     "time": "17:25",
     "views": 383,
-    "date": "الخميس 3 سبتمبر 2026",
-    "translated": true
+    "date": "الخميس 3 سبتمبر 2026"
   },
   {
     "channel": "suppressednews",
-    "text": "بالأمس قطعت إسرائيل رأس طفل فلسطيني في غزة 🔞 🔞 🔞 🔞",
+    "text": "Yesterday, Israel beheaded a Palestinian child in gaza 🔞 🔞 🔞 🔞",
     "time": "17:24",
     "views": 359,
-    "date": "الخميس 3 سبتمبر 2026",
-    "translated": true
+    "date": "الخميس 3 سبتمبر 2026"
   },
   {
     "channel": "suppressednews",
-    "text": "هكذا كان الطفل الجميل تيم قبل أن يقسمه إسرائيل إلى نصفين. ومع حجم بشاعة تلك المجازر فإنني أكره.",
+    "text": "This is how the beautiful child Tim was before Israel divided him into two halves. With the scale of the ugliness of those massacres, I hate.",
     "time": "17:22",
     "views": 284,
-    "date": "الخميس 3 سبتمبر 2026",
-    "translated": true
+    "date": "الخميس 3 سبتمبر 2026"
   }
 ]
