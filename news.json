@@ -208,10 +208,26 @@
     "translated": true
   },
   {
+    "channel": "PressTV",
+    "text": "العميد. الجنرال حيدري: تحول إيران في معادلات الحرب كان يفوق توقعات العدو نائب رئيس أركان القوات المسلحة الإيرانية: مضيق هرمز، أحد النقاط الاستراتيجية الرئيسية في المنطقة، لديه القدرة على التأثير بشكل كبير على المنطقة والعالم.",
+    "time": "14:08",
+    "views": 225,
+    "date": "الإثنين 7 سبتمبر 2026",
+    "translated": true
+  },
+  {
     "channel": "MiddleEastMonitor",
     "text": "تراجع الشحن عبر مضيق هرمز مع استئناف الأعمال العدائية بين الولايات المتحدة وإيران",
     "time": "14:00",
     "views": 0,
+    "date": "الإثنين 7 سبتمبر 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "أعلن رئيس الأمن الإيراني اللواء محسن رضائي أنه سيتم إعلان منطقة محظورة جديدة خارج مضيق هرمز في الأيام المقبلة، محذرا من أن أي سفينة تدخل المنطقة دون التنسيق مع طهران سيتم وضعها على قائمة العقوبات الإيرانية. @برس تي في",
+    "time": "13:58",
+    "views": 403,
     "date": "الإثنين 7 سبتمبر 2026",
     "translated": true
   },
@@ -227,15 +243,15 @@
     "channel": "PressTV",
     "text": "القوات اليمنية تنشر لقطات لقصف صاروخي باليستي على شاحنات تحمل معدات عسكرية من السعودية في معسكر الوديعة. @برس تي في",
     "time": "13:48",
-    "views": 190,
+    "views": 542,
     "date": "الإثنين 7 سبتمبر 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "القوات اليمنية تدمر رتلاً لمرتزقة العدوان السعودي في الوازعية بتعز. @برس تي في",
+    "text": "القوات اليمنية تدمر رتلاً لمرتزقة السعودية في الوازعية بتعز. @برس تي في",
     "time": "13:41",
-    "views": 340,
+    "views": 636,
     "date": "الإثنين 7 سبتمبر 2026",
     "translated": true
   },
@@ -243,7 +259,7 @@
     "channel": "PressTV",
     "text": "قال نصر الله إبراهيمي، محامي القانون الدولي وأستاذ القانون في جامعة طهران، إن الهجوم الأمريكي الإسرائيلي على إيران يشكل عملاً عدوانيًا بموجب القانون الجنائي الدولي. @برس تي في",
     "time": "13:29",
-    "views": 536,
+    "views": 757,
     "date": "الإثنين 7 سبتمبر 2026",
     "translated": true
   },
@@ -251,7 +267,7 @@
     "channel": "PressTV",
     "text": "لحظة إصابة مراسل المنار بقصف جوي إسرائيلي على مدينة النبطية جنوب لبنان. @برس تي في",
     "time": "13:12",
-    "views": 707,
+    "views": 882,
     "date": "الإثنين 7 سبتمبر 2026",
     "translated": true
   },
@@ -259,7 +275,15 @@
     "channel": "PressTV",
     "text": "القوات الإسرائيلية تنفذ عملية هدم واسعة النطاق في المنصوري بجنوب لبنان. @برس تي في",
     "time": "13:04",
-    "views": 746,
+    "views": 881,
+    "date": "الإثنين 7 سبتمبر 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "حذر رئيس البرلمان الإيراني محمد باقر قاليباف من أن أي هجوم على أصول إيران أو مصالحها سيؤدي إلى رد انتقامي من طهران. @برس تي في",
+    "time": "12:53",
+    "views": 919,
     "date": "الإثنين 7 سبتمبر 2026",
     "translated": true
   },
@@ -267,7 +291,7 @@
     "channel": "PressTV",
     "text": "📸 زار أكثر من 30 صحفيًا من تسع دول مدينة كوهستاك بجنوب إيران لإلقاء نظرة مباشرة على آثار الهجمات الأمريكية على حفل زفاف، وكذلك على البنية التحتية المدنية في المنطقة. @برس تي في",
     "time": "12:35",
-    "views": 932,
+    "views": 0,
     "date": "الإثنين 7 سبتمبر 2026",
     "translated": true
   },
@@ -281,30 +305,16 @@
   },
   {
     "channel": "PressTV",
-    "text": "27 Iranian airports damaged during war, air services restored after ceasefire: Official Iran’s Airports and Air Navigation Company says 27 airports across the country sustained damage during the latest bout of unprovoked American-Israeli aggression against the nation. @PressTV",
+    "text": "27 مطارًا إيرانيًا تضررت خلال الحرب، وعودة الخدمات الجوية بعد وقف إطلاق النار: تقول شركة المطارات والملاحة الجوية الإيرانية الرسمية إن 27 مطارًا في جميع أنحاء البلاد تعرضت لأضرار خلال أحدث موجة من العدوان الأمريكي الإسرائيلي غير المبرر ضد البلاد. @برس تي في",
     "time": "12:04",
-    "views": 0,
-    "date": "الإثنين 7 سبتمبر 2026"
-  },
-  {
-    "channel": "PressTV",
-    "text": "South Korea flirts with Hormuz deployment under growing US pressure South Korea is flirting with the idea of deploying military assets to the Persian Gulf, despite Seoul’s earlier reluctance to join the US-led military adventurism against Iran, as pressure…",
-    "time": "11:48",
-    "views": 0,
-    "date": "الإثنين 7 سبتمبر 2026"
-  },
-  {
-    "channel": "PressTV",
-    "text": "حذر رئيس البرلمان الإيراني محمد باقر قاليباف من أن أي هجوم على أصول إيران أو مصالحها سيؤدي إلى رد انتقامي من طهران. @برس تي في",
-    "time": "11:21",
     "views": 0,
     "date": "الإثنين 7 سبتمبر 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "تقرير ديتر راينيش من قناة Press TV من مقر الوكالة الدولية للطاقة الذرية في فيينا حول آخر التطورات المحيطة بالقرار الجديد المناهض لإيران الذي صاغته الولايات المتحدة وثلاث دول من الاتحاد الأوروبي. @برس تي في",
-    "time": "11:13",
+    "text": "كوريا الجنوبية تغازل نشر هرمز في ظل ضغوط أمريكية متزايدة تغازل كوريا الجنوبية فكرة نشر أصول عسكرية في الخليج الفارسي، على الرغم من إحجام سيول في وقت سابق عن الانضمام إلى المغامرات العسكرية التي تقودها الولايات المتحدة ضد إيران، كضغوط...",
+    "time": "11:48",
     "views": 0,
     "date": "الإثنين 7 سبتمبر 2026",
     "translated": true
@@ -502,10 +512,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "BREAKING: Initial reports of at-least 100 Martyrs in an Israeli strike that targeted \"Al-Tabi'in\" school in Al-Daraj neighborhood in central Gaza City.",
+    "text": "عاجل: التقارير الأولية عن استشهاد ما لا يقل عن 100 شهيد في قصف إسرائيلي استهدف مدرسة \"التابعين\" في حي الدرج وسط مدينة غزة.",
     "time": "02:56",
     "views": 152,
-    "date": "الأحد 6 سبتمبر 2026"
+    "date": "الأحد 6 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
@@ -517,10 +528,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "For forty days and nights, the Western media lamented the lie of Israeli children with their heads cut off, with which the occupation deceived the world, and they did not see a single picture confirming its claims... while every day the headless children of Gaza appear to us in painful pictures, without their weeping, and the media biased towards the occupation and complicit in the crime does not dare. 💔 💔 💔 💔 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭",
+    "text": "أربعون يوماً وليلة، رثى الإعلام الغربي كذبة أطفال إسرائيليين مقطوعة الرأس، التي خدع بها الاحتلال العالم، ولم يروا صورة واحدة تؤكد ادعاءاته... بينما أطفال غزة مقطوعي الرأس يظهرون لنا كل يوم بصور مؤلمة، دون بكاء، ولا يجرؤ الإعلام المنحاز للاحتلال والمتواطئ في الجريمة. 💔 💔 💔 💔 ؟؟؟؟؟؟؟",
     "time": "04:39",
     "views": 184,
-    "date": "السبت 5 سبتمبر 2026"
+    "date": "السبت 5 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
@@ -532,17 +544,19 @@
   },
   {
     "channel": "suppressednews",
-    "text": "Imagine for a moment in time that this is your child? How would you feel about the Zionists?",
+    "text": "تخيل للحظة من الزمن أن هذا هو طفلك؟ كيف سيكون شعورك تجاه الصهاينة؟",
     "time": "20:57",
     "views": 217,
-    "date": "الجمعة 4 سبتمبر 2026"
+    "date": "الجمعة 4 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "Oh the beauty of your eyes, this is the head of the angel child Osama Abu Al-Nada, which Israel cut off yesterday. Osama was martyred with his father, Taha Abu Al-Nada, his mother, Hoda, and his brothers, Nour, Dana, Ghani, and Jana.",
+    "text": "يا جمال عيونك هذا رأس الطفل الملاك أسامة أبو الندى الذي قطعته إسرائيل أمس. استشهد أسامة مع والده طه أبو الندى ووالدته هدى وإخوته نور ودانا وغني وجنا.",
     "time": "17:25",
     "views": 383,
-    "date": "الجمعة 4 سبتمبر 2026"
+    "date": "الجمعة 4 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
@@ -554,9 +568,10 @@
   },
   {
     "channel": "suppressednews",
-    "text": "This is how the beautiful child Tim was before Israel divided him into two halves. With the scale of the ugliness of those massacres, I hate.",
+    "text": "هكذا كان الطفل الجميل تيم قبل أن يقسمه إسرائيل إلى نصفين. ومع حجم بشاعة تلك المجازر فإنني أكره.",
     "time": "17:22",
     "views": 284,
-    "date": "الجمعة 4 سبتمبر 2026"
+    "date": "الجمعة 4 سبتمبر 2026",
+    "translated": true
   }
 ]
