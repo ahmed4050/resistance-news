@@ -17,24 +17,19 @@
   },
   {
     "channel": "PressTV",
-    "text": "🔴 Smoke reportedly rising from Jizan oil refinery in Saudi Arabia. @PressTV",
+    "text": "🔴 أنباء عن تصاعد الدخان من مصفاة نفط جيزان بالسعودية. @برس تي في",
     "time": "23:33",
     "views": 0,
-    "date": "الثلاثاء 8 سبتمبر 2026"
+    "date": "الثلاثاء 8 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "Madrid demonstrates to free Gaza donor Fergie Chambers from Spanish jail Alberto Garcia reports from Madrid. @PressTV",
+    "text": "مدريد تتظاهر من أجل إطلاق سراح المتبرع بغزة فيرغي تشامبرز من السجن الإسباني (تقارير ألبرتو غارسيا من مدريد). @برس تي في",
     "time": "23:15",
     "views": 0,
-    "date": "الثلاثاء 8 سبتمبر 2026"
-  },
-  {
-    "channel": "PressTV",
-    "text": "Higher fuel prices and uncertainty over oil supplies through the Strait of Hormuz have imposed significant additional energy costs on American households. @PressTV",
-    "time": "22:45",
-    "views": 0,
-    "date": "الثلاثاء 8 سبتمبر 2026"
+    "date": "الثلاثاء 8 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -262,9 +257,17 @@
   },
   {
     "channel": "PressTV",
+    "text": "سيناتور أمريكي ينتقد \"حرب الاختيار\" التي شنها ترامب ضد إيران مع ارتفاع تكاليفها إلى أكثر من 100 مليار دولار مع عدم وجود استراتيجية للخروج انتقد السيناتور الديمقراطي مارك وارنر بشدة الرئيس الأمريكي دونالد ترامب بشأن الحرب المستمرة ضد إيران، واصفا إياها بأنها \"حرب اختيار\" مكلفة تم شنها دون خطة أو استراتيجية أو حلفاء أو مخرج، وحذر من أن دافعي الضرائب الأمريكيين دفعوا بالفعل 100 مليار دولار، مع ارتفاع الفاتورة بمقدار مليون دولار كل دقيقتين. @برس تي في",
+    "time": "05:21",
+    "views": 191,
+    "date": "الثلاثاء 8 سبتمبر 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
     "text": "◀️ انتقد المتحدث باسم وزارة الخارجية الإيرانية إسماعيل بقائي، مزاعم كندا الأخيرة المناهضة لإيران، مؤكدا أن بيان أوتاوا يشوه كل حقيقة حول الوضع في منطقة غرب آسيا. @برس تي في",
     "time": "05:01",
-    "views": 237,
+    "views": 423,
     "date": "الثلاثاء 8 سبتمبر 2026",
     "translated": true
   },
@@ -272,7 +275,7 @@
     "channel": "PressTV",
     "text": "◀️أمطار غزيرة وعاصفة صيفية تضرب محافظة جيلان في إيران. @برس تي في",
     "time": "04:35",
-    "views": 541,
+    "views": 692,
     "date": "الثلاثاء 8 سبتمبر 2026",
     "translated": true
   },
@@ -280,7 +283,7 @@
     "channel": "PressTV",
     "text": "◀️ حث وزير الخارجية الإيراني عباس عراقجي الدول الإسلامية على إظهار رد فعل مسؤول على انتهاك سيادة إيران وسلامة أراضيها. @برس تي في",
     "time": "04:11",
-    "views": 780,
+    "views": 892,
     "date": "الثلاثاء 8 سبتمبر 2026",
     "translated": true
   },
@@ -288,16 +291,17 @@
     "channel": "PressTV",
     "text": "◀️ تقوم الولايات المتحدة/الثلاثي الأوروبي بإعداد مشروع قرار مناهض لإيران في اجتماع مجلس محافظي الوكالة الدولية للطاقة الذرية، تقارير ديتر راينيش من فيينا. @برس تي في",
     "time": "03:50",
-    "views": 945,
+    "views": 0,
     "date": "الثلاثاء 8 سبتمبر 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "🔴 Secretary of Iran's Supreme National Security Council, Major General Mohsen Rezaei: 🔺 In recent days, Washington has received a clear warning from Iran’s new missiles. 🔺 Economic warfare will be met by a maritime exclusion zone across the Persian Gulf…",
+    "text": "🔴 أمين المجلس الأعلى للأمن القومي الإيراني اللواء محسن رضائي: 🔺 تلقت واشنطن في الأيام الأخيرة تحذيرا واضحا من الصواريخ الإيرانية الجديدة. 🔺 الحرب الاقتصادية ستقابلها منطقة حظر بحرية عبر الخليج الفارسي...",
     "time": "03:27",
     "views": 0,
-    "date": "الثلاثاء 8 سبتمبر 2026"
+    "date": "الثلاثاء 8 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
@@ -308,10 +312,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "Palestinian education under pressure: Demolition threats dozens of schools Naqaa Hamed reports from Bateer. @PressTV",
+    "text": "التعليم الفلسطيني تحت الضغط: تهديدات بالهدم لعشرات المدارس (تقرير نقاعة حامد من بتير) @برس تي في",
     "time": "03:15",
     "views": 0,
-    "date": "الثلاثاء 8 سبتمبر 2026"
+    "date": "الثلاثاء 8 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
@@ -323,24 +328,27 @@
   },
   {
     "channel": "PressTV",
-    "text": "“Iran is firmly in control of the Strait of Hormuz” Christopher Helali says that Washington is attempting to exert political and economic pressure on Iran in an effort to alter the status of the Strait of Hormuz. @PressTV",
+    "text": "\"إيران تسيطر بقوة على مضيق هرمز\" يقول كريستوفر هلالي إن واشنطن تحاول ممارسة ضغوط سياسية واقتصادية على إيران في محاولة لتغيير وضع مضيق هرمز. @برس تي في",
     "time": "02:45",
     "views": 0,
-    "date": "الثلاثاء 8 سبتمبر 2026"
+    "date": "الثلاثاء 8 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "GRAPHIC CONTENT: VIEWER DISCRETION ADVISED Horrific aftermath of Saudi-backed airstrikes in Yemen’s al-Jawf and al-Bayda provinces. @PressTV",
+    "text": "محتوى رسومي: نصيحة للمشاهد، العواقب المروعة للغارات الجوية المدعومة من السعودية في محافظتي الجوف والبيضاء في اليمن. @برس تي في",
     "time": "02:15",
     "views": 0,
-    "date": "الثلاثاء 8 سبتمبر 2026"
+    "date": "الثلاثاء 8 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "Saudi aggression will not go unanswered, Yemen warns after Jawf massacre The Yemeni armed forces have warned that Saudi Arabia will pay a heavy price for its ongoing acts of aggression against the Arab Peninsula nation, following a Saudi airstrike on a correctional…",
+    "text": "اليمن يحذر من أن العدوان السعودي لن يمر دون رد بعد مجزرة الجوف حذرت القوات المسلحة اليمنية من أن المملكة العربية السعودية ستدفع ثمنا باهظا لأعمالها العدوانية المستمرة ضد الدولة شبه الجزيرة العربية، وذلك في أعقاب غارة جوية سعودية على مركز إصلاحي.",
     "time": "00:50",
     "views": 0,
-    "date": "الثلاثاء 8 سبتمبر 2026"
+    "date": "الثلاثاء 8 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
@@ -352,14 +360,15 @@
   },
   {
     "channel": "PressTV",
-    "text": "Iran possesses full capability to strike US warships enforcing economic blockade: Acting defense minister Iran has firmly rejected Washington’s underestimation of Tehran’s military capabilities, saying that its armed forces have the technology and readiness to target American warships participating in the illegal naval blockade imposed against the Iranian nation. @PressTV",
+    "text": "إيران تمتلك القدرة الكاملة على ضرب السفن الحربية الأمريكية التي تفرض الحصار الاقتصادي: رفض القائم بأعمال وزير الدفاع الإيراني بشدة استهانة واشنطن بقدرات طهران العسكرية، قائلا إن قواتها المسلحة لديها التكنولوجيا والاستعداد لاستهداف السفن الحربية الأمريكية المشاركة في الحصار البحري غير القانوني المفروض على الأمة الإيرانية. @برس تي في",
     "time": "00:31",
     "views": 0,
-    "date": "الثلاثاء 8 سبتمبر 2026"
+    "date": "الثلاثاء 8 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "\"هذا تطور كبير في حروب العصر الحديث\" وفقًا لعلي رزق، فقد حولت إيران موقعها الجغرافي والجيوسياسي بشكل فعال إلى ميزة استراتيجية. @برس تي في",
+    "text": "\"هذا تطور كبير في حرب العصر الحديث\" وفقًا لعلي رزق، فقد حولت إيران موقعها الجغرافي والجيوسياسي بشكل فعال إلى ميزة استراتيجية. @برس تي في",
     "time": "00:04",
     "views": 0,
     "date": "الثلاثاء 8 سبتمبر 2026",
@@ -383,10 +392,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-taking-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"There was crazy hysteria, with decisions made without any verified information\": IDF ordered Hannibal directive on October 7 to prevent Hamas taking soldiers captive",
+    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-take-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"هناك \"كانت هستيريا جنونية، مع اتخاذ قرارات دون أي معلومات تم التحقق منها\": أمر جيش الدفاع الإسرائيلي بتوجيه هانيبال في 7 أكتوبر بمنع حماس من أسر الجنود",
     "time": "21:46",
     "views": 225,
-    "date": "الإثنين 7 سبتمبر 2026"
+    "date": "الإثنين 7 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -550,10 +560,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "BREAKING: Initial reports of at-least 100 Martyrs in an Israeli strike that targeted \"Al-Tabi'in\" school in Al-Daraj neighborhood in central Gaza City.",
+    "text": "عاجل: التقارير الأولية عن استشهاد ما لا يقل عن 100 شهيد في قصف إسرائيلي استهدف مدرسة \"التابعين\" في حي الدرج وسط مدينة غزة.",
     "time": "02:56",
     "views": 152,
-    "date": "الإثنين 7 سبتمبر 2026"
+    "date": "الإثنين 7 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
@@ -573,17 +584,19 @@
   },
   {
     "channel": "suppressednews",
-    "text": "As usual, a large number are killed when the disaster strikes, and another number gradually succumbs to their wounds after it occurs. Omar Al-Jaabari, 13 years old, died of his wounds at Kamal Adwan Hospital. He was among the victims of the massacre at Al-Tabaeen School two days ago. Omar suffered severe burns as a result of the American missiles that produce very high temperatures, and he was not directly injured, otherwise he would have been turned into pieces and his body would have melted. 💔 💔 💔",
+    "text": "وكالعادة يقتل عدد كبير عند وقوع الكارثة، ويتوفى عدد آخر تدريجياً متأثراً بجراحه بعد وقوعها. توفي عمر الجعبري، 13 عاماً، متأثراً بجراحه في مستشفى كمال عدوان. وكان من بين ضحايا مجزرة مدرسة التابعين قبل يومين. وأصيب عمر بحروق شديدة نتيجة الصواريخ الأمريكية التي تنتج درجات حرارة عالية جدا، ولم يصب بشكل مباشر، وإلا لكان قد تحول إلى أشلاء وذاب جسده. 💔 💔 💔",
     "time": "04:38",
     "views": 169,
-    "date": "الأحد 6 سبتمبر 2026"
+    "date": "الأحد 6 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "Imagine for a moment in time that this is your child? How would you feel about the Zionists?",
+    "text": "تخيل للحظة أن هذا هو طفلك؟ كيف سيكون شعورك تجاه الصهاينة؟",
     "time": "20:57",
     "views": 217,
-    "date": "السبت 5 سبتمبر 2026"
+    "date": "السبت 5 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
@@ -595,10 +608,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "Yesterday, Israel beheaded a Palestinian child in gaza 🔞 🔞 🔞 🔞",
+    "text": "بالأمس قطعت إسرائيل رأس طفل فلسطيني في غزة 🔞 🔞 🔞 🔞",
     "time": "17:24",
     "views": 359,
-    "date": "السبت 5 سبتمبر 2026"
+    "date": "السبت 5 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
