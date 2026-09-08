@@ -129,9 +129,17 @@
   },
   {
     "channel": "PressTV",
+    "text": "تم تثبيت Press TV « البحرية التابعة للحرس الثوري الإيراني تستولي على سفينة أمريكية بدون طيار تحت الماء بالقرب من مضيق هرمز 🔹 قالت البحرية التابعة لحرس الثورة الإسلامية إنها استولت على سفينة أمريكية متقدمة بدون طيار تحت الماء بالقرب من مدخل مضيق هرمز في عملية استخباراتية معقدة و... »",
+    "time": "16:39",
+    "views": 0,
+    "date": "الثلاثاء 8 سبتمبر 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
     "text": "إيران تمنع عمليات تفتيش الوكالة الدولية للطاقة الذرية للمواقع النووية التي تعرضت للهجوم حتى يتم وضع بروتوكول جديد يقول رئيس منظمة الطاقة الذرية الإيرانية (AEOI) إن الوكالة الدولية للطاقة الذرية التابعة للأمم المتحدة لا يمكنها أن تطلب الوصول لتفقد المنشآت النووية المتضررة في الحرب العسكرية الأمريكية الإسرائيلية.",
     "time": "16:32",
-    "views": 1,
+    "views": 375,
     "date": "الثلاثاء 8 سبتمبر 2026",
     "translated": true
   },
@@ -147,7 +155,7 @@
     "channel": "PressTV",
     "text": "◀️ يؤكد علي رضا أكبري، مراسل قناة Press TV، أن تأكيد إيران سيطرتها على مضيق هرمز يتجلى في التطورات على الأرض، مما يتحدى المزاعم الأمريكية بشأن الممر المائي الرئيسي. @برس تي في",
     "time": "16:17",
-    "views": 324,
+    "views": 585,
     "date": "الثلاثاء 8 سبتمبر 2026",
     "translated": true
   },
@@ -179,7 +187,7 @@
     "channel": "PressTV",
     "text": "◀️ صعّدت القوات الإسرائيلية والمستوطنون هجماتهم ضد الفلسطينيين في أنحاء الضفة الغربية المحتلة، مما أدى إلى مقتل وجرح مدنيين وتهجير عائلات من منازلهم. @برس تي في",
     "time": "15:58",
-    "views": 621,
+    "views": 858,
     "date": "الثلاثاء 8 سبتمبر 2026",
     "translated": true
   },
@@ -187,7 +195,7 @@
     "channel": "PressTV",
     "text": "🎤 محادثة - القصف الأمريكي لحفل زفاف في إيران \"انتهاك واضح ومتهور\" للقانون الدولي: خبير قانوني يقول خبير قانوني إن الضربة الأمريكية على حفل زفاف في جنوب إيران كانت \"انتهاكًا واضحًا ومتهورًا\" للقانون الدولي، مشيرًا إلى أن الصمت الدولي شجع المعتدين. @برس تي في",
     "time": "15:46",
-    "views": 741,
+    "views": 918,
     "date": "الثلاثاء 8 سبتمبر 2026",
     "translated": true
   },
@@ -201,10 +209,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "▶️ In a resurfaced video shared on social media, Martyr Lieutenant General Hossein Salami, the IRGC’s former commander, speaks about the force’s first successful test of an antiaircraft missile. @PressTV",
+    "text": "◀️ في مقطع فيديو أعيد نشره على وسائل التواصل الاجتماعي، يتحدث الفريق الشهيد حسين سلامي، القائد السابق للحرس الثوري الإيراني، عن أول اختبار ناجح للقوة لصاروخ مضاد للطائرات. @برس تي في",
     "time": "15:31",
-    "views": 954,
-    "date": "الثلاثاء 8 سبتمبر 2026"
+    "views": 0,
+    "date": "الثلاثاء 8 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -216,11 +225,10 @@
   },
   {
     "channel": "PressTV",
-    "text": "🔴 تقرير: المملكة المتحدة تطمئن بشكل خاص إلى أن العقوبات على المستوطنات الصهيونية ليس لها أي وزن، \"رمزية إلى حد كبير\" @PressTV",
+    "text": "🔴 Report: Privately reassured by UK that sanctions on Zionist settlements carry no weight, ‘largely symbolic’ @PressTV",
     "time": "15:25",
-    "views": 970,
-    "date": "الثلاثاء 8 سبتمبر 2026",
-    "translated": true
+    "views": 0,
+    "date": "الثلاثاء 8 سبتمبر 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -240,7 +248,7 @@
   },
   {
     "channel": "PressTV",
-    "text": "◀️ اليمن يواجه التصعيد المدعوم من السعودية ويتوعد بالانتقام - تقرير عبد اللطيف الوشلي من صنعاء @PressTV",
+    "text": "◀️ اليمن يواجه التصعيد المدعوم من السعودية ويتوعد بالانتقام مراسل عبد اللطيف الوشلي من صنعاء @PressTV",
     "time": "15:06",
     "views": 0,
     "date": "الثلاثاء 8 سبتمبر 2026",
@@ -271,18 +279,18 @@
   },
   {
     "channel": "PressTV",
-    "text": "🔴 الدفاع الجوي للجيش الإيراني يسقط طائرة بدون طيار تابعة للجيش الأمريكي من طراز MQ-1 فوق مضيق هرمز @PressTV",
+    "text": "🔴 Iran’s Army Air Defense shoots down terrorist US military’s MQ-1 drone over Strait of Hormuz @PressTV",
+    "time": "14:44",
+    "views": 0,
+    "date": "الثلاثاء 8 سبتمبر 2026"
+  },
+  {
+    "channel": "PressTV",
+    "text": "\"لا يمكن اعتبار أي من هذه مجرد ترتيبات تكتيكية\" 👉 ديفيد ميلر يناقش ما إذا كانت الثورة البوليفارية تتعرض للخيانة في عهد الرئيس الفنزويلي المؤقت ديلسي رودريغيز. شاهد كاملاً @PalestineDeclassified",
     "time": "14:44",
     "views": 0,
     "date": "الثلاثاء 8 سبتمبر 2026",
     "translated": true
-  },
-  {
-    "channel": "PressTV",
-    "text": "\"None of those can be seen as just a tactical arrangement\" 👉 David Miller discusses whether the Bolivarian revolution is being betrayed under Venezuela's interim president Delcy Rodríguez. Watch in full @PalestineDeclassified",
-    "time": "14:44",
-    "views": 0,
-    "date": "الثلاثاء 8 سبتمبر 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -301,10 +309,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "📸 Iran's President Pezeshkian hosts a meeting with the Speaker of Parliament Ghalibaf and Judiciary Chief Mohseni-Ejei to discuss the latest developments in the country and region. @PressTV",
+    "text": "📸 الرئيس الإيراني بيزشكيان يستضيف اجتماعا مع رئيس البرلمان قاليباف ورئيس السلطة القضائية محسني ايجي لبحث آخر التطورات في البلاد والمنطقة. @برس تي في",
     "time": "14:31",
     "views": 0,
-    "date": "الثلاثاء 8 سبتمبر 2026"
+    "date": "الثلاثاء 8 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -313,13 +322,6 @@
     "views": 0,
     "date": "الثلاثاء 8 سبتمبر 2026",
     "translated": true
-  },
-  {
-    "channel": "PressTV",
-    "text": "🔴 Iran FM: US return to Islamabad MoU commitments would pave way for return to normal situation @PressTV",
-    "time": "14:16",
-    "views": 0,
-    "date": "الثلاثاء 8 سبتمبر 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -336,13 +338,6 @@
     "views": 0,
     "date": "الثلاثاء 8 سبتمبر 2026",
     "translated": true
-  },
-  {
-    "channel": "PressTV",
-    "text": "UK to adopt 'comprehensive' measures against Israel over West Bank settlement expansion Foreign Secretary Ed Miliband says Britain will unveil a “comprehensive\" package of measures on illegal Israeli settlements in the occupied West Bank in the coming weeks.…",
-    "time": "13:56",
-    "views": 0,
-    "date": "الثلاثاء 8 سبتمبر 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -552,25 +547,26 @@
   },
   {
     "channel": "suppressednews",
-    "text": "They stole his joy. He went to obtain a birth certificate for the twins Aser and Aysel - 4 days later. He returned and they were martyred along with their mother. What pain does it have to hold the birth certificate and death certificate of your children on the same day? God is sufficient for us, and He is the best disposer of affairs 💔 💔 💔 💔",
+    "text": "سرقوا فرحته وتوجه للحصول على شهادة ميلاد للتوأم آسر وأيسل – بعد 4 أيام. فرجع فاستشهدوا مع أمهم. ما الألم الذي يسببه حمل شهادة ميلاد ووفاة أطفالك في نفس اليوم؟ حسبنا الله ونعم الوكيل 💔 💔 💔 💔",
     "time": "18:26",
     "views": 176,
-    "date": "الأحد 6 سبتمبر 2026"
-  },
-  {
-    "channel": "suppressednews",
-    "text": "For forty days and nights, the Western media lamented the lie of Israeli children with their heads cut off, with which the occupation deceived the world, and they did not see a single picture confirming its claims... while every day the headless children of Gaza appear to us in painful pictures, without their weeping, and the media biased towards the occupation and complicit in the crime does not dare. 💔 💔 💔 💔 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭",
-    "time": "04:39",
-    "views": 184,
-    "date": "الأحد 6 سبتمبر 2026"
-  },
-  {
-    "channel": "suppressednews",
-    "text": "وكالعادة يقتل عدد كبير عند وقوع الكارثة، ويتوفى عدد آخر تدريجياً متأثراً بجراحه بعد وقوعها. توفي عمر الجعبري، 13 عاماً، متأثراً بجراحه في مستشفى كمال عدوان. وكان من بين ضحايا مجزرة مدرسة التابعين قبل يومين. وأصيب عمر بحروق شديدة نتيجة الصواريخ الأمريكية التي تنتج درجات حرارة عالية جدا، ولم يصب بشكل مباشر، وإلا لكان قد تحول إلى أشلاء وذاب جسده. 💔 💔 💔",
-    "time": "04:38",
-    "views": 169,
     "date": "الأحد 6 سبتمبر 2026",
     "translated": true
+  },
+  {
+    "channel": "suppressednews",
+    "text": "أربعون يوماً وليلة، رثى الإعلام الغربي كذبة أطفال إسرائيليين مقطوعة الرأس، التي خدع بها الاحتلال العالم، ولم يروا صورة واحدة تؤكد ادعاءاته... بينما أطفال غزة مقطوعي الرأس يظهرون لنا كل يوم بصور مؤلمة، دون بكاء، ولا يجرؤ الإعلام المنحاز للاحتلال والمتواطئ في الجريمة. 💔 💔 💔 💔 ؟؟؟؟؟؟؟",
+    "time": "04:39",
+    "views": 184,
+    "date": "الأحد 6 سبتمبر 2026",
+    "translated": true
+  },
+  {
+    "channel": "suppressednews",
+    "text": "As usual, a large number are killed when the disaster strikes, and another number gradually succumbs to their wounds after it occurs. Omar Al-Jaabari, 13 years old, died of his wounds at Kamal Adwan Hospital. He was among the victims of the massacre at Al-Tabaeen School two days ago. Omar suffered severe burns as a result of the American missiles that produce very high temperatures, and he was not directly injured, otherwise he would have been turned into pieces and his body would have melted. 💔 💔 💔",
+    "time": "04:38",
+    "views": 169,
+    "date": "الأحد 6 سبتمبر 2026"
   },
   {
     "channel": "suppressednews",
