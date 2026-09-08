@@ -24,14 +24,6 @@
     "translated": true
   },
   {
-    "channel": "PressTV",
-    "text": "مدريد تتظاهر من أجل إطلاق سراح المتبرع بغزة فيرغي تشامبرز من السجن الإسباني (تقارير ألبرتو غارسيا من مدريد). @برس تي في",
-    "time": "23:15",
-    "views": 0,
-    "date": "الثلاثاء 8 سبتمبر 2026",
-    "translated": true
-  },
-  {
     "channel": "MiddleEastMonitor",
     "text": "وفي حديثه مع الرئيس الإيراني، حث رئيس الوزراء الباكستاني الولايات المتحدة وإيران على الالتزام باتفاق السلام",
     "time": "22:23",
@@ -257,9 +249,17 @@
   },
   {
     "channel": "PressTV",
+    "text": "دخلت الرسوم الجمركية الانتقامية التي فرضتها كندا على ما يقرب من 20 مليار دولار من البضائع الأمريكية حيز التنفيذ. @برس تي في",
+    "time": "05:42",
+    "views": 189,
+    "date": "الثلاثاء 8 سبتمبر 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
     "text": "سيناتور أمريكي ينتقد \"حرب الاختيار\" التي شنها ترامب ضد إيران مع ارتفاع تكاليفها إلى أكثر من 100 مليار دولار دون استراتيجية خروج انتقد السيناتور الديمقراطي مارك وارنر بشدة الرئيس الأمريكي دونالد ترامب بشأن الحرب المستمرة ضد إيران، واصفا إياها بأنها \"حرب اختيار\" مكلفة تم شنها دون خطة أو استراتيجية أو حلفاء أو مخرج، وحذر من أن دافعي الضرائب الأمريكيين دفعوا بالفعل 100 مليار دولار، مع ارتفاع الفاتورة بمقدار مليون دولار كل دقيقتين. @برس تي في",
     "time": "05:21",
-    "views": 330,
+    "views": 485,
     "date": "الثلاثاء 8 سبتمبر 2026",
     "translated": true
   },
@@ -267,7 +267,7 @@
     "channel": "PressTV",
     "text": "◀️ انتقد المتحدث باسم وزارة الخارجية الإيرانية إسماعيل بقائي، مزاعم كندا الأخيرة المناهضة لإيران، مؤكدا أن بيان أوتاوا يشوه كل حقيقة حول الوضع في منطقة غرب آسيا. @برس تي في",
     "time": "05:01",
-    "views": 517,
+    "views": 619,
     "date": "الثلاثاء 8 سبتمبر 2026",
     "translated": true
   },
@@ -275,7 +275,7 @@
     "channel": "PressTV",
     "text": "◀️أمطار غزيرة وعاصفة صيفية تضرب محافظة جيلان في إيران. @برس تي في",
     "time": "04:35",
-    "views": 769,
+    "views": 872,
     "date": "الثلاثاء 8 سبتمبر 2026",
     "translated": true
   },
@@ -283,7 +283,7 @@
     "channel": "PressTV",
     "text": "◀️ حث وزير الخارجية الإيراني عباس عراقجي الدول الإسلامية على إظهار رد فعل مسؤول على انتهاك سيادة إيران وسلامة أراضيها. @برس تي في",
     "time": "04:11",
-    "views": 967,
+    "views": 0,
     "date": "الثلاثاء 8 سبتمبر 2026",
     "translated": true
   },
@@ -360,17 +360,19 @@
   },
   {
     "channel": "PressTV",
-    "text": "Iran possesses full capability to strike US warships enforcing economic blockade: Acting defense minister Iran has firmly rejected Washington’s underestimation of Tehran’s military capabilities, saying that its armed forces have the technology and readiness to target American warships participating in the illegal naval blockade imposed against the Iranian nation. @PressTV",
+    "text": "إيران تمتلك القدرة الكاملة على ضرب السفن الحربية الأمريكية التي تفرض الحصار الاقتصادي: رفض القائم بأعمال وزير الدفاع الإيراني بشدة استهانة واشنطن بقدرات طهران العسكرية، قائلا إن قواتها المسلحة لديها التكنولوجيا والاستعداد لاستهداف السفن الحربية الأمريكية المشاركة في الحصار البحري غير القانوني المفروض على الأمة الإيرانية. @برس تي في",
     "time": "00:31",
     "views": 0,
-    "date": "الثلاثاء 8 سبتمبر 2026"
+    "date": "الثلاثاء 8 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "\"This is a major development in modern-day warfare\" According to Ali Rizk, Iran has effectively turned its geographical and geopolitical position into a strategic advantage. @PressTV",
+    "text": "\"هذا تطور كبير في حرب العصر الحديث\" وفقًا لعلي رزق، فقد حولت إيران موقعها الجغرافي والجيوسياسي بشكل فعال إلى ميزة استراتيجية. @برس تي في",
     "time": "00:04",
     "views": 0,
-    "date": "الثلاثاء 8 سبتمبر 2026"
+    "date": "الثلاثاء 8 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -566,10 +568,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "They stole his joy. He went to obtain a birth certificate for the twins Aser and Aysel - 4 days later. He returned and they were martyred along with their mother. What pain does it have to hold the birth certificate and death certificate of your children on the same day? God is sufficient for us, and He is the best disposer of affairs 💔 💔 💔 💔",
+    "text": "سرقوا فرحته وتوجه للحصول على شهادة ميلاد للتوأم آسر وأيسل – بعد 4 أيام. فرجع فاستشهدوا مع أمهم. ما الألم الذي يسببه حمل شهادة ميلاد ووفاة أطفالك في نفس اليوم؟ حسبنا الله ونعم الوكيل 💔 💔 💔 💔",
     "time": "18:26",
     "views": 176,
-    "date": "الأحد 6 سبتمبر 2026"
+    "date": "الأحد 6 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
@@ -581,31 +584,35 @@
   },
   {
     "channel": "suppressednews",
-    "text": "As usual, a large number are killed when the disaster strikes, and another number gradually succumbs to their wounds after it occurs. Omar Al-Jaabari, 13 years old, died of his wounds at Kamal Adwan Hospital. He was among the victims of the massacre at Al-Tabaeen School two days ago. Omar suffered severe burns as a result of the American missiles that produce very high temperatures, and he was not directly injured, otherwise he would have been turned into pieces and his body would have melted. 💔 💔 💔",
+    "text": "وكالعادة يقتل عدد كبير عند وقوع الكارثة، ويتوفى عدد آخر تدريجياً متأثراً بجراحه بعد وقوعها. توفي عمر الجعبري، 13 عاماً، متأثراً بجراحه في مستشفى كمال عدوان. وكان من بين ضحايا مجزرة مدرسة التابعين قبل يومين. وأصيب عمر بحروق شديدة نتيجة الصواريخ الأمريكية التي تنتج درجات حرارة عالية جدا، ولم يصب بشكل مباشر، وإلا لكان قد تحول إلى أشلاء وذاب جسده. 💔 💔 💔",
     "time": "04:38",
     "views": 169,
-    "date": "الأحد 6 سبتمبر 2026"
+    "date": "الأحد 6 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "Imagine for a moment in time that this is your child? How would you feel about the Zionists?",
+    "text": "تخيل للحظة من الزمن أن هذا هو طفلك؟ كيف سيكون شعورك تجاه الصهاينة؟",
     "time": "20:57",
     "views": 217,
-    "date": "السبت 5 سبتمبر 2026"
+    "date": "السبت 5 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "Oh the beauty of your eyes, this is the head of the angel child Osama Abu Al-Nada, which Israel cut off yesterday. Osama was martyred with his father, Taha Abu Al-Nada, his mother, Hoda, and his brothers, Nour, Dana, Ghani, and Jana.",
+    "text": "يا جمال عيونك هذا رأس الطفل الملاك أسامة أبو الندى الذي قطعته إسرائيل أمس. استشهد أسامة مع والده طه أبو الندى ووالدته هدى وإخوته نور ودانا وغني وجنا.",
     "time": "17:25",
     "views": 383,
-    "date": "السبت 5 سبتمبر 2026"
+    "date": "السبت 5 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "Yesterday, Israel beheaded a Palestinian child in gaza 🔞 🔞 🔞 🔞",
+    "text": "بالأمس قطعت إسرائيل رأس طفل فلسطيني في غزة 🔞 🔞 🔞 🔞",
     "time": "17:24",
     "views": 359,
-    "date": "السبت 5 سبتمبر 2026"
+    "date": "السبت 5 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
