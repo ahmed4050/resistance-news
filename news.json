@@ -11,7 +11,7 @@
     "channel": "PressTV",
     "text": "اليمن يتعهد \"بالانتقام الشديد\" على 54 غارة جوية سعودية خلال 12 ساعة حذر المتحدث باسم القوات المسلحة اليمنية من رد شديد بعد أن نفذت الطائرات الحربية السعودية عشرات الغارات الجوية في جميع أنحاء البلاد خلال الـ 12 ساعة الماضية، مما تسبب في أضرار جسيمة للمناطق السكنية والبنية التحتية المدنية. @برس تي في",
     "time": "22:15",
-    "views": 350,
+    "views": 540,
     "date": "الخميس 10 سبتمبر 2026",
     "translated": true
   },
@@ -27,7 +27,7 @@
     "channel": "PressTV",
     "text": "🔴 أنباء عن سماع عدة انفجارات في قاعدة الملك فهد الجوية بالسعودية. @برس تي في",
     "time": "22:04",
-    "views": 684,
+    "views": 843,
     "date": "الخميس 10 سبتمبر 2026",
     "translated": true
   },
@@ -35,7 +35,7 @@
     "channel": "PressTV",
     "text": "القوات اليمنية تحتفل بعد سيطرتها على مدينة حيس غربي البلاد. @برس تي في",
     "time": "22:01",
-    "views": 681,
+    "views": 815,
     "date": "الخميس 10 سبتمبر 2026",
     "translated": true
   },
@@ -51,7 +51,7 @@
     "channel": "PressTV",
     "text": "🔴 وزارة الخارجية الإيرانية سبوكس بقائي: 🔺 الأكاذيب التي رواها وزير الخارجية الأمريكي روبيو حول تورط إيران في القضية اليمنية السعودية لا يمكن أن تحل محل الحقائق. @برس تي في",
     "time": "21:50",
-    "views": 839,
+    "views": 961,
     "date": "الخميس 10 سبتمبر 2026",
     "translated": true
   },
@@ -59,7 +59,7 @@
     "channel": "PressTV",
     "text": "🔴 صفارات الإنذار تدوي في شمال فلسطين المحتلة @PressTV",
     "time": "21:43",
-    "views": 943,
+    "views": 0,
     "date": "الخميس 10 سبتمبر 2026",
     "translated": true
   },
@@ -225,24 +225,27 @@
   },
   {
     "channel": "PressTV",
-    "text": "▶️ Yemen's Armed Forces releases footage of their strikes on Saudi-backed mercenaries east of Al Jawf. @PressTV",
+    "text": "◀️ القوات المسلحة اليمنية تنشر لقطات من ضرباتها على مرتزقة السعودية شرق الجوف. @برس تي في",
     "time": "19:05",
     "views": 0,
-    "date": "الخميس 10 سبتمبر 2026"
+    "date": "الخميس 10 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "🔴 Iran's Foreign Ministry slams IAEA political decision to refer Iran nuclear case to UNSC as 'contradictory, baseless' 🔺 MFA Spokesman: IAEA should have condemned US-Israeli aggression on Iran if it had least basic fairness @PressTV",
+    "text": "🔴 وزارة الخارجية الإيرانية تنتقد القرار السياسي للوكالة الدولية للطاقة الذرية بإحالة الملف النووي الإيراني إلى مجلس الأمن التابع للأمم المتحدة ووصفته بأنه \"متناقض ولا أساس له من الصحة\" 🔺 المتحدث باسم وزارة الخارجية: كان يجب على الوكالة الدولية للطاقة الذرية إدانة العدوان الأمريكي الإسرائيلي على إيران إذا كان لديها الحد الأدنى من العدالة @PressTV",
     "time": "19:04",
     "views": 0,
-    "date": "الخميس 10 سبتمبر 2026"
+    "date": "الخميس 10 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "🎤 Conversation - IAEA report in May 2025 became pretext for US-Israeli attacks against Iran: Ex-IAEA inspector Former IAEA inspector criticizes the UN nuclear agency’s politicization, saying its May 2025 report revived resolved allegations and provided a pretext for Israeli and US attacks on Iran. @PressTV",
+    "text": "🎤 محادثة - أصبح تقرير الوكالة الدولية للطاقة الذرية في مايو 2025 ذريعة للهجمات الأمريكية الإسرائيلية ضد إيران: مفتش سابق للوكالة الدولية للطاقة الذرية ينتقد مفتش سابق للوكالة الدولية للطاقة الذرية تسييس الوكالة النووية التابعة للأمم المتحدة، قائلاً إن تقريرها الصادر في مايو 2025 أعاد إحياء الادعاءات التي تم حلها وقدم ذريعة لهجمات إسرائيلية وأمريكية على إيران. @برس تي في",
     "time": "19:00",
     "views": 0,
-    "date": "الخميس 10 سبتمبر 2026"
+    "date": "الخميس 10 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -549,17 +552,19 @@
   },
   {
     "channel": "suppressednews",
-    "text": "BREAKING: Initial reports of at-least 100 Martyrs in an Israeli strike that targeted \"Al-Tabi'in\" school in Al-Daraj neighborhood in central Gaza City.",
+    "text": "عاجل: التقارير الأولية عن استشهاد ما لا يقل عن 100 شهيد في قصف إسرائيلي استهدف مدرسة \"التابعين\" في حي الدرج وسط مدينة غزة.",
     "time": "02:56",
     "views": 152,
-    "date": "الأربعاء 9 سبتمبر 2026"
+    "date": "الأربعاء 9 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "They stole his joy. He went to obtain a birth certificate for the twins Aser and Aysel - 4 days later. He returned and they were martyred along with their mother. What pain does it have to hold the birth certificate and death certificate of your children on the same day? God is sufficient for us, and He is the best disposer of affairs 💔 💔 💔 💔",
+    "text": "سرقوا فرحته وتوجه للحصول على شهادة ميلاد للتوأم آسر وأيسل – بعد 4 أيام. فرجع فاستشهدوا مع أمهم. ما الألم الذي يسببه حمل شهادة ميلاد ووفاة أطفالك في نفس اليوم؟ حسبنا الله ونعم الوكيل 💔 💔 💔 💔",
     "time": "18:26",
     "views": 176,
-    "date": "الثلاثاء 8 سبتمبر 2026"
+    "date": "الثلاثاء 8 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
@@ -571,7 +576,7 @@
   },
   {
     "channel": "suppressednews",
-    "text": "وكالعادة يقتل عدد كبير عند وقوع الكارثة، ويتوفى عدد آخر تدريجياً متأثراً بجراحه بعد وقوعها. توفي عمر الجعبري، 13 عاماً، متأثراً بجراحه في مستشفى كمال عدوان. وكان من بين ضحايا مجزرة مدرسة التابعين قبل يومين. وأصيب عمر بحروق شديدة نتيجة الصواريخ الأمريكية التي تنتج درجات حرارة عالية للغاية، ولم يصب بشكل مباشر، وإلا لكان قد تحول إلى أشلاء وذاب جسده. 💔 💔 💔",
+    "text": "وكالعادة يقتل عدد كبير عند وقوع الكارثة، ويتوفى عدد آخر تدريجياً متأثراً بجراحه بعد وقوعها. توفي عمر الجعبري، 13 عاماً، متأثراً بجراحه في مستشفى كمال عدوان. وكان من بين ضحايا مجزرة مدرسة التابعين قبل يومين. وأصيب عمر بحروق شديدة نتيجة الصواريخ الأمريكية التي تنتج درجات حرارة عالية جدا، ولم يصب بشكل مباشر، وإلا لكان قد تحول إلى أشلاء وذاب جسده. 💔 💔 💔",
     "time": "04:38",
     "views": 169,
     "date": "الثلاثاء 8 سبتمبر 2026",
@@ -587,17 +592,19 @@
   },
   {
     "channel": "suppressednews",
-    "text": "Oh the beauty of your eyes, this is the head of the angel child Osama Abu Al-Nada, which Israel cut off yesterday. Osama was martyred with his father, Taha Abu Al-Nada, his mother, Hoda, and his brothers, Nour, Dana, Ghani, and Jana.",
+    "text": "يا جمال عيونك هذا رأس الطفل الملاك أسامة أبو الندى الذي قطعته إسرائيل أمس. استشهد أسامة مع والده طه أبو الندى ووالدته هدى وإخوته نور ودانا وغني وجنا.",
     "time": "17:25",
     "views": 383,
-    "date": "الإثنين 7 سبتمبر 2026"
+    "date": "الإثنين 7 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "Yesterday, Israel beheaded a Palestinian child in gaza 🔞 🔞 🔞 🔞",
+    "text": "بالأمس قطعت إسرائيل رأس طفل فلسطيني في غزة 🔞 🔞 🔞 🔞",
     "time": "17:24",
     "views": 359,
-    "date": "الإثنين 7 سبتمبر 2026"
+    "date": "الإثنين 7 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
