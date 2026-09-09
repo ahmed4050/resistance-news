@@ -8,6 +8,14 @@
     "date": "الثلاثاء 9 سبتمبر 2026"
   },
   {
+    "channel": "YouTube-AlAouni",
+    "text": "إصابات ملحوظة بالأقمار الصناعيةفي المدمرتين الأمريكيتين53جونز و119بلاك..ومصدر روسي:صورة أغضبت ترامب",
+    "link": "https://www.youtube.com/watch?v=6MezNacXW1g",
+    "views": 0,
+    "time": "",
+    "date": "الثلاثاء 9 سبتمبر 2026"
+  },
+  {
     "channel": "MiddleEastMonitor",
     "text": "وفي حديثه مع الرئيس الإيراني، حث رئيس الوزراء الباكستاني الولايات المتحدة وإيران على الالتزام باتفاق السلام",
     "time": "22:23",
@@ -233,9 +241,17 @@
   },
   {
     "channel": "PressTV",
+    "text": "أدانت وزارة الخارجية الإيرانية بشدة الهجوم الأمريكي على الناقلات الإيرانية، مؤكدة أن العدوان يعد انتهاكًا واضحًا لميثاق الأمم المتحدة والقانون الدولي. @برس تي في",
+    "time": "10:21",
+    "views": 248,
+    "date": "الأربعاء 9 سبتمبر 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
     "text": "النرويج تودّع الملك هارالد الخامس أخيرًا بجنازة يحضرها الملوك وكبار الشخصيات @PressTV",
     "time": "10:11",
-    "views": 123,
+    "views": 449,
     "date": "الأربعاء 9 سبتمبر 2026",
     "translated": true
   },
@@ -243,7 +259,7 @@
     "channel": "PressTV",
     "text": "\"العقوبات ليست جدية\" يقول ديفيد ميلر إن المملكة المتحدة والدول الـ12 الأخرى يمكن أن تتبنى إجراءات أقوى، بما في ذلك وقف التجارة مع إسرائيل، لوقف عنف المستوطنين والتوسع الاستيطاني. @برس تي في",
     "time": "10:08",
-    "views": 224,
+    "views": 491,
     "date": "الأربعاء 9 سبتمبر 2026",
     "translated": true
   },
@@ -251,7 +267,7 @@
     "channel": "PressTV",
     "text": "أصدر الحرس الثوري الإيراني بيانا أعلن فيه استشهاد ماموستا محمد نزلتي، إمام صلاة الجمعة السني في مدينة بيرانشهر، إثر حادث إرهابي. @برس تي في",
     "time": "09:48",
-    "views": 635,
+    "views": 855,
     "date": "الأربعاء 9 سبتمبر 2026",
     "translated": true
   },
@@ -259,7 +275,7 @@
     "channel": "PressTV",
     "text": "قالت إسرائيل إنها ستغلق القنصلية البريطانية في القدس المحتلة ردا على العقوبات البريطانية على البضائع الواردة من المستوطنات الإسرائيلية. @برس تي في",
     "time": "09:38",
-    "views": 758,
+    "views": 955,
     "date": "الأربعاء 9 سبتمبر 2026",
     "translated": true
   },
@@ -275,7 +291,7 @@
     "channel": "PressTV",
     "text": "الولايات المتحدة محاصرة في طريق مسدود، وليس هناك الكثير من الخيارات المتاحة لها: يقول باري غروسمان، محامي المحلل الدولي، إن واشنطن حوصرت نفسها في طريق مسدود، غير قادرة على التصعيد واللجوء بدلاً من ذلك إلى ضربات متفرقة وحصار غير قانوني في مضيق هرمز. @برس تي في",
     "time": "09:18",
-    "views": 991,
+    "views": 0,
     "date": "الأربعاء 9 سبتمبر 2026",
     "translated": true
   },
@@ -321,11 +337,10 @@
   },
   {
     "channel": "PressTV",
-    "text": "أسعار النفط ترتفع مرة أخرى وسط المغامرات الأمريكية في غرب آسيا @PressTV",
+    "text": "Oil prices once again rise amid US adventurism in West Asia @PressTV",
     "time": "07:49",
     "views": 0,
-    "date": "الأربعاء 9 سبتمبر 2026",
-    "translated": true
+    "date": "الأربعاء 9 سبتمبر 2026"
   },
   {
     "channel": "PressTV",
@@ -337,11 +352,10 @@
   },
   {
     "channel": "PressTV",
-    "text": "قطاع التعليم في اليمن يعاني من سنوات الحرب والحصار، تقرير يحيى الوزير من صنعاء. @برس تي في",
+    "text": "Yemen’s education sector reels under years of war, blockade Yahya Al-Wazir reports from Sana'a. @PressTV",
     "time": "06:55",
     "views": 0,
-    "date": "الأربعاء 9 سبتمبر 2026",
-    "translated": true
+    "date": "الأربعاء 9 سبتمبر 2026"
   },
   {
     "channel": "PressTV",
@@ -371,14 +385,6 @@
     "channel": "PressTV",
     "text": "رئيس البرلمان الإيراني يشيد باستيلاء الحرس الثوري الإيراني على طائرة أمريكية بدون طيار تحت الماء ووصفها بأنها ضربة قاضية أشاد رئيس البرلمان الإيراني محمد باقر قاليباف بالضربة القاضية التي وجهت للولايات المتحدة بعد أن أعلنت البحرية التابعة لحرس الثورة الإسلامية الاستيلاء على مركبة أمريكية بدون طيار تحت الماء متقدمة للغاية بالقرب من مضيق هرمز الاستراتيجي. @برس تي في",
     "time": "06:07",
-    "views": 0,
-    "date": "الأربعاء 9 سبتمبر 2026",
-    "translated": true
-  },
-  {
-    "channel": "PressTV",
-    "text": "القوات الإسرائيلية تفجر مباني في قرية المنصوري جنوب لبنان. @برس تي في",
-    "time": "05:54",
     "views": 0,
     "date": "الأربعاء 9 سبتمبر 2026",
     "translated": true
@@ -576,19 +582,17 @@
   },
   {
     "channel": "suppressednews",
-    "text": "عاجل: التقارير الأولية عن استشهاد ما لا يقل عن 100 شهيد في قصف إسرائيلي استهدف مدرسة \"التابعين\" في حي الدرج وسط مدينة غزة.",
+    "text": "BREAKING: Initial reports of at-least 100 Martyrs in an Israeli strike that targeted \"Al-Tabi'in\" school in Al-Daraj neighborhood in central Gaza City.",
     "time": "02:56",
     "views": 152,
-    "date": "الثلاثاء 8 سبتمبر 2026",
-    "translated": true
+    "date": "الثلاثاء 8 سبتمبر 2026"
   },
   {
     "channel": "suppressednews",
-    "text": "سرقوا فرحته وتوجه للحصول على شهادة ميلاد للتوأم آسر وأيسل – بعد 4 أيام. فرجع فاستشهدوا مع أمهم. ما الألم الذي يسببه حمل شهادة ميلاد ووفاة أطفالك في نفس اليوم؟ حسبنا الله ونعم الوكيل 💔 💔 💔 💔",
+    "text": "They stole his joy. He went to obtain a birth certificate for the twins Aser and Aysel - 4 days later. He returned and they were martyred along with their mother. What pain does it have to hold the birth certificate and death certificate of your children on the same day? God is sufficient for us, and He is the best disposer of affairs 💔 💔 💔 💔",
     "time": "18:26",
     "views": 176,
-    "date": "الإثنين 7 سبتمبر 2026",
-    "translated": true
+    "date": "الإثنين 7 سبتمبر 2026"
   },
   {
     "channel": "suppressednews",
@@ -600,7 +604,7 @@
   },
   {
     "channel": "suppressednews",
-    "text": "وكالعادة يقتل عدد كبير عند وقوع الكارثة، ويتوفى عدد آخر تدريجياً متأثراً بجراحه بعد وقوعها. توفي عمر الجعبري، 13 عاماً، متأثراً بجراحه في مستشفى كمال عدوان. وكان من بين ضحايا مجزرة مدرسة التابعين قبل يومين. وأصيب عمر بحروق شديدة نتيجة الصواريخ الأمريكية التي تنتج درجات حرارة عالية جدا، ولم يصب بشكل مباشر، وإلا لكان قد تحول إلى أشلاء وذاب جسده. 💔 💔 💔",
+    "text": "وكالعادة يقتل عدد كبير عند وقوع الكارثة، ويتوفى عدد آخر تدريجياً متأثراً بجراحه بعد وقوعها. توفي عمر الجعبري، 13 عاماً، متأثراً بجراحه في مستشفى كمال عدوان. وكان من بين ضحايا مجزرة مدرسة التابعين قبل يومين. وأصيب عمر بحروق شديدة نتيجة الصواريخ الأمريكية التي تنتج درجات حرارة عالية للغاية، ولم يصب بشكل مباشر، وإلا لكان قد تحول إلى أشلاء وذاب جسده. 💔 💔 💔",
     "time": "04:38",
     "views": 169,
     "date": "الإثنين 7 سبتمبر 2026",
@@ -608,34 +612,30 @@
   },
   {
     "channel": "suppressednews",
-    "text": "تخيل للحظة أن هذا هو طفلك؟ كيف سيكون شعورك تجاه الصهاينة؟",
+    "text": "Imagine for a moment in time that this is your child? How would you feel about the Zionists?",
     "time": "20:57",
     "views": 217,
-    "date": "الأحد 6 سبتمبر 2026",
-    "translated": true
+    "date": "الأحد 6 سبتمبر 2026"
   },
   {
     "channel": "suppressednews",
-    "text": "يا جمال عيونك هذا رأس الطفل الملاك أسامة أبو الندى الذي قطعته إسرائيل أمس. استشهد أسامة مع والده طه أبو الندى ووالدته هدى وإخوته نور ودانا وغني وجنا.",
+    "text": "Oh the beauty of your eyes, this is the head of the angel child Osama Abu Al-Nada, which Israel cut off yesterday. Osama was martyred with his father, Taha Abu Al-Nada, his mother, Hoda, and his brothers, Nour, Dana, Ghani, and Jana.",
     "time": "17:25",
     "views": 383,
-    "date": "الأحد 6 سبتمبر 2026",
-    "translated": true
+    "date": "الأحد 6 سبتمبر 2026"
   },
   {
     "channel": "suppressednews",
-    "text": "بالأمس قطعت إسرائيل رأس طفل فلسطيني في غزة 🔞 🔞 🔞 🔞",
+    "text": "Yesterday, Israel beheaded a Palestinian child in gaza 🔞 🔞 🔞 🔞",
     "time": "17:24",
     "views": 359,
-    "date": "الأحد 6 سبتمبر 2026",
-    "translated": true
+    "date": "الأحد 6 سبتمبر 2026"
   },
   {
     "channel": "suppressednews",
-    "text": "هكذا كان الطفل الجميل تيم قبل أن يقسمه إسرائيل إلى نصفين. ومع حجم بشاعة تلك المجازر فإنني أكره.",
+    "text": "This is how the beautiful child Tim was before Israel divided him into two halves. With the scale of the ugliness of those massacres, I hate.",
     "time": "17:22",
     "views": 284,
-    "date": "الأحد 6 سبتمبر 2026",
-    "translated": true
+    "date": "الأحد 6 سبتمبر 2026"
   }
 ]
