@@ -241,45 +241,62 @@
   },
   {
     "channel": "PressTV",
+    "text": "▶️ Israeli warplanes strike a home in Beit Lahia, killing four members of the same family in one of the deadliest recent attacks. @PressTV",
+    "time": "13:45",
+    "views": 139,
+    "date": "الخميس 10 سبتمبر 2026"
+  },
+  {
+    "channel": "PressTV",
+    "text": "🔴 أنباء عن سيطرة الجيش اليمني على جزيرة ميون الاستراتيجية في باب المندب 🔺 أنباء عن وصول القوات اليمنية إلى جزر حنيش في البحر الأحمر @PressTV",
+    "time": "13:41",
+    "views": 266,
+    "date": "الخميس 10 سبتمبر 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
     "text": "▶️ Commanders of Yemen's Armed Forces arrive in the newly liberated areas, vowing to continue the fight to liberate the rest of Yemen. @PressTV",
     "time": "13:30",
-    "views": 257,
+    "views": 496,
     "date": "الخميس 10 سبتمبر 2026"
   },
   {
     "channel": "PressTV",
     "text": "🔴 Brent crude surges past $105 a barrel amid Iran-US tensions; WTI surpasses $100 @PressTV",
     "time": "13:25",
-    "views": 390,
+    "views": 578,
     "date": "الخميس 10 سبتمبر 2026"
   },
   {
     "channel": "PressTV",
     "text": "▶️ Israeli military launched a fresh wave of attacks on southern Lebanon, intensifying its deadly strikes despite a ceasefire agreement with Beirut. @PressTV",
     "time": "13:15",
-    "views": 603,
+    "views": 737,
     "date": "الخميس 10 سبتمبر 2026"
   },
   {
     "channel": "PressTV",
-    "text": "▶️ Satellite imagery captures the damages at the Aramco refinery in Jizan following retaliatory Yemeni strikes. @PressTV",
+    "text": "◀️ صور الأقمار الصناعية تظهر الأضرار التي لحقت بمصفاة أرامكو في جازان إثر الضربات اليمنية الانتقامية. @برس تي في",
     "time": "13:00",
-    "views": 844,
-    "date": "الخميس 10 سبتمبر 2026"
+    "views": 929,
+    "date": "الخميس 10 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
     "text": "▶️ Newly uncovered messages from Israeli prison guards detail alleged abuse and killings of Palestinian prisoners at Ketziot Prison. @PressTV",
     "time": "12:45",
-    "views": 930,
+    "views": 0,
     "date": "الخميس 10 سبتمبر 2026"
   },
   {
     "channel": "PressTV",
-    "text": "🔺 Carlos Martinez described the Guardian’s open letter addressing the so-called political prisoners as dangerous at a time when Iran has been under attack by the United States for six months, particularly given the outlet’s self-identification as an antiwar publication. #Exposé @PresstvPrograms",
+    "text": "🔺 وصف كارلوس مارتينيز رسالة الغارديان المفتوحة التي تخاطب ما يسمى بالسجناء السياسيين بأنها خطيرة في وقت تتعرض فيه إيران لهجوم من قبل الولايات المتحدة منذ ستة أشهر، لا سيما بالنظر إلى تعريف المنفذ الذاتي على أنه منشور مناهض للحرب. #Exposé @PresstvPrograms",
     "time": "12:45",
-    "views": 995,
-    "date": "الخميس 10 سبتمبر 2026"
+    "views": 0,
+    "date": "الخميس 10 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
@@ -304,17 +321,19 @@
   },
   {
     "channel": "PressTV",
-    "text": "🔵 Algeria has severed diplomatic ties with ​the United Arab Emirates after what ‌it described as the \"exhaustion of all means to preserve bilateral relations\". @PressTV",
+    "text": "🔵 قطعت الجزائر علاقاتها الدبلوماسية مع الإمارات العربية المتحدة بعد ما وصفته بـ \"استنفاذ كافة السبل للحفاظ على العلاقات الثنائية\". @برس تي في",
     "time": "11:45",
     "views": 0,
-    "date": "الخميس 10 سبتمبر 2026"
+    "date": "الخميس 10 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "▶️ “The IAEA has given up its claim to be neutral” Harley Schlanger says the IAEA is bowing completely to the authority of the US and the Western powers, warning that this bias would undermine public trust in international institutions. @PressTV",
+    "text": "◀ ️ \"لقد تخلت الوكالة الدولية للطاقة الذرية عن ادعائها بأنها محايدة\" يقول هارلي شلانجر إن الوكالة الدولية للطاقة الذرية تنحني تمامًا لسلطة الولايات المتحدة والقوى الغربية، محذرًا من أن هذا التحيز من شأنه أن يقوض ثقة الجمهور في المؤسسات الدولية. @برس تي في",
     "time": "11:26",
     "views": 0,
-    "date": "الخميس 10 سبتمبر 2026"
+    "date": "الخميس 10 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
@@ -325,10 +344,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "Far-right Israeli minister reveals plans for 1,000 new settler units after European bans Far-right Israeli finance minister Bezalel Smotrich has disclosed plans for the construction of hundreds of new settler units in the northern side of the occupied West Bank, a day after a dozen nations declared their intention to enforce trade restrictions on products from illegal Israeli settlements. @PressTV",
+    "text": "وزير إسرائيلي يميني متطرف يكشف عن خطط لبناء 1000 وحدة استيطانية جديدة بعد الحظر الأوروبي كشف وزير المالية الإسرائيلي اليميني المتطرف بتسلئيل سموتريش عن خطط لبناء مئات الوحدات الاستيطانية الجديدة في الجانب الشمالي من الضفة الغربية المحتلة، بعد يوم من إعلان عشرات الدول عزمها على فرض قيود تجارية على منتجات المستوطنات الإسرائيلية غير القانونية. @برس تي في",
     "time": "10:58",
     "views": 0,
-    "date": "الخميس 10 سبتمبر 2026"
+    "date": "الخميس 10 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
@@ -359,20 +379,6 @@
     "date": "الخميس 10 سبتمبر 2026"
   },
   {
-    "channel": "PressTV",
-    "text": "Senior Advisor to Iran’s Leader: US warmongering accelerated the shift of power and economic weight toward East Maj. Gen. Seyyed Yahya Rahim Safavi: 🔹 US warmongering was the best accelerator for the transfer of the balance of power and economic geography…",
-    "time": "09:50",
-    "views": 0,
-    "date": "الخميس 10 سبتمبر 2026"
-  },
-  {
-    "channel": "PressTV",
-    "text": "In a letter to the UN Secretary-General and the president of the UN Security Council, Iran’s representative to the UN, Gholamhossein Darzi, called US sanctions on 27 Iranian companies and entities an act of economic terrorism, describing the measures as collective…",
-    "time": "09:37",
-    "views": 0,
-    "date": "الخميس 10 سبتمبر 2026"
-  },
-  {
     "channel": "suppressednews",
     "text": "#شاهد .. استهداف مجاهدي كتائب القسام لجنود العدو وآلياته في محاور القتال بمدينة رفح جنوب القطاع #طوفان_الأقصى",
     "time": "03:26",
@@ -397,10 +403,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-taking-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"There was crazy hysteria, with decisions made without any verified information\": IDF ordered Hannibal directive on October 7 to prevent Hamas taking soldiers captive",
+    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-take-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"هناك \"كانت هستيريا جنونية، مع اتخاذ قرارات دون أي معلومات تم التحقق منها\": أمر جيش الدفاع الإسرائيلي بتوجيه هانيبال في 7 أكتوبر بمنع حماس من أسر الجنود",
     "time": "21:46",
     "views": 225,
-    "date": "الأربعاء 9 سبتمبر 2026"
+    "date": "الأربعاء 9 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -578,17 +585,19 @@
   },
   {
     "channel": "suppressednews",
-    "text": "For forty days and nights, the Western media lamented the lie of Israeli children with their heads cut off, with which the occupation deceived the world, and they did not see a single picture confirming its claims... while every day the headless children of Gaza appear to us in painful pictures, without their weeping, and the media biased towards the occupation and complicit in the crime does not dare. 💔 💔 💔 💔 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭",
+    "text": "أربعون يوماً وليلة، رثى الإعلام الغربي كذبة أطفال إسرائيليين مقطوعة الرأس، التي خدع بها الاحتلال العالم، ولم يروا صورة واحدة تؤكد ادعاءاته... بينما أطفال غزة مقطوعي الرأس يظهرون لنا كل يوم بصور مؤلمة، دون بكاء، ولا يجرؤ الإعلام المنحاز للاحتلال والمتواطئ في الجريمة. 💔 💔 💔 💔 ؟؟؟؟؟؟؟",
     "time": "04:39",
     "views": 184,
-    "date": "الثلاثاء 8 سبتمبر 2026"
+    "date": "الثلاثاء 8 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "As usual, a large number are killed when the disaster strikes, and another number gradually succumbs to their wounds after it occurs. Omar Al-Jaabari, 13 years old, died of his wounds at Kamal Adwan Hospital. He was among the victims of the massacre at Al-Tabaeen School two days ago. Omar suffered severe burns as a result of the American missiles that produce very high temperatures, and he was not directly injured, otherwise he would have been turned into pieces and his body would have melted. 💔 💔 💔",
+    "text": "وكالعادة يقتل عدد كبير عند وقوع الكارثة، ويتوفى عدد آخر تدريجياً متأثراً بجراحه بعد وقوعها. توفي عمر الجعبري، 13 عاماً، متأثراً بجراحه في مستشفى كمال عدوان. وكان من بين ضحايا مجزرة مدرسة التابعين قبل يومين. وأصيب عمر بحروق شديدة نتيجة الصواريخ الأمريكية التي تنتج درجات حرارة عالية للغاية، ولم يصب بشكل مباشر، وإلا لكان قد تحول إلى أشلاء وذاب جسده. 💔 💔 💔",
     "time": "04:38",
     "views": 169,
-    "date": "الثلاثاء 8 سبتمبر 2026"
+    "date": "الثلاثاء 8 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
@@ -599,23 +608,26 @@
   },
   {
     "channel": "suppressednews",
-    "text": "Oh the beauty of your eyes, this is the head of the angel child Osama Abu Al-Nada, which Israel cut off yesterday. Osama was martyred with his father, Taha Abu Al-Nada, his mother, Hoda, and his brothers, Nour, Dana, Ghani, and Jana.",
+    "text": "يا جمال عيونك هذا رأس الطفل الملاك أسامة أبو الندى الذي قطعته إسرائيل أمس. استشهد أسامة مع والده طه أبو الندى ووالدته هدى وإخوته نور ودانا وغني وجنا.",
     "time": "17:25",
     "views": 383,
-    "date": "الإثنين 7 سبتمبر 2026"
+    "date": "الإثنين 7 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "Yesterday, Israel beheaded a Palestinian child in gaza 🔞 🔞 🔞 🔞",
+    "text": "بالأمس قطعت إسرائيل رأس طفل فلسطيني في غزة 🔞 🔞 🔞 🔞",
     "time": "17:24",
     "views": 359,
-    "date": "الإثنين 7 سبتمبر 2026"
+    "date": "الإثنين 7 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "This is how the beautiful child Tim was before Israel divided him into two halves. With the scale of the ugliness of those massacres, I hate.",
+    "text": "هكذا كان الطفل الجميل تيم قبل أن يقسمه إسرائيل إلى نصفين. ومع حجم بشاعة تلك المجازر فإنني أكره.",
     "time": "17:22",
     "views": 284,
-    "date": "الإثنين 7 سبتمبر 2026"
+    "date": "الإثنين 7 سبتمبر 2026",
+    "translated": true
   }
 ]
