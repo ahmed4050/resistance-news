@@ -73,10 +73,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "🔴 Several explosions have reportedly been heard at King Fahd Air Base in Saudi Arabia. @PressTV",
+    "text": "🔴 أنباء عن سماع عدة انفجارات في قاعدة الملك فهد الجوية بالسعودية. @برس تي في",
     "time": "22:04",
     "views": 0,
-    "date": "الخميس 10 سبتمبر 2026"
+    "date": "الخميس 10 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
@@ -104,10 +105,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "🔴 Air raid sirens sound in northern occupied Palestine @PressTV",
+    "text": "🔴 صفارات الإنذار تدوي في شمال فلسطين المحتلة @PressTV",
     "time": "21:43",
     "views": 0,
-    "date": "الخميس 10 سبتمبر 2026"
+    "date": "الخميس 10 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -143,10 +145,11 @@
   },
   {
     "channel": "PressTV",
-    "text": "🔴 In an statement, Iran’s Foreign Ministry rejected the Arab League’s accusations, reaffirmed Iran’s sovereignty over the three Persian Gulf islands, blamed regional insecurity on US-Israeli military aggression rather than Iran’s presence, and called for Yemen’s unity and Yemeni-Yemeni dialogue. @PressTV",
+    "text": "🔴 رفضت وزارة الخارجية الإيرانية في بيان لها اتهامات الجامعة العربية، وأكدت سيادة إيران على جزر الخليج الثلاث، وألقت باللوم في انعدام الأمن الإقليمي على العدوان العسكري الأمريكي الإسرائيلي بدلاً من الوجود الإيراني، ودعت إلى وحدة اليمن والحوار اليمني اليمني. @برس تي في",
     "time": "20:51",
     "views": 0,
-    "date": "الخميس 10 سبتمبر 2026"
+    "date": "الخميس 10 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -171,13 +174,6 @@
     "views": 0,
     "date": "الخميس 10 سبتمبر 2026",
     "translated": true
-  },
-  {
-    "channel": "PressTV",
-    "text": "🔴 Iran's Foreign Ministry slams IAEA political decision to refer Iran nuclear case to UNSC as 'contradictory, baseless' 🔺 MFA Spokesman: IAEA should have condemned US-Israeli aggression on Iran if it had least basic fairness @PressTV",
-    "time": "20:24",
-    "views": 0,
-    "date": "الخميس 10 سبتمبر 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -348,31 +344,43 @@
   },
   {
     "channel": "PressTV",
-    "text": "OIC condemns Nauru embassy opening in occupied al-Quds The Organization of Islamic Cooperation (OIC) has condemned Nauru’s decision to open an embassy in Israeli-occupied al-Quds, describing the move as illegal and in violation of international law and United Nations resolutions. @PressTV",
+    "text": "الحرب والحصار جزء من نفس الإستراتيجية لإضعاف إيران: مبعوث جنيف انتقد دبلوماسي إيراني كبير الولايات المتحدة بسبب العقوبات الأحادية الجانب والحرب ضد الجمهورية الإسلامية، قائلاً إن العدوان والحصار جزء من استراتيجية أوسع لتقويض استقلال إيران. @برس تي في",
+    "time": "02:02",
+    "views": 278,
+    "date": "الخميس 10 سبتمبر 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "منظمة التعاون الإسلامي تدين افتتاح سفارة ناورو في القدس المحتلة أدانت منظمة التعاون الإسلامي قرار ناورو فتح سفارة في القدس المحتلة، ووصفت الخطوة بأنها غير قانونية وتنتهك القانون الدولي وقرارات الأمم المتحدة. @برس تي في",
     "time": "01:45",
-    "views": 157,
-    "date": "الخميس 10 سبتمبر 2026"
+    "views": 487,
+    "date": "الخميس 10 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "Saudi-backed forces flee al-Mokha as Yemeni forces take Yakhtul and advance toward the city. @PressTV",
+    "text": "القوات المدعومة من السعودية تفر من المخا بينما تستولي القوات اليمنية على يختول وتتقدم نحو المدينة. @برس تي في",
     "time": "01:42",
-    "views": 217,
-    "date": "الخميس 10 سبتمبر 2026"
+    "views": 538,
+    "date": "الخميس 10 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "Israeli warplanes launch multiple airstrikes on the town of Nabatieh Al-Fawqa in southern Lebanon. @PressTV",
+    "text": "الطيران الحربي الإسرائيلي يشن عدة غارات جوية على بلدة النبطية الفوقا جنوب لبنان. @برس تي في",
     "time": "00:44",
-    "views": 879,
-    "date": "الخميس 10 سبتمبر 2026"
+    "views": 0,
+    "date": "الخميس 10 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "Iran offers US submarine a one-way tour of Hormuz Strait! Cartoon by: Kamal Sharaf @PressTV",
+    "text": "إيران تعرض على الغواصة الأمريكية القيام بجولة في مضيق هرمز باتجاه واحد! الكاريكاتير: كمال شرف @PressTV",
     "time": "00:35",
-    "views": 981,
-    "date": "الخميس 10 سبتمبر 2026"
+    "views": 0,
+    "date": "الخميس 10 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -392,10 +400,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-taking-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"There was crazy hysteria, with decisions made without any verified information\": IDF ordered Hannibal directive on October 7 to prevent Hamas taking soldiers captive",
+    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-take-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"هناك \"كانت هستيريا جنونية، مع اتخاذ قرارات دون أي معلومات تم التحقق منها\": أمر جيش الدفاع الإسرائيلي بتوجيه هانيبال في 7 أكتوبر بمنع حماس من أسر الجنود",
     "time": "21:46",
     "views": 225,
-    "date": "الأربعاء 9 سبتمبر 2026"
+    "date": "الأربعاء 9 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -559,58 +568,66 @@
   },
   {
     "channel": "suppressednews",
-    "text": "BREAKING: Initial reports of at-least 100 Martyrs in an Israeli strike that targeted \"Al-Tabi'in\" school in Al-Daraj neighborhood in central Gaza City.",
+    "text": "عاجل: التقارير الأولية عن استشهاد ما لا يقل عن 100 شهيد في قصف إسرائيلي استهدف مدرسة \"التابعين\" في حي الدرج وسط مدينة غزة.",
     "time": "02:56",
     "views": 152,
-    "date": "الأربعاء 9 سبتمبر 2026"
+    "date": "الأربعاء 9 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "They stole his joy. He went to obtain a birth certificate for the twins Aser and Aysel - 4 days later. He returned and they were martyred along with their mother. What pain does it have to hold the birth certificate and death certificate of your children on the same day? God is sufficient for us, and He is the best disposer of affairs 💔 💔 💔 💔",
+    "text": "سرقوا فرحته وتوجه للحصول على شهادة ميلاد للتوأم آسر وأيسل – بعد 4 أيام. فرجع فاستشهدوا مع أمهم. ما الألم الذي يسببه حمل شهادة ميلاد ووفاة أطفالك في نفس اليوم؟ حسبنا الله ونعم الوكيل 💔 💔 💔 💔",
     "time": "18:26",
     "views": 176,
-    "date": "الثلاثاء 8 سبتمبر 2026"
+    "date": "الثلاثاء 8 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "For forty days and nights, the Western media lamented the lie of Israeli children with their heads cut off, with which the occupation deceived the world, and they did not see a single picture confirming its claims... while every day the headless children of Gaza appear to us in painful pictures, without their weeping, and the media biased towards the occupation and complicit in the crime does not dare. 💔 💔 💔 💔 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭",
+    "text": "أربعون يوماً وليلة، رثى الإعلام الغربي كذبة أطفال إسرائيليين مقطوعة الرأس، التي خدع بها الاحتلال العالم، ولم يروا صورة واحدة تؤكد ادعاءاته... بينما أطفال غزة مقطوعي الرأس يظهرون لنا كل يوم بصور مؤلمة، دون بكاء، ولا يجرؤ الإعلام المنحاز للاحتلال والمتواطئ في الجريمة. 💔 💔 💔 💔 ؟؟؟؟؟؟؟",
     "time": "04:39",
     "views": 184,
-    "date": "الثلاثاء 8 سبتمبر 2026"
+    "date": "الثلاثاء 8 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "As usual, a large number are killed when the disaster strikes, and another number gradually succumbs to their wounds after it occurs. Omar Al-Jaabari, 13 years old, died of his wounds at Kamal Adwan Hospital. He was among the victims of the massacre at Al-Tabaeen School two days ago. Omar suffered severe burns as a result of the American missiles that produce very high temperatures, and he was not directly injured, otherwise he would have been turned into pieces and his body would have melted. 💔 💔 💔",
+    "text": "وكالعادة يقتل عدد كبير عند وقوع الكارثة، ويتوفى عدد آخر تدريجياً متأثراً بجراحه بعد وقوعها. توفي عمر الجعبري، 13 عاماً، متأثراً بجراحه في مستشفى كمال عدوان. وكان من بين ضحايا مجزرة مدرسة التابعين قبل يومين. وأصيب عمر بحروق شديدة نتيجة الصواريخ الأمريكية التي تنتج درجات حرارة عالية جدا، ولم يصب بشكل مباشر، وإلا لكان قد تحول إلى أشلاء وذاب جسده. 💔 💔 💔",
     "time": "04:38",
     "views": 169,
-    "date": "الثلاثاء 8 سبتمبر 2026"
+    "date": "الثلاثاء 8 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "Imagine for a moment in time that this is your child? How would you feel about the Zionists?",
+    "text": "تخيل للحظة أن هذا هو طفلك؟ كيف سيكون شعورك تجاه الصهاينة؟",
     "time": "20:57",
     "views": 217,
-    "date": "الإثنين 7 سبتمبر 2026"
+    "date": "الإثنين 7 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "Oh the beauty of your eyes, this is the head of the angel child Osama Abu Al-Nada, which Israel cut off yesterday. Osama was martyred with his father, Taha Abu Al-Nada, his mother, Hoda, and his brothers, Nour, Dana, Ghani, and Jana.",
+    "text": "يا جمال عيونك هذا رأس الطفل الملاك أسامة أبو الندى الذي قطعته إسرائيل أمس. استشهد أسامة مع والده طه أبو الندى ووالدته هدى وإخوته نور ودانا وغني وجنا.",
     "time": "17:25",
     "views": 383,
-    "date": "الإثنين 7 سبتمبر 2026"
+    "date": "الإثنين 7 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "Yesterday, Israel beheaded a Palestinian child in gaza 🔞 🔞 🔞 🔞",
+    "text": "بالأمس قطعت إسرائيل رأس طفل فلسطيني في غزة 🔞 🔞 🔞 🔞",
     "time": "17:24",
     "views": 359,
-    "date": "الإثنين 7 سبتمبر 2026"
+    "date": "الإثنين 7 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "This is how the beautiful child Tim was before Israel divided him into two halves. With the scale of the ugliness of those massacres, I hate.",
+    "text": "هكذا كان الطفل الجميل تيم قبل أن يقسمه إسرائيل إلى نصفين. ومع حجم بشاعة تلك المجازر فإنني أكره.",
     "time": "17:22",
     "views": 284,
-    "date": "الإثنين 7 سبتمبر 2026"
+    "date": "الإثنين 7 سبتمبر 2026",
+    "translated": true
   }
 ]
