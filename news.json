@@ -1,58 +1,39 @@
 [
   {
     "channel": "PressTV",
-    "text": "◀️ تلتقط صور الأقمار الصناعية أبخرة الدخان المتصاعدة من خط أنابيب النفط بين الشرق والغرب في المملكة العربية السعودية بعد غارة مزعومة شنتها القوات المسلحة اليمنية. @برس تي في",
+    "text": "▶️ Satellite imagery captures fumes of smoke rising from Saudi Arabia's East-West oil pipeline following an alleged strike by Yemen's Armed Forces. @PressTV",
     "time": "23:51",
-    "views": 0,
-    "date": "الجمعة 11 سبتمبر 2026",
-    "translated": true
-  },
-  {
-    "channel": "PressTV",
-    "text": "▶️ Iran’s Permanent Mission to the UN condemned the Security Council meeting on the activation of the so-called Snapback Mechanism by three European countries. @PressTV",
-    "time": "23:30",
     "views": 0,
     "date": "الجمعة 11 سبتمبر 2026"
   },
   {
     "channel": "PressTV",
-    "text": "◀️ ورد أن اشتباكات اندلعت في تعز، حيث اشتبكت القوات المسلحة اليمنية في معارك ضارية مع المرتزقة المدعومين من السعودية. @برس تي في",
+    "text": "◀️أدانت بعثة إيران الدائمة لدى الأمم المتحدة اجتماع مجلس الأمن بشأن تفعيل ما يسمى بآلية Snapback من قبل ثلاث دول أوروبية. @برس تي في",
+    "time": "23:30",
+    "views": 0,
+    "date": "الجمعة 11 سبتمبر 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "▶️ Clashes reportedly erupted in Taizz as Yemen's Armed Forces engaged in fierce battles with Saudi-backed mercenaries. @PressTV",
     "time": "23:15",
     "views": 0,
-    "date": "الجمعة 11 سبتمبر 2026",
-    "translated": true
+    "date": "الجمعة 11 سبتمبر 2026"
   },
   {
     "channel": "PressTV",
-    "text": "◀️ استشهاد فلسطينيين على الأقل إثر غارة جوية إسرائيلية بطائرة بدون طيار استهدفت عددا من المدنيين بالقرب من مسجد القبة في المواصي بخانيونس جنوب قطاع غزة. @برس تي في",
+    "text": "▶️ At least two Palestinians reportedly killed after an Israeli drone strike targeted a number of civilians near the Al-Qubba Mosque in Al-Mawasi, Khan Yunis, southern Gaza. @PressTV",
     "time": "23:00",
     "views": 0,
-    "date": "الجمعة 11 سبتمبر 2026",
-    "translated": true
+    "date": "الجمعة 11 سبتمبر 2026"
   },
   {
     "channel": "PressTV",
-    "text": "📸 رئيس البرلمان الإيراني محمد باقر قاليباف يشارك \"التوجيهات المستقبلية\" بشأن خطة الولايات المتحدة لخفض أسعار النفط. @برس تي في",
+    "text": "📸 Iran's Speaker of Parliament Mohammad Bagher Ghalibaf shares \"forward guidance\" on the US's plan to lower oil prices. @PressTV",
     "time": "22:50",
     "views": 0,
-    "date": "الجمعة 11 سبتمبر 2026",
-    "translated": true
-  },
-  {
-    "channel": "PressTV",
-    "text": "◀️ رصدت القوات الأمريكية مروحيات متحركة من قاعدة موفق السلطي الجوية في الأردن، بما في ذلك مروحيات تضررت في الضربات الانتقامية الإيرانية. @برس تي في",
-    "time": "22:40",
-    "views": 0,
-    "date": "الجمعة 11 سبتمبر 2026",
-    "translated": true
-  },
-  {
-    "channel": "PressTV",
-    "text": "🔴 مبعوث الصين إلى مجلس الأمن الدولي: جهود إعادة فرض العقوبات على إيران \"مثيرة للانقسام وغير قانونية\" @PressTV",
-    "time": "22:30",
-    "views": 0,
-    "date": "الجمعة 11 سبتمبر 2026",
-    "translated": true
+    "date": "الجمعة 11 سبتمبر 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -287,49 +268,60 @@
   },
   {
     "channel": "PressTV",
+    "text": "▶️ The national average price of diesel in the US surpassed six dollars a gallon for the first time ever, as US-Israeli aggression against Iran and the closure of the Strait of Hormuz reduce supply. @PressTV",
+    "time": "02:15",
+    "views": 145,
+    "date": "الجمعة 11 سبتمبر 2026"
+  },
+  {
+    "channel": "PressTV",
+    "text": "▶️ China and Russia reject attempts to reimpose UN sanctions on Iran with Beijing calling the efforts divisive and illegal. @PressTV",
+    "time": "02:00",
+    "views": 356,
+    "date": "الجمعة 11 سبتمبر 2026"
+  },
+  {
+    "channel": "PressTV",
     "text": "◀️ أدت الضربات الانتقامية الإيرانية الأخيرة على قاعدة أمريكية في الأردن إلى تدمير عدة طائرات عسكرية أمريكية في قاعدة موفق السلطي الجوية. @برس تي في",
     "time": "01:30",
-    "views": 352,
+    "views": 656,
     "date": "الجمعة 11 سبتمبر 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "◀️ أنباء عن اندلاع اشتباكات بين مرتزقة مدعومين من السعودية ومرتزقة مدعومين من الإمارات في مدينة عدن اليمنية. @برس تي في",
+    "text": "▶️ Clashes have reportedly erupted between Saudi-backed and UAE-backed mercenaries in the Yemeni city of Aden. @PressTV",
     "time": "01:21",
-    "views": 472,
-    "date": "الجمعة 11 سبتمبر 2026",
-    "translated": true
+    "views": 747,
+    "date": "الجمعة 11 سبتمبر 2026"
   },
   {
     "channel": "PressTV",
-    "text": "🔵 قطعت الجزائر علاقاتها الدبلوماسية مع الإمارات العربية المتحدة بعد ما وصفته بـ \"استنفاذ كافة السبل للحفاظ على العلاقات الثنائية\". @برس تي في",
+    "text": "🔵 Algeria has severed diplomatic ties with ​the United Arab Emirates after what ‌it described as the \"exhaustion of all means to preserve bilateral relations\". @PressTV",
     "time": "01:00",
-    "views": 600,
-    "date": "الجمعة 11 سبتمبر 2026",
-    "translated": true
+    "views": 814,
+    "date": "الجمعة 11 سبتمبر 2026"
   },
   {
     "channel": "PressTV",
     "text": "📸 أفادت التقارير بمقتل عدة أشخاص وإصابة عدد أكبر بعد تحطم حافلة سياحية هولندية تقل 48 راكبا في شرق سويسرا. @برس تي في",
     "time": "00:45",
-    "views": 720,
+    "views": 909,
     "date": "الجمعة 11 سبتمبر 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "📸 حذر أمين المجلس الأعلى للأمن القومي الإيراني، محسن رضائي، من أن الإجراءات المسيسة والتخريبية للوكالة الدولية للطاقة الذرية ستدفع الدول نحو الانسحاب من معاهدة حظر الانتشار النووي. @برس تي في",
+    "text": "📸 Secretary of Iran's Supreme National Security Council, Mohsen Rezaei, warns that the IAEA’s politicized and disruptive actions will push countries toward withdrawing from the NPT. @PressTV",
     "time": "00:30",
-    "views": 849,
-    "date": "الجمعة 11 سبتمبر 2026",
-    "translated": true
+    "views": 0,
+    "date": "الجمعة 11 سبتمبر 2026"
   },
   {
     "channel": "PressTV",
     "text": "▶️ Protests have reportedly erupted in northern Syria following the kidnapping and murder of a Kurd, Sipan Xizni, by Arab tribal members. @PressTV",
     "time": "00:10",
-    "views": 951,
+    "views": 0,
     "date": "الجمعة 11 سبتمبر 2026"
   },
   {
@@ -518,11 +510,10 @@
   },
   {
     "channel": "suppressednews",
-    "text": "عاجل: التقارير الأولية عن استشهاد ما لا يقل عن 100 شهيد في قصف إسرائيلي استهدف مدرسة \"التابعين\" في حي الدرج وسط مدينة غزة.",
+    "text": "BREAKING: Initial reports of at-least 100 Martyrs in an Israeli strike that targeted \"Al-Tabi'in\" school in Al-Daraj neighborhood in central Gaza City.",
     "time": "02:56",
     "views": 152,
-    "date": "الخميس 10 سبتمبر 2026",
-    "translated": true
+    "date": "الخميس 10 سبتمبر 2026"
   },
   {
     "channel": "suppressednews",
@@ -534,11 +525,10 @@
   },
   {
     "channel": "suppressednews",
-    "text": "أربعون يوماً وليلة، رثى الإعلام الغربي كذبة أطفال إسرائيليين مقطوعة الرأس، التي خدع بها الاحتلال العالم، ولم يروا صورة واحدة تؤكد ادعاءاته... بينما أطفال غزة مقطوعي الرأس يظهرون لنا كل يوم بصور مؤلمة، دون بكاء، ولا يجرؤ الإعلام المنحاز للاحتلال والمتواطئ في الجريمة. 💔 💔 💔 💔 ؟؟؟؟؟؟؟",
+    "text": "For forty days and nights, the Western media lamented the lie of Israeli children with their heads cut off, with which the occupation deceived the world, and they did not see a single picture confirming its claims... while every day the headless children of Gaza appear to us in painful pictures, without their weeping, and the media biased towards the occupation and complicit in the crime does not dare. 💔 💔 💔 💔 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭",
     "time": "04:39",
     "views": 184,
-    "date": "الأربعاء 9 سبتمبر 2026",
-    "translated": true
+    "date": "الأربعاء 9 سبتمبر 2026"
   },
   {
     "channel": "suppressednews",
@@ -566,11 +556,10 @@
   },
   {
     "channel": "suppressednews",
-    "text": "بالأمس قطعت إسرائيل رأس طفل فلسطيني في غزة 🔞 🔞 🔞 🔞",
+    "text": "Yesterday, Israel beheaded a Palestinian child in gaza 🔞 🔞 🔞 🔞",
     "time": "17:24",
     "views": 359,
-    "date": "الثلاثاء 8 سبتمبر 2026",
-    "translated": true
+    "date": "الثلاثاء 8 سبتمبر 2026"
   },
   {
     "channel": "suppressednews",
