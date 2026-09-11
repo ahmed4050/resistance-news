@@ -1,31 +1,27 @@
 [
   {
     "channel": "PressTV",
-    "text": "▶️ Satellite imagery captures fumes of smoke rising from Saudi Arabia's East-West oil pipeline following an alleged strike by Yemen's Armed Forces. @PressTV",
+    "text": "◀️ تلتقط صور الأقمار الصناعية أبخرة الدخان المتصاعدة من خط أنابيب النفط بين الشرق والغرب في المملكة العربية السعودية بعد غارة مزعومة شنتها القوات المسلحة اليمنية. @برس تي في",
     "time": "23:51",
     "views": 0,
-    "date": "الجمعة 11 سبتمبر 2026"
+    "date": "الجمعة 11 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "▶️ Iran’s Permanent Mission to the UN condemned the Security Council meeting on the activation of the so-called Snapback Mechanism by three European countries. @PressTV",
+    "text": "◀️أدانت بعثة إيران الدائمة لدى الأمم المتحدة اجتماع مجلس الأمن بشأن تفعيل ما يسمى بآلية Snapback من قبل ثلاث دول أوروبية. @برس تي في",
     "time": "23:30",
     "views": 0,
-    "date": "الجمعة 11 سبتمبر 2026"
+    "date": "الجمعة 11 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "▶️ Clashes reportedly erupted in Taizz as Yemen's Armed Forces engaged in fierce battles with Saudi-backed mercenaries. @PressTV",
+    "text": "◀️ ورد أن اشتباكات اندلعت في تعز، حيث اشتبكت القوات المسلحة اليمنية في معارك ضارية مع المرتزقة المدعومين من السعودية. @برس تي في",
     "time": "23:15",
     "views": 0,
-    "date": "الجمعة 11 سبتمبر 2026"
-  },
-  {
-    "channel": "PressTV",
-    "text": "▶️ At least two Palestinians reportedly killed after an Israeli drone strike targeted a number of civilians near the Al-Qubba Mosque in Al-Mawasi, Khan Yunis, southern Gaza. @PressTV",
-    "time": "23:00",
-    "views": 0,
-    "date": "الجمعة 11 سبتمبر 2026"
+    "date": "الجمعة 11 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -260,66 +256,81 @@
   },
   {
     "channel": "PressTV",
+    "text": "◀️كبير المفاوضين الإيرانيين يقول إن التدخلات المالية الأمريكية لم يعد لها أي تأثير على السيطرة على أسعار النفط العالمية. @برس تي في",
+    "time": "02:45",
+    "views": 178,
+    "date": "الجمعة 11 سبتمبر 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
     "text": "▶️ 25 years after 9/11, Afghans question the legacy of two decades of US war Abdullah Amirzada reports from Kabul @PressTV",
     "time": "02:32",
-    "views": 203,
+    "views": 353,
     "date": "الجمعة 11 سبتمبر 2026"
   },
   {
     "channel": "PressTV",
-    "text": "▶️ The national average price of diesel in the US surpassed six dollars a gallon for the first time ever, as US-Israeli aggression against Iran and the closure of the Strait of Hormuz reduce supply. @PressTV",
+    "text": "◀️ تجاوز متوسط ​​سعر الديزل الوطني في الولايات المتحدة ستة دولارات للغالون للمرة الأولى على الإطلاق، حيث أدى العدوان الأمريكي الإسرائيلي على إيران وإغلاق مضيق هرمز إلى انخفاض العرض. @برس تي في",
     "time": "02:15",
-    "views": 427,
-    "date": "الجمعة 11 سبتمبر 2026"
+    "views": 550,
+    "date": "الجمعة 11 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "▶️ China and Russia reject attempts to reimpose UN sanctions on Iran with Beijing calling the efforts divisive and illegal. @PressTV",
+    "text": "◀️ ترفض الصين وروسيا محاولات إعادة فرض عقوبات الأمم المتحدة على إيران، حيث وصفت بكين الجهود بأنها مثيرة للخلاف وغير قانونية. @برس تي في",
     "time": "02:00",
-    "views": 561,
-    "date": "الجمعة 11 سبتمبر 2026"
+    "views": 663,
+    "date": "الجمعة 11 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "▶️ Iran's recent retaliatory strikes on an American base in Jordan damaged multiple US military aircraft at the Muwaffaq Salti Air Base. @PressTV",
+    "text": "◀️ أدت الضربات الانتقامية الإيرانية الأخيرة على قاعدة أمريكية في الأردن إلى تدمير عدة طائرات عسكرية أمريكية في قاعدة موفق السلطي الجوية. @برس تي في",
     "time": "01:30",
-    "views": 830,
-    "date": "الجمعة 11 سبتمبر 2026"
+    "views": 910,
+    "date": "الجمعة 11 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
     "text": "▶️ Clashes have reportedly erupted between Saudi-backed and UAE-backed mercenaries in the Yemeni city of Aden. @PressTV",
     "time": "01:21",
-    "views": 887,
+    "views": 962,
     "date": "الجمعة 11 سبتمبر 2026"
   },
   {
     "channel": "PressTV",
-    "text": "🔵 Algeria has severed diplomatic ties with ​the United Arab Emirates after what ‌it described as the \"exhaustion of all means to preserve bilateral relations\". @PressTV",
+    "text": "🔵 قطعت الجزائر علاقاتها الدبلوماسية مع الإمارات العربية المتحدة بعد ما وصفته بـ \"استنفاذ كافة السبل للحفاظ على العلاقات الثنائية\". @برس تي في",
     "time": "01:00",
-    "views": 929,
-    "date": "الجمعة 11 سبتمبر 2026"
+    "views": 999,
+    "date": "الجمعة 11 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "📸 Several people were reportedly killed and many more injured after a Dutch tour bus carrying 48 passengers crashed in eastern Switzerland. @PressTV",
+    "text": "📸 أفادت التقارير بمقتل عدة أشخاص وإصابة عدد أكبر بعد تحطم حافلة سياحية هولندية تقل 48 راكبا في شرق سويسرا. @برس تي في",
     "time": "00:45",
     "views": 0,
-    "date": "الجمعة 11 سبتمبر 2026"
+    "date": "الجمعة 11 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "📸 Secretary of Iran's Supreme National Security Council, Mohsen Rezaei, warns that the IAEA’s politicized and disruptive actions will push countries toward withdrawing from the NPT. @PressTV",
+    "text": "📸 حذر أمين المجلس الأعلى للأمن القومي الإيراني، محسن رضائي، من أن الإجراءات المسيسة والتخريبية للوكالة الدولية للطاقة الذرية ستدفع الدول نحو الانسحاب من معاهدة حظر الانتشار النووي. @برس تي في",
     "time": "00:30",
     "views": 0,
-    "date": "الجمعة 11 سبتمبر 2026"
+    "date": "الجمعة 11 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "▶️ Protests have reportedly erupted in northern Syria following the kidnapping and murder of a Kurd, Sipan Xizni, by Arab tribal members. @PressTV",
+    "text": "◀️ أفادت التقارير أن الاحتجاجات اندلعت في شمال سوريا بعد اختطاف وقتل المواطن الكردي سيبان شيزني على يد أفراد قبليين عرب. @برس تي في",
     "time": "00:10",
     "views": 0,
-    "date": "الجمعة 11 سبتمبر 2026"
+    "date": "الجمعة 11 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -339,10 +350,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-taking-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"There was crazy hysteria, with decisions made without any verified information\": IDF ordered Hannibal directive on October 7 to prevent Hamas taking soldiers captive",
+    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-take-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"هناك \"كانت هستيريا جنونية، مع اتخاذ قرارات دون أي معلومات تم التحقق منها\": أمر جيش الدفاع الإسرائيلي بتوجيه هانيبال في 7 أكتوبر بمنع حماس من أسر الجنود",
     "time": "21:46",
     "views": 225,
-    "date": "الخميس 10 سبتمبر 2026"
+    "date": "الخميس 10 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -506,24 +518,27 @@
   },
   {
     "channel": "suppressednews",
-    "text": "BREAKING: Initial reports of at-least 100 Martyrs in an Israeli strike that targeted \"Al-Tabi'in\" school in Al-Daraj neighborhood in central Gaza City.",
+    "text": "عاجل: التقارير الأولية عن استشهاد ما لا يقل عن 100 شهيد في قصف إسرائيلي استهدف مدرسة \"التابعين\" في حي الدرج وسط مدينة غزة.",
     "time": "02:56",
     "views": 152,
-    "date": "الخميس 10 سبتمبر 2026"
+    "date": "الخميس 10 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "They stole his joy. He went to obtain a birth certificate for the twins Aser and Aysel - 4 days later. He returned and they were martyred along with their mother. What pain does it have to hold the birth certificate and death certificate of your children on the same day? God is sufficient for us, and He is the best disposer of affairs 💔 💔 💔 💔",
+    "text": "سرقوا فرحته وتوجه للحصول على شهادة ميلاد للتوأم آسر وأيسل – بعد 4 أيام. فرجع فاستشهدوا مع أمهم. ما الألم الذي يسببه حمل شهادة ميلاد ووفاة أطفالك في نفس اليوم؟ حسبنا الله ونعم الوكيل 💔 💔 💔 💔",
     "time": "18:26",
     "views": 176,
-    "date": "الأربعاء 9 سبتمبر 2026"
+    "date": "الأربعاء 9 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "For forty days and nights, the Western media lamented the lie of Israeli children with their heads cut off, with which the occupation deceived the world, and they did not see a single picture confirming its claims... while every day the headless children of Gaza appear to us in painful pictures, without their weeping, and the media biased towards the occupation and complicit in the crime does not dare. 💔 💔 💔 💔 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭",
+    "text": "أربعون يوماً وليلة، رثى الإعلام الغربي كذبة أطفال إسرائيليين مقطوعة الرأس، التي خدع بها الاحتلال العالم، ولم يروا صورة واحدة تؤكد ادعاءاته... بينما أطفال غزة مقطوعي الرأس يظهرون لنا كل يوم بصور مؤلمة، دون بكاء، ولا يجرؤ الإعلام المنحاز للاحتلال والمتواطئ في الجريمة. 💔 💔 💔 💔 ؟؟؟؟؟؟؟",
     "time": "04:39",
     "views": 184,
-    "date": "الأربعاء 9 سبتمبر 2026"
+    "date": "الأربعاء 9 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
@@ -534,30 +549,34 @@
   },
   {
     "channel": "suppressednews",
-    "text": "Imagine for a moment in time that this is your child? How would you feel about the Zionists?",
+    "text": "تخيل للحظة أن هذا هو طفلك؟ كيف سيكون شعورك تجاه الصهاينة؟",
     "time": "20:57",
     "views": 217,
-    "date": "الثلاثاء 8 سبتمبر 2026"
+    "date": "الثلاثاء 8 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "Oh the beauty of your eyes, this is the head of the angel child Osama Abu Al-Nada, which Israel cut off yesterday. Osama was martyred with his father, Taha Abu Al-Nada, his mother, Hoda, and his brothers, Nour, Dana, Ghani, and Jana.",
+    "text": "يا جمال عيونك هذا رأس الطفل الملاك أسامة أبو الندى الذي قطعته إسرائيل أمس. استشهد أسامة مع والده طه أبو الندى ووالدته هدى وإخوته نور ودانا وغني وجنا.",
     "time": "17:25",
     "views": 383,
-    "date": "الثلاثاء 8 سبتمبر 2026"
+    "date": "الثلاثاء 8 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "Yesterday, Israel beheaded a Palestinian child in gaza 🔞 🔞 🔞 🔞",
+    "text": "بالأمس قطعت إسرائيل رأس طفل فلسطيني في غزة 🔞 🔞 🔞 🔞",
     "time": "17:24",
     "views": 359,
-    "date": "الثلاثاء 8 سبتمبر 2026"
+    "date": "الثلاثاء 8 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "This is how the beautiful child Tim was before Israel divided him into two halves. With the scale of the ugliness of those massacres, I hate.",
+    "text": "هكذا كان الطفل الجميل تيم قبل أن يقسمه إسرائيل إلى نصفين. ومع حجم بشاعة تلك المجازر فإنني أكره.",
     "time": "17:22",
     "views": 284,
-    "date": "الثلاثاء 8 سبتمبر 2026"
+    "date": "الثلاثاء 8 سبتمبر 2026",
+    "translated": true
   }
 ]
