@@ -225,16 +225,23 @@
   },
   {
     "channel": "PressTV",
+    "text": "Iran: Yemen’s sovereignty must be respected, illegal blockade must end The Islamic Republic of Iran has reiterated its principled position on the necessity of respecting Yemen’s independence, national sovereignty and territorial integrity, and called for an immediate end to the illegal and inhumane blockade imposed on the country. @PressTV",
+    "time": "04:32",
+    "views": 49,
+    "date": "الجمعة 11 سبتمبر 2026"
+  },
+  {
+    "channel": "PressTV",
     "text": "Iranian handwoven carpets: Tapestry of culture, art and heritage Moeen Amini reports from Tehran. @PressTV",
     "time": "03:54",
-    "views": 387,
+    "views": 559,
     "date": "الجمعة 11 سبتمبر 2026"
   },
   {
     "channel": "PressTV",
     "text": "Iran ‘blew the hell’ out of US Fifth Fleet HQ in Bahrain, admits US Navy Secretary Acting US Navy Secretary Hung Cao has admitted that Iranian forces “blew the hell” out of the headquarters of the US Fifth Fleet in Bahrain, a rare on-the-record concession that the Pentagon’s flagship naval hub in West Asia was shattered by the Islamic Republic’s retaliatory strikes. @PressTV",
     "time": "03:30",
-    "views": 709,
+    "views": 868,
     "date": "الجمعة 11 سبتمبر 2026"
   },
   {
@@ -248,21 +255,21 @@
     "channel": "PressTV",
     "text": "Iran FM discusses rising regional tensions with Saudi FM, Pakistani army chief Iranian Foreign Minister Abbas Araghchi held separate telephone conversations with Saudi Foreign Minister Prince Faisal bin Farhan and Pakistan’s Army Chief Field Marshal Asim Munir as Tehran pressed ahead with intensive regional consultations to contain insecurity and restore stability in West Asia. @PressTV",
     "time": "03:15",
-    "views": 793,
+    "views": 902,
     "date": "الجمعة 11 سبتمبر 2026"
   },
   {
     "channel": "PressTV",
     "text": "▶️ Iran's top security official strongly slammed the IAEA’s recent anti-Iran resolution, calling it illegal and politically motivated. @PressTV",
     "time": "03:04",
-    "views": 878,
+    "views": 976,
     "date": "الجمعة 11 سبتمبر 2026"
   },
   {
     "channel": "PressTV",
     "text": "▶️ Iran’s top negotiator says US financial interventions no longer have any impact on controlling global oil prices. @PressTV",
     "time": "02:45",
-    "views": 996,
+    "views": 0,
     "date": "الجمعة 11 سبتمبر 2026"
   },
   {
@@ -295,17 +302,19 @@
   },
   {
     "channel": "PressTV",
-    "text": "▶️ Clashes have reportedly erupted between Saudi-backed and UAE-backed mercenaries in the Yemeni city of Aden. @PressTV",
+    "text": "◀️ أنباء عن اندلاع اشتباكات بين مرتزقة مدعومين من السعودية ومرتزقة مدعومين من الإمارات في مدينة عدن اليمنية. @برس تي في",
     "time": "01:21",
     "views": 0,
-    "date": "الجمعة 11 سبتمبر 2026"
+    "date": "الجمعة 11 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "🔵 Algeria has severed diplomatic ties with ​the United Arab Emirates after what ‌it described as the \"exhaustion of all means to preserve bilateral relations\". @PressTV",
+    "text": "🔵 قطعت الجزائر علاقاتها الدبلوماسية مع الإمارات العربية المتحدة بعد ما وصفته بـ \"استنفاذ كافة السبل للحفاظ على العلاقات الثنائية\". @برس تي في",
     "time": "01:00",
     "views": 0,
-    "date": "الجمعة 11 سبتمبر 2026"
+    "date": "الجمعة 11 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
@@ -316,17 +325,19 @@
   },
   {
     "channel": "PressTV",
-    "text": "📸 Secretary of Iran's Supreme National Security Council, Mohsen Rezaei, warns that the IAEA’s politicized and disruptive actions will push countries toward withdrawing from the NPT. @PressTV",
+    "text": "📸 حذر أمين المجلس الأعلى للأمن القومي الإيراني، محسن رضائي، من أن الإجراءات المسيسة والتخريبية للوكالة الدولية للطاقة الذرية ستدفع الدول نحو الانسحاب من معاهدة حظر الانتشار النووي. @برس تي في",
     "time": "00:30",
     "views": 0,
-    "date": "الجمعة 11 سبتمبر 2026"
+    "date": "الجمعة 11 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "▶️ Protests have reportedly erupted in northern Syria following the kidnapping and murder of a Kurd, Sipan Xizni, by Arab tribal members. @PressTV",
+    "text": "◀️ ورد أن الاحتجاجات اندلعت في شمال سوريا بعد اختطاف وقتل المواطن الكردي سيبان شيزني على يد أفراد قبليين عرب. @برس تي في",
     "time": "00:10",
     "views": 0,
-    "date": "الجمعة 11 سبتمبر 2026"
+    "date": "الجمعة 11 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -527,10 +538,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "For forty days and nights, the Western media lamented the lie of Israeli children with their heads cut off, with which the occupation deceived the world, and they did not see a single picture confirming its claims... while every day the headless children of Gaza appear to us in painful pictures, without their weeping, and the media biased towards the occupation and complicit in the crime does not dare. 💔 💔 💔 💔 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭",
+    "text": "أربعون يوماً وليلة، رثى الإعلام الغربي كذبة أطفال إسرائيليين مقطوعة الرأس، التي خدع بها الاحتلال العالم، ولم يروا صورة واحدة تؤكد ادعاءاته... بينما أطفال غزة مقطوعي الرأس يظهرون لنا كل يوم بصور مؤلمة، دون بكاء، ولا يجرؤ الإعلام المنحاز للاحتلال والمتواطئ في الجريمة. 💔 💔 💔 💔 ؟؟؟؟؟؟؟",
     "time": "04:39",
     "views": 184,
-    "date": "الأربعاء 9 سبتمبر 2026"
+    "date": "الأربعاء 9 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
@@ -541,24 +553,27 @@
   },
   {
     "channel": "suppressednews",
-    "text": "Imagine for a moment in time that this is your child? How would you feel about the Zionists?",
+    "text": "تخيل للحظة أن هذا هو طفلك؟ كيف سيكون شعورك تجاه الصهاينة؟",
     "time": "20:57",
     "views": 217,
-    "date": "الثلاثاء 8 سبتمبر 2026"
+    "date": "الثلاثاء 8 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "Oh the beauty of your eyes, this is the head of the angel child Osama Abu Al-Nada, which Israel cut off yesterday. Osama was martyred with his father, Taha Abu Al-Nada, his mother, Hoda, and his brothers, Nour, Dana, Ghani, and Jana.",
+    "text": "يا جمال عيونك هذا رأس الطفل الملاك أسامة أبو الندى الذي قطعته إسرائيل أمس. استشهد أسامة مع والده طه أبو الندى ووالدته هدى وإخوته نور ودانا وغني وجنا.",
     "time": "17:25",
     "views": 383,
-    "date": "الثلاثاء 8 سبتمبر 2026"
+    "date": "الثلاثاء 8 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
-    "text": "Yesterday, Israel beheaded a Palestinian child in gaza 🔞 🔞 🔞 🔞",
+    "text": "بالأمس قطعت إسرائيل رأس طفل فلسطيني في غزة 🔞 🔞 🔞 🔞",
     "time": "17:24",
     "views": 359,
-    "date": "الثلاثاء 8 سبتمبر 2026"
+    "date": "الثلاثاء 8 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
