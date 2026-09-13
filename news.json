@@ -1,6 +1,13 @@
 [
   {
     "channel": "PressTV",
+    "text": "🔴 Yemeni Army: Our Armed Forces carried out military op targeting weapons depots in Sharurah area, Saudi Arabia 🔺 Yemeni Army Spokesman: We used salvo of ballistic missiles, drones to strike Saudi weapons depots in Sharurah area @PressTV",
+    "time": "23:52",
+    "views": 0,
+    "date": "الأحد 13 سبتمبر 2026"
+  },
+  {
+    "channel": "PressTV",
     "text": "◀️ وفقًا لجيلبرت دوكتورو، بينما نجحت الهند في استضافة قوى متنوعة مثل إيران، يجب على البريكس تجاوز الخطاب الضعيف لمقاومة الإكراه الاقتصادي الأمريكي ومحاولات ترامب لتفكيك التحالف من خلال العقوبات. @برس تي في",
     "time": "23:30",
     "views": 0,
@@ -9,11 +16,10 @@
   },
   {
     "channel": "PressTV",
-    "text": "أنصار الله ترفض ادعاءات ترامب بأن الجماعة اليمنية طلبت من الولايات المتحدة عدم التدخل نفى أنصار الله الحاكم في اليمن بشكل لا لبس فيه ادعاءات الرئيس الأمريكي دونالد ترامب بأن جماعة المقاومة طلبت من واشنطن عدم التدخل في الصراع الدائر في شبه الجزيرة العربية. @برس تي في",
+    "text": "Ansarullah rejects Trump’s claim Yemeni group asked US not to intervene Yemen's ruling Ansarullah has unequivocally dismissed US President Donald Trump’s claim that the resistance group has asked Washington not to intervene in the Arab Peninsula country’s conflict. @PressTV",
     "time": "23:15",
     "views": 0,
-    "date": "الأحد 13 سبتمبر 2026",
-    "translated": true
+    "date": "الأحد 13 سبتمبر 2026"
   },
   {
     "channel": "PressTV",
@@ -24,17 +30,19 @@
   },
   {
     "channel": "PressTV",
-    "text": "▶️ Saudi Arabia carries out several airstrikes targeting western Taizz, Yemen. @PressTV",
+    "text": "◀️ السعودية تنفذ عدة غارات جوية استهدفت غرب تعز باليمن. @برس تي في",
     "time": "22:45",
     "views": 0,
-    "date": "الأحد 13 سبتمبر 2026"
+    "date": "الأحد 13 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "▶️ Iran Foreign Ministry spokesman Esmaeil Baqaei says the US attacks on Lamerd were a war crime, and Iran will pursue justice for the victims at international courts. @PressTV",
+    "text": "◀️ المتحدث باسم وزارة الخارجية الإيرانية إسماعيل بقائي يقول إن الهجمات الأمريكية على لاميرد كانت جريمة حرب، وستسعى إيران لتحقيق العدالة للضحايا في المحاكم الدولية. @برس تي في",
     "time": "22:31",
     "views": 0,
-    "date": "الأحد 13 سبتمبر 2026"
+    "date": "الأحد 13 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -68,26 +76,12 @@
     "translated": true
   },
   {
-    "channel": "PressTV",
-    "text": "▶️ Gretchen Small argues that the BRICS meeting is of tremendous importance for humanity as it offers a dialogue-based alternative to the financial collapse, disproving predictions that the alliance would fall apart. @PressTV",
-    "time": "21:50",
-    "views": 0,
-    "date": "الأحد 13 سبتمبر 2026"
-  },
-  {
     "channel": "MiddleEastMonitor",
     "text": "مجلس المستشارين الألماني يقدم مشروع قانون لتجريم ’إنكار حق إسرائيل في الوجود’",
     "time": "21:43",
     "views": 0,
     "date": "الأحد 13 سبتمبر 2026",
     "translated": true
-  },
-  {
-    "channel": "PressTV",
-    "text": "🔴 Yemeni Army: Our Armed Forces carried out military op targeting weapons depots in Sharurah area, Saudi Arabia 🔺 Yemeni Army Spokesman: We used salvo of ballistic missiles, drones to strike Saudi weapons depots in Sharurah area @PressTV",
-    "time": "21:38",
-    "views": 0,
-    "date": "الأحد 13 سبتمبر 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -290,9 +284,25 @@
   },
   {
     "channel": "PressTV",
+    "text": "اليمن يشن ضربات صاروخية وطائرات مسيرة واسعة النطاق على قاعدة سعودية ردا على العدوان نفذت القوات المسلحة اليمنية عملية واسعة النطاق بصواريخ وطائرات مسيرة ضد قاعدة عسكرية سعودية في منطقة شرورة جنوب المملكة ردا على الهجمات السعودية المستمرة ضد اليمن. @برس تي في",
+    "time": "03:10",
+    "views": 135,
+    "date": "الأحد 13 سبتمبر 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "◀️ يُقال إن اللقطات تُصوِّر الضربات الانتقامية اليمنية على شرورة بالمملكة العربية السعودية. @برس تي في",
+    "time": "03:02",
+    "views": 225,
+    "date": "الأحد 13 سبتمبر 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
     "text": "يعكس إعلان البريكس مواقف إيران المبدئية بشأن القضايا الدولية الكبرى: قال نائب وزير الخارجية للشؤون القانونية والدولية كاظم غريب آبادي، إن الإعلان الختامي لقمة البريكس الثامنة عشرة يعكس مواقف إيران بشأن العديد من القضايا الدولية الكبرى. @برس تي في",
     "time": "02:50",
-    "views": 85,
+    "views": 351,
     "date": "الأحد 13 سبتمبر 2026",
     "translated": true
   },
@@ -300,74 +310,75 @@
     "channel": "PressTV",
     "text": "▶️ Yemen warns the enemies against taking any foolish action, saying any folly will be met with a firm response even if its repercussions extend globally. @PressTV",
     "time": "02:40",
-    "views": 205,
+    "views": 439,
     "date": "الأحد 13 سبتمبر 2026"
   },
   {
     "channel": "PressTV",
-    "text": "📸 The body of 23-year-old Israeli soldier Itai Pierson of the Yamam unit was found after he went missing on Thursday in Haifa. @PressTV",
+    "text": "📸 تم العثور على جثة الجندي الإسرائيلي إيتاي بيرسون (23 عاما) من وحدة اليمام بعد اختفائه يوم الخميس في حيفا. @برس تي في",
     "time": "02:30",
-    "views": 318,
-    "date": "الأحد 13 سبتمبر 2026"
+    "views": 532,
+    "date": "الأحد 13 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "PressTV",
     "text": "🔴 Yemen Army vows response to Saudi aggression after reporting 129 enemy airstrikes in 48 hours @PressTV",
     "time": "02:15",
-    "views": 476,
+    "views": 640,
     "date": "الأحد 13 سبتمبر 2026"
   },
   {
     "channel": "PressTV",
-    "text": "📸 \"Iran won't surrender\" Iran's President Pezeshkian says that the Iranian people can't be bullied into submission. @PressTV",
+    "text": "📸 \"إيران لن تستسلم\" يقول الرئيس الإيراني بيزشكيان إنه لا يمكن إرغام الشعب الإيراني على الخضوع. @برس تي في",
     "time": "02:01",
-    "views": 601,
-    "date": "الأحد 13 سبتمبر 2026"
-  },
-  {
-    "channel": "PressTV",
-    "text": "القوات الإسرائيلية تداهم تجمعات سكانية في الضفة الغربية مع تكثيف هجمات المستوطنين نفذت قوات الاحتلال الإسرائيلي مداهمات واعتقالات في عدة أجزاء من الضفة الغربية المحتلة، بينما دخل المستوطنون الإسرائيليون مدينة القدس الشرقية المحتلة، وأبلغت المجتمعات الفلسطينية عن مزيد من الهجمات على المنازل والمركبات والأراضي الزراعية. @برس تي في",
-    "time": "01:45",
-    "views": 696,
+    "views": 745,
     "date": "الأحد 13 سبتمبر 2026",
     "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "Israeli forces raid West Bank communities as settler attacks intensify Israeli occupation forces have carried out raids and arrests across several parts of the occupied West Bank, while Israeli settlers entered occupied East al-Quds and Palestinian communities reported further attacks on homes, vehicles and farmland. @PressTV",
+    "time": "01:45",
+    "views": 799,
+    "date": "الأحد 13 سبتمبر 2026"
   },
   {
     "channel": "PressTV",
     "text": "◀️ في اليوم الأول من حربها غير الشرعية على إيران، ضربت الولايات المتحدة قاعة رياضية في لامرد بصواريخ دقيقة، مما أسفر عن مقتل 21 شخصًا وإصابة أكثر من 130 شخصًا. تحدثت قناة Press TV مع العديد من الأشخاص هناك لوصف ما شهدوه في ذلك اليوم. @برس تي في",
     "time": "01:31",
-    "views": 718,
+    "views": 842,
     "date": "الأحد 13 سبتمبر 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "◀️ العقوبات الأمريكية الجديدة تتحدى مساعي باكستان وإيران لتوسيع التجارة، تقارير ناصر كاظمي من إسلام آباد @PressTV",
+    "text": "▶️ Fresh US sanctions challenge Pakistan-Iran push to expand trade Nasir Kazmi reports from Islamabad @PressTV",
     "time": "01:15",
-    "views": 769,
-    "date": "الأحد 13 سبتمبر 2026",
-    "translated": true
+    "views": 891,
+    "date": "الأحد 13 سبتمبر 2026"
   },
   {
     "channel": "PressTV",
     "text": "▶️ Anti-war protests were held in Dublin and several other cities against Trump’s visit to Ireland. @PressTV",
     "time": "01:00",
-    "views": 836,
+    "views": 950,
     "date": "الأحد 13 سبتمبر 2026"
   },
   {
     "channel": "PressTV",
     "text": "▶️ Israel persists with heavy shelling and demolitions in southern Lebanon, targeting Al-Mansouri, Al-Taybeh, and Ali al-Tahir; Press TV’s Hadi Hoteit provides further details. @PressTV",
     "time": "00:45",
-    "views": 884,
+    "views": 988,
     "date": "الأحد 13 سبتمبر 2026"
   },
   {
     "channel": "PressTV",
-    "text": "'Normalization of war and genocide’ unacceptable, Irish president tells Trump Ireland’s President Catherine Connolly has told US President Donald Trump that the “normalization of war and genocide” can never be accepted, reiterating the Irish people’s commitment to international relations, the United Nations and peacekeeping. @PressTV",
+    "text": "الرئيس الأيرلندي يقول لترامب إن \"تطبيع الحرب والإبادة الجماعية\" غير مقبول أبلغت رئيسة أيرلندا كاثرين كونولي الرئيس الأمريكي دونالد ترامب أن \"تطبيع الحرب والإبادة الجماعية\" لا يمكن قبوله أبدًا، مؤكدة التزام الشعب الأيرلندي بالعلاقات الدولية والأمم المتحدة وحفظ السلام. @برس تي في",
     "time": "00:30",
-    "views": 980,
-    "date": "الأحد 13 سبتمبر 2026"
+    "views": 0,
+    "date": "الأحد 13 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -387,10 +398,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-taking-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"There was crazy hysteria, with decisions made without any verified information\": IDF ordered Hannibal directive on October 7 to prevent Hamas taking soldiers captive",
+    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-take-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"هناك \"كانت هستيريا جنونية، مع اتخاذ قرارات دون أي معلومات تم التحقق منها\": أمر جيش الدفاع الإسرائيلي بتوجيه هانيبال في 7 أكتوبر بمنع حماس من أسر الجنود",
     "time": "21:46",
     "views": 226,
-    "date": "السبت 12 سبتمبر 2026"
+    "date": "السبت 12 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "MiddleEastMonitor",
@@ -575,10 +587,11 @@
   },
   {
     "channel": "suppressednews",
-    "text": "As usual, a large number are killed when the disaster strikes, and another number gradually succumbs to their wounds after it occurs. Omar Al-Jaabari, 13 years old, died of his wounds at Kamal Adwan Hospital. He was among the victims of the massacre at Al-Tabaeen School two days ago. Omar suffered severe burns as a result of the American missiles that produce very high temperatures, and he was not directly injured, otherwise he would have been turned into pieces and his body would have melted. 💔 💔 💔",
+    "text": "وكالعادة يقتل عدد كبير عند وقوع الكارثة، ويتوفى عدد آخر تدريجياً متأثراً بجراحه بعد وقوعها. توفي عمر الجعبري، 13 عاماً، متأثراً بجراحه في مستشفى كمال عدوان. وكان من بين ضحايا مجزرة مدرسة التابعين قبل يومين. وأصيب عمر بحروق شديدة نتيجة الصواريخ الأمريكية التي تنتج درجات حرارة عالية جدا، ولم يصب بشكل مباشر، وإلا لكان قد تحول إلى أشلاء وذاب جسده. 💔 💔 💔",
     "time": "04:38",
     "views": 170,
-    "date": "الجمعة 11 سبتمبر 2026"
+    "date": "الجمعة 11 سبتمبر 2026",
+    "translated": true
   },
   {
     "channel": "suppressednews",
@@ -603,9 +616,10 @@
   },
   {
     "channel": "suppressednews",
-    "text": "This is how the beautiful child Tim was before Israel divided him into two halves. With the scale of the ugliness of those massacres, I hate.",
+    "text": "هكذا كان الطفل الجميل تيم قبل أن يقسمه إسرائيل إلى نصفين. ومع حجم بشاعة تلك المجازر فإنني أكره.",
     "time": "17:22",
     "views": 285,
-    "date": "الخميس 10 سبتمبر 2026"
+    "date": "الخميس 10 سبتمبر 2026",
+    "translated": true
   }
 ]
