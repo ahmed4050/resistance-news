@@ -17,7 +17,7 @@
   },
   {
     "channel": "PressTV",
-    "text": "◀️ وفقًا لجريتشن سمول، تقوم دول البريكس ببناء أنظمة ائتمانية بديلة بقيادة إيران وروسيا لمواجهة الدولار المنهار، في حين تتحدى الشراكة الهندية الصينية الناشئة المحاولات الغربية لتحديد العلاقة بينهما. @برس تي في",
+    "text": "◀️ وفقًا لجريتشين سمول، تقوم دول البريكس ببناء أنظمة ائتمانية بديلة بقيادة إيران وروسيا لمواجهة الدولار المنهار، في حين تتحدى الشراكة الهندية الصينية الناشئة المحاولات الغربية لتحديد العلاقة بينهما. @برس تي في",
     "time": "23:00",
     "views": 0,
     "date": "الأحد 13 سبتمبر 2026",
@@ -152,25 +152,9 @@
     "translated": true
   },
   {
-    "channel": "PressTV",
-    "text": "◀️ نظمت احتجاجات مناهضة للحرب في دبلن وعدة مدن أخرى ضد زيارة ترامب لأيرلندا. @برس تي في",
-    "time": "20:30",
-    "views": 0,
-    "date": "الأحد 13 سبتمبر 2026",
-    "translated": true
-  },
-  {
     "channel": "MiddleEastMonitor",
     "text": "القوات الألمانية تغادر قاعدة أربيل في شمال العراق وسط توترات إقليمية",
     "time": "20:21",
-    "views": 0,
-    "date": "الأحد 13 سبتمبر 2026",
-    "translated": true
-  },
-  {
-    "channel": "PressTV",
-    "text": "📸 أجرى وزير الخارجية الإيراني سيد عباس عراقجي اتصالا هاتفيا مع وزير الخارجية العراقي فؤاد حسين لبحث وتبادل وجهات النظر حول القضايا الثنائية وتطورات المنطقة. 🔹 وبالإشارة إلى أهم القضايا في العلاقات الإيرانية العراقية، أكد الوزيران على حالة الاستقرار والأمن على طول الحدود المشتركة بين البلدين وضرورة استمرار التنسيق. 🔹كما أشار الطرفان إلى ضرورة اعتماد مقاربات مسؤولة تجاه التطورات الإقليمية، وشددا على أهمية منع تصاعد التوترات واتساع نطاق الصراعات في المنطقة. @برس تي في",
-    "time": "20:20",
     "views": 0,
     "date": "الأحد 13 سبتمبر 2026",
     "translated": true
@@ -336,9 +320,17 @@
   },
   {
     "channel": "PressTV",
-    "text": "القوات الإسرائيلية تداهم مجتمعات الضفة الغربية مع تكثيف هجمات المستوطنين نفذت قوات الاحتلال الإسرائيلي مداهمات واعتقالات في عدة أجزاء من الضفة الغربية المحتلة، بينما دخل المستوطنون الإسرائيليون مدينة القدس الشرقية المحتلة، وأبلغت المجتمعات الفلسطينية عن مزيد من الهجمات على المنازل والمركبات والأراضي الزراعية. @برس تي في",
+    "text": "🔴 الجيش اليمني يتوعد بالرد على العدوان السعودي بعد الإبلاغ عن 129 غارة جوية للعدو خلال 48 ساعة @PressTV",
+    "time": "02:15",
+    "views": 230,
+    "date": "الأحد 13 سبتمبر 2026",
+    "translated": true
+  },
+  {
+    "channel": "PressTV",
+    "text": "القوات الإسرائيلية تداهم تجمعات سكانية في الضفة الغربية مع تكثيف هجمات المستوطنين نفذت قوات الاحتلال الإسرائيلي مداهمات واعتقالات في عدة أجزاء من الضفة الغربية المحتلة، بينما دخل المستوطنون الإسرائيليون مدينة القدس الشرقية المحتلة، وأبلغت المجتمعات الفلسطينية عن مزيد من الهجمات على المنازل والمركبات والأراضي الزراعية. @برس تي في",
     "time": "01:45",
-    "views": 201,
+    "views": 512,
     "date": "الأحد 13 سبتمبر 2026",
     "translated": true
   },
@@ -346,33 +338,37 @@
     "channel": "PressTV",
     "text": "◀️ في اليوم الأول من حربها غير الشرعية على إيران، ضربت الولايات المتحدة قاعة رياضية في لامرد بصواريخ دقيقة، مما أسفر عن مقتل 21 شخصًا وإصابة أكثر من 130 شخصًا. تحدثت قناة Press TV مع العديد من الأشخاص هناك لوصف ما شهدوه في ذلك اليوم. @برس تي في",
     "time": "01:31",
-    "views": 316,
+    "views": 581,
     "date": "الأحد 13 سبتمبر 2026",
     "translated": true
   },
   {
     "channel": "PressTV",
-    "text": "◀️ العقوبات الأمريكية الجديدة تتحدى مساعي باكستان وإيران لتوسيع التجارة، تقارير ناصر كاظمي من إسلام آباد @PressTV",
+    "text": "▶️ Fresh US sanctions challenge Pakistan-Iran push to expand trade Nasir Kazmi reports from Islamabad @PressTV",
     "time": "01:15",
-    "views": 443,
-    "date": "الأحد 13 سبتمبر 2026",
-    "translated": true
+    "views": 662,
+    "date": "الأحد 13 سبتمبر 2026"
   },
   {
     "channel": "PressTV",
-    "text": "◀️ إسرائيل تواصل القصف العنيف وعمليات الهدم في جنوب لبنان، مستهدفة المنصوري والطيبة وعلي الطاهر؛ يقدم هادي حطيط من Press TV المزيد من التفاصيل. @برس تي في",
+    "text": "▶️ Anti-war protests were held in Dublin and several other cities against Trump’s visit to Ireland. @PressTV",
+    "time": "01:00",
+    "views": 726,
+    "date": "الأحد 13 سبتمبر 2026"
+  },
+  {
+    "channel": "PressTV",
+    "text": "▶️ Israel persists with heavy shelling and demolitions in southern Lebanon, targeting Al-Mansouri, Al-Taybeh, and Ali al-Tahir; Press TV’s Hadi Hoteit provides further details. @PressTV",
     "time": "00:45",
-    "views": 618,
-    "date": "الأحد 13 سبتمبر 2026",
-    "translated": true
+    "views": 766,
+    "date": "الأحد 13 سبتمبر 2026"
   },
   {
     "channel": "PressTV",
-    "text": "الرئيس الأيرلندي يقول لترامب إن \"تطبيع الحرب والإبادة الجماعية\" غير مقبول أبلغت رئيسة أيرلندا كاثرين كونولي الرئيس الأمريكي دونالد ترامب أن \"تطبيع الحرب والإبادة الجماعية\" لا يمكن قبوله أبدًا، مؤكدة التزام الشعب الأيرلندي بالعلاقات الدولية والأمم المتحدة وحفظ السلام. @برس تي في",
+    "text": "'Normalization of war and genocide’ unacceptable, Irish president tells Trump Ireland’s President Catherine Connolly has told US President Donald Trump that the “normalization of war and genocide” can never be accepted, reiterating the Irish people’s commitment to international relations, the United Nations and peacekeeping. @PressTV",
     "time": "00:30",
-    "views": 753,
-    "date": "الأحد 13 سبتمبر 2026",
-    "translated": true
+    "views": 890,
+    "date": "الأحد 13 سبتمبر 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -392,11 +388,10 @@
   },
   {
     "channel": "suppressednews",
-    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-take-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"هناك \"كانت هستيريا جنونية، مع اتخاذ قرارات دون أي معلومات تم التحقق منها\": أمر جيش الدفاع الإسرائيلي بتوجيه هانيبال في 7 أكتوبر بمنع حماس من أسر الجنود",
+    "text": "https://www.haaretz.com/israel-news/2024-07-07/ty-article-magazine/.premium/idf-ordered-hannibal-directive-on-october-7-to-prevent-hamas-taking-soldiers-captive/00000190-89a2-d776-a3b1-fdbe45520000 \"There was crazy hysteria, with decisions made without any verified information\": IDF ordered Hannibal directive on October 7 to prevent Hamas taking soldiers captive",
     "time": "21:46",
     "views": 226,
-    "date": "السبت 12 سبتمبر 2026",
-    "translated": true
+    "date": "السبت 12 سبتمبر 2026"
   },
   {
     "channel": "MiddleEastMonitor",
@@ -560,27 +555,24 @@
   },
   {
     "channel": "suppressednews",
-    "text": "عاجل: التقارير الأولية عن استشهاد ما لا يقل عن 100 شهيد في قصف إسرائيلي استهدف مدرسة \"التابعين\" في حي الدرج وسط مدينة غزة.",
+    "text": "BREAKING: Initial reports of at-least 100 Martyrs in an Israeli strike that targeted \"Al-Tabi'in\" school in Al-Daraj neighborhood in central Gaza City.",
     "time": "02:56",
     "views": 153,
-    "date": "السبت 12 سبتمبر 2026",
-    "translated": true
+    "date": "السبت 12 سبتمبر 2026"
   },
   {
     "channel": "suppressednews",
-    "text": "سرقوا فرحته وتوجه للحصول على شهادة ميلاد للتوأم آسر وأيسل – بعد 4 أيام. فرجع فاستشهدوا مع أمهم. ما الألم الذي يسببه حمل شهادة ميلاد ووفاة أطفالك في نفس اليوم؟ حسبنا الله ونعم الوكيل 💔 💔 💔 💔",
+    "text": "They stole his joy. He went to obtain a birth certificate for the twins Aser and Aysel - 4 days later. He returned and they were martyred along with their mother. What pain does it have to hold the birth certificate and death certificate of your children on the same day? God is sufficient for us, and He is the best disposer of affairs 💔 💔 💔 💔",
     "time": "18:26",
     "views": 177,
-    "date": "الجمعة 11 سبتمبر 2026",
-    "translated": true
+    "date": "الجمعة 11 سبتمبر 2026"
   },
   {
     "channel": "suppressednews",
-    "text": "أربعون يوماً وليلة، رثى الإعلام الغربي كذبة أطفال إسرائيليين مقطوعة الرأس، التي خدع بها الاحتلال العالم، ولم يروا صورة واحدة تؤكد ادعاءاته... بينما أطفال غزة مقطوعي الرأس يظهرون لنا كل يوم بصور مؤلمة، دون بكاء، ولا يجرؤ الإعلام المنحاز للاحتلال والمتواطئ في الجريمة. 💔 💔 💔 💔 ؟؟؟؟؟؟؟",
+    "text": "For forty days and nights, the Western media lamented the lie of Israeli children with their heads cut off, with which the occupation deceived the world, and they did not see a single picture confirming its claims... while every day the headless children of Gaza appear to us in painful pictures, without their weeping, and the media biased towards the occupation and complicit in the crime does not dare. 💔 💔 💔 💔 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭 😭",
     "time": "04:39",
     "views": 185,
-    "date": "الجمعة 11 سبتمبر 2026",
-    "translated": true
+    "date": "الجمعة 11 سبتمبر 2026"
   },
   {
     "channel": "suppressednews",
@@ -592,34 +584,30 @@
   },
   {
     "channel": "suppressednews",
-    "text": "تخيل للحظة أن هذا هو طفلك؟ كيف سيكون شعورك تجاه الصهاينة؟",
+    "text": "Imagine for a moment in time that this is your child? How would you feel about the Zionists?",
     "time": "20:57",
     "views": 218,
-    "date": "الخميس 10 سبتمبر 2026",
-    "translated": true
+    "date": "الخميس 10 سبتمبر 2026"
   },
   {
     "channel": "suppressednews",
-    "text": "يا جمال عيونك هذا رأس الطفل الملاك أسامة أبو الندى الذي قطعته إسرائيل أمس. استشهد أسامة مع والده طه أبو الندى ووالدته هدى وإخوته نور ودانا وغني وجنا.",
+    "text": "Oh the beauty of your eyes, this is the head of the angel child Osama Abu Al-Nada, which Israel cut off yesterday. Osama was martyred with his father, Taha Abu Al-Nada, his mother, Hoda, and his brothers, Nour, Dana, Ghani, and Jana.",
     "time": "17:25",
     "views": 384,
-    "date": "الخميس 10 سبتمبر 2026",
-    "translated": true
+    "date": "الخميس 10 سبتمبر 2026"
   },
   {
     "channel": "suppressednews",
-    "text": "بالأمس قطعت إسرائيل رأس طفل فلسطيني في غزة 🔞 🔞 🔞 🔞",
+    "text": "Yesterday, Israel beheaded a Palestinian child in gaza 🔞 🔞 🔞 🔞",
     "time": "17:24",
     "views": 360,
-    "date": "الخميس 10 سبتمبر 2026",
-    "translated": true
+    "date": "الخميس 10 سبتمبر 2026"
   },
   {
     "channel": "suppressednews",
-    "text": "هكذا كان الطفل الجميل تيم قبل أن يقسمه إسرائيل إلى نصفين. ومع حجم بشاعة تلك المجازر فإنني أكره.",
+    "text": "This is how the beautiful child Tim was before Israel divided him into two halves. With the scale of the ugliness of those massacres, I hate.",
     "time": "17:22",
     "views": 285,
-    "date": "الخميس 10 سبتمبر 2026",
-    "translated": true
+    "date": "الخميس 10 سبتمبر 2026"
   }
 ]
