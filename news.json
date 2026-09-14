@@ -246,13 +246,6 @@
     "date": "الإثنين 14 سبتمبر 2026"
   },
   {
-    "channel": "PressTV",
-    "text": "Heavy rain pours over the Saudi city of Mecca, creating a wonderful sight for pilgrims. @PressTV",
-    "time": "17:43",
-    "views": 0,
-    "date": "الإثنين 14 سبتمبر 2026"
-  },
-  {
     "channel": "MiddleEastMonitor",
     "text": "لم شمل عائلة من غزة مع ابنها الذي يعتقد أنه مات بعد عام من الاعتقال الإسرائيلي",
     "time": "16:21",
@@ -373,9 +366,16 @@
   },
   {
     "channel": "PressTV",
+    "text": "New satellite imagery reveals extensive damage to Saudi Arabia’s East–West Pipeline following attacks by Yemeni forces @PressTV",
+    "time": "01:22",
+    "views": 337,
+    "date": "الإثنين 14 سبتمبر 2026"
+  },
+  {
+    "channel": "PressTV",
     "text": "US tested Lockheed cluster missiles on Iranian civilians, Baghaei says Iran’s Foreign Ministry spokesman Esmaeil Baghaei says the scars of Washington’s March 1 missile attack on the southern city of Lamard are still written on its walls, its streets, and the bodies of families who buried their loved ones. @PressTV",
     "time": "00:48",
-    "views": 413,
+    "views": 690,
     "date": "الإثنين 14 سبتمبر 2026"
   },
   {
