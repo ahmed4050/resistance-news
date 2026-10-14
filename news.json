@@ -1,44 +1,331 @@
 [
   {
+    "channel": "MiddleEastMonitor",
+    "text": "Saudi-led coalition intercepts 2 Houthi ballistic missiles targeting eastern Saudi Arabia",
+    "time": "22:34",
+    "views": 0,
+    "date": "الأربعاء 14 أكتوبر 2026"
+  },
+  {
+    "channel": "MiddleEastMonitor",
+    "text": "Israeli forces raid Ramallah, shut down offices of several organizations",
+    "time": "22:26",
+    "views": 0,
+    "date": "الأربعاء 14 أكتوبر 2026"
+  },
+  {
+    "channel": "MiddleEastMonitor",
+    "text": "Iran’s IRGC Navy threatens to sink US warships approaching Strait of Hormuz",
+    "time": "22:17",
+    "views": 0,
+    "date": "الأربعاء 14 أكتوبر 2026"
+  },
+  {
+    "channel": "MiddleEastMonitor",
+    "text": "UN experts urge food agency to uphold human rights amid concerns about Gaza-related work",
+    "time": "22:05",
+    "views": 0,
+    "date": "الأربعاء 14 أكتوبر 2026"
+  },
+  {
+    "channel": "MiddleEastMonitor",
+    "text": "If You Cannot Say Genocide: Essays on Conscience and Witness",
+    "time": "21:56",
+    "views": 0,
+    "date": "الأربعاء 14 أكتوبر 2026"
+  },
+  {
+    "channel": "MiddleEastMonitor",
+    "text": "2 Palestinians killed, others injured in Israeli attacks in Gaza despite ceasefire",
+    "time": "21:38",
+    "views": 0,
+    "date": "الأربعاء 14 أكتوبر 2026"
+  },
+  {
+    "channel": "MiddleEastMonitor",
+    "text": "Syria accuses Israel of arming, funding militias in Suwayda to sow ‘chaos’",
+    "time": "21:27",
+    "views": 0,
+    "date": "الأربعاء 14 أكتوبر 2026"
+  },
+  {
+    "channel": "MiddleEastMonitor",
+    "text": "Global day of action for Palestine: Millions mobilise across 60 countries in synchronised worldwide solidarity",
+    "time": "21:02",
+    "views": 0,
+    "date": "الأربعاء 14 أكتوبر 2026"
+  },
+  {
+    "channel": "MiddleEastMonitor",
+    "text": "Trump says Houthis acting ‘very badly’ amid intensifying attacks",
+    "time": "20:34",
+    "views": 0,
+    "date": "الأربعاء 14 أكتوبر 2026"
+  },
+  {
+    "channel": "MiddleEastMonitor",
+    "text": "One year since the ceasefire, the UN commemorates its failures",
+    "time": "20:25",
+    "views": 0,
+    "date": "الأربعاء 14 أكتوبر 2026"
+  },
+  {
+    "channel": "MiddleEastMonitor",
+    "text": "Americans urged to reconsider travel to Saudi Arabia over Iranian, Houthi attack threats",
+    "time": "20:22",
+    "views": 0,
+    "date": "الأربعاء 14 أكتوبر 2026"
+  },
+  {
+    "channel": "MiddleEastMonitor",
+    "text": "Saudi-led coalition launches airstrikes on Houthi positions in Yemen’s Sanaa",
+    "time": "18:54",
+    "views": 0,
+    "date": "الأربعاء 14 أكتوبر 2026"
+  },
+  {
+    "channel": "MiddleEastMonitor",
+    "text": "IsDB chief in Jakarta: A US$2.56 billion plan with a missing climate pillar",
+    "time": "18:47",
+    "views": 0,
+    "date": "الأربعاء 14 أكتوبر 2026"
+  },
+  {
+    "channel": "MiddleEastMonitor",
+    "text": "‘Peace Requires Justice’: Why Washington and Tel Aviv Want Neither | Palestine This Week",
+    "time": "18:35",
+    "views": 0,
+    "date": "الأربعاء 14 أكتوبر 2026"
+  },
+  {
+    "channel": "MiddleEastMonitor",
+    "text": "Israel elections: Palestinian state caught between Netanyahu’s incitement, Eisenkot’s rejection",
+    "time": "18:28",
+    "views": 0,
+    "date": "الأربعاء 14 أكتوبر 2026"
+  },
+  {
+    "channel": "MiddleEastMonitor",
+    "text": "Iranian attacks target 6 ships near Strait of Hormuz in 1 day, highest since war with US began",
+    "time": "18:17",
+    "views": 0,
+    "date": "الأربعاء 14 أكتوبر 2026"
+  },
+  {
+    "channel": "MiddleEastMonitor",
+    "text": "On the universality of Gazan resistance: A century-long struggle for human rights",
+    "time": "16:33",
+    "views": 0,
+    "date": "الأربعاء 14 أكتوبر 2026"
+  },
+  {
+    "channel": "MiddleEastMonitor",
+    "text": "UAE, Russian presidents discuss Middle East developments, strategic partnership",
+    "time": "16:05",
+    "views": 0,
+    "date": "الأربعاء 14 أكتوبر 2026"
+  },
+  {
+    "channel": "MiddleEastMonitor",
+    "text": "Israeli army arrests 30 Palestinians as occupiers assault family in occupied West Bank",
+    "time": "15:55",
+    "views": 0,
+    "date": "الأربعاء 14 أكتوبر 2026"
+  },
+  {
+    "channel": "MiddleEastMonitor",
+    "text": "Qatar emir calls for accountability over Gaza genocide perpetrators",
+    "time": "15:45",
+    "views": 0,
+    "date": "الأربعاء 14 أكتوبر 2026"
+  },
+  {
+    "channel": "MiddleEastMonitor",
+    "text": "Egypt vows ‘any kind’ of support for Saudi Arabia after Houthi attacks",
+    "time": "15:38",
+    "views": 0,
+    "date": "الأربعاء 14 أكتوبر 2026"
+  },
+  {
+    "channel": "MiddleEastMonitor",
+    "text": "E1 and the fight over Palestinian statehood",
+    "time": "15:01",
+    "views": 0,
+    "date": "الأربعاء 14 أكتوبر 2026"
+  },
+  {
+    "channel": "MiddleEastMonitor",
+    "text": "Israel attacks Netherlands over ban on Israeli football fans attending match",
+    "time": "14:38",
+    "views": 0,
+    "date": "الأربعاء 14 أكتوبر 2026"
+  },
+  {
+    "channel": "MiddleEastMonitor",
+    "text": "Trump says US may have gone too far in targeting Iranian leaders",
+    "time": "14:19",
+    "views": 0,
+    "date": "الأربعاء 14 أكتوبر 2026"
+  },
+  {
+    "channel": "MiddleEastMonitor",
+    "text": "Saudi Arabia extends Riyadh airport shutdown as Arab airlines suspend flights",
+    "time": "14:14",
+    "views": 0,
+    "date": "الأربعاء 14 أكتوبر 2026"
+  },
+  {
+    "channel": "MiddleEastMonitor",
+    "text": "Haaretz: Saudi crown prince opposes Israeli involvement in war against Houthis",
+    "time": "14:06",
+    "views": 0,
+    "date": "الأربعاء 14 أكتوبر 2026"
+  },
+  {
+    "channel": "MiddleEastMonitor",
+    "text": "Washington’s diesel deal: A door in the sanctions wall",
+    "time": "13:58",
+    "views": 0,
+    "date": "الأربعاء 14 أكتوبر 2026"
+  },
+  {
+    "channel": "MiddleEastMonitor",
+    "text": "EU calls for Palestinian elections to renew legitimacy of institutions",
+    "time": "13:45",
+    "views": 0,
+    "date": "الأربعاء 14 أكتوبر 2026"
+  },
+  {
+    "channel": "MiddleEastMonitor",
+    "text": "Bennett warns Israel faces ‘slow-motion suicide,’ calls for Netanyahu’s removal",
+    "time": "13:37",
+    "views": 0,
+    "date": "الأربعاء 14 أكتوبر 2026"
+  },
+  {
+    "channel": "MiddleEastMonitor",
+    "text": "Egyptian businessman Naguib Sawiris apologises after Saudi criticism over Riyadh airport attack",
+    "time": "13:27",
+    "views": 0,
+    "date": "الأربعاء 14 أكتوبر 2026"
+  },
+  {
+    "channel": "MiddleEastMonitor",
+    "text": "Saudi Arabia prepared for various scenarios amid Houthi attacks",
+    "time": "13:21",
+    "views": 0,
+    "date": "الأربعاء 14 أكتوبر 2026"
+  },
+  {
+    "channel": "MiddleEastMonitor",
+    "text": "Federal agents search US representative Ilhan Omar’s home in criminal investigation",
+    "time": "13:04",
+    "views": 0,
+    "date": "الأربعاء 14 أكتوبر 2026"
+  },
+  {
+    "channel": "MiddleEastMonitor",
+    "text": "UN verifies 1,076 Palestinian deaths in Gaza since ceasefire, warns of possible war crimes",
+    "time": "12:45",
+    "views": 0,
+    "date": "الأربعاء 14 أكتوبر 2026"
+  },
+  {
+    "channel": "MiddleEastMonitor",
+    "text": "Fatah’s Democratic Reform Current accuses Abbas of delaying elections to remain in power",
+    "time": "12:39",
+    "views": 0,
+    "date": "الأربعاء 14 أكتوبر 2026"
+  },
+  {
+    "channel": "MiddleEastMonitor",
+    "text": "The Riyadh attacks and the fragility of regional security: Implications for global politics, oil markets and the world economy",
+    "time": "11:55",
+    "views": 0,
+    "date": "الأربعاء 14 أكتوبر 2026"
+  },
+  {
+    "channel": "MiddleEastMonitor",
+    "text": "Podcast by Jasim Al-Azzawi with Dr. Nasser Hadian: How will Iran deal with US’s plan of total isolation?",
+    "time": "11:37",
+    "views": 0,
+    "date": "الأربعاء 14 أكتوبر 2026"
+  },
+  {
+    "channel": "MiddleEastMonitor",
+    "text": "Israel bars crew members holding 29 nationalities from flights to Ben Gurion Airport",
+    "time": "10:35",
+    "views": 0,
+    "date": "الأربعاء 14 أكتوبر 2026"
+  },
+  {
+    "channel": "MiddleEastMonitor",
+    "text": "The politics of gratitude: The corruption no one sees",
+    "time": "10:21",
+    "views": 0,
+    "date": "الأربعاء 14 أكتوبر 2026"
+  },
+  {
+    "channel": "PressTV",
+    "text": "Press TV Exclusive: Secretary of Iran’s Supreme National Security Council, Major General Mohsen Rezaei on how Iraqi resistance and US failure in Iran undermined Washington’s ambitions in West Asia. @PressTV",
+    "time": "06:20",
+    "views": 229,
+    "date": "الأربعاء 14 أكتوبر 2026"
+  },
+  {
+    "channel": "PressTV",
+    "text": "📷 Israeli settlers set fire to Palestinian property during a raid on a village northeast of occupied Al-Quds. @PressTV",
+    "time": "06:00",
+    "views": 413,
+    "date": "الأربعاء 14 أكتوبر 2026"
+  },
+  {
     "channel": "PressTV",
     "text": "▶️ Protesters gather outside UK parliament to oppose reforms restricting right to trial by jury Sara Vivacqua reports from London @PressTV",
     "time": "05:39",
-    "views": 230,
+    "views": 627,
     "date": "الأربعاء 14 أكتوبر 2026"
   },
   {
     "channel": "PressTV",
     "text": "▶️ A large crowd gathered outside Azerbaijan’s Embassy in Turkey to protest the enforcement of the headscarf ban in Azerbaijan’s educational institutions. @PressTV",
     "time": "05:13",
-    "views": 524,
+    "views": 794,
     "date": "الأربعاء 14 أكتوبر 2026"
   },
   {
     "channel": "PressTV",
     "text": "▶️ An international journalists’ rights group called on the international community to pressure Israel to hold responsible those troops that were behind a deadly 2023 strike on reporters in southern Lebanon. @PressTV",
     "time": "04:53",
-    "views": 661,
+    "views": 868,
     "date": "الأربعاء 14 أكتوبر 2026"
   },
   {
     "channel": "PressTV",
     "text": "Abolfazl Mehmedi secured Iran’s first gold medal at the World Junior Greco-Roman Wrestling Championships in the United States, defeating his Armenian opponent 2–1 in the final. @PressTV",
     "time": "04:30",
-    "views": 835,
+    "views": 0,
     "date": "الأربعاء 14 أكتوبر 2026"
   },
   {
     "channel": "PressTV",
     "text": "▶️ A Palestinian prisoners’ rights group warns that human rights violations against Palestinian abductees have been escalating in Israeli prisons during three years since the start of the Gaza genocide. @PressTV",
     "time": "04:22",
-    "views": 824,
+    "views": 0,
     "date": "الأربعاء 14 أكتوبر 2026"
   },
   {
     "channel": "PressTV",
     "text": "‘Evacuate immediately’: Yemeni Army declares Saudi Aramco facilities ‘legitimate targets’ The Yemeni Armed Forces have issued an urgent directive for all civilians and personnel to evacuate areas surrounding Saudi Aramco…",
     "time": "03:58",
-    "views": 985,
+    "views": 0,
+    "date": "الأربعاء 14 أكتوبر 2026"
+  },
+  {
+    "channel": "PressTV",
+    "text": "President al-Mashat states Yemen’s retaliatory strikes against Saudi Arabia will continue until the aggression and siege are fully lifted. @PressTV",
+    "time": "03:31",
+    "views": 0,
     "date": "الأربعاء 14 أكتوبر 2026"
   },
   {
@@ -105,72 +392,9 @@
     "date": "الأربعاء 14 أكتوبر 2026"
   },
   {
-    "channel": "PressTV",
-    "text": "⚡️ IRGC Navy chief says Iran had to release footage of targeted tankers in the Strait of Hormuz because a media blackout created by the US and certain countries was obscuring attacks on ships violating the rules there. @PressTV",
-    "time": "01:45",
-    "views": 0,
-    "date": "الأربعاء 14 أكتوبر 2026"
-  },
-  {
-    "channel": "PressTV",
-    "text": "Huge crowds of Lula supporters took to the streets of Brazil’s capital, Brasília, chanting “Never again Bolsonaro.” @PressTV",
-    "time": "01:33",
-    "views": 0,
-    "date": "الأربعاء 14 أكتوبر 2026"
-  },
-  {
-    "channel": "PressTV",
-    "text": "President al-Mashat states Yemen’s retaliatory strikes against Saudi Arabia will continue until the aggression and siege are fully lifted. @PressTV",
-    "time": "01:15",
-    "views": 0,
-    "date": "الأربعاء 14 أكتوبر 2026"
-  },
-  {
-    "channel": "PressTV",
-    "text": "🔴 Yemen's President Mahdi al-Mashat: 🔺 'An end to Saudi Aggression, siege' against Yemen as easiest solution to crisis. 🔺 Today's battle aims to end Saudi aggression, blockade that began 12 years ago. 🔺 Al-Mashat blames Saudi policies as one of the most…",
-    "time": "00:40",
-    "views": 0,
-    "date": "الأربعاء 14 أكتوبر 2026"
-  },
-  {
-    "channel": "PressTV",
-    "text": "The US Treasury has reportedly imposed $1.2 billion in fines on Bank of America over alleged anti-money laundering and sanctions violations. @PressTV",
-    "time": "00:34",
-    "views": 0,
-    "date": "الأربعاء 14 أكتوبر 2026"
-  },
-  {
     "channel": "MiddleEastMonitor",
-    "text": "Saudi-led coalition intercepts 2 Houthi ballistic missiles targeting eastern Saudi Arabia",
-    "time": "22:34",
-    "views": 0,
-    "date": "الثلاثاء 13 أكتوبر 2026"
-  },
-  {
-    "channel": "MiddleEastMonitor",
-    "text": "Israeli forces raid Ramallah, shut down offices of several organizations",
-    "time": "22:26",
-    "views": 0,
-    "date": "الثلاثاء 13 أكتوبر 2026"
-  },
-  {
-    "channel": "MiddleEastMonitor",
-    "text": "Iran’s IRGC Navy threatens to sink US warships approaching Strait of Hormuz",
-    "time": "22:17",
-    "views": 0,
-    "date": "الثلاثاء 13 أكتوبر 2026"
-  },
-  {
-    "channel": "MiddleEastMonitor",
-    "text": "UN experts urge food agency to uphold human rights amid concerns about Gaza-related work",
-    "time": "22:05",
-    "views": 0,
-    "date": "الثلاثاء 13 أكتوبر 2026"
-  },
-  {
-    "channel": "MiddleEastMonitor",
-    "text": "If You Cannot Say Genocide: Essays on Conscience and Witness",
-    "time": "21:56",
+    "text": "Iran’s IRGC says 3rd ‘offending’ supertanker hit in Strait of Hormuz in 2 days",
+    "time": "21:55",
     "views": 0,
     "date": "الثلاثاء 13 أكتوبر 2026"
   },
@@ -183,232 +407,78 @@
   },
   {
     "channel": "MiddleEastMonitor",
-    "text": "2 Palestinians killed, others injured in Israeli attacks in Gaza despite ceasefire",
-    "time": "21:38",
+    "text": "UN pledges technical support for Palestinian elections amid vote delay",
+    "time": "21:45",
     "views": 0,
     "date": "الثلاثاء 13 أكتوبر 2026"
   },
   {
     "channel": "MiddleEastMonitor",
-    "text": "Syria accuses Israel of arming, funding militias in Suwayda to sow ‘chaos’",
-    "time": "21:27",
+    "text": "Israeli army enters Syria’s Quneitra countryside, blocks construction work",
+    "time": "21:09",
     "views": 0,
     "date": "الثلاثاء 13 أكتوبر 2026"
   },
   {
     "channel": "MiddleEastMonitor",
-    "text": "Global day of action for Palestine: Millions mobilise across 60 countries in synchronised worldwide solidarity",
-    "time": "21:02",
+    "text": "Sudan’s Burhan orders inquiry after reported killing of 72 miners near Egyptian border",
+    "time": "20:58",
     "views": 0,
     "date": "الثلاثاء 13 أكتوبر 2026"
   },
   {
     "channel": "MiddleEastMonitor",
-    "text": "Trump says Houthis acting ‘very badly’ amid intensifying attacks",
+    "text": "EU establishes new security support mission in Lebanon",
     "time": "20:34",
     "views": 0,
     "date": "الثلاثاء 13 أكتوبر 2026"
   },
   {
     "channel": "MiddleEastMonitor",
-    "text": "One year since the ceasefire, the UN commemorates its failures",
-    "time": "20:25",
+    "text": "Syrian, Qatari foreign ministers discuss regional developments, bilateral ties",
+    "time": "20:24",
     "views": 0,
     "date": "الثلاثاء 13 أكتوبر 2026"
   },
   {
     "channel": "MiddleEastMonitor",
-    "text": "Americans urged to reconsider travel to Saudi Arabia over Iranian, Houthi attack threats",
-    "time": "20:22",
+    "text": "Israel demolishes 80 homes in Palestinian village in Negev, displaces around 400 people",
+    "time": "20:13",
     "views": 0,
     "date": "الثلاثاء 13 أكتوبر 2026"
   },
   {
     "channel": "MiddleEastMonitor",
-    "text": "Saudi-led coalition launches airstrikes on Houthi positions in Yemen’s Sanaa",
-    "time": "18:54",
+    "text": "Russia pledges continued humanitarian aid to Lebanon amid Israeli attacks",
+    "time": "20:01",
     "views": 0,
     "date": "الثلاثاء 13 أكتوبر 2026"
   },
   {
     "channel": "MiddleEastMonitor",
-    "text": "IsDB chief in Jakarta: A US$2.56 billion plan with a missing climate pillar",
-    "time": "18:47",
+    "text": "Israeli soldiers say ordered to drop heavy bombs on inhabited Gaza buildings without evacuation: Report",
+    "time": "19:08",
     "views": 0,
     "date": "الثلاثاء 13 أكتوبر 2026"
   },
   {
     "channel": "MiddleEastMonitor",
-    "text": "‘Peace Requires Justice’: Why Washington and Tel Aviv Want Neither | Palestine This Week",
-    "time": "18:35",
+    "text": "Israeli army fire kills 5 more Palestinians in Gaza, death toll nears 74,400",
+    "time": "18:58",
     "views": 0,
     "date": "الثلاثاء 13 أكتوبر 2026"
   },
   {
     "channel": "MiddleEastMonitor",
-    "text": "Israel elections: Palestinian state caught between Netanyahu’s incitement, Eisenkot’s rejection",
-    "time": "18:28",
+    "text": "Iran says reviewing US proposals for talks as indirect messages continue",
+    "time": "18:51",
     "views": 0,
     "date": "الثلاثاء 13 أكتوبر 2026"
   },
   {
     "channel": "MiddleEastMonitor",
-    "text": "Iranian attacks target 6 ships near Strait of Hormuz in 1 day, highest since war with US began",
-    "time": "18:17",
-    "views": 0,
-    "date": "الثلاثاء 13 أكتوبر 2026"
-  },
-  {
-    "channel": "MiddleEastMonitor",
-    "text": "On the universality of Gazan resistance: A century-long struggle for human rights",
-    "time": "16:33",
-    "views": 0,
-    "date": "الثلاثاء 13 أكتوبر 2026"
-  },
-  {
-    "channel": "MiddleEastMonitor",
-    "text": "UAE, Russian presidents discuss Middle East developments, strategic partnership",
-    "time": "16:05",
-    "views": 0,
-    "date": "الثلاثاء 13 أكتوبر 2026"
-  },
-  {
-    "channel": "MiddleEastMonitor",
-    "text": "Israeli army arrests 30 Palestinians as occupiers assault family in occupied West Bank",
-    "time": "15:55",
-    "views": 0,
-    "date": "الثلاثاء 13 أكتوبر 2026"
-  },
-  {
-    "channel": "MiddleEastMonitor",
-    "text": "Qatar emir calls for accountability over Gaza genocide perpetrators",
-    "time": "15:45",
-    "views": 0,
-    "date": "الثلاثاء 13 أكتوبر 2026"
-  },
-  {
-    "channel": "MiddleEastMonitor",
-    "text": "Egypt vows ‘any kind’ of support for Saudi Arabia after Houthi attacks",
-    "time": "15:38",
-    "views": 0,
-    "date": "الثلاثاء 13 أكتوبر 2026"
-  },
-  {
-    "channel": "MiddleEastMonitor",
-    "text": "E1 and the fight over Palestinian statehood",
-    "time": "15:01",
-    "views": 0,
-    "date": "الثلاثاء 13 أكتوبر 2026"
-  },
-  {
-    "channel": "MiddleEastMonitor",
-    "text": "Israel attacks Netherlands over ban on Israeli football fans attending match",
-    "time": "14:38",
-    "views": 0,
-    "date": "الثلاثاء 13 أكتوبر 2026"
-  },
-  {
-    "channel": "MiddleEastMonitor",
-    "text": "Trump says US may have gone too far in targeting Iranian leaders",
-    "time": "14:19",
-    "views": 0,
-    "date": "الثلاثاء 13 أكتوبر 2026"
-  },
-  {
-    "channel": "MiddleEastMonitor",
-    "text": "Saudi Arabia extends Riyadh airport shutdown as Arab airlines suspend flights",
-    "time": "14:14",
-    "views": 0,
-    "date": "الثلاثاء 13 أكتوبر 2026"
-  },
-  {
-    "channel": "MiddleEastMonitor",
-    "text": "Haaretz: Saudi crown prince opposes Israeli involvement in war against Houthis",
-    "time": "14:06",
-    "views": 0,
-    "date": "الثلاثاء 13 أكتوبر 2026"
-  },
-  {
-    "channel": "MiddleEastMonitor",
-    "text": "Washington’s diesel deal: A door in the sanctions wall",
-    "time": "13:58",
-    "views": 0,
-    "date": "الثلاثاء 13 أكتوبر 2026"
-  },
-  {
-    "channel": "MiddleEastMonitor",
-    "text": "EU calls for Palestinian elections to renew legitimacy of institutions",
-    "time": "13:45",
-    "views": 0,
-    "date": "الثلاثاء 13 أكتوبر 2026"
-  },
-  {
-    "channel": "MiddleEastMonitor",
-    "text": "Bennett warns Israel faces ‘slow-motion suicide,’ calls for Netanyahu’s removal",
-    "time": "13:37",
-    "views": 0,
-    "date": "الثلاثاء 13 أكتوبر 2026"
-  },
-  {
-    "channel": "MiddleEastMonitor",
-    "text": "Egyptian businessman Naguib Sawiris apologises after Saudi criticism over Riyadh airport attack",
-    "time": "13:27",
-    "views": 0,
-    "date": "الثلاثاء 13 أكتوبر 2026"
-  },
-  {
-    "channel": "MiddleEastMonitor",
-    "text": "Saudi Arabia prepared for various scenarios amid Houthi attacks",
-    "time": "13:21",
-    "views": 0,
-    "date": "الثلاثاء 13 أكتوبر 2026"
-  },
-  {
-    "channel": "MiddleEastMonitor",
-    "text": "Federal agents search US representative Ilhan Omar’s home in criminal investigation",
-    "time": "13:04",
-    "views": 0,
-    "date": "الثلاثاء 13 أكتوبر 2026"
-  },
-  {
-    "channel": "MiddleEastMonitor",
-    "text": "UN verifies 1,076 Palestinian deaths in Gaza since ceasefire, warns of possible war crimes",
-    "time": "12:45",
-    "views": 0,
-    "date": "الثلاثاء 13 أكتوبر 2026"
-  },
-  {
-    "channel": "MiddleEastMonitor",
-    "text": "Fatah’s Democratic Reform Current accuses Abbas of delaying elections to remain in power",
-    "time": "12:39",
-    "views": 0,
-    "date": "الثلاثاء 13 أكتوبر 2026"
-  },
-  {
-    "channel": "MiddleEastMonitor",
-    "text": "The Riyadh attacks and the fragility of regional security: Implications for global politics, oil markets and the world economy",
-    "time": "11:55",
-    "views": 0,
-    "date": "الثلاثاء 13 أكتوبر 2026"
-  },
-  {
-    "channel": "MiddleEastMonitor",
-    "text": "Podcast by Jasim Al-Azzawi with Dr. Nasser Hadian: How will Iran deal with US’s plan of total isolation?",
-    "time": "11:37",
-    "views": 0,
-    "date": "الثلاثاء 13 أكتوبر 2026"
-  },
-  {
-    "channel": "MiddleEastMonitor",
-    "text": "Israel bars crew members holding 29 nationalities from flights to Ben Gurion Airport",
-    "time": "10:35",
-    "views": 0,
-    "date": "الثلاثاء 13 أكتوبر 2026"
-  },
-  {
-    "channel": "MiddleEastMonitor",
-    "text": "The politics of gratitude: The corruption no one sees",
-    "time": "10:21",
+    "text": "Abduction of Palestinians by Israeli occupiers on rise in occupied West Bank: Officials",
+    "time": "18:43",
     "views": 0,
     "date": "الثلاثاء 13 أكتوبر 2026"
   },
@@ -418,90 +488,6 @@
     "time": "02:56",
     "views": 154,
     "date": "الثلاثاء 13 أكتوبر 2026"
-  },
-  {
-    "channel": "MiddleEastMonitor",
-    "text": "Iran’s IRGC says 3rd ‘offending’ supertanker hit in Strait of Hormuz in 2 days",
-    "time": "21:55",
-    "views": 0,
-    "date": "الإثنين 12 أكتوبر 2026"
-  },
-  {
-    "channel": "MiddleEastMonitor",
-    "text": "UN pledges technical support for Palestinian elections amid vote delay",
-    "time": "21:45",
-    "views": 0,
-    "date": "الإثنين 12 أكتوبر 2026"
-  },
-  {
-    "channel": "MiddleEastMonitor",
-    "text": "Israeli army enters Syria’s Quneitra countryside, blocks construction work",
-    "time": "21:09",
-    "views": 0,
-    "date": "الإثنين 12 أكتوبر 2026"
-  },
-  {
-    "channel": "MiddleEastMonitor",
-    "text": "Sudan’s Burhan orders inquiry after reported killing of 72 miners near Egyptian border",
-    "time": "20:58",
-    "views": 0,
-    "date": "الإثنين 12 أكتوبر 2026"
-  },
-  {
-    "channel": "MiddleEastMonitor",
-    "text": "EU establishes new security support mission in Lebanon",
-    "time": "20:34",
-    "views": 0,
-    "date": "الإثنين 12 أكتوبر 2026"
-  },
-  {
-    "channel": "MiddleEastMonitor",
-    "text": "Syrian, Qatari foreign ministers discuss regional developments, bilateral ties",
-    "time": "20:24",
-    "views": 0,
-    "date": "الإثنين 12 أكتوبر 2026"
-  },
-  {
-    "channel": "MiddleEastMonitor",
-    "text": "Israel demolishes 80 homes in Palestinian village in Negev, displaces around 400 people",
-    "time": "20:13",
-    "views": 0,
-    "date": "الإثنين 12 أكتوبر 2026"
-  },
-  {
-    "channel": "MiddleEastMonitor",
-    "text": "Russia pledges continued humanitarian aid to Lebanon amid Israeli attacks",
-    "time": "20:01",
-    "views": 0,
-    "date": "الإثنين 12 أكتوبر 2026"
-  },
-  {
-    "channel": "MiddleEastMonitor",
-    "text": "Israeli soldiers say ordered to drop heavy bombs on inhabited Gaza buildings without evacuation: Report",
-    "time": "19:08",
-    "views": 0,
-    "date": "الإثنين 12 أكتوبر 2026"
-  },
-  {
-    "channel": "MiddleEastMonitor",
-    "text": "Israeli army fire kills 5 more Palestinians in Gaza, death toll nears 74,400",
-    "time": "18:58",
-    "views": 0,
-    "date": "الإثنين 12 أكتوبر 2026"
-  },
-  {
-    "channel": "MiddleEastMonitor",
-    "text": "Iran says reviewing US proposals for talks as indirect messages continue",
-    "time": "18:51",
-    "views": 0,
-    "date": "الإثنين 12 أكتوبر 2026"
-  },
-  {
-    "channel": "MiddleEastMonitor",
-    "text": "Abduction of Palestinians by Israeli occupiers on rise in occupied West Bank: Officials",
-    "time": "18:43",
-    "views": 0,
-    "date": "الإثنين 12 أكتوبر 2026"
   },
   {
     "channel": "suppressednews",
